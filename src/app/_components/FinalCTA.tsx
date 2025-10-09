@@ -11,7 +11,7 @@ export const FinalCTA = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
           <span className="mx-auto block h-1 w-24 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white">
-            Let's build your applied AI system
+            Let&apos;s build your applied AI system
           </h2>
 
           <p className="text-xl md:text-2xl text-white/70 max-w-2xl mx-auto">

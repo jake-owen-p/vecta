@@ -182,15 +182,16 @@ export const Hero = () => {
         return;
       }
 
-      if (lastTimestampRef.current === null) {
+      if (lastTimestampRef.current ??= null) {
         lastTimestampRef.current = timestamp;
       }
 
-      const delta = timestamp - lastTimestampRef.current;
+      const delta = timestamp - (lastTimestampRef?.current ?? 0);
       const distance = (SCROLL_SPEED_PX_PER_SEC * delta) / 1000;
       lastTimestampRef.current = timestamp;
 
-      const baseWidth = segmentWidthRef.current || node.scrollWidth / LOOP_MULTIPLIER || 1;
+      const fallbackBaseWidth = node.scrollWidth / LOOP_MULTIPLIER;
+      const baseWidth = segmentWidthRef.current ?? (fallbackBaseWidth || 1);
       let nextScroll = scrollPositionRef.current + distance;
 
       if (nextScroll >= baseWidth + INITIAL_SCROLL_OFFSET) {

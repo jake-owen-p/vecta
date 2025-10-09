@@ -79,13 +79,11 @@ const DotRows = ({ rows }: { rows: number[] }) => (
 
 const DotGrid = ({
   layout,
-  index,
 }: {
   layout: {
     desktop: { rows: number[]; containerClass: string };
     mobile: { rows: number[]; containerClass: string };
   };
-  index: number;
 }) => {
   return (
     <div className="w-full md:flex md:items-center md:justify-end">
@@ -117,12 +115,12 @@ export const SelectionProcess = () => {
           </h2>
 
           <div className="space-y-16 md:-ml-8">
-            {steps.map((step, index) => (
+            {steps.map((step) => (
             <div
               key={step.id}
               className="flex flex-col gap-6 md:grid md:grid-cols-[560px_160px_360px] md:items-center md:gap-12"
             >
-                <DotGrid layout={step.layout} index={index} />
+                <DotGrid layout={step.layout} />
 
                 <div className="md:w-[160px] text-right">
                   <span className="text-5xl md:text-6xl font-semibold text-white">
