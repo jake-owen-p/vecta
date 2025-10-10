@@ -272,7 +272,7 @@ export const Hero = () => {
 
       <header className="sticky top-0 z-20 border-b border-white/10 bg-[#120907]/70 backdrop-blur-sm">
         <div className="mx-auto flex h-16 max-w-[1280px] items-center justify-between px-6">
-          <Link href="/" aria-label="vecta home" className="flex items-center gap-3">
+          <Link href="/" aria-label="vecta home" className="flex cursor-pointer items-center gap-3">
             <Image src="/logo.svg" alt="Vecta" width={96} height={32} priority />
           </Link>
           <nav aria-label="Primary" className="hidden items-center gap-10 text-sm font-medium md:flex">
@@ -284,7 +284,7 @@ export const Hero = () => {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-white/70 transition-colors hover:text-white"
+                className="cursor-pointer text-white/70 transition-colors hover:text-white"
                 onClick={() => handleNavClick(link.href)}
               >
                 {link.label}
@@ -296,7 +296,7 @@ export const Hero = () => {
           </nav>
           <button
             type="button"
-            className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white md:hidden"
+            className="flex h-11 w-11 cursor-pointer items-center justify-center rounded-full border border-white/10 text-white md:hidden"
             aria-label="Open navigation"
             aria-expanded="false"
           >
@@ -325,7 +325,7 @@ export const Hero = () => {
             data-cta="hero-apply"
             onClick={handleHeroCta}
           >
-            <Link href="/apply" className="flex items-center gap-3">
+            <Link href="/apply" className="flex cursor-pointer items-center gap-3">
               <span className="text-[#ff3700e4]">Apply Now</span>
               <ArrowRight className="h-4 w-8 text-[#ff3700e4] transition-transform group-hover:translate-x-1" />
             </Link>
@@ -379,7 +379,7 @@ const StackCard = ({ stack, onApply }: StackCardProps) => (
   <Link
     href={stack.cta.href}
     className={cn(
-      "group/card relative block h-[360px] w-[260px] shrink-0 overflow-hidden rounded-3xl border border-white/10 p-6 text-white transition-transform duration-300 will-change-transform md:h-[420px] md:w-[280px]",
+      "group/card relative block h-[360px] w-[260px] shrink-0 cursor-pointer overflow-hidden rounded-3xl border border-white/10 p-6 text-white transition-transform duration-300 will-change-transform md:h-[420px] md:w-[280px]",
       "focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white/70",
       "translate-y-0 shadow-[0_8px_24px_rgba(0,0,0,0.3)] hover:translate-y-[-4px] hover:shadow-[0_20px_40px_rgba(255,90,40,0.35)]",
       "bg-cover bg-center",

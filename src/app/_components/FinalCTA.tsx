@@ -22,7 +22,7 @@ export const FinalCTA = () => {
             <Button
               variant="accent"
               size="xl"
-              className="group border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
+              className="group cursor-pointer border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
             >
               Hire Developers
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
@@ -30,7 +30,7 @@ export const FinalCTA = () => {
             <Button
               variant="ghost"
               size="xl"
-              className="border border-[#EEAC97]/40 bg-[#EEAC97]/10 text-white hover:bg-[#EEAC97]/20"
+              className="cursor-pointer border border-[#EEAC97]/40 bg-[#EEAC97]/10 text-white hover:bg-[#EEAC97]/20"
             >
               Join as Talent
             </Button>

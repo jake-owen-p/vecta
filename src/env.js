@@ -12,6 +12,11 @@ export const env = createEnv({
         ? z.string()
         : z.string().optional(),
     DATABASE_URL: z.string().url(),
+    AWS_ACCESS_KEY_ID: z.string().min(1).optional(),
+    AWS_SECRET_ACCESS_KEY: z.string().min(1).optional(),
+    AWS_REGION: z.string().min(1).optional(),
+    AWS_DYNAMO_TABLE: z.string().min(1).optional(),
+    AWS_S3_UPLOAD_BUCKET: z.string().min(1).optional(),
     NODE_ENV: z
       .enum(["development", "test", "production"])
       .default("development"),
@@ -33,6 +38,11 @@ export const env = createEnv({
   runtimeEnv: {
     AUTH_SECRET: process.env.AUTH_SECRET,
     DATABASE_URL: process.env.DATABASE_URL,
+    AWS_ACCESS_KEY_ID: process.env.AWS_ACCESS_KEY_ID,
+    AWS_SECRET_ACCESS_KEY: process.env.AWS_SECRET_ACCESS_KEY,
+    AWS_REGION: process.env.AWS_REGION,
+    AWS_DYNAMO_TABLE: process.env.AWS_DYNAMO_TABLE,
+    AWS_S3_UPLOAD_BUCKET: process.env.AWS_S3_UPLOAD_BUCKET,
     NODE_ENV: process.env.NODE_ENV,
   },
   /**

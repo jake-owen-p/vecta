@@ -9,7 +9,7 @@ const steps = [
         containerClass: "w-[560px] min-h-[216px]",
       },
       mobile: {
-        rows: [12, 12, 12, 12, 12],
+        rows: [16, 16, 16, 16, 16],
         containerClass: "w-[260px] min-h-[160px]",
       },
     },
@@ -24,7 +24,7 @@ const steps = [
         containerClass: "w-[560px] min-h-[180px]",
       },
       mobile: {
-        rows: [10, 10, 10, 10],
+        rows: [8, 8, 8, 8],
         containerClass: "w-[220px] min-h-[150px]",
       },
     },
@@ -40,7 +40,7 @@ const steps = [
         containerClass: "w-[560px] min-h-[150px]",
       },
       mobile: {
-        rows: [8, 8, 8],
+        rows: [4, 4, 4],
         containerClass: "w-[200px] min-h-[120px]",
       },
     },
@@ -55,7 +55,7 @@ const steps = [
         containerClass: "w-[560px] min-h-[140px]",
       },
       mobile: {
-        rows: [6, 6, 6],
+        rows: [2, 2, 2],
         containerClass: "w-[180px] min-h-[110px]",
       },
     },
@@ -96,7 +96,7 @@ const DotGrid = ({
       </div>
       <div className="md:hidden flex justify-end items-center w-full">
         <div
-          className={`rounded-xl bg-[#f8cbbf]/30 border border-[#f8cbbf]/60 px-5 py-4 flex items-center justify-end ${layout.mobile.containerClass}`}
+          className={`rounded-xl px-5 py-4 flex items-center justify-end ${layout.mobile.containerClass}`}
         >
           <DotRows rows={layout.mobile.rows} />
         </div>
