@@ -303,7 +303,7 @@ export const Hero = () => {
         </div>
       </header>
 
-      <div className="relative z-10 mx-auto flex w-full max-w-[1280px] flex-col gap-16 px-6 pb-24 pt-46 md:pb-32 lg:flex-row lg:items-end lg:pt-46 justify-between">
+      <div className="relative z-10 mx-auto flex w-full max-w-[1280px] flex-col gap-16 px-6 pb-24 pt-32 md:pb-32 lg:flex-row lg:items-end lg:pt-46 justify-between">
         <div className="flex-1 space-y-10 lg:max-w-[640px]">
           <span className="inline-flex h-1 w-16 rounded-full bg-gradient-to-r from-white/40 to-white/10" />
           <h1 className="text-4xl font-bold leading-[1.05] text-white sm:text-5xl md:text-6xl">
