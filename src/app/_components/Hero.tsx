@@ -91,7 +91,7 @@ const STACK_DATA = [
       {
         label: "typescript",
         alt: "TypeScript logo",
-        src: "https://logo.svgcdn.com/l/typescript.svg",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
       },
       {
         label: "nextjs",
@@ -180,7 +180,7 @@ const STACK_DATA = [
       {
         label: "fastapi",
         alt: "FastAPI logo",
-        src: "https://logo.svgcdn.com/l/typescript.svg",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
       },
       {
         label: "langchain",
@@ -217,7 +217,7 @@ const STACK_DATA = [
       {
         label: "typescript",
         alt: "TypeScript logo",
-        src: "https://logo.svgcdn.com/l/typescript.svg",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
       },
       {
         label: "react",
