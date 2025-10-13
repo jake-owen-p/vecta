@@ -4,6 +4,7 @@ import { z } from "zod";
 
 import { getDynamoDocClient } from "~/lib/dynamo";
 import { env } from "~/env";
+import { sendEmailByType } from "~/server/email/send";
 import { createTRPCRouter, publicProcedure } from "~/server/api/trpc";
 
 const WorkTypeEnum = z.enum(["REMOTE", "IN_PERSON", "HYBRID"]);
@@ -69,6 +70,29 @@ export const applicationRouter = createTRPCRouter({
       });
 
       await docClient.send(putCommand);
+
+      const emailPayload = {
+        type: "application_submitted" as const,
+        params: {
+          name: input.name,
+          applicantEmail: input.email,
+        },
+      };
+
+      try {
+        await Promise.all([
+          sendEmailByType({
+            ...emailPayload,
+            to: [input.email],
+          }),
+          sendEmailByType({
+            ...emailPayload,
+            to: ["jake@vecta.co"],
+          }),
+        ]);
+      } catch (error) {
+        console.error("SES send failed", error);
+      }
 
       return { id };
     }),
