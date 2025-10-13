@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import type { Variants } from "framer-motion";
 
 import { Card, CardContent, CardHeader, CardTitle } from "../../_components/ui/card";
 import type { Audience, ProcessStep } from "./steps";
@@ -10,13 +11,13 @@ interface ProcessStepsProps {
   readonly steps: ProcessStep[];
 }
 
-const fadeVariants = {
+const fadeVariants: Variants = {
   hidden: { opacity: 0, y: 24 },
-  visible: (index: number) => ({
+  visible: {
     opacity: 1,
     y: 0,
-    transition: { delay: index * 0.08, duration: 0.5, ease: "easeOut" },
-  }),
+    transition: { duration: 0.5, ease: "easeOut" },
+  },
 };
 
 export const ProcessSteps = ({ audience, steps }: ProcessStepsProps) => {
@@ -37,7 +38,14 @@ export const ProcessSteps = ({ audience, steps }: ProcessStepsProps) => {
 
         <div className="mt-16 grid gap-6 md:grid-cols-2">
           {steps.map((step, index) => (
-            <motion.div key={step.title} custom={index} initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }} variants={fadeVariants}>
+            <motion.div
+              key={step.title}
+              initial="hidden"
+              whileInView="visible"
+              viewport={{ once: true, amount: 0.2 }}
+              variants={fadeVariants}
+              transition={{ delay: index * 0.08 }}
+            >
               <Card className="h-full border-white/10 bg-white/[0.04] backdrop-blur">
                 <CardHeader className="space-y-3">
                   <div className="flex items-center gap-3 text-sm font-semibold text-white/60">

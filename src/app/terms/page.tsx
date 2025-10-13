@@ -18,7 +18,7 @@ export default function TermsPage() {
             <span className="block h-1 w-20 rounded-full bg-[#FF3600]" />
             <h1 className="mt-8 max-w-3xl text-4xl font-bold md:text-5xl">Terms of Service</h1>
             <p className="mt-6 max-w-3xl text-lg text-white/70">
-              These Terms of Service ("Terms") govern your access to and use of Vecta's website and
+              These Terms of Service (&quot;Terms&quot;) govern your access to and use of Vecta&apos;s website and
               recruitment services. By accessing or using our site, you agree to be bound by these Terms.
             </p>
             <p className="mt-3 max-w-3xl text-sm text-white/50">Last updated: October 13, 2025</p>
@@ -76,7 +76,7 @@ export default function TermsPage() {
 
               <h2 className="mt-10 text-2xl font-semibold">8. Disclaimers</h2>
               <p className="mt-3 text-white/70">
-                The services are provided "as is" without warranties of any kind. We do not guarantee that a
+                The services are provided &quot;as is&quot; without warranties of any kind. We do not guarantee that a
                 particular candidate or role will be available or suitable for your needs.
               </p>
 

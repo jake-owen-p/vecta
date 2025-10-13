@@ -17,7 +17,7 @@ export default function PrivacyPolicyPage() {
             <span className="block h-1 w-20 rounded-full bg-[#FF3600]" />
             <h1 className="mt-8 max-w-3xl text-4xl font-bold md:text-5xl">Privacy Policy</h1>
             <p className="mt-6 max-w-3xl text-lg text-white/70">
-              This Privacy Policy explains how Vecta ("we", "us") collects, uses, shares, and safeguards
+              This Privacy Policy explains how Vecta (&quot;we&quot;), (&quot;us&quot;) collects, uses, shares, and safeguards
               personal data for candidates and business users of our platform and services.
             </p>
             <p className="mt-3 max-w-3xl text-sm text-white/50">Last updated: October 13, 2025</p>
@@ -122,7 +122,7 @@ export default function PrivacyPolicyPage() {
                 identity before fulfilling a request.
               </p>
 
-              <h2 className="mt-10 text-2xl font-semibold">Children's Privacy</h2>
+              <h2 className="mt-10 text-2xl font-semibold">Children&apos;s Privacy</h2>
               <p className="mt-3 text-white/70">
                 Our services are not directed to children under the age of 16, and we do not knowingly
                 collect personal data from children.
