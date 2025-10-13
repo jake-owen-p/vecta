@@ -7,6 +7,7 @@ import { env } from "~/env";
 import { createTRPCRouter, publicProcedure } from "~/server/api/trpc";
 
 const WorkTypeEnum = z.enum(["REMOTE", "IN_PERSON", "HYBRID"]);
+const EmploymentTypeEnum = z.enum(["FULL_TIME", "CONTRACT"]);
 
 const submissionInputSchema = z.object({
   name: z.string().min(1, "Name is required"),
@@ -14,6 +15,8 @@ const submissionInputSchema = z.object({
   phone: z.string().min(1).optional().nullable(),
   workTypes: z.array(WorkTypeEnum).min(1, "Select at least one work type"),
   workTypeLabels: z.array(z.enum(["remote", "in-person", "hybrid"])).min(1),
+  employmentTypes: z.array(EmploymentTypeEnum).min(1, "Select at least one engagement preference"),
+  employmentTypeLabels: z.array(z.enum(["full-time", "contract"])).min(1),
   cv: z.object({
     objectKey: z.string().min(1),
     url: z.string().url().nullable().optional(),
@@ -51,6 +54,8 @@ export const applicationRouter = createTRPCRouter({
           phone: input.phone ?? null,
           workTypes: input.workTypes,
           workTypeLabels: input.workTypeLabels,
+          employmentTypes: input.employmentTypes,
+          employmentTypeLabels: input.employmentTypeLabels,
           cv: {
             objectKey: input.cv.objectKey,
             url: input.cv.url ?? null,

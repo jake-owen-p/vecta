@@ -15,9 +15,11 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/
 import { ToggleGroup, ToggleGroupItem } from "./ui/toggle-group";
 
 type WorkType = "remote" | "in-person" | "hybrid";
+type EmploymentType = "full-time" | "contract";
 type ApplicationWorkType = "REMOTE" | "IN_PERSON" | "HYBRID";
+type ApplicationEmploymentType = "FULL_TIME" | "CONTRACT";
 
-type ErrorState = Partial<Record<"name" | "email" | "cv" | "workTypes", string>>;
+type ErrorState = Partial<Record<"name" | "email" | "cv" | "workTypes" | "employmentTypes", string>>;
 
 const WORK_TYPE_OPTIONS: { value: WorkType; label: string; description: string }[] = [
   { value: "remote", label: "Remote", description: "Comfort of your home" },
@@ -31,10 +33,21 @@ const WORK_TYPE_TO_ENUM: Record<WorkType, ApplicationWorkType> = {
   hybrid: "HYBRID",
 };
 
+const EMPLOYMENT_TYPE_OPTIONS: { value: EmploymentType; label: string; description: string }[] = [
+  { value: "full-time", label: "Full-time", description: "Permanent, salaried roles" },
+  { value: "contract", label: "Contract", description: "Flexible or project-based" },
+];
+
+const EMPLOYMENT_TYPE_TO_ENUM: Record<EmploymentType, ApplicationEmploymentType> = {
+  "full-time": "FULL_TIME",
+  contract: "CONTRACT",
+};
+
 const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
 
 export const ApplyForm = () => {
   const [workTypes, setWorkTypes] = useState<WorkType[]>([]);
+  const [employmentTypes, setEmploymentTypes] = useState<EmploymentType[]>([]);
   const [errors, setErrors] = useState<ErrorState>({});
   const [submittedMessage, setSubmittedMessage] = useState<string | null>(null);
   const [uploadStatus, setUploadStatus] = useState<UploadStatus>("idle");
@@ -49,11 +62,14 @@ export const ApplyForm = () => {
   const phoneId = useId();
   const cvId = useId();
   const workTypeGroupId = useId();
+  const employmentTypeGroupId = useId();
 
   const applicationMutation = api.application.submit.useMutation();
 
   const workTypeDescriptionId = `${workTypeGroupId}-description`;
   const workTypeErrorId = `${workTypeGroupId}-error`;
+  const employmentTypeDescriptionId = `${employmentTypeGroupId}-description`;
+  const employmentTypeErrorId = `${employmentTypeGroupId}-error`;
 
   const selectedLabels = useMemo(
     () =>
@@ -64,8 +80,33 @@ export const ApplyForm = () => {
     [workTypes],
   );
 
+  const selectedEmploymentLabels = useMemo(
+    () =>
+      employmentTypes
+        .map((value) => EMPLOYMENT_TYPE_OPTIONS.find((option) => option.value === value)?.label)
+        .filter(Boolean)
+        .join(", ") || "None",
+    [employmentTypes],
+  );
+
   const handleWorkTypesChange = (value: string[]) => {
     setWorkTypes(value as WorkType[]);
+    setErrors((prev) => {
+      if (!prev.workTypes) return prev;
+      const { workTypes: _previous, ...rest } = prev;
+      void _previous;
+      return rest;
+    });
+  };
+
+  const handleEmploymentTypesChange = (value: string[]) => {
+    setEmploymentTypes(value as EmploymentType[]);
+    setErrors((prev) => {
+      if (!prev.employmentTypes) return prev;
+      const { employmentTypes: _prevEmployment, ...rest } = prev;
+      void _prevEmployment;
+      return rest;
+    });
   };
 
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -205,6 +246,10 @@ export const ApplyForm = () => {
       nextErrors.workTypes = "Select at least one work preference.";
     }
 
+    if (employmentTypes.length === 0) {
+      nextErrors.employmentTypes = "Tell us if you're open to full-time, contract, or both.";
+    }
+
     setErrors(nextErrors);
     setSubmittedMessage(null);
     setUploadError(null);
@@ -227,6 +272,8 @@ export const ApplyForm = () => {
           phone: phone || null,
           workTypes: workTypes.map((value) => WORK_TYPE_TO_ENUM[value]),
           workTypeLabels: workTypes,
+          employmentTypes: employmentTypes.map((value) => EMPLOYMENT_TYPE_TO_ENUM[value]),
+          employmentTypeLabels: employmentTypes,
           cv: {
             objectKey: uploadedKey,
             url: uploadedUrl,
@@ -239,6 +286,7 @@ export const ApplyForm = () => {
         setSubmittedMessage("Thanks! We received your application.");
         form.reset();
         setWorkTypes([]);
+        setEmploymentTypes([]);
         setUploadStatus("idle");
         setUploadedKey(null);
         setUploadedUrl(null);
@@ -419,6 +467,51 @@ export const ApplyForm = () => {
                 {errors.workTypes ? (
                   <p id={workTypeErrorId} className="text-sm text-[#FF7F66]">
                     {errors.workTypes}
+                  </p>
+                ) : null}
+              </div>
+
+              <div className="grid gap-3">
+                <div className="flex items-center justify-between gap-4">
+                  <div>
+                    <span className="text-sm font-medium text-white">Preferred engagement type</span>
+                    <p id={employmentTypeDescriptionId} className="text-xs text-white/40">
+                      Choose all that apply. Currently selected: {selectedEmploymentLabels}.
+                    </p>
+                  </div>
+                </div>
+                <ToggleGroup
+                  type="multiple"
+                  value={employmentTypes}
+                  onValueChange={handleEmploymentTypesChange}
+                  className="flex flex-wrap justify-start gap-3"
+                  aria-labelledby={employmentTypeGroupId}
+                  aria-describedby={
+                    errors.employmentTypes
+                      ? `${employmentTypeDescriptionId} ${employmentTypeErrorId}`
+                      : employmentTypeDescriptionId
+                  }
+                >
+                  {EMPLOYMENT_TYPE_OPTIONS.map((option) => (
+                    <ToggleGroupItem
+                      key={option.value}
+                      value={option.value}
+                      variant="outline"
+                      size="lg"
+                      className={cn(
+                        "flex min-w-[140px] flex-col items-start gap-1 rounded-xl border-white/20 bg-black/30 px-5 py-8 text-left text-sm text-white transition hover:border-white/40 data-[state=on]:border-[#FF3600] data-[state=on]:bg-[#FF3600]/10",
+                        employmentTypes.includes(option.value) && "border-[#FF3600]",
+                      )}
+                      aria-pressed={employmentTypes.includes(option.value) ? "true" : "false"}
+                    >
+                      <span className="font-semibold">{option.label}</span>
+                      <span className="text-xs text-white/50">{option.description}</span>
+                    </ToggleGroupItem>
+                  ))}
+                </ToggleGroup>
+                {errors.employmentTypes ? (
+                  <p id={employmentTypeErrorId} className="text-sm text-[#FF7F66]">
+                    {errors.employmentTypes}
                   </p>
                 ) : null}
               </div>
