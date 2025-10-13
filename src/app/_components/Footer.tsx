@@ -26,8 +26,6 @@ export const Footer = () => {
             <ul className="space-y-2 text-sm text-white/70">
               <li><a href="#" className="transition-colors hover:text-[#FF3600]">Hire Developers</a></li>
               <li><a href="#" className="transition-colors hover:text-[#FF3600]">How It Works</a></li>
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">Pricing</a></li>
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">Case Studies</a></li>
             </ul>
           </div>
           
@@ -35,10 +33,9 @@ export const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4 text-white">For Developers</h3>
             <ul className="space-y-2 text-sm text-white/70">
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">Apply to Join</a></li>
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">Requirements</a></li>
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">Benefits</a></li>
-              <li><a href="#" className="transition-colors hover:text-[#FF3600]">FAQ</a></li>
+              <li><a href="/apply" className="transition-colors hover:text-[#FF3600]">Apply to Join</a></li>
+              <li><a href="/requirements" className="transition-colors hover:text-[#FF3600]">Requirements</a></li>
+              <li><a href="/faq" className="transition-colors hover:text-[#FF3600]">FAQ</a></li>
             </ul>
           </div>
         </div>
@@ -47,9 +44,9 @@ export const Footer = () => {
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-white/70">
           <p>© {currentYear} Applied AI Network. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="#" className="transition-colors hover:text-[#FF3600]">Privacy Policy</a>
-            <a href="#" className="transition-colors hover:text-[#FF3600]">Terms of Service</a>
-            <a href="#" className="transition-colors hover:text-[#FF3600]">Contact</a>
+            <a href="/privacy-policy" className="transition-colors hover:text-[#FF3600]">Privacy Policy</a>
+            <a href="/terms" className="transition-colors hover:text-[#FF3600]">Terms of Service</a>
+            <a href="https://calendly.com/jakeowen-ex/30min" className="transition-colors hover:text-[#FF3600]">Contact</a>
           </div>
         </div>
       </div>

@@ -40,94 +40,311 @@ type Stack = {
   cta: { label: string; href: string };
 };
 
-const LOGO_FILES = {
-  infra: [
-    "Tech Stack Logos.svg",
-    "Tech Stack Logos-1.svg",
-    "Tech Stack Logos-2.svg",
-    "Tech Stack Logos-3.svg",
-    "Tech Stack Logos-4.svg",
-    "Tech Stack Logos-5.svg",
-    "Tech Stack Logos.svg",
-  ],
-  agents: [
-    "Tech Stack Logos-1.svg",
-    "Tech Stack Logos-2.svg",
-    "Tech Stack Logos-3.svg",
-    "Tech Stack Logos-4.svg",
-    "Tech Stack Logos-5.svg",
-    "Tech Stack Logos.svg",
-    "Tech Stack Logos-1.svg",
-  ],
-  rag: [
-    "Tech Stack Logos-2.svg",
-    "Tech Stack Logos-3.svg",
-    "Tech Stack Logos-4.svg",
-    "Tech Stack Logos-5.svg",
-    "Tech Stack Logos.svg",
-    "Tech Stack Logos-1.svg",
-    "Tech Stack Logos-2.svg",
-  ],
-  llmops: [
-    "Tech Stack Logos-3.svg",
-    "Tech Stack Logos-4.svg",
-    "Tech Stack Logos-5.svg",
-    "Tech Stack Logos.svg",
-    "Tech Stack Logos-1.svg",
-    "Tech Stack Logos-2.svg",
-    "Tech Stack Logos-3.svg",
-  ],
-  fullstack: [
-    "Tech Stack Logos-4.svg",
-    "Tech Stack Logos-5.svg",
-    "Tech Stack Logos.svg",
-    "Tech Stack Logos-1.svg",
-    "Tech Stack Logos-2.svg",
-    "Tech Stack Logos-3.svg",
-    "Tech Stack Logos-4.svg",
-  ],
-} satisfies Record<string, string[]>;
-
-const createStackLogos = (stackId: keyof typeof LOGO_FILES, stackTitle: string): StackLogo[] =>
-  LOGO_FILES[stackId].map((fileName, index, logos) => ({
-    label: `${stackId}-logo-${index + 1}`,
-    alt: `${stackTitle} icon ${index + 1}`,
-    src: `/logos/${fileName}`,
-    className: index === logos.length - 1 ? "col-start-2" : undefined,
-  }));
-
-const baseStacks: Stack[] = [
+const STACK_DATA = [
   {
-    id: "infra",
-    title: "Infra",
-    logos: createStackLogos("infra", "Infra"),
-    cta: { label: "Apply now", href: "/apply?stack=infra" },
+    id: "llmops",
+    title: "LLMOps",
+    logos: [
+      {
+        label: "python",
+        alt: "Python logo",
+        src: "https://logo.svgcdn.com/l/python.svg",
+      },
+      {
+        label: "fastapi",
+        alt: "FastAPI logo",
+        src: "https://fastapi.tiangolo.com/img/favicon.png",
+      },
+      {
+        label: "langchain",
+        alt: "LangChain logo",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png",
+      },
+      {
+        label: "docker",
+        alt: "Docker logo",
+        src: "https://www.svgrepo.com/show/331370/docker.svg",
+      },
+      {
+        label: "kubernetes",
+        alt: "Kubernetes logo",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png",
+      },
+      {
+        label: "pinecone",
+        alt: "Pinecone logo",
+        src: "https://www.pinecone.io/favicon.ico",
+      },
+      {
+        label: "prometheus",
+        alt: "Prometheus logo",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=llmops" },
+  },
+  {
+    id: "typescript-fullstack",
+    title: "TypeScript Full-Stack",
+    logos: [
+      {
+        label: "typescript",
+        alt: "TypeScript logo",
+        src: "https://logo.svgcdn.com/l/typescript.svg",
+      },
+      {
+        label: "nextjs",
+        alt: "Next.js logo",
+        src: "https://logo.svgcdn.com/l/nextjs.svg",
+      },
+      {
+        label: "vercel",
+        alt: "Vercel logo",
+        src: "https://logo.svgcdn.com/l/vercel.svg",
+      },
+      {
+        label: "openai",
+        alt: "OpenAI logo",
+        src: "https://logo.svgcdn.com/l/openai.svg",
+      },
+      {
+        label: "prisma",
+        alt: "Prisma logo",
+        src: "https://www.svgrepo.com/show/354210/prisma.svg",
+      },
+      {
+        label: "postgresql",
+        alt: "PostgreSQL logo",
+        src: "https://logo.svgcdn.com/l/postgresql.svg",
+      },
+      {
+        label: "inngest",
+        alt: "Inngest logo",
+        src: "https://avatars.githubusercontent.com/u/78935958?s=280&v=4",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=typescript-fullstack" },
+  },
+  {
+    id: "python-fullstack",
+    title: "Python Full-Stack",
+    logos: [
+      {
+        label: "python",
+        alt: "Python logo",
+        src: "https://logo.svgcdn.com/l/python.svg",
+      },
+      {
+        label: "fastapi",
+        alt: "FastAPI logo",
+        src: "https://fastapi.tiangolo.com/img/favicon.png",
+      },
+      {
+        label: "react",
+        alt: "React logo",
+        src: "https://logo.svgcdn.com/l/react.svg",
+      },
+      {
+        label: "langchain",
+        alt: "LangChain logo",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png",
+      },
+      {
+        label: "postgresql",
+        alt: "PostgreSQL logo",
+        src: "https://logo.svgcdn.com/l/postgresql.svg",
+      },
+      {
+        label: "celery",
+        alt: "Celery logo",
+        src: "https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png",
+      },
+      {
+        label: "docker",
+        alt: "Docker logo",
+        src: "https://www.svgrepo.com/show/331370/docker.svg",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=python-fullstack" },
   },
   {
     id: "agents",
     title: "Agents",
-    logos: createStackLogos("agents", "Agents"),
+    logos: [
+      {
+        label: "python",
+        alt: "Python logo",
+        src: "https://logo.svgcdn.com/l/python.svg",
+      },
+      {
+        label: "fastapi",
+        alt: "FastAPI logo",
+        src: "https://logo.svgcdn.com/l/typescript.svg",
+      },
+      {
+        label: "langchain",
+        alt: "LangChain logo",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png",
+      },
+      {
+        label: "openai",
+        alt: "OpenAI logo",
+        src: "https://logo.svgcdn.com/l/openai.svg",
+      },
+      {
+        label: "pinecone",
+        alt: "Pinecone logo",
+        src: "https://www.pinecone.io/favicon.ico",
+      },
+      {
+        label: "playwright",
+        alt: "Playwright logo",
+        src: "https://logo.svgcdn.com/l/playwright.svg",
+      },
+      {
+        label: "langfuse",
+        alt: "LangFuse logo",
+        src: "https://langfuse.com/favicon.ico",
+      },
+    ],
     cta: { label: "Apply now", href: "/apply?stack=agents" },
   },
   {
-    id: "rag",
-    title: "RAG",
-    logos: createStackLogos("rag", "RAG"),
-    cta: { label: "Apply now", href: "/apply?stack=rag" },
+    id: "frontend-ai",
+    title: "Frontend AI Engineer",
+    logos: [
+      {
+        label: "typescript",
+        alt: "TypeScript logo",
+        src: "https://logo.svgcdn.com/l/typescript.svg",
+      },
+      {
+        label: "react",
+        alt: "React logo",
+        src: "https://logo.svgcdn.com/l/react.svg",
+      },
+      {
+        label: "nextjs",
+        alt: "Next.js logo",
+        src: "https://logo.svgcdn.com/l/nextjs.svg",
+      },
+      {
+        label: "vercel",
+        alt: "Vercel logo",
+        src: "https://logo.svgcdn.com/l/vercel.svg",
+      },
+      {
+        label: "tailwind",
+        alt: "Tailwind CSS logo",
+        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png",
+      },
+      {
+        label: "supabase",
+        alt: "Supabase logo",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png",
+      },
+      {
+        label: "cloudflare",
+        alt: "Cloudflare Workers logo",
+        src: "https://www.cloudflare.com/favicon.ico",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=frontend-ai" },
   },
   {
-    id: "llmops",
-    title: "LLMOps",
-    logos: createStackLogos("llmops", "LLMOps"),
-    cta: { label: "Apply now", href: "/apply?stack=llmops" },
+    id: "ios-ai",
+    title: "iOS AI Developer",
+    logos: [
+      {
+        label: "swift",
+        alt: "Swift logo",
+        src: "https://logo.svgcdn.com/l/swift.svg",
+      },
+      {
+        label: "swiftui",
+        alt: "SwiftUI icon",
+        src: "https://developer.apple.com/favicon.ico",
+      },
+      {
+        label: "core-ml",
+        alt: "Core ML icon",
+        src: "https://logo.svgcdn.com/d/supabase-original-8x.png",
+      },
+      {
+        label: "openai",
+        alt: "OpenAI logo",
+        src: "https://logo.svgcdn.com/l/openai.svg",
+      },
+      {
+        label: "combine",
+        alt: "Combine icon",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/anthropic.png",
+      },
+      {
+        label: "firebase",
+        alt: "Firebase logo",
+        src: "https://logo.svgcdn.com/l/firebase.svg",
+      },
+      {
+        label: "xcode",
+        alt: "Xcode logo",
+        src: "https://logo.svgcdn.com/l/xcode.svg",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=ios-ai" },
   },
   {
-    id: "fullstack",
-    title: "Full-stack",
-    logos: createStackLogos("fullstack", "Full-stack"),
-    cta: { label: "Apply now", href: "/apply?stack=fullstack" },
+    id: "android-ai",
+    title: "Android AI Developer",
+    logos: [
+      {
+        label: "kotlin",
+        alt: "Kotlin logo",
+        src: "https://logo.svgcdn.com/l/kotlin.svg",
+      },
+      {
+        label: "jetpack-compose",
+        alt: "Jetpack Compose icon",
+        src: "https://developer.android.com/favicon.ico",
+      },
+      {
+        label: "tensorflow-lite",
+        alt: "TensorFlow Lite logo",
+        src: "https://logo.svgcdn.com/l/tensorflow.svg",
+      },
+      {
+        label: "openai",
+        alt: "OpenAI logo",
+        src: "https://logo.svgcdn.com/l/openai.svg",
+      },
+      {
+        label: "retrofit",
+        alt: "Retrofit icon",
+        src: "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+      },
+      {
+        label: "room",
+        alt: "Room icon",
+        src: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/anthropic.png",
+      },
+      {
+        label: "firebase-ml",
+        alt: "Firebase ML logo",
+        src: "https://logo.svgcdn.com/l/firebase.svg",
+      },
+    ],
+    cta: { label: "Apply now", href: "/apply?stack=android-ai" },
   },
-];
+] satisfies Array<Omit<Stack, "logos"> & { logos: Array<Omit<StackLogo, "className">> }>;
+
+const baseStacks: Stack[] = STACK_DATA.map((stack) => ({
+  ...stack,
+  logos: stack.logos.map((logo, index, logos) => ({
+    ...logo,
+    label: `${stack.id}-${logo.label}`,
+    className: index === logos.length - 1 ? "col-start-2" : undefined,
+  })),
+}));
 
 export const Hero = () => {
   const listRef = useRef<HTMLUListElement>(null);
@@ -334,7 +551,7 @@ export const Hero = () => {
       <div className="relative z-10 w-full pb-12">
         <div className="px-6 pb-6 md:px-10">
           <div className="space-y-2">
-            <h2 className="text-sm font-semibold uppercase tracking-[0.3em] text-white/60">Stacks</h2>
+            <h2 className="text-sm font-semibold uppercase tracking-[0.3em] text-white/60">AI Stacks</h2>
             <p className="text-sm text-white/40">Join the engineers redefining what’s possible with AI every single day.</p>
           </div>
         </div>

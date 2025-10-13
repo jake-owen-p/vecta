@@ -1,8 +1,8 @@
 const steps = [
   {
     id: "STEP 1",
-    percentage: 62.3,
-    description: "AI-driven background screening & performance analysis",
+    percentage: 42.8,
+    description: "We get to know your working style and team fit through a culture interview.",
     layout: {
       desktop: {
         rows: [16, 16, 16, 16, 16, 16, 16],
@@ -16,8 +16,8 @@ const steps = [
   },
   {
     id: "STEP 2",
-    percentage: 39.4,
-    description: "English proficiency, collaboration, and remote-readiness.",
+    percentage: 9.4,
+    description: "A system design interview to outline how you’d architect real AI systems.",
     layout: {
       desktop: {
         rows: [10, 10, 10, 10, 10],
@@ -31,9 +31,9 @@ const steps = [
   },
   {
     id: "STEP 3",
-    percentage: 11.2,
+    percentage: 5.2,
     description:
-      "Human-led interviews, problem-solving and domain-specific knowledge validation.",
+      "Show off in a pair programming session, all tools allowed.",
     layout: {
       desktop: {
         rows: [6, 6, 6, 6],
@@ -42,21 +42,6 @@ const steps = [
       mobile: {
         rows: [4, 4, 4],
         containerClass: "w-[200px] min-h-[120px]",
-      },
-    },
-  },
-  {
-    id: "STEP 4",
-    percentage: 6.2,
-    description: "Timezone alignment, working style, and project compatibility check.",
-    layout: {
-      desktop: {
-        rows: [2, 2, 2],
-        containerClass: "w-[560px] min-h-[140px]",
-      },
-      mobile: {
-        rows: [2, 2, 2],
-        containerClass: "w-[180px] min-h-[110px]",
       },
     },
   },

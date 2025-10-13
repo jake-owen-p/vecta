@@ -5,10 +5,10 @@ import { Geist } from "next/font/google";
 
 import { TRPCReactProvider } from "~/trpc/react";
 
-const title = "Remote roles for the top 5% of AI builders — vecta";
+const title = "Vecta";
 const description =
   "Join vecta for remote AI roles with top-tier teams. Build production-grade agents, retrieval, and automation with great pay and flexibility.";
-const url = "https://vecta.ai";
+const url = "https://vecta.co";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
