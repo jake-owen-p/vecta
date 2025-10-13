@@ -3,11 +3,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useId, useMemo, useRef } from "react";
-import { ArrowRight, Menu } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 
 import { cn } from "~/lib/utils/cn";
 
 import { Button } from "./ui/button";
+import { SiteToolbar } from "./SiteToolbar";
 
 const HERO_EVENTS = {
   viewHero: "view_hero",
@@ -453,10 +454,6 @@ export const Hero = () => {
     return () => observer.disconnect();
   }, [stacks.length]);
 
-  const handleNavClick = (href: string) => {
-    emit(HERO_EVENTS.clickApply, { source: "nav", href });
-  };
-
   const handleHeroCta = () => {
     emit(HERO_EVENTS.clickApply, { source: "hero" });
   };
@@ -485,40 +482,7 @@ export const Hero = () => {
   return (
     <section className="relative overflow-hidden text-white">
 
-      <header className="sticky top-0 z-20 border-b border-white/10 bg-[#120907]/70 backdrop-blur-sm">
-        <div className="mx-auto flex h-16 max-w-[1280px] items-center justify-between px-6">
-          <Link href="/" aria-label="vecta home" className="flex cursor-pointer items-center gap-3">
-            <Image src="/logo.svg" alt="Vecta" width={96} height={32} priority />
-          </Link>
-          <nav aria-label="Primary" className="hidden items-center gap-10 text-sm font-medium md:flex">
-            {[
-              { href: "/apply", label: "Apply" },
-              { href: "/hire", label: "Hire AI Engineers" },
-              { href: "/articles", label: "Articles" },
-            ].map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="cursor-pointer text-white/70 transition-colors hover:text-white"
-                onClick={() => handleNavClick(link.href)}
-              >
-                {link.label}
-              </Link>
-            ))}
-            <Button asChild variant="accent" size="lg" data-cta="nav-apply" onClick={() => handleNavClick("/apply")}>
-              <Link href="/apply">Apply</Link>
-            </Button>
-          </nav>
-          <button
-            type="button"
-            className="flex h-11 w-11 cursor-pointer items-center justify-center rounded-full border border-white/10 text-white md:hidden"
-            aria-label="Open navigation"
-            aria-expanded="false"
-          >
-            <Menu className="h-5 w-5" />
-          </button>
-        </div>
-      </header>
+      <SiteToolbar />
 
       <div className="relative z-10 mx-auto flex w-full max-w-[1280px] flex-col gap-16 px-6 pb-24 pt-32 md:pb-32 lg:flex-row lg:items-end lg:pt-46 justify-between">
         <div className="flex-1 space-y-10 lg:max-w-[640px]">
