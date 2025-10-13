@@ -1,7 +1,11 @@
+'use client';
+
+import { useRouter } from "next/navigation";
 import { ArrowRight } from "lucide-react";
 import { Button } from "./ui/button";
 
 export const FinalCTA = () => {
+  const router = useRouter();
   return (
     <section className="py-24 relative overflow-hidden text-white">
       {/* Background gradient */}
@@ -22,6 +26,7 @@ export const FinalCTA = () => {
             <Button
               variant="accent"
               size="xl"
+              onClick={() => router.push("/businesses")}
               className="group cursor-pointer border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
             >
               Hire Developers
@@ -30,6 +35,7 @@ export const FinalCTA = () => {
             <Button
               variant="ghost"
               size="xl"
+              onClick={() => router.push("/apply")}
               className="cursor-pointer border border-[#EEAC97]/40 bg-[#EEAC97]/10 text-white hover:bg-[#EEAC97]/20"
             >
               Join as Talent

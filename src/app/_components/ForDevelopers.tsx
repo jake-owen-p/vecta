@@ -1,3 +1,6 @@
+'use client';
+
+import { useRouter } from "next/navigation";
 import { Button } from "./ui/button";
 import { Code2, Briefcase, DollarSign, Users } from "lucide-react";
 
@@ -25,6 +28,8 @@ const benefits = [
 ];
 
 export const ForDevelopers = () => {
+  const router = useRouter();
+
   return (
     <section className="py-24 relative overflow-hidden text-white">
       {/* Background decoration */}
@@ -49,6 +54,7 @@ export const ForDevelopers = () => {
               <Button
                 variant="accent"
                 size="xl"
+                onClick={() => router.push("/apply")}
                 className="mt-4 border border-[#FF3600]/40 bg-[#FF3600] text-black shadow-[0_15px_40px_rgba(255,54,0,0.35)] hover:bg-[#ff4d1a]"
               >
                 Apply to Join
