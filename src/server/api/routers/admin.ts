@@ -134,13 +134,12 @@ export const adminRouter = createTRPCRouter({
 
       const docClient = getDynamoDocClient();
       const nowIso = new Date().toISOString();
-      const pk = `APPLICATION#${input.id}`;
 
       const newStatus = input.decision === "accept" ? "ACCEPTED" : "REJECTED";
 
       const updateCommand = new UpdateCommand({
         TableName: env.AWS_DYNAMO_TABLE,
-        Key: { pk, sk: pk },
+        Key: { id: input.id },
         UpdateExpression: "SET #status = :status, #updatedAt = :updatedAt",
         ExpressionAttributeNames: {
           "#status": "status",

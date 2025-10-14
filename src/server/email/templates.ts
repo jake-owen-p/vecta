@@ -172,7 +172,7 @@ const rejectionTemplate = (params: TemplateParams): TemplateResult => {
 const successTemplate = (params: TemplateParams): TemplateResult => {
   const greeting = renderGreeting(params.name);
   return {
-    subject: "Vecta — let’s build together",
+    subject: "Vecta — you’re one step closer",
     html: renderFrame(`
       <tr>
         <td style="${baseStyles.badge}">Vecta Network</td>
@@ -180,26 +180,32 @@ const successTemplate = (params: TemplateParams): TemplateResult => {
       <tr><td style="height:16px"></td></tr>
       <tr>
         <td>
-          <h1 style="${baseStyles.heading}">You’re in — welcome to Vecta</h1>
+          <h1 style="${baseStyles.heading}">You’re one step closer to Vecta</h1>
         </td>
       </tr>
       <tr><td style="height:20px"></td></tr>
       <tr>
         <td style="${baseStyles.paragraph}">
           ${greeting}<br /><br />
-          We’re excited to share that you’ve been accepted into the Vecta Network. We’ll reach out shortly to line up conversations with operators where we see strong alignment.
+          We’re excited to share that you’re one step away from joining the Vecta Network. We're really excited by your CV and would love to chat further about you!
         </td>
       </tr>
       <tr><td style="height:20px"></td></tr>
       <tr>
         <td style="${baseStyles.paragraph}">
-          While you wait, here’s what to expect next and how to get the most out of the network.
+          Book an intro call so we can dig into your experience, share how we run engagements, and make sure the opportunities we have lined up are the right fit.
         </td>
       </tr>
       <tr><td style="height:24px"></td></tr>
       <tr>
         <td>
-          <a href="https://vecta.co" style="${baseStyles.button}">View next steps</a>
+          <a href="https://calendly.com/jake-vecta/30min" style="${baseStyles.button}">Book intro call</a>
+        </td>
+      </tr>
+      <tr><td style="height:24px"></td></tr>
+      <tr>
+        <td style="${baseStyles.paragraph}">
+          After the intro, if we’re both excited to move forward, we’ll schedule a system design interview. Pass that and you’ll become a fully fledged member of the Vecta Applied AI Network with access to the highest-paid remote opportunities we can offer.
         </td>
       </tr>
       <tr><td style="height:28px"></td></tr>

@@ -9,6 +9,7 @@ import { Input } from "~/app/_components/ui/input";
 import { Label } from "~/app/_components/ui/label";
 import { ScrollArea } from "~/app/_components/ui/scroll-area";
 import { api } from "~/trpc/react";
+import { cn } from "~/lib/utils/cn";
 
 type Decision = "accept" | "reject";
 
@@ -26,10 +27,45 @@ type ApplicationRow = {
   createdAt: string;
 };
 
+type StatusFilter = "ALL" | "PENDING" | "ACCEPTED" | "REJECTED";
+
+const STATUS_FILTERS: Array<{ label: string; value: StatusFilter }> = [
+  { label: "All", value: "ALL" },
+  { label: "Pending", value: "PENDING" },
+  { label: "Accepted", value: "ACCEPTED" },
+  { label: "Rejected", value: "REJECTED" },
+];
+
+const FILTER_BUTTON_CLASSES: Record<StatusFilter, string> = {
+  ALL: "border-white/15 bg-white/10 text-white",
+  PENDING: "border-orange-400/60 bg-orange-500/10 text-orange-300",
+  ACCEPTED: "border-emerald-400/60 bg-emerald-500/10 text-emerald-300",
+  REJECTED: "border-red-400/60 bg-red-500/10 text-red-300",
+};
+
+const STATUS_BADGE_CLASSES: Record<Exclude<StatusFilter, "ALL">, string> = {
+  PENDING: "bg-orange-500/15 text-orange-300 ring-1 ring-orange-500/40",
+  ACCEPTED: "bg-emerald-500/15 text-emerald-300 ring-1 ring-emerald-500/40",
+  REJECTED: "bg-red-500/15 text-red-300 ring-1 ring-red-500/40",
+};
+
+const TABLE_COLUMN_CLASSES: Record<string, { header?: string; cell?: string }> = {
+  name: { header: "min-w-[180px]", cell: "min-w-[180px] whitespace-nowrap" },
+  email: { header: "min-w-[220px]", cell: "min-w-[220px] whitespace-nowrap" },
+  phone: { header: "min-w-[160px]", cell: "min-w-[160px] whitespace-nowrap" },
+  workTypes: { header: "min-w-[200px]", cell: "min-w-[200px]" },
+  employment: { header: "min-w-[200px]", cell: "min-w-[200px]" },
+  cv: { header: "min-w-[120px]", cell: "min-w-[120px]" },
+  status: { header: "min-w-[140px]", cell: "min-w-[140px] whitespace-nowrap" },
+  createdAt: { header: "min-w-[160px]", cell: "min-w-[160px] whitespace-nowrap" },
+  actions: { header: "min-w-[160px]", cell: "min-w-[160px]" },
+};
+
 export default function AdminPage() {
   const [code, setCode] = useState("");
   const [unlocked, setUnlocked] = useState(false);
   const [selectedCvUrl, setSelectedCvUrl] = useState<string | null>(null);
+  const [statusFilter, setStatusFilter] = useState<StatusFilter>("ALL");
 
   const utils = api.useUtils();
   const listQuery = api.admin.listApplications.useQuery(undefined, {
@@ -42,6 +78,12 @@ export default function AdminPage() {
   });
 
   const rows = useListData(listQuery.data);
+  const filteredRows = useMemo(() => {
+    if (statusFilter === "ALL") {
+      return rows;
+    }
+    return rows.filter((row) => row.status === statusFilter);
+  }, [rows, statusFilter]);
 
   const handleDecision = useCallback(
     (id: string, decision: Decision) => {
@@ -72,16 +114,19 @@ export default function AdminPage() {
         cell: ({ getValue }) => <span className="text-sm text-white/70">{getValue<string | null>() ?? "—"}</span>,
       },
       {
+        id: "workTypes",
         header: "Work Types",
         accessorFn: (row) => row.workTypeLabels.join(", "),
         cell: ({ getValue }) => <span className="text-sm text-white/80">{getValue<string>()}</span>,
       },
       {
+        id: "employment",
         header: "Employment",
         accessorFn: (row) => row.employmentTypeLabels.join(", "),
         cell: ({ getValue }) => <span className="text-sm text-white/80">{getValue<string>()}</span>,
       },
       {
+        id: "cv",
         header: "CV",
         cell: ({ row }) => (
           <Button variant="secondary" size="sm" onClick={() => setSelectedCvUrl(row.original.cvUrl)}>
@@ -93,8 +138,19 @@ export default function AdminPage() {
         accessorKey: "status",
         header: "Status",
         cell: ({ getValue }) => {
-          const status = (getValue<string>() ?? "PENDING").replace(/_/g, " ");
-          return <span className="text-xs font-semibold uppercase tracking-wider text-orange-400">{status}</span>;
+          const rawStatus = (getValue<string>() ?? "PENDING").toUpperCase();
+          const normalizedStatus = rawStatus as Exclude<StatusFilter, "ALL">;
+          const badgeClass = STATUS_BADGE_CLASSES[normalizedStatus] ?? STATUS_BADGE_CLASSES.PENDING;
+          return (
+            <span
+              className={cn(
+                "inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold uppercase tracking-wider",
+                badgeClass,
+              )}
+            >
+              {rawStatus.replace(/_/g, " ")}
+            </span>
+          );
         },
       },
       {
@@ -133,7 +189,7 @@ export default function AdminPage() {
   );
 
   const table = useReactTable({
-    data: rows,
+    data: filteredRows,
     columns,
     getCoreRowModel: getCoreRowModel(),
   });
@@ -200,6 +256,31 @@ export default function AdminPage() {
         </header>
 
         <div className="rounded-3xl border border-white/10 bg-black/60 p-6 shadow-[0_20px_60px_rgba(0,0,0,0.45)]">
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+            <div>
+              <p className="text-xs uppercase tracking-[0.4em] text-white/40">Filter by Status</p>
+            </div>
+            <div className="flex flex-wrap items-center gap-2">
+              {STATUS_FILTERS.map((filter) => {
+                const isActive = statusFilter === filter.value;
+                return (
+                  <Button
+                    key={filter.value}
+                    type="button"
+                    variant="ghost"
+                    size="sm"
+                    onClick={() => setStatusFilter(filter.value)}
+                    className={cn(
+                      "rounded-full border border-white/10 px-4 py-1 text-xs uppercase tracking-wide text-white/70 transition",
+                      isActive ? FILTER_BUTTON_CLASSES[filter.value] : "hover:border-white/20 hover:text-white",
+                    )}
+                  >
+                    {filter.label}
+                  </Button>
+                );
+              })}
+            </div>
+          </div>
           {listQuery.isLoading ? (
             <div className="flex h-48 items-center justify-center text-white/60">Loading…</div>
           ) : listQuery.isError ? (
@@ -208,35 +289,58 @@ export default function AdminPage() {
             </div>
           ) : rows.length === 0 ? (
             <div className="flex h-48 items-center justify-center text-white/50">No applications yet.</div>
+          ) : filteredRows.length === 0 ? (
+            <div className="flex h-48 items-center justify-center text-white/50">
+              No applications in this status.
+            </div>
           ) : (
             <ScrollArea className="w-full">
               <div className="relative">
-                <table className="w-full min-w-[960px] table-fixed border-collapse">
-                  <thead>
-                    {table.getHeaderGroups().map((headerGroup) => (
-                      <tr key={headerGroup.id} className="text-left text-xs uppercase tracking-wide text-white/40">
-                        {headerGroup.headers.map((header) => (
-                          <th key={header.id} className="border-b border-white/10 px-4 py-3 font-medium">
-                            {header.isPlaceholder
-                              ? null
-                              : flexRender(header.column.columnDef.header, header.getContext())}
-                          </th>
-                        ))}
-                      </tr>
-                    ))}
-                  </thead>
-                  <tbody>
-                    {table.getRowModel().rows.map((row) => (
-                      <tr key={row.id} className="border-b border-white/5 last:border-b-0">
-                        {row.getVisibleCells().map((cell) => (
-                          <td key={cell.id} className="px-4 py-4 align-middle">
-                            {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                          </td>
-                        ))}
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
+                <div className="w-full overflow-x-auto">
+                  <table className="w-full min-w-[1100px] table-auto border-collapse">
+                    <thead>
+                      {table.getHeaderGroups().map((headerGroup) => (
+                        <tr key={headerGroup.id} className="text-left text-xs uppercase tracking-wide text-white/40">
+                          {headerGroup.headers.map((header) => {
+                            const columnId = header.column.id ?? "";
+                            const columnClass = TABLE_COLUMN_CLASSES[columnId]?.header;
+                            return (
+                              <th
+                                key={header.id}
+                                className={cn(
+                                  "border-b border-white/10 px-4 py-3 font-medium whitespace-nowrap",
+                                  columnClass,
+                                )}
+                              >
+                                {header.isPlaceholder
+                                  ? null
+                                  : flexRender(header.column.columnDef.header, header.getContext())}
+                              </th>
+                            );
+                          })}
+                        </tr>
+                      ))}
+                    </thead>
+                    <tbody>
+                      {table.getRowModel().rows.map((row) => (
+                        <tr key={row.id} className="border-b border-white/5 last:border-b-0">
+                          {row.getVisibleCells().map((cell) => {
+                            const columnId = cell.column.id ?? "";
+                            const columnClass = TABLE_COLUMN_CLASSES[columnId]?.cell;
+                            return (
+                              <td
+                                key={cell.id}
+                                className={cn("px-4 py-4 align-middle text-sm text-white/80", columnClass)}
+                              >
+                                {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                              </td>
+                            );
+                          })}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
               </div>
             </ScrollArea>
           )}
