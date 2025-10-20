@@ -87,7 +87,7 @@ export const applicationRouter = createTRPCRouter({
           }),
           sendEmailByType({
             ...emailPayload,
-            to: ["jake@vecta.co"],
+            to: ["jake@vecta.co", "james@vecta.co"],
           }),
         ]);
       } catch (error) {
