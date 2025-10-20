@@ -16,7 +16,7 @@ const developerFaq = [
   {
     question: "What does the vetting process involve?",
     answer:
-      "You walk through prior deployments, share artifacts (design docs, evaluation runs), and complete a scenario-based system design interview focused on agentic workflows and RAG.",
+      "You walk through prior developments, share experiences through a white design docs, evaluation runs), and complete a scenario-based system design interview focused on agentic workflows and RAG.",
   },
   {
     question: "How do matches work and how fast can I start?",
@@ -24,14 +24,19 @@ const developerFaq = [
       "Once you’re approved, we surface engagements aligned with your stack and timezone. After that it's up to you to choose the best fit for you.",
   },
   {
+    question: "Is Vecta just another job board?",
+    answer:
+      "No. Vecta is a high-touch matching service that pairs you with teams after understanding your goals and availability. We curate roles, bring you personalized recommendations, and stay involved to ensure the engagement is a mutual fit.",
+  },
+  {
+    question: "What are the benefits of joining?",
+    answer:
+      "High-impact applied AI work, global remote flexibility, top-tier pay, no client hunting, and access to a vetted network of peers solving real problems.",
+  },
+  {
     question: "What stacks are most in demand?",
     answer:
       "TypeScript or Python paired with orchestration tools (LangChain, LlamaIndex, Inngest, Temporal), modern hosting (Vercel, AWS, Cloudflare), and observability know-how are our most requested combinations.",
-  },
-  {
-    question: "Do I need experience with LangChain or LlamaIndex?",
-    answer:
-      "Direct experience helps, but we evaluate your ability to design orchestration layers in general. If you’ve built custom planners, tools, or agent loops, you’re already in scope.",
   },
   {
     question: "How are rates set and payments handled?",
