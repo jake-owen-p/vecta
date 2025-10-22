@@ -24,7 +24,7 @@ export const WhyHire = () => {
           <span className="rounded-full border border-white/10 bg-white/5 px-4 py-2 text-xs uppercase tracking-[0.35em] text-[#FF3600]">
             Why hire through us
           </span>
-          <h2 className="text-4xl md:text-5xl font-bold">
+          <h2 className="text-4xl md:text-5xl font-bold pt-8">
             Agentic engineers, proven in production — not just demos.
           </h2>
           <p className="text-lg text-white/70">

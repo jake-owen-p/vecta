@@ -43,7 +43,7 @@ export const engineerSteps: ProcessStep[] = [
   },
   {
     title: "Resume Screen",
-    description: "We evaluate real impact, shipped systems, and the depth of your applied AI experience.",
+    description: "We evaluate real impact, shipped systems, and the depth of your agentic AI experience.",
   },
   {
     title: "AI Systems Challenge",

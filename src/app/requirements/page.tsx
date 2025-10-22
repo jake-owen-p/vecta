@@ -6,7 +6,7 @@ import { SiteToolbar } from "../_components/SiteToolbar";
 
 export const metadata = {
   title: "Developer Requirements | Vecta",
-  description: "Understand the standards you meet to join Vecta's network of applied AI engineers.",
+  description: "Understand the standards you meet to join Vecta's network of agentic AI engineers.",
 };
 
 const sections = [
@@ -182,7 +182,7 @@ export default function RequirementsPage() {
               <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
               <h2 className="mt-8 text-3xl font-bold md:text-4xl">What This Means for You</h2>
               <p className="mt-4 text-lg text-white/70">
-                Joining Vecta means you unlock engagements where the expectations match your capability. Teams rely on you to bring clarity, rigor, and velocity to every applied AI initiative.
+                Joining Vecta means you unlock engagements where the expectations match your capability. Teams rely on you to bring clarity, rigor, and velocity to every agentic AI initiative.
               </p>
               <div className="mt-8 grid gap-4 text-left">
                 {["You have shipped agentic workflows and can explain the trade-offs.", "You define success with metrics, evaluation tooling, and iteration loops.", "You architect AI systems that are observable, modular, and scalable.", "You integrate intelligent features directly into production products."].map((item) => (

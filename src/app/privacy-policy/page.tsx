@@ -29,7 +29,7 @@ export default function PrivacyPolicyPage() {
             <div className="rounded-2xl border border-white/5 bg-[#120606] p-6 md:p-8 shadow-lg">
               <h2 className="text-2xl font-semibold">Who We Are</h2>
               <p className="mt-3 text-white/70">
-                Vecta is an AI recruitment agency focused on applied AI and application development.
+                Vecta is an AI recruitment agency focused on agentic AI and application development.
                 We vet engineering candidates and introduce them to employers seeking talent.
               </p>
 

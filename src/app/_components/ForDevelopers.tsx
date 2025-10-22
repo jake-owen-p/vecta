@@ -45,7 +45,7 @@ export const ForDevelopers = () => {
               </div>
               <h2 className="text-4xl md:text-5xl font-bold text-white">
                 Join a network of{" "}
-                <span className="text-[#FF3600]">applied AI engineers</span>
+                <span className="text-[#FF3600]">agentic AI engineers</span>
               </h2>
               <p className="text-xl text-white/70">
                 Work with cutting-edge startups and established companies building real AI products. 

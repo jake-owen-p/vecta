@@ -31,7 +31,7 @@ const developerFaq = [
   {
     question: "What are the benefits of joining?",
     answer:
-      "High-impact applied AI work, global remote flexibility, top-tier pay, no client hunting, and access to a vetted network of peers solving real problems.",
+      "High-impact agentic AI work, global remote flexibility, top-tier pay, no client hunting, and access to a vetted network of peers solving real problems.",
   },
   {
     question: "What stacks are most in demand?",
@@ -150,7 +150,7 @@ export default function FaqPage() {
             <span className="block h-1 w-20 rounded-full bg-[#FF3600]" />
             <h1 className="mt-8 max-w-3xl text-4xl font-bold md:text-5xl">Frequently Asked Questions</h1>
             <p className="mt-6 max-w-3xl text-lg text-white/70">
-              Whether you build applied AI systems or you hire them, these are the answers teams ask most before working with Vecta. Need something else? Reach out and we’ll jump on a call.
+              Whether you build agentic AI systems or you hire them, these are the answers teams ask most before working with Vecta. Need something else? Reach out and we’ll jump on a call.
             </p>
             <nav className="mt-10 flex flex-wrap gap-3 text-sm font-semibold text-white/70">
               <a
@@ -187,7 +187,7 @@ export default function FaqPage() {
             <span className="block h-1 w-16 rounded-full bg-[#FF3600]" />
             <h2 className="mt-8 text-3xl font-semibold md:text-4xl">For Businesses</h2>
             <p className="mt-4 max-w-2xl text-white/70">
-              How we scope, staff, and deliver applied AI talent that fits your team’s standards.
+              How we scope, staff, and deliver agentic AI talent that fits your team’s standards.
             </p>
             <div className="mt-10 rounded-2xl border border-white/5 bg-[#0f0504] p-6 shadow-lg">
               <FaqList items={businessFaq} />
