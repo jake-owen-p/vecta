@@ -33,9 +33,9 @@ export default function BusinessesPage() {
       <section className="bg-[#0f0504] py-24">
         <div className="container mx-auto px-4 text-center">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
-          <h2 className="mt-8 text-4xl font-bold md:text-5xl">Expertise you can leverage</h2>
+          <h2 className="mt-8 text-4xl font-bold md:text-5xl">Expertise you can hire</h2>
           <p className="mt-4 text-xl text-white/70">
-            Developers trained and tested across modern applied AI stacks you already trust.
+            Agentic software engineers vetted across the modern agent stack — ready to join your team.
           </p>
         </div>
       </section>

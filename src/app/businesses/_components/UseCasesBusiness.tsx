@@ -4,33 +4,33 @@ import { Card } from "../../_components/ui/card";
 const cases = [
   {
     icon: MessageSquare,
-    title: "Customer support copilots",
-    description: "Intelligent agents connected to your CRM and ticketing tools to resolve issues instantly.",
+    title: "Founding agentic engineer",
+    description: "Your first agentic specialist to architect the stack, ship v1, and mentor future hires.",
   },
   {
     icon: Handshake,
-    title: "Sales & marketing automation",
-    description: "Automated lead qualification, personalized outreach, and AI-driven insight generation.",
+    title: "Scale your agent squad",
+    description: "Add senior engineers to accelerate workflows, tool integrations, and multi-agent reliability.",
   },
   {
     icon: Workflow,
-    title: "Operations automation",
-    description: "Document processing, onboarding assistants, and back-office workflows that run themselves.",
+    title: "Augment internal AI teams",
+    description: "Embed seasoned contractors who pair with your ML, product, and platform teams day one.",
   },
   {
     icon: Database,
-    title: "Data & analytics copilots",
-    description: "Embedded AI explorers that query internal data and surface insights in seconds.",
+    title: "Modernize from LLM chat to agents",
+    description: "Up-level chat prototypes into agentic systems with memory, retrieval, and tool orchestration.",
   },
   {
     icon: LayoutDashboard,
-    title: "Product experience upgrades",
-    description: "Smart recommendations, search, and summarization features inside your product.",
+    title: "Agentic integrations & tooling",
+    description: "Engineers who wire up CRMs, data lakes, and internal APIs to autonomous workflows.",
   },
   {
     icon: Sparkles,
-    title: "Specialized agents",
-    description: "Tailored AI processes that adapt to your vertical—from compliance to complex workflows.",
+    title: "Contract-to-hire pilots",
+    description: "Trial talent on scoped sprints before converting to full-time with confidence.",
   },
 ];
 
@@ -40,10 +40,8 @@ export const UseCasesBusiness = () => {
       <div className="container mx-auto px-4">
         <div className="mx-auto mb-16 max-w-3xl text-center space-y-5">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
-          <h2 className="text-4xl md:text-5xl font-bold">Where applied AI delivers business impact</h2>
-          <p className="text-xl text-white/70">
-            Practical outcomes across revenue, operations, and product experience.
-          </p>
+          <h2 className="text-4xl md:text-5xl font-bold">Hiring moves businesses make with us</h2>
+          <p className="text-xl text-white/70">Scenarios where agentic engineers unlock speed, reliability, and scale.</p>
         </div>
 
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">

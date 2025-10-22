@@ -27,18 +27,18 @@ export const BusinessHero = () => {
         <div className="container mx-auto flex flex-col items-center gap-12 px-4 pb-20 pt-28 text-center lg:flex-row lg:text-left">
           <div className="flex-1 space-y-6">
             <span className="-ml-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm uppercase tracking-[0.35em] text-[#FF3600]">
-              Applied AI talent for business impact
+              Agentic engineering talent network
             </span>
             <h1 className="text-4xl font-bold leading-tight md:text-6xl mt-4">
-              Build real AI products — with engineers who’ve done it before.
+              Hire pre-vetted agentic software engineers.
             </h1>
             <p className="text-lg text-white/80 md:text-xl">
-              Top 5% applied AI developers ready to join your team. From LLM integrations to full-stack agentic systems.
+              We source, test, and deliver the top 5% — engineers fluent in autonomous agents, tool orchestration, and production reliability.
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row">
               <Button asChild size="xl" variant="accent" className="w-full sm:w-auto">
                 <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
-                  Hire AI Developers
+                  Request Candidates
                 </Link>
               </Button>
               <Button
@@ -48,13 +48,13 @@ export const BusinessHero = () => {
                 className="w-full border border-white/20 bg-white/5 text-white hover:bg-white/10 sm:w-auto"
               >
                 <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
-                  Book a Discovery Call
+                  Book a Hiring Consult
                 </Link>
               </Button>
             </div>
 
             <div className="mt-10 space-y-4">
-              <p className="text-sm uppercase tracking-[0.3em] text-white/50">Trusted across modern AI stacks</p>
+              <p className="text-sm uppercase tracking-[0.3em] text-white/50">Trusted by teams scaling agentic products</p>
               <div className="flex flex-wrap items-center justify-center gap-6 opacity-80 lg:justify-start">
                 {badges.map((badge) => (
                   <div

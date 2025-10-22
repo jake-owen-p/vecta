@@ -17,7 +17,7 @@ const steps = [
   {
     id: "STEP 2",
     percentage: 9.4,
-    description: "A system design interview to outline how you’d architect real AI systems.",
+    description: "A system design interview focused on agent orchestration, tools, and guardrails.",
     layout: {
       desktop: {
         rows: [10, 10, 10, 10, 10],
@@ -32,8 +32,7 @@ const steps = [
   {
     id: "STEP 3",
     percentage: 5.2,
-    description:
-      "Show off in a pair programming session, all tools allowed.",
+    description: "Pair programming on real agent workflows, tooling, and debugging scenarios.",
     layout: {
       desktop: {
         rows: [6, 6, 6, 6],

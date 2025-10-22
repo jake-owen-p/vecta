@@ -5,23 +5,23 @@ import { Button } from "../../_components/ui/button";
 const steps = [
   {
     step: "01",
-    title: "Share your goals",
-    description: "Outline outcomes, teams involved, and the systems we’ll connect.",
+    title: "Align on hiring needs",
+    description: "Define the roles, seniority, timezone, and agentic stack your team expects.",
   },
   {
     step: "02",
-    title: "Match in 48 hours",
-    description: "Review profiles of vetted engineers aligned to your stack and industry.",
+    title: "Review curated matches",
+    description: "See detailed profiles with domain notes, project history, and references.",
   },
   {
     step: "03",
-    title: "Select and onboard",
-    description: "Choose contract, full-time, or dedicated pods with instant start dates.",
+    title: "Interview & trial",
+    description: "Run interviews, pair sessions, or paid trials with our coordination support.",
   },
   {
     step: "04",
-    title: "Start shipping",
-    description: "Kick off delivery without payroll, sourcing, or vendor management overhead.",
+    title: "Launch with confidence",
+    description: "Start quickly with onboarding, payroll, and retention handled by our team.",
   },
 ];
 
@@ -33,7 +33,7 @@ export const SpeedFlex = () => {
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl font-bold">Hire in days, not months</h2>
           <p className="text-xl text-white/70">
-            Our process gets production-ready engineers into your roadmap fast.
+            Our process quickly places production-ready agentic engineers in front of you, with zero sourcing overhead.
           </p>
         </div>
 
@@ -50,7 +50,7 @@ export const SpeedFlex = () => {
         <div className="mt-12 text-center">
           <Button asChild size="xl" variant="accent">
             <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
-              Start Hiring Today
+              Request Agentic Talent
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
           </Button>

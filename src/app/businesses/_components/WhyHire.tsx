@@ -1,11 +1,11 @@
 import { CheckCircle2, XCircle } from "lucide-react";
 
 const pros = [
-  "Pre-vetted on agentic workflows, retrieval, orchestration, and infra — beyond prompt tinkering.",
-  "48-hour turnaround from project brief to first match.",
-  "Flexible models: contract, full-time, or dedicated pods that scale with demand.",
-  "Guaranteed quality — replace or refund if you’re not satisfied.",
-  "Backed by technical recruiters who understand applied AI systems end-to-end.",
+  "Pre-vetted on autonomous workflows, tool orchestration, and production guardrails.",
+  "Agentic engineer profiles surfaced quickly with full context.",
+  "Flexible engagements: contract, contract-to-hire, or full-time.",
+  "Ongoing retention check-ins with proactive support from our team.",
+  "Run by staff engineers and recruiters who understand agent ecosystems end-to-end.",
 ];
 
 const cons = [
@@ -25,10 +25,10 @@ export const WhyHire = () => {
             Why hire through us
           </span>
           <h2 className="text-4xl md:text-5xl font-bold">
-            AI engineers, pre-vetted for real work — not just demos.
+            Agentic engineers, proven in production — not just demos.
           </h2>
           <p className="text-lg text-white/70">
-            We built a network for teams serious about production AI: seasoned engineers, world-class process, and hiring that runs at the speed of shipping.
+            We built a talent network for teams scaling agents: seasoned engineers, rigorous vetting, and recruiters who speak the same technical language.
           </p>
           <div className="mt-8 grid gap-4">
             {pros.map((item) => (
@@ -59,7 +59,7 @@ export const WhyHire = () => {
             </div>
 
             <div className="space-y-4 rounded-2xl border border-[#FF3600]/40 bg-[#FF3600]/10 p-6">
-              <h3 className="text-xl font-semibold text-white">Applied AI Network</h3>
+              <h3 className="text-xl font-semibold text-white">Agentic Talent Network</h3>
               <div className="space-y-3 text-white/80">
                 {pros.map((item) => (
                   <div key={item} className="flex items-start gap-2">

@@ -10,10 +10,10 @@ export const BusinessFinalCTA = () => {
         <div className="mx-auto max-w-4xl text-center space-y-10">
           <span className="mx-auto block h-1 w-24 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl font-bold md:text-5xl lg:text-6xl">
-            Hire developers who turn AI ideas into shipped products.
+            Hire agentic engineers who deliver from day one.
           </h2>
           <p className="text-xl text-white/70 md:text-2xl">
-            Onboard pre-vetted talent, scale faster, and stay ahead of the curve.
+            Unlock pre-vetted talent, scale your agent initiatives, and retain the expertise you need.
           </p>
           <div className="flex flex-col items-center gap-4 pt-4 sm:flex-row sm:justify-center">
             <Button
@@ -23,7 +23,7 @@ export const BusinessFinalCTA = () => {
               className="w-full sm:w-auto cursor-pointer border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
             >
               <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
-                Hire AI Developers
+                Request Candidates
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
@@ -34,13 +34,11 @@ export const BusinessFinalCTA = () => {
               className="w-full sm:w-auto cursor-pointer border border-white/20 bg-white/5 text-white hover:bg-white/10"
             >
               <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
-                Book a Call
+                Book a Hiring Consult
               </Link>
             </Button>
           </div>
-          <p className="text-sm text-white/60">
-            Tell us what you need and start building within 48 hours.
-          </p>
+          <p className="text-sm text-white/60">Tell us who you need and we’ll move fast to get them on your team.</p>
         </div>
       </div>
     </section>

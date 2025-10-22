@@ -4,23 +4,23 @@ import { Card } from "../../_components/ui/card";
 const deliverables = [
   {
     icon: Bolt,
-    title: "Production-grade agents",
-    description: "Automate workflows, decisions, and integrations that actually scale with your ops.",
+    title: "Curated shortlists",
+    description: "Receive a tailored slate of agentic engineers aligned to your stack, timezone, and seniority.",
   },
   {
     icon: Workflow,
-    title: "Rapid prototypes",
-    description: "Ship MVPs or proofs-of-concept in days, not months, with seasoned AI builders.",
+    title: "Deep technical vetting",
+    description: "Hands-on agentic systems interviews, live builds, and tool-chain evaluations run by staff engineers.",
   },
   {
     icon: Database,
-    title: "System integrations",
-    description: "Connect APIs, CRMs, databases, and business tools seamlessly with reliable pipelines.",
+    title: "Trial projects & onboarding",
+    description: "Optional paid trials, compliance, and onboarding handled end-to-end so your team keeps momentum.",
   },
   {
     icon: ShieldCheck,
-    title: "Enterprise reliability",
-    description: "Secure, monitored, and privacy-aligned infrastructure built for production workloads.",
+    title: "Replacement support",
+    description: "If a hire isn’t the right fit, we partner with you to course-correct and replace quickly.",
   },
 ];
 
@@ -30,9 +30,9 @@ export const Deliverables = () => {
       <div className="container mx-auto px-4">
         <div className="mx-auto mb-16 max-w-3xl text-center space-y-5">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
-          <h2 className="text-4xl md:text-5xl font-bold">From prototype to production-ready AI</h2>
+          <h2 className="text-4xl md:text-5xl font-bold">Recruiting deliverables that de-risk hiring</h2>
           <p className="text-xl text-white/70">
-            Launch outcomes, not buzzwords — every engagement is scoped to deliver measurable ROI.
+            Every search is built around your hiring goals — we obsess over fit, speed, and retention.
           </p>
         </div>
 
