@@ -46,7 +46,7 @@ export const Footer = () => {
           <div className="flex gap-6">
             <a href="/privacy-policy" className="transition-colors hover:text-[#FF3600]">Privacy Policy</a>
             <a href="/terms" className="transition-colors hover:text-[#FF3600]">Terms of Service</a>
-            <a href="https://calendly.com/jakeowen-ex/30min" className="transition-colors hover:text-[#FF3600]">Contact</a>
+            <a href="https://calendly.com/james-vecta/30min" className="transition-colors hover:text-[#FF3600]">Contact</a>
           </div>
         </div>
       </div>

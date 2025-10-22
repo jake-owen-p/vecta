@@ -49,7 +49,7 @@ export const SpeedFlex = () => {
 
         <div className="mt-12 text-center">
           <Button asChild size="xl" variant="accent">
-            <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
+            <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
               Request Agentic Talent
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>

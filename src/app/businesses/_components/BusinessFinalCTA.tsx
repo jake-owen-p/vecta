@@ -22,7 +22,7 @@ export const BusinessFinalCTA = () => {
               variant="accent"
               className="w-full sm:w-auto cursor-pointer border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
             >
-              <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
+              <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
                 Request Candidates
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
@@ -33,7 +33,7 @@ export const BusinessFinalCTA = () => {
               variant="ghost"
               className="w-full sm:w-auto cursor-pointer border border-white/20 bg-white/5 text-white hover:bg-white/10"
             >
-              <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
+              <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
                 Book a Hiring Consult
               </Link>
             </Button>

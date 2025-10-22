@@ -47,7 +47,7 @@ export const BusinessHero = () => {
                 variant="ghost"
                 className="w-full border border-white/20 bg-white/5 text-white hover:bg-white/10 sm:w-auto"
               >
-                <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
+                <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
                   Book a Hiring Consult
                 </Link>
               </Button>

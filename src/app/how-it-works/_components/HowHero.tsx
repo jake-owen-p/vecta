@@ -19,7 +19,7 @@ interface HowHeroProps {
 const heroCopy: Record<Audience, { subtitle: string; primaryCta: { label: string; href: string }; secondaryCta: { label: string; href: string } }> = {
   business: {
     subtitle: "A vetted network of AI engineers, matched to your roadmap in days.",
-    primaryCta: { label: "Book a call", href: "https://calendly.com/jakeowen-ex/30min" },
+    primaryCta: { label: "Book a call", href: "https://calendly.com/james-vecta/30min" },
     secondaryCta: { label: "See success stories", href: "/businesses" },
   },
   engineer: {
