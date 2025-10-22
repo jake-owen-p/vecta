@@ -1,4 +1,8 @@
-export type EmailType = "application_submitted" | "application_rejected" | "application_successful";
+export type EmailType =
+  | "application_submitted"
+  | "application_rejected"
+  | "application_successful"
+  | "application_system_design";
 
 export type SendEmailInput = {
   type: EmailType;

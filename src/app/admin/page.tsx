@@ -15,6 +15,9 @@ type Decision = "accept" | "reject";
 
 const ACCESS_CODE = "FO4jf8@s!";
 
+type StatusFilter = "ALL" | ApplicationStatus;
+type ApplicationStatus = "PENDING" | "ACCEPTED" | "REJECTED" | "SYSTEM_DESIGN";
+
 type ApplicationRow = {
   id: string;
   name: string;
@@ -23,17 +26,16 @@ type ApplicationRow = {
   workTypeLabels: string[];
   employmentTypeLabels: string[];
   cvUrl: string;
-  status: string;
+  status: ApplicationStatus;
   createdAt: string;
 };
-
-type StatusFilter = "ALL" | "PENDING" | "ACCEPTED" | "REJECTED";
 
 const STATUS_FILTERS: Array<{ label: string; value: StatusFilter }> = [
   { label: "All", value: "ALL" },
   { label: "Pending", value: "PENDING" },
   { label: "Accepted", value: "ACCEPTED" },
   { label: "Rejected", value: "REJECTED" },
+  { label: "System design", value: "SYSTEM_DESIGN" },
 ];
 
 const FILTER_BUTTON_CLASSES: Record<StatusFilter, string> = {
@@ -41,12 +43,14 @@ const FILTER_BUTTON_CLASSES: Record<StatusFilter, string> = {
   PENDING: "border-orange-400/60 bg-orange-500/10 text-orange-300",
   ACCEPTED: "border-emerald-400/60 bg-emerald-500/10 text-emerald-300",
   REJECTED: "border-red-400/60 bg-red-500/10 text-red-300",
+  SYSTEM_DESIGN: "border-sky-400/60 bg-sky-500/10 text-sky-300",
 };
 
-const STATUS_BADGE_CLASSES: Record<Exclude<StatusFilter, "ALL">, string> = {
+const STATUS_BADGE_CLASSES: Record<ApplicationStatus, string> = {
   PENDING: "bg-orange-500/15 text-orange-300 ring-1 ring-orange-500/40",
   ACCEPTED: "bg-emerald-500/15 text-emerald-300 ring-1 ring-emerald-500/40",
   REJECTED: "bg-red-500/15 text-red-300 ring-1 ring-red-500/40",
+  SYSTEM_DESIGN: "bg-sky-500/15 text-sky-300 ring-1 ring-sky-500/40",
 };
 
 const TABLE_COLUMN_CLASSES: Record<string, { header?: string; cell?: string }> = {
@@ -76,6 +80,11 @@ export default function AdminPage() {
       await utils.admin.listApplications.invalidate();
     },
   });
+  const moveToSystemDesignMutation = api.admin.moveToSystemDesign.useMutation({
+    onSuccess: async () => {
+      await utils.admin.listApplications.invalidate();
+    },
+  });
 
   const rows = useListData(listQuery.data);
   const filteredRows = useMemo(() => {
@@ -90,6 +99,13 @@ export default function AdminPage() {
       onDecide(decideMutation.mutate, id, decision);
     },
     [decideMutation.mutate],
+  );
+
+  const handleMoveToSystemDesign = useCallback(
+    (id: string) => {
+      onMoveToSystemDesign(moveToSystemDesignMutation.mutate, id);
+    },
+    [moveToSystemDesignMutation.mutate],
   );
 
   const columns = useMemo<ColumnDef<ApplicationRow>[]>(
@@ -139,7 +155,7 @@ export default function AdminPage() {
         header: "Status",
         cell: ({ getValue }) => {
           const rawStatus = (getValue<string>() ?? "PENDING").toUpperCase();
-          const normalizedStatus = rawStatus as Exclude<StatusFilter, "ALL">;
+          const normalizedStatus = rawStatus as ApplicationStatus;
           const badgeClass = STATUS_BADGE_CLASSES[normalizedStatus] ?? STATUS_BADGE_CLASSES.PENDING;
           return (
             <span
@@ -163,29 +179,45 @@ export default function AdminPage() {
       {
         id: "actions",
         header: "Actions",
-        cell: ({ row }) => (
-          <div className="flex items-center gap-2">
-            <Button
-              size="sm"
-              variant="accent"
-              disabled={decideMutation.isPending}
-              onClick={() => handleDecision(row.original.id, "accept")}
-            >
-              Accept
-            </Button>
-            <Button
-              size="sm"
-              variant="destructive"
-              disabled={decideMutation.isPending}
-              onClick={() => handleDecision(row.original.id, "reject")}
-            >
-              Reject
-            </Button>
-          </div>
-        ),
+        cell: ({ row }) => {
+          const status = row.original.status;
+          const isAccepted = status === "ACCEPTED";
+          const isSystemDesign = status === "SYSTEM_DESIGN";
+
+          return (
+            <div className="flex items-center gap-2">
+              <Button
+                size="sm"
+                variant="accent"
+                disabled={decideMutation.isPending || isAccepted || isSystemDesign}
+                onClick={() => handleDecision(row.original.id, "accept")}
+              >
+                Accept
+              </Button>
+              <Button
+                size="sm"
+                variant="destructive"
+                disabled={decideMutation.isPending || isSystemDesign}
+                onClick={() => handleDecision(row.original.id, "reject")}
+              >
+                Reject
+              </Button>
+              {isAccepted ? (
+                <Button
+                  size="sm"
+                  variant="secondary"
+                  disabled={moveToSystemDesignMutation.isPending}
+                  onClick={() => handleMoveToSystemDesign(row.original.id)}
+                >
+                  Move to system design
+                </Button>
+              ) : null}
+            </div>
+          );
+        },
       },
     ],
-    [decideMutation.isPending, handleDecision],
+    [decideMutation.isPending, handleDecision, handleMoveToSystemDesign, moveToSystemDesignMutation.isPending],
   );
 
   const table = useReactTable({
@@ -394,7 +426,7 @@ function useListData(data: unknown): ApplicationRow[] {
         const workTypeLabels = toStringArray(record.workTypeLabels);
         const employmentTypeLabels = toStringArray(record.employmentTypeLabels);
         const cvUrl = typeof record.cvUrl === "string" ? record.cvUrl : null;
-        const status = typeof record.status === "string" ? record.status : "PENDING";
+        const status = normalizeStatus(record.status);
         const createdAt = typeof record.createdAt === "string" ? record.createdAt : null;
 
         if (!id || !name || !email || !cvUrl || !createdAt) {
@@ -409,7 +441,7 @@ function useListData(data: unknown): ApplicationRow[] {
           workTypeLabels,
           employmentTypeLabels,
           cvUrl,
-          status: status.toUpperCase(),
+          status,
           createdAt,
         };
 
@@ -431,15 +463,26 @@ function formatDate(value: string) {
   }).format(date);
 }
 
-function onDecide(
-  mutate: (opts: { id: string; decision: Decision }) => void,
-  id: string,
-  decision: Decision,
-) {
+function onDecide(mutate: (opts: { id: string; decision: Decision }) => void, id: string, decision: Decision) {
   const message = decision === "accept" ? "Accept this application?" : "Reject this application?";
   const ok = typeof window !== "undefined" ? window.confirm(message) : true;
   if (!ok) return;
   mutate({ id, decision });
+}
+
+function onMoveToSystemDesign(mutate: (opts: { id: string }) => void, id: string) {
+  const ok = typeof window !== "undefined" ? window.confirm("Move this candidate to the system design round?") : true;
+  if (!ok) return;
+  mutate({ id });
+}
+
+function normalizeStatus(value: unknown): ApplicationStatus {
+  if (typeof value !== "string") return "PENDING";
+  const upper = value.toUpperCase();
+  if (upper === "ACCEPTED" || upper === "REJECTED" || upper === "SYSTEM_DESIGN") {
+    return upper;
+  }
+  return "PENDING";
 }
 
 

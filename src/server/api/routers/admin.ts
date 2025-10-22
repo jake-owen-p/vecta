@@ -24,6 +24,10 @@ const decisionSchema = z.object({
   decision: z.enum(["accept", "reject"]),
 });
 
+const systemDesignSchema = z.object({
+  id: z.string().min(1),
+});
+
 const safeString = (value: unknown) => (typeof value === "string" ? value : undefined);
 const safeStringOrNull = (value: unknown) => {
   if (typeof value === "string") return value;
@@ -131,6 +135,9 @@ export const adminRouter = createTRPCRouter({
       if (!env.AWS_DYNAMO_TABLE) {
         throw new Error("AWS_DYNAMO_TABLE is not configured");
       }
+      if (!env.AWS_S3_UPLOAD_BUCKET) {
+        throw new Error("AWS_S3_UPLOAD_BUCKET is not configured");
+      }
 
       const docClient = getDynamoDocClient();
       const nowIso = new Date().toISOString();
@@ -155,11 +162,12 @@ export const adminRouter = createTRPCRouter({
 
       const updateResult = await docClient.send(updateCommand);
       const updated = updateResult.Attributes as
-        | (Record<string, unknown> & { email?: string; name?: string })
+        | (Record<string, unknown> & { email?: string; name?: string; cv?: Record<string, unknown> })
         | undefined;
 
       const email = safeString(updated?.email);
       const name = safeString(updated?.name);
+      const cvObjectKey = updated?.cv && typeof updated.cv === "object" ? safeString(updated.cv.objectKey) : undefined;
 
       if (email) {
         try {
@@ -174,6 +182,57 @@ export const adminRouter = createTRPCRouter({
       }
 
       return { ok: true as const, status: newStatus };
+    }),
+
+  moveToSystemDesign: publicProcedure
+    .input(systemDesignSchema)
+    .mutation(async ({ input }) => {
+      if (!env.AWS_REGION) {
+        throw new Error("AWS_REGION is not configured");
+      }
+      if (!env.AWS_DYNAMO_TABLE) {
+        throw new Error("AWS_DYNAMO_TABLE is not configured");
+      }
+
+      const docClient = getDynamoDocClient();
+      const nowIso = new Date().toISOString();
+
+      const updateCommand = new UpdateCommand({
+        TableName: env.AWS_DYNAMO_TABLE,
+        Key: { id: input.id },
+        UpdateExpression: "SET #status = :status, #updatedAt = :updatedAt",
+        ExpressionAttributeNames: {
+          "#status": "status",
+          "#updatedAt": "updatedAt",
+        },
+        ExpressionAttributeValues: {
+          ":status": "SYSTEM_DESIGN",
+          ":updatedAt": nowIso,
+        },
+        ReturnValues: "ALL_NEW",
+      });
+
+      const updateResult = await docClient.send(updateCommand);
+      const updated = updateResult.Attributes as
+        | (Record<string, unknown> & { email?: string; name?: string })
+        | undefined;
+
+      const email = safeString(updated?.email);
+      const name = safeString(updated?.name);
+
+      if (email) {
+        try {
+          await sendEmailByType({
+            type: "application_system_design",
+            to: [email],
+            params: { name: name ?? null, applicantEmail: email ?? null },
+          });
+        } catch (err) {
+          console.error("Failed to send system design email", err);
+        }
+      }
+
+      return { ok: true as const, status: "SYSTEM_DESIGN" as const };
     }),
 });
 

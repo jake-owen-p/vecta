@@ -3,6 +3,7 @@ import type { EmailType } from "~/server/email/types";
 type TemplateParams = {
   name?: string | null;
   applicantEmail?: string | null;
+  cvUrl?: string | null;
 };
 
 type TemplateResult = {
@@ -218,10 +219,55 @@ const successTemplate = (params: TemplateParams): TemplateResult => {
   };
 };
 
+const systemDesignTemplate = (params: TemplateParams): TemplateResult => {
+  const greeting = renderGreeting(params.name);
+  return {
+    subject: "Vecta — system design interview",
+    html: renderFrame(`
+      <tr>
+        <td style="${baseStyles.badge}">Vecta Network</td>
+      </tr>
+      <tr><td style="height:16px"></td></tr>
+      <tr>
+        <td>
+          <h1 style="${baseStyles.heading}">Let’s dive into the build phase</h1>
+        </td>
+      </tr>
+      <tr><td style="height:20px"></td></tr>
+      <tr>
+        <td style="${baseStyles.paragraph}">
+          ${greeting}<br /><br />
+          Great news — we’re moving you forward to the system design interview. This next step is where we get tactical about how you’d architect production-grade AI systems for our operators.
+        </td>
+      </tr>
+      <tr><td style="height:20px"></td></tr>
+      <tr>
+        <td style="${baseStyles.paragraph}">
+          Pick a time for the session below. We’ll review your approach to data flows, model orchestration, evaluation, and the willingness to ship. Bring your impact stories and be ready to whiteboard together.
+        </td>
+      </tr>
+      <tr><td style="height:24px"></td></tr>
+      <tr>
+        <td>
+          <a href="https://calendly.com/jake-vecta/vecta-system-design" style="${baseStyles.button}">Book system design interview</a>
+        </td>
+      </tr>
+      <tr><td style="height:24px"></td></tr>
+      <tr><td style="height:28px"></td></tr>
+      <tr>
+        <td style="${baseStyles.footer}">
+          From the Vecta team — team@vecta.co
+        </td>
+      </tr>
+    `),
+  };
+};
+
 const templates: Record<EmailType, (params: TemplateParams) => TemplateResult> = {
   application_submitted: submittedTemplate,
   application_rejected: rejectionTemplate,
   application_successful: successTemplate,
+  application_system_design: systemDesignTemplate,
 };
 
 export const getEmailTemplate = (type: EmailType, params: TemplateParams = {}): TemplateResult => {
