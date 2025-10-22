@@ -33,11 +33,11 @@ export const BusinessHero = () => {
               Build real AI products — with engineers who’ve done it before.
             </h1>
             <p className="text-lg text-white/80 md:text-xl">
-              Top 5% applied AI developers ready to join your team. From LLM integrations to full-stack agentic systems — onboard in 48 hours.
+              Top 5% applied AI developers ready to join your team. From LLM integrations to full-stack agentic systems.
             </p>
             <div className="flex flex-col items-center gap-4 sm:flex-row">
               <Button asChild size="xl" variant="accent" className="w-full sm:w-auto">
-                <Link href="https://calendly.com/jakeowen-ex/30min" target="_blank" rel="noreferrer">
+                <Link href="https://calendly.com/james-vecta/30min" target="_blank" rel="noreferrer">
                   Hire AI Developers
                 </Link>
               </Button>
