@@ -664,7 +664,7 @@ export const ApplyForm = () => {
                   <textarea
                     id={projectHighlightsId}
                     name="projectHighlights"
-                    placeholder="https://example.com/project1, https://website.com"
+                    placeholder="https://example.com/project1, https://website.com, https://github.com/user/repo"
                     className={cn(
                       "min-h-[140px] w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40",
                       errors.projectHighlights && "border-[#FF3600]/70 focus:ring-[#FF3600]/60",
@@ -682,33 +682,6 @@ export const ApplyForm = () => {
                   {errors.projectHighlights ? (
                     <p id={`${projectHighlightsId}-error`} className="text-sm text-[#FF7F66]">
                       {errors.projectHighlights}
-                    </p>
-                  ) : null}
-                </div>
-
-                <div className="grid gap-2">
-                  <label htmlFor={githubUrlId} className="text-sm font-medium text-white">
-                    GitHub or code portfolio
-                  </label>
-                  <input
-                    id={githubUrlId}
-                    name="githubUrl"
-                    type="url"
-                    placeholder="https://github.com/ada"
-                    className={cn(
-                      "w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40",
-                      errors.githubUrl && "border-[#FF3600]/70 focus:ring-[#FF3600]/60",
-                    )}
-                    aria-invalid={errors.githubUrl ? "true" : undefined}
-                    aria-describedby={errors.githubUrl ? `${githubUrlId}-error` : `${githubUrlId}-hint`}
-                    onInput={() => clearError("githubUrl")}
-                  />
-                  <p id={`${githubUrlId}-hint`} className="text-xs text-white/40">
-                    Drop the link to your GitHub, agent repo, or other code space (optional).
-                  </p>
-                  {errors.githubUrl ? (
-                    <p id={`${githubUrlId}-error`} className="text-sm text-[#FF7F66]">
-                      {errors.githubUrl}
                     </p>
                   ) : null}
                 </div>
