@@ -39,10 +39,21 @@ const toStringArray = (value: unknown) => {
   return value.filter((item): item is string => typeof item === "string");
 };
 const safeUrl = (value: unknown) => {
+  if (typeof value !== "string") return undefined;
+  try {
+    const url = new URL(value);
+    return url.toString();
+  } catch (error) {
+    void error;
+    return undefined;
+  }
+};
+
 const safeAgenticShowcase = (value: unknown) => {
   if (!value || typeof value !== "object") {
     return undefined;
   }
+
   const record = value as Record<string, unknown>;
   const highlights = safeString(record.highlights);
   if (!highlights) {
@@ -57,15 +68,6 @@ const safeAgenticShowcase = (value: unknown) => {
     githubUrl: string | null;
     links: string[];
   };
-};
-  if (typeof value !== "string") return undefined;
-  try {
-    const url = new URL(value);
-    return url.toString();
-  } catch (error) {
-    void error;
-    return undefined;
-  }
 };
 
 export const adminRouter = createTRPCRouter({
