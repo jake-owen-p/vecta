@@ -653,7 +653,7 @@ export const ApplyForm = () => {
                   </span>
                   <h2 className="text-xl font-semibold text-white">(Optional) Share your projects</h2>
                   <p className="text-sm text-white/50">
-                    Tell us about the autonomous agents, personal projects, or open-source work you've shipped - ideally with links!
+                    Tell us about the autonomous agents, personal projects, or open-source work you&apos;ve shipped - ideally with links!
                   </p>
                 </div>
 
