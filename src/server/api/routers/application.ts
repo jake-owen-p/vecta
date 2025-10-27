@@ -18,11 +18,14 @@ const submissionInputSchema = z.object({
   workTypeLabels: z.array(z.enum(["remote", "in-person", "hybrid"])).min(1),
   employmentTypes: z.array(EmploymentTypeEnum).min(1, "Select at least one engagement preference"),
   employmentTypeLabels: z.array(z.enum(["full-time", "contract"])).min(1),
-  agenticShowcase: z.object({
-    highlights: z.string().min(1, "Share a project highlight"),
-    githubUrl: z.string().url().nullable().optional(),
-    links: z.array(z.string().url()).default([]),
-  }),
+  agenticShowcase: z
+    .object({
+      highlights: z.string().min(1, "Share a project highlight"),
+      githubUrl: z.string().url().nullable().optional(),
+      links: z.array(z.string().url()).default([]),
+    })
+    .optional()
+    .nullable(),
   jobType: z.string().max(200).optional().nullable(),
   cv: z.object({
     objectKey: z.string().min(1),
@@ -63,11 +66,13 @@ export const applicationRouter = createTRPCRouter({
           workTypeLabels: input.workTypeLabels,
           employmentTypes: input.employmentTypes,
           employmentTypeLabels: input.employmentTypeLabels,
-          agenticShowcase: {
-            highlights: input.agenticShowcase.highlights,
-            githubUrl: input.agenticShowcase.githubUrl ?? null,
-            links: input.agenticShowcase.links ?? [],
-          },
+          agenticShowcase: input.agenticShowcase
+            ? {
+                highlights: input.agenticShowcase.highlights,
+                githubUrl: input.agenticShowcase.githubUrl ?? null,
+                links: input.agenticShowcase.links ?? [],
+              }
+            : null,
           jobType: input.jobType ?? null,
           cv: {
             objectKey: input.cv.objectKey,

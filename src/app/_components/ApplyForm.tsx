@@ -297,6 +297,7 @@ export const ApplyForm = () => {
     const email = getStringField("email");
     const phone = getStringField("phone");
     const projectHighlights = getStringField("projectHighlights");
+    const normalizedProjectHighlights = projectHighlights || null;
     const githubUrlInput = getStringField("githubUrl");
     const projectLinksInput = getStringField("projectLinks");
     const storedJobType = jobType;
@@ -361,10 +362,6 @@ export const ApplyForm = () => {
       nextErrors.cv = "We could not confirm your CV upload. Please try again.";
     }
 
-    if (!projectHighlights) {
-      nextErrors.projectHighlights = "Share a project or two that showcases your agentic work.";
-    }
-
     if (workTypes.length === 0) {
       nextErrors.workTypes = "Select at least one work preference.";
     }
@@ -389,6 +386,16 @@ export const ApplyForm = () => {
           throw new Error("Missing CV selection or upload key");
         }
 
+        const hasAgenticShowcase = Boolean(normalizedProjectHighlights) || Boolean(githubUrl) || projectLinks.length > 0;
+
+        const agenticShowcasePayload = hasAgenticShowcase
+          ? {
+              highlights: normalizedProjectHighlights,
+              githubUrl,
+              links: projectLinks,
+            }
+          : null;
+
         await applicationMutation.mutateAsync({
           name,
           email,
@@ -397,11 +404,7 @@ export const ApplyForm = () => {
           workTypeLabels: workTypes,
           employmentTypes: employmentTypes.map((value) => EMPLOYMENT_TYPE_TO_ENUM[value]),
           employmentTypeLabels: employmentTypes,
-          agenticShowcase: {
-            highlights: projectHighlights,
-            githubUrl,
-            links: projectLinks,
-          },
+          agenticShowcase: agenticShowcasePayload,
           jobType: storedJobType ?? null,
           cv: {
             objectKey: uploadedKey,
@@ -648,13 +651,11 @@ export const ApplyForm = () => {
 
               <div className="grid gap-4 rounded-2xl border border-white/10 bg-white/[0.04] p-6">
                 <div className="space-y-2">
-                  <span className="text-sm font-semibold uppercase tracking-[0.2em] text-white/60">
-                    Showcase
-                  </span>
-                  <h2 className="text-xl font-semibold text-white">(Optional) Share your projects</h2>
-                  <p className="text-sm text-white/50">
-                    Tell us about the autonomous agents, personal projects, or open-source work you&apos;ve shipped - ideally with links!
-                  </p>
+              <span className="text-sm font-semibold uppercase tracking-[0.2em] text-white/60">Showcase</span>
+              <h2 className="text-xl font-semibold text-white">(Optional) Share your projects</h2>
+              <p className="text-sm text-white/50">
+                Tell us about the autonomous agents, personal projects, or open-source work you&apos;ve shipped — links welcome but not required.
+              </p>
                 </div>
 
                 <div className="grid gap-2">
@@ -674,8 +675,10 @@ export const ApplyForm = () => {
                       errors.projectHighlights ? `${projectHighlightsId}-error` : `${projectHighlightsId}-hint`
                     }
                     onInput={() => clearError("projectHighlights")}
-                    required
                   />
+              <p id={`${projectHighlightsId}-hint`} className="text-xs text-white/40">
+                Optional. Share highlight blurbs or paste a few URLs separated by commas or new lines.
+              </p>
                   {errors.projectHighlights ? (
                     <p id={`${projectHighlightsId}-error`} className="text-sm text-[#FF7F66]">
                       {errors.projectHighlights}
