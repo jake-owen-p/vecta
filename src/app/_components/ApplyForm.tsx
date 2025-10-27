@@ -676,9 +676,6 @@ export const ApplyForm = () => {
                     onInput={() => clearError("projectHighlights")}
                     required
                   />
-                  <p id={`${projectHighlightsId}-hint`} className="text-xs text-white/40">
-                    We love specifics: what you built, tooling, results, and your role.
-                  </p>
                   {errors.projectHighlights ? (
                     <p id={`${projectHighlightsId}-error`} className="text-sm text-[#FF7F66]">
                       {errors.projectHighlights}
