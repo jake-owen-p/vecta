@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useId, useMemo, useState } from "react";
+import { useCallback, useEffect, useId, useMemo, useState } from "react";
 
 import { Loader2 } from "lucide-react";
 
@@ -19,7 +19,17 @@ type EmploymentType = "full-time" | "contract";
 type ApplicationWorkType = "REMOTE" | "IN_PERSON" | "HYBRID";
 type ApplicationEmploymentType = "FULL_TIME" | "CONTRACT";
 
-type ErrorState = Partial<Record<"name" | "email" | "cv" | "workTypes" | "employmentTypes", string>>;
+type ErrorField =
+  | "name"
+  | "email"
+  | "cv"
+  | "workTypes"
+  | "employmentTypes"
+  | "projectHighlights"
+  | "projectLinks"
+  | "githubUrl";
+
+type ErrorState = Partial<Record<ErrorField, string>>;
 
 const WORK_TYPE_OPTIONS: { value: WorkType; label: string; description: string }[] = [
   { value: "remote", label: "Remote", description: "Comfort of your home" },
@@ -44,6 +54,13 @@ const EMPLOYMENT_TYPE_TO_ENUM: Record<EmploymentType, ApplicationEmploymentType>
 };
 
 const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
+const JOB_TYPE_STORAGE_KEY = "vecta.apply.jobType";
+
+const normalizeJobType = (value: string | null | undefined) => {
+  if (!value) return null;
+  const trimmed = value.trim();
+  return trimmed.length > 0 ? trimmed : null;
+};
 
 export const ApplyForm = () => {
   const [workTypes, setWorkTypes] = useState<WorkType[]>([]);
@@ -56,11 +73,15 @@ export const ApplyForm = () => {
   const [uploadError, setUploadError] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [jobType, setJobType] = useState<string | null>(null);
 
   const nameId = useId();
   const emailId = useId();
   const phoneId = useId();
   const cvId = useId();
+  const projectHighlightsId = useId();
+  const projectLinksId = useId();
+  const githubUrlId = useId();
   const workTypeGroupId = useId();
   const employmentTypeGroupId = useId();
 
@@ -70,6 +91,64 @@ export const ApplyForm = () => {
   const workTypeErrorId = `${workTypeGroupId}-error`;
   const employmentTypeDescriptionId = `${employmentTypeGroupId}-description`;
   const employmentTypeErrorId = `${employmentTypeGroupId}-error`;
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const searchParams = new URLSearchParams(window.location.search);
+    const paramValue = normalizeJobType(searchParams.get("JOB_TYPE"));
+    let storedValue: string | null = null;
+
+    try {
+      storedValue = window.localStorage.getItem(JOB_TYPE_STORAGE_KEY);
+    } catch (error) {
+      void error;
+      storedValue = null;
+    }
+
+    if (paramValue) {
+      setJobType(paramValue);
+      try {
+        window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, paramValue);
+      } catch (error) {
+        void error;
+      }
+
+      searchParams.delete("JOB_TYPE");
+      const query = searchParams.toString();
+      const hash = window.location.hash;
+      const nextUrl = query ? `${window.location.pathname}?${query}${hash}` : `${window.location.pathname}${hash}`;
+      window.history.replaceState({}, "", nextUrl);
+      return;
+    }
+
+    const normalizedStored = normalizeJobType(storedValue);
+    if (normalizedStored) {
+      setJobType(normalizedStored);
+      return;
+    }
+
+    setJobType(null);
+    try {
+      window.localStorage.removeItem(JOB_TYPE_STORAGE_KEY);
+    } catch (error) {
+      void error;
+    }
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    try {
+      if (jobType) {
+        window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, jobType);
+      } else {
+        window.localStorage.removeItem(JOB_TYPE_STORAGE_KEY);
+      }
+    } catch (error) {
+      void error;
+    }
+  }, [jobType]);
 
   const selectedLabels = useMemo(
     () =>
@@ -89,24 +168,23 @@ export const ApplyForm = () => {
     [employmentTypes],
   );
 
+  const clearError = useCallback((field: ErrorField) => {
+    setErrors((prev) => {
+      if (!prev[field]) return prev;
+      const next = { ...prev };
+      delete next[field];
+      return next;
+    });
+  }, []);
+
   const handleWorkTypesChange = (value: string[]) => {
     setWorkTypes(value as WorkType[]);
-    setErrors((prev) => {
-      if (!prev.workTypes) return prev;
-      const { workTypes: _previous, ...rest } = prev;
-      void _previous;
-      return rest;
-    });
+    clearError("workTypes");
   };
 
   const handleEmploymentTypesChange = (value: string[]) => {
     setEmploymentTypes(value as EmploymentType[]);
-    setErrors((prev) => {
-      if (!prev.employmentTypes) return prev;
-      const { employmentTypes: _prevEmployment, ...rest } = prev;
-      void _prevEmployment;
-      return rest;
-    });
+    clearError("employmentTypes");
   };
 
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -119,12 +197,7 @@ export const ApplyForm = () => {
     setUploadError(null);
     setSelectedFile(null);
 
-    setErrors((prev) => {
-      if (!prev.cv) return prev;
-      const { cv: _previousCvError, ...rest } = prev;
-      void _previousCvError;
-      return rest;
-    });
+    clearError("cv");
 
     if (!file) {
       return;
@@ -223,6 +296,52 @@ export const ApplyForm = () => {
     const name = getStringField("name");
     const email = getStringField("email");
     const phone = getStringField("phone");
+    const projectHighlights = getStringField("projectHighlights");
+    const githubUrlInput = getStringField("githubUrl");
+    const projectLinksInput = getStringField("projectLinks");
+    const storedJobType = jobType;
+
+    const normalizeUrl = (raw: string) => {
+      const trimmed = raw.trim();
+      if (!trimmed) return null;
+
+      const hasProtocol = /^[a-z][a-z0-9+.-]*:\/\//i.test(trimmed);
+      const candidate = hasProtocol ? trimmed : `https://${trimmed}`;
+      const url = new URL(candidate);
+      return url.toString();
+    };
+
+    let githubUrl: string | null = null;
+
+    if (githubUrlInput) {
+      try {
+        githubUrl = normalizeUrl(githubUrlInput);
+        if (!githubUrl) {
+          throw new Error("Invalid URL");
+        }
+      } catch (error) {
+        void error;
+        nextErrors.githubUrl = "Enter a valid URL (include https://).";
+      }
+    }
+
+    const projectLinks: string[] = [];
+    if (projectLinksInput) {
+      const rawLinks = projectLinksInput.split(/\r?\n|,|\s{2,}/).map((link) => link.trim()).filter(Boolean);
+      for (const link of rawLinks) {
+        try {
+          const normalized = normalizeUrl(link);
+          if (!normalized) {
+            throw new Error("Invalid URL");
+          }
+          projectLinks.push(normalized);
+        } catch (error) {
+          void error;
+          nextErrors.projectLinks = "One or more links look invalid. Use full URLs.";
+          break;
+        }
+      }
+    }
 
     if (!name) {
       nextErrors.name = "Name is required.";
@@ -240,6 +359,10 @@ export const ApplyForm = () => {
       nextErrors.cv = uploadError ?? "Your CV upload did not complete.";
     } else if (uploadStatus !== "uploaded" || !uploadedKey) {
       nextErrors.cv = "We could not confirm your CV upload. Please try again.";
+    }
+
+    if (!projectHighlights) {
+      nextErrors.projectHighlights = "Share a project or two that showcases your agentic work.";
     }
 
     if (workTypes.length === 0) {
@@ -274,6 +397,12 @@ export const ApplyForm = () => {
           workTypeLabels: workTypes,
           employmentTypes: employmentTypes.map((value) => EMPLOYMENT_TYPE_TO_ENUM[value]),
           employmentTypeLabels: employmentTypes,
+          agenticShowcase: {
+            highlights: projectHighlights,
+            githubUrl,
+            links: projectLinks,
+          },
+          jobType: storedJobType ?? null,
           cv: {
             objectKey: uploadedKey,
             url: uploadedUrl,
@@ -428,6 +557,7 @@ export const ApplyForm = () => {
                 ) : null}
               </div>
 
+
               <div className="grid gap-3">
                 <div className="flex items-center justify-between gap-4">
                   <div>
@@ -514,6 +644,74 @@ export const ApplyForm = () => {
                     {errors.employmentTypes}
                   </p>
                 ) : null}
+              </div>
+
+              <div className="grid gap-4 rounded-2xl border border-white/10 bg-white/[0.04] p-6">
+                <div className="space-y-2">
+                  <span className="text-sm font-semibold uppercase tracking-[0.2em] text-white/60">
+                    Showcase
+                  </span>
+                  <h2 className="text-xl font-semibold text-white">(Optional) Share your projects</h2>
+                  <p className="text-sm text-white/50">
+                    Tell us about the autonomous agents, personal projects, or open-source work you've shipped - ideally with links!
+                  </p>
+                </div>
+
+                <div className="grid gap-2">
+                  <label htmlFor={projectHighlightsId} className="text-sm font-medium text-white">
+                    Links for Spotlight projects
+                  </label>
+                  <textarea
+                    id={projectHighlightsId}
+                    name="projectHighlights"
+                    placeholder="https://example.com/project1, https://website.com"
+                    className={cn(
+                      "min-h-[140px] w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40",
+                      errors.projectHighlights && "border-[#FF3600]/70 focus:ring-[#FF3600]/60",
+                    )}
+                    aria-invalid={errors.projectHighlights ? "true" : undefined}
+                    aria-describedby={
+                      errors.projectHighlights ? `${projectHighlightsId}-error` : `${projectHighlightsId}-hint`
+                    }
+                    onInput={() => clearError("projectHighlights")}
+                    required
+                  />
+                  <p id={`${projectHighlightsId}-hint`} className="text-xs text-white/40">
+                    We love specifics: what you built, tooling, results, and your role.
+                  </p>
+                  {errors.projectHighlights ? (
+                    <p id={`${projectHighlightsId}-error`} className="text-sm text-[#FF7F66]">
+                      {errors.projectHighlights}
+                    </p>
+                  ) : null}
+                </div>
+
+                <div className="grid gap-2">
+                  <label htmlFor={githubUrlId} className="text-sm font-medium text-white">
+                    GitHub or code portfolio
+                  </label>
+                  <input
+                    id={githubUrlId}
+                    name="githubUrl"
+                    type="url"
+                    placeholder="https://github.com/ada"
+                    className={cn(
+                      "w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40",
+                      errors.githubUrl && "border-[#FF3600]/70 focus:ring-[#FF3600]/60",
+                    )}
+                    aria-invalid={errors.githubUrl ? "true" : undefined}
+                    aria-describedby={errors.githubUrl ? `${githubUrlId}-error` : `${githubUrlId}-hint`}
+                    onInput={() => clearError("githubUrl")}
+                  />
+                  <p id={`${githubUrlId}-hint`} className="text-xs text-white/40">
+                    Drop the link to your GitHub, agent repo, or other code space (optional).
+                  </p>
+                  {errors.githubUrl ? (
+                    <p id={`${githubUrlId}-error`} className="text-sm text-[#FF7F66]">
+                      {errors.githubUrl}
+                    </p>
+                  ) : null}
+                </div>
               </div>
 
               <div className="flex flex-col gap-3 pt-4 sm:flex-row sm:items-center sm:justify-between">

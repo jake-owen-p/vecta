@@ -28,6 +28,12 @@ type ApplicationRow = {
   cvUrl: string;
   status: ApplicationStatus;
   createdAt: string;
+  agenticShowcase?: {
+    highlights: string;
+    githubUrl: string | null;
+    links: string[];
+  };
+  jobType: string | null;
 };
 
 const STATUS_FILTERS: Array<{ label: string; value: StatusFilter }> = [
@@ -57,6 +63,8 @@ const TABLE_COLUMN_CLASSES: Record<string, { header?: string; cell?: string }> =
   name: { header: "min-w-[180px]", cell: "min-w-[180px] whitespace-nowrap" },
   email: { header: "min-w-[220px]", cell: "min-w-[220px] whitespace-nowrap" },
   phone: { header: "min-w-[160px]", cell: "min-w-[160px] whitespace-nowrap" },
+  jobType: { header: "min-w-[160px]", cell: "min-w-[160px]" },
+  agenticShowcase: { header: "min-w-[240px]", cell: "min-w-[240px]" },
   workTypes: { header: "min-w-[200px]", cell: "min-w-[200px]" },
   employment: { header: "min-w-[200px]", cell: "min-w-[200px]" },
   cv: { header: "min-w-[120px]", cell: "min-w-[120px]" },
@@ -128,6 +136,44 @@ export default function AdminPage() {
         accessorKey: "phone",
         header: "Phone",
         cell: ({ getValue }) => <span className="text-sm text-white/70">{getValue<string | null>() ?? "—"}</span>,
+      },
+      {
+        accessorKey: "jobType",
+        header: "Job Type",
+        cell: ({ getValue }) => {
+          const value = getValue<string | null>();
+          return <span className="text-sm text-white/70">{value ?? "—"}</span>;
+        },
+      },
+      {
+        id: "agenticShowcase",
+        header: "Agentic Showcase",
+        cell: ({ row }) => {
+          const showcase = row.original.agenticShowcase;
+          if (!showcase) {
+            return <span className="text-sm text-white/50">—</span>;
+          }
+
+          return (
+            <div className="flex max-w-xs flex-col gap-1 text-left text-white/80">
+              <span className="text-sm font-medium text-white">{showcase.highlights}</span>
+              {showcase.githubUrl ? (
+                <a className="text-xs text-[#9bf2d5] underline" href={showcase.githubUrl} target="_blank" rel="noreferrer">
+                  GitHub
+                </a>
+              ) : null}
+              {showcase.links?.length ? (
+                <div className="flex flex-col gap-1 text-xs text-white/60">
+                  {showcase.links.map((link) => (
+                    <a key={link} href={link} target="_blank" rel="noreferrer" className="underline">
+                      {link}
+                    </a>
+                  ))}
+                </div>
+              ) : null}
+            </div>
+          );
+        },
       },
       {
         id: "workTypes",
@@ -411,6 +457,36 @@ const toStringArray = (value: unknown) => {
   return value.filter((item): item is string => typeof item === "string");
 };
 
+const safeUrl = (value: unknown) => {
+  if (typeof value !== "string") return undefined;
+  try {
+    const url = new URL(value);
+    return url.toString();
+  } catch (error) {
+    void error;
+    return undefined;
+  }
+};
+
+const safeAgenticShowcase = (value: unknown) => {
+  if (!value || typeof value !== "object") {
+    return undefined;
+  }
+
+  const record = value as Record<string, unknown>;
+  const highlights = typeof record.highlights === "string" ? record.highlights : undefined;
+  if (!highlights) {
+    return undefined;
+  }
+
+  return {
+    highlights,
+    githubUrl: safeUrl(record.githubUrl) ?? null,
+    links: toStringArray(record.links),
+  };
+};
+
+
 function useListData(data: unknown): ApplicationRow[] {
   return useMemo(() => {
     if (!Array.isArray(data)) return [];
@@ -428,6 +504,8 @@ function useListData(data: unknown): ApplicationRow[] {
         const cvUrl = typeof record.cvUrl === "string" ? record.cvUrl : null;
         const status = normalizeStatus(record.status);
         const createdAt = typeof record.createdAt === "string" ? record.createdAt : null;
+        const agenticShowcase = safeAgenticShowcase(record.agenticShowcase);
+        const jobType = typeof record.jobType === "string" ? record.jobType : null;
 
         if (!id || !name || !email || !cvUrl || !createdAt) {
           return null;
@@ -443,7 +521,12 @@ function useListData(data: unknown): ApplicationRow[] {
           cvUrl,
           status,
           createdAt,
+          jobType,
         };
+
+        if (agenticShowcase) {
+          entry.agenticShowcase = agenticShowcase;
+        }
 
         return entry;
       })

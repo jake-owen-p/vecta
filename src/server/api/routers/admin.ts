@@ -38,6 +38,35 @@ const toStringArray = (value: unknown) => {
   if (!Array.isArray(value)) return [] as string[];
   return value.filter((item): item is string => typeof item === "string");
 };
+const safeUrl = (value: unknown) => {
+const safeAgenticShowcase = (value: unknown) => {
+  if (!value || typeof value !== "object") {
+    return undefined;
+  }
+  const record = value as Record<string, unknown>;
+  const highlights = safeString(record.highlights);
+  if (!highlights) {
+    return undefined;
+  }
+
+  const githubUrl = safeUrl(record.githubUrl) ?? null;
+  const links = toStringArray(record.links);
+
+  return { highlights, githubUrl, links } as {
+    highlights: string;
+    githubUrl: string | null;
+    links: string[];
+  };
+};
+  if (typeof value !== "string") return undefined;
+  try {
+    const url = new URL(value);
+    return url.toString();
+  } catch (error) {
+    void error;
+    return undefined;
+  }
+};
 
 export const adminRouter = createTRPCRouter({
   listApplications: publicProcedure.query(async () => {
@@ -76,6 +105,8 @@ export const adminRouter = createTRPCRouter({
           const updatedAt = safeString(item.updatedAt);
           const status = safeString(item.status) ?? "PENDING";
           const cv = item.cv;
+          const agenticShowcaseRaw = item.agenticShowcase;
+          const jobType = safeString(item.jobType);
 
           if (!cv || typeof cv !== "object") {
             return null;
@@ -90,6 +121,8 @@ export const adminRouter = createTRPCRouter({
           }
 
           const cvDetails = cv as Record<string, unknown>;
+
+          const agenticShowcase = safeAgenticShowcase(agenticShowcaseRaw);
 
           return {
             id,
@@ -107,6 +140,8 @@ export const adminRouter = createTRPCRouter({
               type: safeString(cvDetails.type) ?? "",
               size: typeof cvDetails.size === "number" ? cvDetails.size : 0,
             },
+            agenticShowcase,
+            jobType: jobType ?? null,
           };
         })
         .filter((value): value is NonNullable<typeof value> => value !== null)
