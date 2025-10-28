@@ -13,7 +13,7 @@ const EmploymentTypeEnum = z.enum(["FULL_TIME", "CONTRACT"]);
 const submissionInputSchema = z.object({
   name: z.string().min(1, "Name is required"),
   email: z.string().email("Enter a valid email"),
-  phone: z.string().min(1).optional().nullable(),
+  phone: z.string().min(1, "Phone number is required"),
   workTypes: z.array(WorkTypeEnum).min(1, "Select at least one work type"),
   workTypeLabels: z.array(z.enum(["remote", "in-person", "hybrid"])).min(1),
   employmentTypes: z.array(EmploymentTypeEnum).min(1, "Select at least one engagement preference"),
@@ -24,8 +24,7 @@ const submissionInputSchema = z.object({
       githubUrl: z.string().url().nullable().optional(),
       links: z.array(z.string().url()).default([]),
     })
-    .optional()
-    .nullable(),
+    .optional(),
   jobType: z.string().max(200).optional().nullable(),
   cv: z.object({
     objectKey: z.string().min(1),
@@ -61,18 +60,20 @@ export const applicationRouter = createTRPCRouter({
           id,
           name: input.name,
           email: input.email,
-          phone: input.phone ?? null,
+          phone: input.phone,
           workTypes: input.workTypes,
           workTypeLabels: input.workTypeLabels,
           employmentTypes: input.employmentTypes,
           employmentTypeLabels: input.employmentTypeLabels,
-          agenticShowcase: input.agenticShowcase
+          ...(input.agenticShowcase
             ? {
-                highlights: input.agenticShowcase.highlights,
-                githubUrl: input.agenticShowcase.githubUrl ?? null,
-                links: input.agenticShowcase.links ?? [],
+                agenticShowcase: {
+                  highlights: input.agenticShowcase.highlights,
+                  githubUrl: input.agenticShowcase.githubUrl ?? null,
+                  links: input.agenticShowcase.links ?? [],
+                },
               }
-            : null,
+            : {}),
           jobType: input.jobType ?? null,
           cv: {
             objectKey: input.cv.objectKey,

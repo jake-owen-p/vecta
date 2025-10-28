@@ -22,7 +22,7 @@ type ApplicationRow = {
   id: string;
   name: string;
   email: string;
-  phone: string | null;
+  phone: string;
   workTypeLabels: string[];
   employmentTypeLabels: string[];
   cvUrl: string;
@@ -135,7 +135,7 @@ export default function AdminPage() {
       {
         accessorKey: "phone",
         header: "Phone",
-        cell: ({ getValue }) => <span className="text-sm text-white/70">{getValue<string | null>() ?? "—"}</span>,
+        cell: ({ getValue }) => <span className="text-sm text-white/70">{getValue<string>()}</span>,
       },
       {
         accessorKey: "jobType",
@@ -515,7 +515,7 @@ function useListData(data: unknown): ApplicationRow[] {
           id,
           name,
           email,
-          phone,
+          phone: phone ?? "",
           workTypeLabels,
           employmentTypeLabels,
           cvUrl,

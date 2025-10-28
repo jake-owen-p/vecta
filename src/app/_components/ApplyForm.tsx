@@ -55,6 +55,12 @@ const EMPLOYMENT_TYPE_TO_ENUM: Record<EmploymentType, ApplicationEmploymentType>
 
 const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
 const JOB_TYPE_STORAGE_KEY = "vecta.apply.jobType";
+const JOB_TYPE_HEADING_MAP: Record<string, string> = {
+  principle: "Principle Engineer",
+  founding: "Founding Engineer",
+  staff: "Staff Engineer",
+  senior: "Senior Engineer",
+};
 
 const normalizeJobType = (value: string | null | undefined) => {
   if (!value) return null;
@@ -74,6 +80,7 @@ export const ApplyForm = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [jobType, setJobType] = useState<string | null>(null);
+  const [jobTypeParam, setJobTypeParam] = useState<string | null>(null);
 
   const nameId = useId();
   const emailId = useId();
@@ -108,20 +115,16 @@ export const ApplyForm = () => {
 
     if (paramValue) {
       setJobType(paramValue);
+      setJobTypeParam(paramValue);
       try {
         window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, paramValue);
       } catch (error) {
         void error;
       }
-
-      searchParams.delete("JOB_TYPE");
-      const query = searchParams.toString();
-      const hash = window.location.hash;
-      const nextUrl = query ? `${window.location.pathname}?${query}${hash}` : `${window.location.pathname}${hash}`;
-      window.history.replaceState({}, "", nextUrl);
       return;
     }
 
+    setJobTypeParam(null);
     const normalizedStored = normalizeJobType(storedValue);
     if (normalizedStored) {
       setJobType(normalizedStored);
@@ -142,8 +145,10 @@ export const ApplyForm = () => {
     try {
       if (jobType) {
         window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, jobType);
+        setJobTypeParam((prev) => prev ?? jobType);
       } else {
         window.localStorage.removeItem(JOB_TYPE_STORAGE_KEY);
+        setJobTypeParam(null);
       }
     } catch (error) {
       void error;
@@ -297,7 +302,7 @@ export const ApplyForm = () => {
     const email = getStringField("email");
     const phone = getStringField("phone");
     const projectHighlights = getStringField("projectHighlights");
-    const normalizedProjectHighlights = projectHighlights || null;
+    const highlightText = projectHighlights ? projectHighlights : null;
     const githubUrlInput = getStringField("githubUrl");
     const projectLinksInput = getStringField("projectLinks");
     const storedJobType = jobType;
@@ -352,6 +357,10 @@ export const ApplyForm = () => {
       nextErrors.email = "Email is required.";
     }
 
+    if (!phone) {
+      nextErrors.phone = "Phone number is required.";
+    }
+
     if (!selectedFile) {
       nextErrors.cv = "Upload your latest CV.";
     } else if (uploadStatus === "uploading") {
@@ -386,17 +395,17 @@ export const ApplyForm = () => {
           throw new Error("Missing CV selection or upload key");
         }
 
-        const hasAgenticShowcase = Boolean(normalizedProjectHighlights) || Boolean(githubUrl) || projectLinks.length > 0;
+        const hasAgenticShowcase = Boolean(highlightText) || Boolean(githubUrl) || projectLinks.length > 0;
 
         const agenticShowcasePayload = hasAgenticShowcase
           ? {
-              highlights: normalizedProjectHighlights,
-              githubUrl,
-              links: projectLinks,
+              ...(highlightText ? { highlights: highlightText } : {}),
+              ...(githubUrl ? { githubUrl } : {}),
+              ...(projectLinks.length > 0 ? { links: projectLinks } : {}),
             }
-          : null;
+          : undefined;
 
-        await applicationMutation.mutateAsync({
+        const submissionPayload = {
           name,
           email,
           phone: phone || null,
@@ -404,7 +413,6 @@ export const ApplyForm = () => {
           workTypeLabels: workTypes,
           employmentTypes: employmentTypes.map((value) => EMPLOYMENT_TYPE_TO_ENUM[value]),
           employmentTypeLabels: employmentTypes,
-          agenticShowcase: agenticShowcasePayload,
           jobType: storedJobType ?? null,
           cv: {
             objectKey: uploadedKey,
@@ -413,7 +421,34 @@ export const ApplyForm = () => {
             type: selectedFile.type,
             size: selectedFile.size,
           },
-        });
+        } as {
+          name: string;
+          email: string;
+          phone: string | null;
+          workTypes: ApplicationWorkType[];
+          workTypeLabels: WorkType[];
+          employmentTypes: ApplicationEmploymentType[];
+          employmentTypeLabels: EmploymentType[];
+          agenticShowcase?: {
+            highlights?: string;
+            githubUrl?: string;
+            links?: string[];
+          };
+          jobType: string | null;
+          cv: {
+            objectKey: string;
+            url: string | null;
+            name: string;
+            type: string;
+            size: number;
+          };
+        };
+
+        if (agenticShowcasePayload) {
+          submissionPayload.agenticShowcase = agenticShowcasePayload;
+        }
+
+        await applicationMutation.mutateAsync(submissionPayload);
 
         setSubmittedMessage("Thanks! We received your application.");
         form.reset();
@@ -440,7 +475,13 @@ export const ApplyForm = () => {
           <div className="inline-flex h-1 w-16 rounded-full bg-gradient-to-r from-white/40 to-white/10" />
           <div className="space-y-4">
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-white/50">Apply</p>
-            <h1 className="text-4xl font-bold leading-tight text-white sm:text-5xl">Join the Vecta Network</h1>
+            <h1 className="text-4xl font-bold leading-tight text-white sm:text-5xl">
+              {(() => {
+                if (!jobTypeParam) return "Join the Vecta Network";
+                const mapped = JOB_TYPE_HEADING_MAP[jobTypeParam.toLowerCase()];
+                return mapped ?? "Join the Vecta Network";
+              })()}
+            </h1>
             <p className="text-base text-white/60">
               Share your background so we can match you with remote-friendly, high-impact AI roles across our partner
               companies.
@@ -507,16 +548,29 @@ export const ApplyForm = () => {
 
               <div className="grid gap-2">
                 <label htmlFor={phoneId} className="text-sm font-medium text-white">
-                  Phone (optional)
+                  Phone
                 </label>
                 <input
                   id={phoneId}
                   name="phone"
                   type="tel"
                   placeholder="+44 20 7946 0958"
-                  className="w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40"
+                  className={cn(
+                    "w-full rounded-lg border border-white/10 bg-black/40 px-4 py-3 text-sm text-white transition focus:border-[#FF3600] focus:outline-none focus:ring-2 focus:ring-[#FF3600]/40",
+                    errors.phone && "border-[#FF3600]/70 focus:ring-[#FF3600]/60",
+                  )}
+                  aria-invalid={errors.phone ? "true" : undefined}
+                  aria-describedby={errors.phone ? `${phoneId}-error` : `${phoneId}-hint`}
+                  required
                 />
-                <p className="text-xs text-white/40">We’ll only call for interview coordination.</p>
+                <p id={`${phoneId}-hint`} className="text-xs text-white/40">
+                  We’ll only call for interview coordination.
+                </p>
+                {errors.phone ? (
+                  <p id={`${phoneId}-error`} className="text-sm text-[#FF7F66]">
+                    {errors.phone}
+                  </p>
+                ) : null}
               </div>
 
               <div className="grid gap-2">
