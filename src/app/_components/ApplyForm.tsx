@@ -22,6 +22,7 @@ type ApplicationEmploymentType = "FULL_TIME" | "CONTRACT";
 type ErrorField =
   | "name"
   | "email"
+  | "phone"
   | "cv"
   | "workTypes"
   | "employmentTypes"
@@ -98,6 +99,8 @@ export const ApplyForm = () => {
   const workTypeErrorId = `${workTypeGroupId}-error`;
   const employmentTypeDescriptionId = `${employmentTypeGroupId}-description`;
   const employmentTypeErrorId = `${employmentTypeGroupId}-error`;
+
+  type SubmissionInput = Parameters<typeof applicationMutation.mutateAsync>[0];
 
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -302,7 +305,7 @@ export const ApplyForm = () => {
     const email = getStringField("email");
     const phone = getStringField("phone");
     const projectHighlights = getStringField("projectHighlights");
-    const highlightText = projectHighlights ? projectHighlights : null;
+    const highlightText = projectHighlights ? projectHighlights : undefined;
     const githubUrlInput = getStringField("githubUrl");
     const projectLinksInput = getStringField("projectLinks");
     const storedJobType = jobType;
@@ -395,25 +398,23 @@ export const ApplyForm = () => {
           throw new Error("Missing CV selection or upload key");
         }
 
-        const hasAgenticShowcase = Boolean(highlightText) || Boolean(githubUrl) || projectLinks.length > 0;
-
-        const agenticShowcasePayload = hasAgenticShowcase
+        const agenticShowcasePayload = highlightText
           ? {
-              ...(highlightText ? { highlights: highlightText } : {}),
+              highlights: highlightText,
               ...(githubUrl ? { githubUrl } : {}),
               ...(projectLinks.length > 0 ? { links: projectLinks } : {}),
             }
           : undefined;
 
-        const submissionPayload = {
+        const submissionPayload: SubmissionInput = {
           name,
           email,
-          phone: phone || null,
+          phone,
           workTypes: workTypes.map((value) => WORK_TYPE_TO_ENUM[value]),
           workTypeLabels: workTypes,
           employmentTypes: employmentTypes.map((value) => EMPLOYMENT_TYPE_TO_ENUM[value]),
           employmentTypeLabels: employmentTypes,
-          jobType: storedJobType ?? null,
+          jobType: storedJobType ?? undefined,
           cv: {
             objectKey: uploadedKey,
             url: uploadedUrl,
@@ -421,34 +422,13 @@ export const ApplyForm = () => {
             type: selectedFile.type,
             size: selectedFile.size,
           },
-        } as {
-          name: string;
-          email: string;
-          phone: string | null;
-          workTypes: ApplicationWorkType[];
-          workTypeLabels: WorkType[];
-          employmentTypes: ApplicationEmploymentType[];
-          employmentTypeLabels: EmploymentType[];
-          agenticShowcase?: {
-            highlights?: string;
-            githubUrl?: string;
-            links?: string[];
-          };
-          jobType: string | null;
-          cv: {
-            objectKey: string;
-            url: string | null;
-            name: string;
-            type: string;
-            size: number;
-          };
         };
 
-        if (agenticShowcasePayload) {
-          submissionPayload.agenticShowcase = agenticShowcasePayload;
-        }
-
-        await applicationMutation.mutateAsync(submissionPayload);
+        await applicationMutation.mutateAsync(
+          agenticShowcasePayload
+            ? { ...submissionPayload, agenticShowcase: agenticShowcasePayload }
+            : submissionPayload,
+        );
 
         setSubmittedMessage("Thanks! We received your application.");
         form.reset();
