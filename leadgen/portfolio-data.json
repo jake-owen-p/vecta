@@ -1,5 +1,24 @@
 [
   {
+    "name": "Omnea",
+    "description": "Effortless procurement automation.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ben Freeman",
+        "linkedinUrl": "https://www.linkedin.com/in/ben-freeman-a8542166/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ben Allen",
+        "linkedinUrl": "https://www.linkedin.com/in/benjaminjallen/"
+      }
+    ]
+  },
+  {
     "name": "Spore.Bio",
     "description": "Building a new generation of microbiological technologies.",
     "location": "Paris",
@@ -58,25 +77,6 @@
         "role": "CTO",
         "name": "Martin Postel",
         "linkedinUrl": "https://www.linkedin.com/in/postel-martin/"
-      }
-    ]
-  },
-  {
-    "name": "Omnea",
-    "description": "Effortless procurement automation.",
-    "location": "London",
-    "industry": "Enterprise Services",
-    "founded": "2022",
-    "people": [
-      {
-        "role": "CEO",
-        "name": "Ben Freeman",
-        "linkedinUrl": "https://www.linkedin.com/in/ben-freeman-a8542166/"
-      },
-      {
-        "role": "CTO",
-        "name": "Ben Allen",
-        "linkedinUrl": "https://www.linkedin.com/in/benjaminjallen/"
       }
     ]
   },

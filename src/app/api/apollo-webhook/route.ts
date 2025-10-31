@@ -2,12 +2,28 @@ import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 
-// Handle GET requests - Apollo may verify webhook endpoint with GET
-export async function GET() {
-  console.log("Apollo webhook GET request (verification)");
-  return NextResponse.json({ 
-    success: true,
-    message: "Webhook endpoint is active",
+export async function GET(req: Request) {
+  console.log("Webhook GET", {
+    ua: req.headers.get("user-agent"),
+    ip: req.headers.get("x-forwarded-for"),
+  });
+  return NextResponse.json({ ok: true });
+}
+
+export async function HEAD() {
+  // Some senders probe with HEAD
+  return new Response(null, { status: 200 });
+}
+
+export async function OPTIONS() {
+  // Not strictly needed for server-to-server, but harmless
+  return new Response(null, {
+    status: 204,
+    headers: {
+      "Allow": "GET,POST,HEAD,OPTIONS",
+      "Access-Control-Allow-Methods": "POST,GET,HEAD,OPTIONS",
+      "Access-Control-Allow-Headers": "content-type,authorization",
+    },
   });
 }
 

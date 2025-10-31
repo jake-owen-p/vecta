@@ -66,35 +66,25 @@ async function unlockContactInfo(
     const webhookUrl = getWebhookUrl();
     
     // Try using the people/match endpoint with reveal_phone_number and webhook_url
-    const requestBody: Record<string, unknown> = {
-      api_key: apiKey,
-      reveal_phone_number: true,
-      webhook_url: webhookUrl,
-    };
-
-    // Use email if available, otherwise use person ID
-    if (email && email !== "email_not_unlocked@domain.com") {
-      requestBody.email = email;
-    } else {
-      requestBody.person_id = personId;
-    }
-
-    console.log(`    Using webhook URL: ${webhookUrl}`);
-
-    const res = await axios.post<ApolloPerson>(
-      "https://api.apollo.io/v1/people/match",
-      requestBody,
-      {
-        headers: {
-          "Content-Type": "application/json",
-          "Cache-Control": "no-cache",
-          "x-api-key": apiKey,
-        },
-        timeout: 30000,
-      }
-    );
-
-    console.log(res.data);
+    const params = new URLSearchParams({
+        email: email ?? '',
+        reveal_personal_emails: 'false',
+        reveal_phone_number: 'true',
+        webhook_url: webhookUrl, // see note #2 about encoding
+      });
+      
+      await axios.post(
+        `https://api.apollo.io/api/v1/people/match?${params.toString()}`,
+        null,
+        {
+          headers: {
+            'Content-Type': 'application/json',
+            'Cache-Control': 'no-cache',
+            'x-api-key': apiKey,
+          },
+          timeout: 30000,
+        }
+      );
 
     // Note: Phone number will be sent via webhook asynchronously
     // The webhook endpoint will log it when received
@@ -136,8 +126,6 @@ async function searchApolloPerson(
     const requestBody = {
       api_key: apiKey,
       q_keywords: `${firstName} ${lastName} ${companyName}`,
-      person_titles: [role],
-      organization_names: [companyName],
       per_page: 1,
       page: 1,
       reveal_personal_emails: true, // Unlock personal emails if available
@@ -181,13 +169,7 @@ async function searchApolloPerson(
       const finalPhoneNumber = phoneNumber;
       
       // Request phone unlock if we have a phone number (to get verified/unlocked version)
-      if (finalPhoneNumber) {
-        console.log(`    Phone number found: ${finalPhoneNumber}`);
-        console.log(`    Requesting phone unlock for ${person.name} (will be sent via webhook)...`);
-        await unlockContactInfo(apiKey, person.id, finalEmail);
-      } else {
-        console.log(`    No phone number found - skipping unlock request`);
-      }
+      await unlockContactInfo(apiKey, person.id, finalEmail);
 
       // Log summary
       console.log(`\n    Summary:`);
