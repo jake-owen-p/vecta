@@ -2,6 +2,15 @@ import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 
+// Handle GET requests - Apollo may verify webhook endpoint with GET
+export async function GET() {
+  console.log("Apollo webhook GET request (verification)");
+  return NextResponse.json({ 
+    success: true,
+    message: "Webhook endpoint is active",
+  });
+}
+
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as unknown;

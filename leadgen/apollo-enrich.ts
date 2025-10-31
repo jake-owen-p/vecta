@@ -36,10 +36,6 @@ interface ApolloPerson {
   [key: string]: unknown; // Allow additional fields
 }
 
-interface UnlockedContactInfo {
-  emails?: Array<{ email: string; email_status: string }>;
-  phone_numbers?: Array<{ raw_number: string; sanitized_number: string }>;
-}
 
 interface ApolloSearchResponse {
   people: ApolloPerson[];
@@ -56,17 +52,16 @@ const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
 // Get webhook URL - use environment variable or default to localhost
 function getWebhookUrl(): string {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL ?? process.env.VERCEL_URL ?? "http://localhost:3000";
-  const protocol = baseUrl.startsWith("http") ? "" : "https://";
-  return `${protocol}${baseUrl}/api/apollo-webhook`;
+  return `https://vecta.co/api/apollo-webhook`;
 }
 
 // Unlock contact information for a person - use enrich/match endpoint with webhook
+// Note: Phone numbers will be sent asynchronously via webhook, not in the direct response
 async function unlockContactInfo(
   apiKey: string,
   personId: string,
   email?: string | null
-): Promise<UnlockedContactInfo | null> {
+): Promise<void> {
   try {
     const webhookUrl = getWebhookUrl();
     
@@ -86,7 +81,7 @@ async function unlockContactInfo(
 
     console.log(`    Using webhook URL: ${webhookUrl}`);
 
-    const response = await axios.post<ApolloPerson>(
+    const res = await axios.post<ApolloPerson>(
       "https://api.apollo.io/v1/people/match",
       requestBody,
       {
@@ -99,22 +94,11 @@ async function unlockContactInfo(
       }
     );
 
-    // Extract unlocked contact info from response
-    const unlockedInfo: UnlockedContactInfo = {};
+    console.log(res.data);
 
-    // Note: Phone number will be sent via webhook, not in direct response
-    // We'll extract what we can from the response
-    if (response.data.phone_numbers && response.data.phone_numbers.length > 0) {
-      unlockedInfo.phone_numbers = response.data.phone_numbers.map((phone) => ({
-        raw_number: phone.raw_number,
-        sanitized_number: phone.sanitized_number,
-      }));
-    }
-
-    // Apollo will send the phone number via webhook
-    console.log(`    Phone reveal requested - Apollo will send to webhook`);
-
-    return Object.keys(unlockedInfo).length > 0 ? unlockedInfo : null;
+    // Note: Phone number will be sent via webhook asynchronously
+    // The webhook endpoint will log it when received
+    console.log(`    Phone reveal requested - Apollo will send phone number to webhook`);
   } catch (error) {
     if (axios.isAxiosError(error)) {
       const errorData = error.response?.data as unknown;
@@ -127,7 +111,6 @@ async function unlockContactInfo(
         JSON.stringify(errorData, null, 2)
       );
     }
-    return null;
   }
 }
 
@@ -192,41 +175,25 @@ async function searchApolloPerson(
           ? firstPhoneNumber.sanitized_number ?? firstPhoneNumber.raw_number ?? null
           : null;
 
-      // Check if email needs unlocking
-      let finalEmail = person.email ?? null;
-      let finalPhoneNumber = phoneNumber;
+      // Request phone number unlock via webhook only if we have a phone number
+      // Phone numbers come asynchronously via webhook, not in direct response
+      const finalEmail = person.email ?? null;
+      const finalPhoneNumber = phoneNumber;
       
-      if (!finalEmail || finalEmail === "email_not_unlocked@domain.com") {
-        // Unlock additional contact information
-        console.log(`    Unlocking contact information for ${person.name}...`);
-        const unlockedInfo = await unlockContactInfo(apiKey, person.id, finalEmail);
-        
-        if (unlockedInfo) {
-          // Use unlocked email if available
-          if (unlockedInfo.emails && unlockedInfo.emails.length > 0) {
-            finalEmail = unlockedInfo.emails[0]?.email ?? finalEmail;
-            console.log(`    ✓ Unlocked email: ${finalEmail}`);
-          }
-          
-          // Use unlocked phone if available
-          if (unlockedInfo.phone_numbers && unlockedInfo.phone_numbers.length > 0 && !finalPhoneNumber) {
-            finalPhoneNumber = unlockedInfo.phone_numbers[0]?.sanitized_number ?? unlockedInfo.phone_numbers[0]?.raw_number ?? finalPhoneNumber;
-            console.log(`    ✓ Unlocked phone: ${finalPhoneNumber}`);
-          }
-          
-          // Log unlocked info
-          console.log(`\n    Unlocked contact info:`);
-          console.log(JSON.stringify(unlockedInfo, null, 2));
-        } else {
-          console.log(`    ✗ Could not unlock contact info`);
-        }
+      // Request phone unlock if we have a phone number (to get verified/unlocked version)
+      if (finalPhoneNumber) {
+        console.log(`    Phone number found: ${finalPhoneNumber}`);
+        console.log(`    Requesting phone unlock for ${person.name} (will be sent via webhook)...`);
+        await unlockContactInfo(apiKey, person.id, finalEmail);
+      } else {
+        console.log(`    No phone number found - skipping unlock request`);
       }
 
       // Log summary
       console.log(`\n    Summary:`);
       console.log(`      Apollo ID: ${person.id}`);
       console.log(`      Email: ${finalEmail ?? "N/A"}`);
-      console.log(`      Phone: ${finalPhoneNumber ?? "N/A"}`);
+      console.log(`      Phone: ${finalPhoneNumber ?? "N/A (requested via webhook)"}`);
       console.log(`\n    --- End of details for ${person.name} ---\n`);
 
       return {
