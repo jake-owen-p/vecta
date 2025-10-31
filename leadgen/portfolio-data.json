@@ -1,0 +1,5088 @@
+[
+  {
+    "name": "Spore.Bio",
+    "description": "Building a new generation of microbiological technologies.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amine Raji",
+        "linkedinUrl": "https://www.linkedin.com/in/amine-raji/"
+      },
+      {
+        "role": "CTO",
+        "name": "Maxime Mistretta",
+        "linkedinUrl": "https://www.linkedin.com/in/maxime-mistretta-phd-390062aa/"
+      },
+      {
+        "role": "COO",
+        "name": "Mohamed Tazi",
+        "linkedinUrl": "https://www.linkedin.com/in/mohamed-tazi-03972961/"
+      }
+    ]
+  },
+  {
+    "name": "Gensyn",
+    "description": "Making compute for AI as accessible as oxygen for humans.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ben Fielding",
+        "linkedinUrl": "https://www.linkedin.com/in/ben-fielding/"
+      },
+      {
+        "role": "CTO",
+        "name": "Harry Grieve",
+        "linkedinUrl": "https://www.linkedin.com/in/harry-grieve-81427771/"
+      }
+    ]
+  },
+  {
+    "name": "Opply",
+    "description": "Ingredient marketplace for small consumer goods brands.",
+    "location": "London",
+    "industry": "Food",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Helen Murphy",
+        "linkedinUrl": "https://www.linkedin.com/in/opplyhelen/"
+      },
+      {
+        "role": "CTO",
+        "name": "Martin Postel",
+        "linkedinUrl": "https://www.linkedin.com/in/postel-martin/"
+      }
+    ]
+  },
+  {
+    "name": "Omnea",
+    "description": "Effortless procurement automation.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ben Freeman",
+        "linkedinUrl": "https://www.linkedin.com/in/ben-freeman-a8542166/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ben Allen",
+        "linkedinUrl": "https://www.linkedin.com/in/benjaminjallen/"
+      }
+    ]
+  },
+  {
+    "name": "Green Li-ion",
+    "description": "World-first deep-clean technology to fully rejuvenate lithium-ion batteries.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Leon Farrant",
+        "linkedinUrl": "https://www.linkedin.com/in/leon-farrant/"
+      },
+      {
+        "role": "CTO",
+        "name": "Reza Katal",
+        "linkedinUrl": "https://www.linkedin.com/in/reza-katal-78425566/?originalSubdomain=sg"
+      }
+    ]
+  },
+  {
+    "name": "Genomines",
+    "description": "Efficient plant-based mining.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Fabien Koutchekian",
+        "linkedinUrl": "https://www.linkedin.com/in/fabien-koutchekian/"
+      },
+      {
+        "role": "CTO",
+        "name": "Dali Rashid",
+        "linkedinUrl": "https://www.linkedin.com/in/dali-rashid-phd-69059010a/"
+      }
+    ]
+  },
+  {
+    "name": "Scarlet",
+    "description": "Hastening the transition to universally accessible healthcare.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "James Dewar",
+        "linkedinUrl": "https://www.linkedin.com/in/james-dewar-78758992/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jamie Cox",
+        "linkedinUrl": "https://www.linkedin.com/in/jamie-cox-01458b3a"
+      }
+    ]
+  },
+  {
+    "name": "Phagos",
+    "description": "Bacteriophage therapies for antibiotic-resistant infections.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandros Pantalis",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandros-pantalis-0a6102a5/"
+      },
+      {
+        "role": "CTO",
+        "name": "Adèle James",
+        "linkedinUrl": "https://www.linkedin.com/in/ad%C3%A8le-james-36aa55b5/"
+      }
+    ]
+  },
+  {
+    "name": "Finni Health",
+    "description": "Nationwide virtual ABA therapy for autism.",
+    "location": "Toronto",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bukhtar Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/bukhtarkhan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Yilun Chen",
+        "linkedinUrl": "http://linkedin.com/in/yilunc/"
+      }
+    ]
+  },
+  {
+    "name": "Pactio Technologies",
+    "description": "AI-native finance workflows in Microsoft Office.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eric Heimark",
+        "linkedinUrl": "http://linkedin.com/in/eric-heimark"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Lorenzo Foglianti",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzo-foglianti/"
+      }
+    ]
+  },
+  {
+    "name": "Faircraft",
+    "description": "Developing a highly sustainable, lab-grown alternative to animal leather.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Haïkel Balti",
+        "linkedinUrl": "https://www.linkedin.com/in/haikelbalti/"
+      },
+      {
+        "role": "CTO",
+        "name": "Cesar Valencia Gallardo",
+        "linkedinUrl": "http://www.linkedin.com/in/cesar-valencia-gallardo-3b1548121"
+      }
+    ]
+  },
+  {
+    "name": "Better Dairy",
+    "description": "Fermented milk proteins without animals.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jevan Nagarajah",
+        "linkedinUrl": "https://www.linkedin.com/in/jevan-nagarajah/"
+      }
+    ]
+  },
+  {
+    "name": "Tuza",
+    "description": "Instant card-machine quotes for businesses.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ed Hardy",
+        "linkedinUrl": "https://www.linkedin.com/in/tedhardy/"
+      },
+      {
+        "role": "CTO",
+        "name": "Olivia Stannah",
+        "linkedinUrl": "https://www.linkedin.com/in/olivia-stannah/"
+      }
+    ]
+  },
+  {
+    "name": "Icarus Robotics Corporation",
+    "description": "The robotic labor force for space.",
+    "location": "San Francisco",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ethan Barajas",
+        "linkedinUrl": "https://www.linkedin.com/in/ethan-barajas-532961192/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jamie Palmer",
+        "linkedinUrl": "https://www.linkedin.com/in/palmer-jamie/"
+      }
+    ]
+  },
+  {
+    "name": "Scope",
+    "description": "AI inspection for supply chains.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Low",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathanrhyslow/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jakob Cassiman",
+        "linkedinUrl": "https://www.linkedin.com/in/jakobcassiman/"
+      }
+    ]
+  },
+  {
+    "name": "Kular",
+    "description": "AI lead generation for small teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nelson Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/nelson-jones-238487194/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Saaras Mehan",
+        "linkedinUrl": "https://www.linkedin.com/in/saaras-mehan/"
+      }
+    ]
+  },
+  {
+    "name": "Magdrive",
+    "description": "Electromagnetic thrusters for small satellites.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mark Stokes",
+        "linkedinUrl": "https://www.linkedin.com/in/markyasustokes/"
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Clayson",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-clayson-42486a77/"
+      }
+    ]
+  },
+  {
+    "name": "WorldOver",
+    "description": "Regulatory automation for cosmetics.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Edward Alun-Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/edward-alun-jones-50a66812b/"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Gudde",
+        "linkedinUrl": "https://www.linkedin.com/in/chris-gudde/"
+      }
+    ]
+  },
+  {
+    "name": "Chipiron",
+    "description": "Portable low-field MRI for point-of-care.",
+    "location": "Paris",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Evan Kervella",
+        "linkedinUrl": "https://www.linkedin.com/in/evankervella/"
+      },
+      {
+        "role": "CSO",
+        "name": "Dimitri Labat",
+        "linkedinUrl": "https://www.linkedin.com/in/dimitri-labat/"
+      }
+    ]
+  },
+  {
+    "name": "Farmlend",
+    "description": "Building the infrastructure that powers global agriculture trade.",
+    "location": "London",
+    "industry": "Agriculture & Farming",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Abdel Turkmani",
+        "linkedinUrl": "https://www.linkedin.com/in/asturkmani"
+      }
+    ]
+  },
+  {
+    "name": "Lynceus",
+    "description": "AI for manufacturing process monitoring.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "David Meyer",
+        "linkedinUrl": "https://www.linkedin.com/in/david-meyer-8586b17b/"
+      },
+      {
+        "role": "CTO",
+        "name": "Guglielmo Montone",
+        "linkedinUrl": "https://www.linkedin.com/in/guglielmo-montone-5369aa162"
+      }
+    ]
+  },
+  {
+    "name": "Strala",
+    "description": "AI claims processing for insurance teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Timon Gregg",
+        "linkedinUrl": "https://www.linkedin.com/in/timon-gregg-59973a190/"
+      },
+      {
+        "role": "CTO",
+        "name": "Armando Schmid",
+        "linkedinUrl": "https://www.linkedin.com/in/armandoschmid/"
+      }
+    ]
+  },
+  {
+    "name": "Toolkit",
+    "description": "ERP conversion from spreadsheets for small businesses.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phil Pfeffer",
+        "linkedinUrl": "https://www.linkedin.com/in/phil-pfeffer"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michael Hirn",
+        "linkedinUrl": "https://www.linkedin.com/in/meetmichaelhirn"
+      }
+    ]
+  },
+  {
+    "name": "Level Zero Health",
+    "description": "Continuous hormone monitoring for fertility and wellness.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ula Rustamova",
+        "linkedinUrl": "https://www.linkedin.com/in/ula-rustamova/"
+      },
+      {
+        "role": "CTO",
+        "name": "Irene Jia",
+        "linkedinUrl": "https://www.linkedin.com/in/irene-jia-248161155/"
+      }
+    ]
+  },
+  {
+    "name": "CodeAnt AI",
+    "description": "AI code review for faster, secure pull requests.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amartya Jha",
+        "linkedinUrl": "https://www.linkedin.com/in/amartya-jha/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chinmay Bharti",
+        "linkedinUrl": "https://www.linkedin.com/in/chinmay-bharti"
+      }
+    ]
+  },
+  {
+    "name": "Allozymes",
+    "description": "Evolving biology for a sustainable future.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Peyman Salehian",
+        "linkedinUrl": "https://www.linkedin.com/in/peyman-salehian-ph-d-86611b134/"
+      },
+      {
+        "role": "CTO",
+        "name": "Akbar Vahidi",
+        "linkedinUrl": "https://www.linkedin.com/in/akbar-vahidi"
+      }
+    ]
+  },
+  {
+    "name": "Core Biogenesis",
+    "description": "Plant biofactories for recombinant proteins.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandre Reeber",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandre-reeber/"
+      },
+      {
+        "role": "CTO",
+        "name": "Chouaib Meziadi",
+        "linkedinUrl": "https://www.linkedin.com/in/chouaib-meziadi-884076150/"
+      }
+    ]
+  },
+  {
+    "name": "Micrographia Bio",
+    "description": "Spatial proteomics for scalable target discovery.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julia Li",
+        "linkedinUrl": "https://www.linkedin.com/in/juliafanli/"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Thompson",
+        "linkedinUrl": "https://www.linkedin.com/in/ccthompson82/"
+      }
+    ]
+  },
+  {
+    "name": "Miist Therapeutics",
+    "description": "Inhaled therapies for rapid symptom relief.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dalton Signor",
+        "linkedinUrl": "https://www.linkedin.com/in/dalton-signor/"
+      }
+    ]
+  },
+  {
+    "name": "Lenkie",
+    "description": "AI-driven cash flow analytics and financing.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sanjeev Jeyakumar",
+        "linkedinUrl": "https://www.linkedin.com/in/sanjeev-jeyakumar-b3a08942/"
+      },
+      {
+        "role": "CTO",
+        "name": "Nnaemeka Obodoekwe",
+        "linkedinUrl": "https://www.linkedin.com/in/nnaemeka-obodoekwe-2a8b979a/"
+      }
+    ]
+  },
+  {
+    "name": "Ameba",
+    "description": "AI monitoring for complex supply chains.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cedrik Hoffmann",
+        "linkedinUrl": "https://www.linkedin.com/in/cedrikhoffmann/"
+      },
+      {
+        "role": "CTO",
+        "name": "Craig Massie",
+        "linkedinUrl": "https://www.linkedin.com/in/craig-massie"
+      }
+    ]
+  },
+  {
+    "name": "Mitra Bio",
+    "description": "Non-invasive diagnostics for skincare development.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Shakiba Kaveh",
+        "linkedinUrl": "https://www.linkedin.com/in/shakiba-kaveh-8b8bb466/"
+      },
+      {
+        "role": "CTO",
+        "name": "Cristiana Banila",
+        "linkedinUrl": "https://www.linkedin.com/in/cristiana-banila94/"
+      }
+    ]
+  },
+  {
+    "name": "PACT",
+    "description": "Marine collagen biomaterials for sustainable leather.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Yudi Ding",
+        "linkedinUrl": "https://www.linkedin.com/in/yudiding/"
+      }
+    ]
+  },
+  {
+    "name": "Fluent",
+    "description": "The agency reporting engine that finds insights, explains performance, and builds client-ready reports.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rob Van Den Bergh",
+        "linkedinUrl": "https://www.linkedin.com/in/robert-van-den-bergh/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Cameron Whitehead",
+        "linkedinUrl": "https://www.linkedin.com/in/cameron-whitehead-270827112/"
+      }
+    ]
+  },
+  {
+    "name": "Connect Earth",
+    "description": "Portfolio carbon analytics for financial firms.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alex Lempka",
+        "linkedinUrl": "http://linkedin.com/in/alexander-lempka-67494b109"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Nick Carmont",
+        "linkedinUrl": "https://www.linkedin.com/in/ncarmont/"
+      }
+    ]
+  },
+  {
+    "name": "Spotted Zebra",
+    "description": "Skills analytics for enterprise workforces.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ian Monk",
+        "linkedinUrl": "https://www.linkedin.com/in/ian-monk-uk/"
+      },
+      {
+        "role": "CCO",
+        "name": "Nick Shaw",
+        "linkedinUrl": "https://www.linkedin.com/in/nickshaw-sz/"
+      }
+    ]
+  },
+  {
+    "name": "Catapult",
+    "description": "Walletless onboarding and profiles for Web3 communities.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rav Sandhu",
+        "linkedinUrl": "https://www.linkedin.com/in/ravsinghsandhu/"
+      },
+      {
+        "role": "CTO",
+        "name": "Gregory Wilsenach",
+        "linkedinUrl": "https://www.linkedin.com/in/gregory-wilsenach-476780176/"
+      }
+    ]
+  },
+  {
+    "name": "Kinetix",
+    "description": "AI-driven motion capture for 3D animation.",
+    "location": "Paris",
+    "industry": "Gaming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Yassine Tahi",
+        "linkedinUrl": "https://www.linkedin.com/in/yassine-tahi-44b90254"
+      },
+      {
+        "role": "CTO",
+        "name": "Henri Mirande",
+        "linkedinUrl": "https://www.linkedin.com/in/henri-mirande-7025b996/"
+      }
+    ]
+  },
+  {
+    "name": "altrove",
+    "description": "AI-guided materials synthesis for industrial manufacturers.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thibaud Martin",
+        "linkedinUrl": "https://www.linkedin.com/in/thibaudm"
+      },
+      {
+        "role": "CTO",
+        "name": "Joonatan Laulainen",
+        "linkedinUrl": "https://www.linkedin.com/in/joonatan-laulainen/"
+      }
+    ]
+  },
+  {
+    "name": "thymia",
+    "description": "AI assessments for mental health diagnostics.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Emilia Molimpakis",
+        "linkedinUrl": "https://www.linkedin.com/in/emilia-molimpakis-phd-860325a4/"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefano Goria",
+        "linkedinUrl": "https://www.linkedin.com/in/stefano-goria-a11b6a3b/"
+      }
+    ]
+  },
+  {
+    "name": "ToffeeX",
+    "description": "Physics-based generative geometry for engineers.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Pietropaoli",
+        "linkedinUrl": "https://www.linkedin.com/in/marco-pietropaoli-a37788137/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Francesco Montomoli",
+        "linkedinUrl": "https://www.linkedin.com/in/francesco-montomoli-3741317/"
+      }
+    ]
+  },
+  {
+    "name": "ClarityCare AI",
+    "description": "The AI engine powering real-time medical necessity decisions.",
+    "location": "New York",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hermine Tranie",
+        "linkedinUrl": "https://www.linkedin.com/in/herminetranie/"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Andrei",
+        "linkedinUrl": "https://www.linkedin.com/in/andreialexandru98"
+      }
+    ]
+  },
+  {
+    "name": "Theremia",
+    "description": "AI-driven molecule design for pharma.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Iris Maréchal",
+        "linkedinUrl": "http://www.linkedin.com/in/iris-marechal"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chloé Geoffroy",
+        "linkedinUrl": "https://www.linkedin.com/in/chlo%C3%A9-geoffroy-9179a1b9/"
+      }
+    ]
+  },
+  {
+    "name": "Radical",
+    "description": "Building the world's first general-purpose AI model for Oncology.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simone Jensen",
+        "linkedinUrl": "https://www.linkedin.com/in/simone-korsgaard-jensen-6a1334166/"
+      }
+    ]
+  },
+  {
+    "name": "Strive",
+    "description": "1:1 coding tutoring for K–12 math.",
+    "location": "Singapore",
+    "industry": "Consumer Products",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pulkit Agarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/agarwalpulkit/"
+      },
+      {
+        "role": "CTO",
+        "name": "Tamir Shklaz",
+        "linkedinUrl": "https://www.linkedin.com/in/tamir-shklaz-32b446160/"
+      }
+    ]
+  },
+  {
+    "name": "Tracelight",
+    "description": "AI-powered financial modeling for spreadsheet users.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pete Fuller",
+        "linkedinUrl": "https://www.linkedin.com/in/peter-fuller-063253144/"
+      }
+    ]
+  },
+  {
+    "name": "Origin Medical",
+    "description": "AI-assisted clinician decision support solution for fetal ultrasound scans.",
+    "location": "Singapore",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jens Thang",
+        "linkedinUrl": "https://www.linkedin.com/in/jens-thang-b7517833/"
+      },
+      {
+        "role": "CTO",
+        "name": "Sripad Devalla",
+        "linkedinUrl": "https://www.linkedin.com/in/sripaddevalla/"
+      }
+    ]
+  },
+  {
+    "name": "Guided Energy",
+    "description": "Intelligence for transportation and logistics",
+    "location": "Paris",
+    "industry": "Climate",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anant Kapoor",
+        "linkedinUrl": "https://www.linkedin.com/in/anantk147/"
+      },
+      {
+        "role": "CTO",
+        "name": "Eric Daoud",
+        "linkedinUrl": "https://www.linkedin.com/in/ericdaoud/"
+      }
+    ]
+  },
+  {
+    "name": "Polymerize",
+    "description": "AI-driven polymer formulation for R&D teams.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kunal Sandeep",
+        "linkedinUrl": "https://www.linkedin.com/in/kunalsandeep/"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhijit Salvekar",
+        "linkedinUrl": "https://www.linkedin.com/in/abhijitvijaysalvekar/"
+      }
+    ]
+  },
+  {
+    "name": "kyron.bio",
+    "description": "Glycan engineering for therapeutic proteins.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Emilia McLaughlin",
+        "linkedinUrl": "https://www.linkedin.com/in/emilia-mclaughlin-0ab398198/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vaibhav Longani",
+        "linkedinUrl": "https://www.linkedin.com/in/vaibhavlongani/"
+      }
+    ]
+  },
+  {
+    "name": "Arago",
+    "description": "Photonic computing platform to unlock AGI at scale.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Muller",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-muller-/"
+      },
+      {
+        "role": "CTO",
+        "name": "Eliott Sarrey",
+        "linkedinUrl": "https://www.linkedin.com/in/eliott-sarrey/"
+      }
+    ]
+  },
+  {
+    "name": "sensmore",
+    "description": "Building human-like intelligence for the world’s largest machines.",
+    "location": "Berlin",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Maximilian Rolf",
+        "linkedinUrl": "http://linkedin.com/in/maximilian-rolf-b38939a3"
+      },
+      {
+        "role": "CTO",
+        "name": "Bjarne Johannsen",
+        "linkedinUrl": "https://www.linkedin.com/in/bjarne-johannsen"
+      }
+    ]
+  },
+  {
+    "name": "AMT",
+    "description": "Influencer-partnership automation for marketing teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tom Hollands",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-hollands/"
+      },
+      {
+        "role": "CTO",
+        "name": "Christian Johnston",
+        "linkedinUrl": "https://www.linkedin.com/in/christian-johnston-34b279133/"
+      }
+    ]
+  },
+  {
+    "name": "Syntetica",
+    "description": "Nylon recycling for textile producers.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Bertone",
+        "linkedinUrl": "https://www.linkedin.com/in/marcobertone/"
+      },
+      {
+        "role": "CTO",
+        "name": "Louis Monsigny",
+        "linkedinUrl": "https://www.linkedin.com/in/louis-monsigny-706b5585"
+      }
+    ]
+  },
+  {
+    "name": "Unicorn Bio",
+    "description": "AI-powered robots to industrialize biology and enable scientific superintelligence.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "President",
+        "name": "Jack Reid",
+        "linkedinUrl": "https://www.linkedin.com/in/jack-reid-6a5505101/"
+      },
+      {
+        "role": "CEO",
+        "name": "Adam Glen",
+        "linkedinUrl": "https://www.linkedin.com/in/dradamglen/"
+      }
+    ]
+  },
+  {
+    "name": "retab",
+    "description": "Document automation for developer teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Louis Benoist",
+        "linkedinUrl": "https://www.linkedin.com/in/louis-de-benoist"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Victor Plaisance",
+        "linkedinUrl": "https://www.linkedin.com/in/victor-plaisance-aa422643/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sacha Ichbiah",
+        "linkedinUrl": "https://www.linkedin.com/in/sacha-ichbiah/"
+      }
+    ]
+  },
+  {
+    "name": "Audiogen",
+    "description": "AI copilot for audio production.",
+    "location": "London",
+    "industry": "Telecoms & Media",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elio Pascarelli",
+        "linkedinUrl": "https://uk.linkedin.com/in/eliopascarelli"
+      },
+      {
+        "role": "CTO",
+        "name": "Jacopo Madaluni",
+        "linkedinUrl": "https://www.linkedin.com/in/jacopo-m-3538b4b3/"
+      },
+      {
+        "role": "COO",
+        "name": "Emilio Pascarelli",
+        "linkedinUrl": "https://www.linkedin.com/in/emiliopascarelli/"
+      }
+    ]
+  },
+  {
+    "name": "Upside Robotics",
+    "description": "Autonomous robots for crop nutrient management.",
+    "location": "New York",
+    "industry": "Agriculture & Farming",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jana Tian",
+        "linkedinUrl": "https://www.linkedin.com/in/janatian"
+      },
+      {
+        "role": "CTO",
+        "name": "Sam Dugan",
+        "linkedinUrl": "https://www.linkedin.com/in/sam-dugan-873a3310a/"
+      }
+    ]
+  },
+  {
+    "name": "Tetsuwan Scientific",
+    "description": "AI-driven lab robots for life-science R&D.",
+    "location": "New York",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cristian Ponce",
+        "linkedinUrl": "https://www.linkedin.com/in/cristian-ponce-201b7b188/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Théo Schäfer",
+        "linkedinUrl": "https://www.linkedin.com/in/theo-schafer"
+      }
+    ]
+  },
+  {
+    "name": "Hanomi",
+    "description": "AI assistants for 3D hardware design.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Mascolo",
+        "linkedinUrl": "https://uk.linkedin.com/in/marco-mascolo"
+      },
+      {
+        "role": "CTO",
+        "name": "Drishti Bhasin",
+        "linkedinUrl": "https://www.linkedin.com/in/drishti-bhasin-ab07531a9/"
+      }
+    ]
+  },
+  {
+    "name": "Delfa",
+    "description": "AI agents for clinical trial management.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tom Farrand",
+        "linkedinUrl": "https://www.linkedin.com/in/farrandtom/"
+      },
+      {
+        "role": "CTO",
+        "name": "Gustav Bredell",
+        "linkedinUrl": "https://www.linkedin.com/in/gustavbredell/"
+      }
+    ]
+  },
+  {
+    "name": "Callosum",
+    "description": "A new kind of AI & compute company: accelerating the coevolution of intelligence & chips.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Danyal Akarca",
+        "linkedinUrl": "https://www.linkedin.com/in/danyalakarca/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jascha Achterberg",
+        "linkedinUrl": "https://www.linkedin.com/in/jascha-achterberg/"
+      }
+    ]
+  },
+  {
+    "name": "Briefcase",
+    "description": "AI-native bookkeeping automation for accountants.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Reuben Steenkamp",
+        "linkedinUrl": "https://www.linkedin.com/in/reuben-steenkamp/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jan Stehlík",
+        "linkedinUrl": "https://www.linkedin.com/in/jan-stehlik-5855aa123"
+      }
+    ]
+  },
+  {
+    "name": "Appstack",
+    "description": "AI-driven analytics for mobile apps.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucas Moscon",
+        "linkedinUrl": "https://www.linkedin.com/in/lucas-moscon/"
+      },
+      {
+        "role": "CTO",
+        "name": "Tom Darmon",
+        "linkedinUrl": "https://www.linkedin.com/in/tom-darmon/"
+      }
+    ]
+  },
+  {
+    "name": "Interface",
+    "description": "Autonomous safety expert for the industrial sector.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Thomas Lee Young",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-lee-young/"
+      },
+      {
+        "role": "CTO",
+        "name": "Aaryan Mehta",
+        "linkedinUrl": "https://www.linkedin.com/in/aaryanm02/"
+      }
+    ]
+  },
+  {
+    "name": "APMI",
+    "description": "AI agents for short-term rental management.",
+    "location": "Paris",
+    "industry": "Travel & Hospitality",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vera Prohaska",
+        "linkedinUrl": "https://www.linkedin.com/in/vprohaska/"
+      },
+      {
+        "role": "CTO",
+        "name": "Diego Sanmartin",
+        "linkedinUrl": "https://www.linkedin.com/in/dsanmart/"
+      }
+    ]
+  },
+  {
+    "name": "Luo",
+    "description": "Cross-border payments for African importers.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hamza Benkirane",
+        "linkedinUrl": "https://www.linkedin.com/in/hamza-benkirane-2543a882/"
+      },
+      {
+        "role": "CPO",
+        "name": "Morgan Wirtz",
+        "linkedinUrl": "https://www.linkedin.com/in/morgan-wirtz/"
+      }
+    ]
+  },
+  {
+    "name": "Asymmetric Security",
+    "description": "AI agents that fully automate cybersecurity incident response.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Alexis Carlier",
+        "linkedinUrl": "https://www.linkedin.com/in/alexis-carlier-995367170/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Zainab Ali Majid",
+        "linkedinUrl": "https://www.linkedin.com/in/zamajid/"
+      }
+    ]
+  },
+  {
+    "name": "Fabric",
+    "description": "Contextual search API for app developers.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eeshita Pande",
+        "linkedinUrl": "https://www.linkedin.com/in/eeshita-pande-441a87bb/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Massimo Albarello",
+        "linkedinUrl": "https://www.linkedin.com/in/massimoalbarello/"
+      }
+    ]
+  },
+  {
+    "name": "Peptobiotics",
+    "description": "Synthetic antimicrobial peptides for livestock health.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Bester",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathanbester/"
+      }
+    ]
+  },
+  {
+    "name": "ZeroEntropy",
+    "description": "AI retrieval for AI agents and RAG applications.",
+    "location": "San Francisco",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ghita Houir Alami",
+        "linkedinUrl": "https://www.linkedin.com/in/ghita-houir-alami/"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicholas Pipitone",
+        "linkedinUrl": "https://www.linkedin.com/in/nicholas-pipitone/"
+      }
+    ]
+  },
+  {
+    "name": "PathFinder",
+    "description": "Personalized AI tutor for project learning.",
+    "location": "London",
+    "industry": "Consumer Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amaan Ahmad",
+        "linkedinUrl": "https://linkedin.com/in/amaankahmad"
+      },
+      {
+        "role": "CTO",
+        "name": "Sidharth Jain",
+        "linkedinUrl": "https://linkedin.com/in/sidharth-jain02"
+      }
+    ]
+  },
+  {
+    "name": "TORTUS",
+    "description": "AI co-pilot for clinical documentation.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dom Pimenta",
+        "linkedinUrl": "https://www.linkedin.com/in/dr-dominic-pimenta/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Christopher Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/christopher-tan-a0383a12a/"
+      }
+    ]
+  },
+  {
+    "name": "Retail Pulse",
+    "description": "Shelf analytics for consumer goods teams.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Zaraif Hossain",
+        "linkedinUrl": "https://www.linkedin.com/in/zaraif13/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Anshul Gupta",
+        "linkedinUrl": "https://www.linkedin.com/in/anshulgupta0803"
+      }
+    ]
+  },
+  {
+    "name": "Biographica",
+    "description": "Graph ML for plant gene discovery.",
+    "location": "London",
+    "industry": "Agriculture & Farming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cecy Price",
+        "linkedinUrl": "http://www.linkedin.com/in/cecy-price-0aa21a10a"
+      },
+      {
+        "role": "CTO",
+        "name": "Dominic Hall",
+        "linkedinUrl": "https://www.linkedin.com/in/dh486/"
+      }
+    ]
+  },
+  {
+    "name": "MetaVoice",
+    "description": "Voice AI that feels like talking to a friend.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sid Sharma",
+        "linkedinUrl": "https://www.linkedin.com/in/sidroopdaska/"
+      },
+      {
+        "role": "CTO",
+        "name": "Vatsal Aggarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/vatsal-aggarwal-993472104/"
+      }
+    ]
+  },
+  {
+    "name": "LottieLab",
+    "description": "Collaborative Lottie animation editor.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Andrew Ologunebi",
+        "linkedinUrl": "https://www.linkedin.com/in/andrewologunebi/"
+      },
+      {
+        "role": "CTO",
+        "name": "Alistair Thomson",
+        "linkedinUrl": "https://www.linkedin.com/in/alistair-thomson"
+      }
+    ]
+  },
+  {
+    "name": "Digger",
+    "description": "IaC automation for development teams.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Igor Zalutski",
+        "linkedinUrl": "https://www.linkedin.com/in/izalutski/"
+      },
+      {
+        "role": "CTO",
+        "name": "Mohamed Habib",
+        "linkedinUrl": "https://www.linkedin.com/in/motatoes/"
+      }
+    ]
+  },
+  {
+    "name": "DeepSpin",
+    "description": "Bringing MRI-scanners into the era of AI.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Clemens Tepel",
+        "linkedinUrl": "https://www.linkedin.com/in/cltepel/"
+      },
+      {
+        "role": "CTO",
+        "name": "Pedro Silva",
+        "linkedinUrl": "https://www.linkedin.com/in/pedrofreiresilva/"
+      }
+    ]
+  },
+  {
+    "name": "Swaap",
+    "description": "Impermanent-loss resistant AMM for DeFi liquidity.",
+    "location": "Paris",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Cyrille Pastour",
+        "linkedinUrl": "https://www.linkedin.com/in/cyrille-pastour-baa54886/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "David Bouba",
+        "linkedinUrl": "https://www.linkedin.com/in/davidbouba/"
+      }
+    ]
+  },
+  {
+    "name": "ever dye",
+    "description": "Waterless dyeing for textile manufacturers.",
+    "location": "Paris",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ilan Palacci",
+        "linkedinUrl": "https://www.linkedin.com/in/ilan-palacci-463523bb/"
+      },
+      {
+        "role": "CTO",
+        "name": "Amira Erokh",
+        "linkedinUrl": "https://www.linkedin.com/in/amira-errokh/"
+      }
+    ]
+  },
+  {
+    "name": "Phycobloom",
+    "description": "Engineered algae for sustainable biofuels.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Waite",
+        "linkedinUrl": "https://www.linkedin.com/in/john-c-waite1/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ian Hu",
+        "linkedinUrl": "https://www.linkedin.com/in/ianhu1/"
+      }
+    ]
+  },
+  {
+    "name": "Fleetcraft",
+    "description": "AI-driven engineering for aircraft operations.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Finn Cormac Quinlan",
+        "linkedinUrl": "https://www.linkedin.com/in/finn-quinlan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ammar Naseer",
+        "linkedinUrl": "https://www.linkedin.com/in/aanaseer/"
+      }
+    ]
+  },
+  {
+    "name": "Reflolabs",
+    "description": "AI-powered defect analysis for retail returns.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Shubhra Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/mishra-shubhra/"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhay Shukla",
+        "linkedinUrl": "https://www.linkedin.com/in/abhay-shukla1999/"
+      }
+    ]
+  },
+  {
+    "name": "atomic",
+    "description": "AI-generated UX patterns for conversion optimization.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Hannes Verschueren",
+        "linkedinUrl": "https://www.linkedin.com/in/hannesverschueren/"
+      },
+      {
+        "role": "CTO",
+        "name": "Vladislav Samoilov",
+        "linkedinUrl": "https://www.linkedin.com/in/vladislav-samoilov-99bb351ba/"
+      }
+    ]
+  },
+  {
+    "name": "Ulyssean",
+    "description": "Software and hardware to secure and verify large AI clusters.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacob Lagerros",
+        "linkedinUrl": "https://www.linkedin.com/in/jacob---/"
+      }
+    ]
+  },
+  {
+    "name": "Parakeet Security",
+    "description": "Security layer for Voice AI agents.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sima Reichenbach",
+        "linkedinUrl": "https://www.linkedin.com/in/sima-reichenbach-phd/"
+      },
+      {
+        "role": "cto",
+        "name": "Nick Braiman",
+        "linkedinUrl": "https://www.linkedin.com/in/nicholas-b-a97172164/"
+      }
+    ]
+  },
+  {
+    "name": "Assuric",
+    "description": "Regulatory compliance for digital health teams.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Paul Jewell",
+        "linkedinUrl": "http://www.linkedin.com/in/pauldavidjewell"
+      },
+      {
+        "role": "CTO",
+        "name": "Matt Jennings",
+        "linkedinUrl": "https://www.linkedin.com/in/matt-jennings-98a83718b"
+      }
+    ]
+  },
+  {
+    "name": "Peripheral Labs",
+    "description": "Spatial AI for live sports and media production.",
+    "location": "San Francisco",
+    "industry": "Telecoms & Media",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kelvin Cui",
+        "linkedinUrl": "https://www.linkedin.com/in/kelvinwcui/"
+      },
+      {
+        "role": "CTO",
+        "name": "Mustafa Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/mustafarehanahmadkhan/"
+      }
+    ]
+  },
+  {
+    "name": "WilsonAI",
+    "description": "AI paralegal for corporate legal teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gus Neate",
+        "linkedinUrl": "https://www.linkedin.com/in/gus-neate?utm_source=share"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Wang",
+        "linkedinUrl": "https://www.linkedin.com/in/alex-wang-53462a134"
+      }
+    ]
+  },
+  {
+    "name": "Inversion Semiconductor",
+    "description": "Manufacturing advanced chips using compact particle accelerators.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rohan Shishir Karthik",
+        "linkedinUrl": "https://www.linkedin.com/in/rohan-karthik-60a0b61b7/"
+      },
+      {
+        "role": "CTO",
+        "name": "Daniel Ricardo Vega Bermudez",
+        "linkedinUrl": "https://www.linkedin.com/in/daniel-r-vega/"
+      }
+    ]
+  },
+  {
+    "name": "Summations",
+    "description": "Research-paper summaries for higher-ed students.",
+    "location": "Toronto",
+    "industry": "Education",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jennifer Wang",
+        "linkedinUrl": "http://www.linkedin.com/in/ziyan-jennifer-wang"
+      },
+      {
+        "role": "CTO",
+        "name": "Lazar Jovanovic",
+        "linkedinUrl": "https://www.linkedin.com/in/lazarjov/"
+      }
+    ]
+  },
+  {
+    "name": "Wexler",
+    "description": "AI assistant for legal professionals.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gregory Mostyn",
+        "linkedinUrl": "https://www.linkedin.com/in/gregory-mostyn-9b3a89b8/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kush Madlani",
+        "linkedinUrl": "http://www.linkedin.com/in/kush-madlani-08141580/"
+      }
+    ]
+  },
+  {
+    "name": "Level Nine",
+    "description": "Enzyme catalysts for sustainable chemicals.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Seadna Quigley",
+        "linkedinUrl": "https://www.linkedin.com/in/seadnaquigley/"
+      },
+      {
+        "role": "CTO",
+        "name": "Emily Sheridan",
+        "linkedinUrl": "https://www.linkedin.com/in/emilysheridanprofile/"
+      }
+    ]
+  },
+  {
+    "name": "Axiom Therapeutics",
+    "description": "ML-driven covalent inhibitors for oncology teams.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ryan Geiser",
+        "linkedinUrl": "https://www.linkedin.com/in/ryangeiser"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Haggard",
+        "linkedinUrl": "https://www.linkedin.com/in/chris-haggard-295bab165/"
+      }
+    ]
+  },
+  {
+    "name": "Borderless",
+    "description": "Immigration compliance and sponsorship automation.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Matthew Bond",
+        "linkedinUrl": "https://www.linkedin.com/in/matthewpbond/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jonathan Raphael",
+        "linkedinUrl": "https://www.linkedin.com/in/jono-raphael/"
+      }
+    ]
+  },
+  {
+    "name": "Drip.AI",
+    "description": "Water-from-air panels for farms and factories.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Oussama Harouch",
+        "linkedinUrl": "https://www.linkedin.com/in/oussamaharouch/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ramadan Borayek",
+        "linkedinUrl": "https://www.linkedin.com/in/ramadan-borayek-73560638/"
+      }
+    ]
+  },
+  {
+    "name": "Tonk Labs",
+    "description": "Vibe coding for custom dashboards.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Harry Kingdon",
+        "linkedinUrl": "https://www.linkedin.com/in/harry-kingdon-12b00a126/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Gavin Owens",
+        "linkedinUrl": "https://www.linkedin.com/in/gavin-owens-21887346/"
+      }
+    ]
+  },
+  {
+    "name": "Vantager",
+    "description": "AI-powered diligence and reporting platform for LPs.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mason Lender",
+        "linkedinUrl": "https://www.linkedin.com/in/masonlender/"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolas Neven",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-neven-494577186/"
+      }
+    ]
+  },
+  {
+    "name": "Reya Labs",
+    "description": "Fixed-vs-variable swap AMM for DeFi.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simon Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/simon-jones-9498239b/"
+      },
+      {
+        "role": "CTO",
+        "name": "Artur Begyan",
+        "linkedinUrl": "https://www.linkedin.com/in/arturbegyan/"
+      }
+    ]
+  },
+  {
+    "name": "TextCortex",
+    "description": "AI agents for enterprise workflow automation.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dominik Lambersy",
+        "linkedinUrl": "https://www.linkedin.com/in/lambersy/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ceyhun Derinbogaz",
+        "linkedinUrl": "http://linkedin.com/in/ceyhunderinbogaz"
+      }
+    ]
+  },
+  {
+    "name": "Greenitio",
+    "description": "Bio-based polymers for CPG brands.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amit Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/amit-kumar-khan-970a5368"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Susmita Roy",
+        "linkedinUrl": "https://www.linkedin.com/in/susmita-roy-800004154/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Paul Ceralde",
+        "linkedinUrl": "https://www.linkedin.com/in/paulceralde/"
+      }
+    ]
+  },
+  {
+    "name": "Iterate AI",
+    "description": "Product analytics setup for nontechnical teams.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Shubhram Bhattacharya",
+        "linkedinUrl": "https://www.linkedin.com/in/itsshubho"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Saksham Aggarwal",
+        "linkedinUrl": "http://linkedin.com/in/sakshamagg27"
+      }
+    ]
+  },
+  {
+    "name": "RecurseML",
+    "description": "Fixing bugs in AI-generated code.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jack Jackson",
+        "linkedinUrl": "https://www.linkedin.com/in/jackjacksoncs/"
+      },
+      {
+        "role": "CTO",
+        "name": "Armins Stepanjans",
+        "linkedinUrl": "https://www.linkedin.com/in/arminbagrat/"
+      }
+    ]
+  },
+  {
+    "name": "HumanBit",
+    "description": "Figma-style prototyping for spatial apps.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishabh Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/rishabh-iitkgp/"
+      }
+    ]
+  },
+  {
+    "name": "Empirical Bio",
+    "description": "ML-guided biomolecule design for biotech firms.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jamie Weigold",
+        "linkedinUrl": "https://www.linkedin.com/in/jamie-weigold-4aa188106/"
+      }
+    ]
+  },
+  {
+    "name": "NeuroSonic",
+    "description": "Instant stroke-risk assessment for clinicians.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mike Ryan",
+        "linkedinUrl": "https://www.linkedin.com/in/mike-ryan-tcd/"
+      },
+      {
+        "role": "CTO",
+        "name": "Matthew Campbell",
+        "linkedinUrl": "https://www.linkedin.com/in/matthew-campbell-eng/"
+      }
+    ]
+  },
+  {
+    "name": "CamPlan",
+    "description": "AR design assistant for interiors and renovations.",
+    "location": "London",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Viktor Maric",
+        "linkedinUrl": "https://www.linkedin.com/in/viktor-maric-650006183"
+      }
+    ]
+  },
+  {
+    "name": "Kortix AI",
+    "description": "AI workforce management for enterprise teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marko Kraemer",
+        "linkedinUrl": "https://de.linkedin.com/in/markokraemer?trk=author_mini-profile_title"
+      }
+    ]
+  },
+  {
+    "name": "Solight",
+    "description": "Automated QA agents for software teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Antoine Levy",
+        "linkedinUrl": "https://www.linkedin.com/in/antoine-levyy/"
+      },
+      {
+        "role": "CTO",
+        "name": "Valentin De Matos",
+        "linkedinUrl": "https://www.linkedin.com/in/valentin-de-matos/"
+      }
+    ]
+  },
+  {
+    "name": "syn2core",
+    "description": "AI co-pilot for automotive assembly teams.",
+    "location": "Paris",
+    "industry": "Automotive & Mobility",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elise Chen",
+        "linkedinUrl": "https://www.linkedin.com/in/elise-c-6b7b4bb8/"
+      },
+      {
+        "role": "CTO",
+        "name": "Saman Vafadar",
+        "linkedinUrl": "https://www.linkedin.com/in/saman-vafadar/"
+      }
+    ]
+  },
+  {
+    "name": "A51",
+    "description": "Programmable RNA for cell modulation.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marina Katava",
+        "linkedinUrl": "https://www.linkedin.com/in/marina-katava/"
+      },
+      {
+        "role": "CTO",
+        "name": "Viktor Zahoransky",
+        "linkedinUrl": "https://www.linkedin.com/in/viktor-wendelin-zahoransky/"
+      }
+    ]
+  },
+  {
+    "name": "Genie Fertility",
+    "description": "Non-invasive womb-tissue diagnostics for IVF patients.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anoushka Menon",
+        "linkedinUrl": "https://www.linkedin.com/in/anoushkamenon/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Andreas Hadjimitsis",
+        "linkedinUrl": "https://www.linkedin.com/in/andreas-hadjimitsis-1x/"
+      }
+    ]
+  },
+  {
+    "name": "InteractionLabs",
+    "description": "Pixar lamp irl.",
+    "location": "Paris",
+    "industry": "Consumer Products",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Karim Rkha Chaham",
+        "linkedinUrl": "https://www.linkedin.com/in/karim-rkha-chaham-0a29601ab/"
+      },
+      {
+        "role": "CTO",
+        "name": "Julien Ajdenbaum",
+        "linkedinUrl": "https://www.linkedin.com/in/julien-ajdenbaum-7abb23144/"
+      }
+    ]
+  },
+  {
+    "name": "Repello AI",
+    "description": "AI red teaming for GenAI security.",
+    "location": "Bangalore",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aryaman Behera",
+        "linkedinUrl": "https://linkedin.com/in/aryaman-behera"
+      },
+      {
+        "role": "CTO",
+        "name": "Naman Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/naman-mishra-913009195/"
+      }
+    ]
+  },
+  {
+    "name": "Ariana.dev",
+    "description": "Autonomous bug-fixing development assistant.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Isaline Goudeau",
+        "linkedinUrl": "https://www.linkedin.com/in/isaline-goudeau-5a1b4a163/"
+      },
+      {
+        "role": "Founding CTO & Current CEO",
+        "name": "Anicet Nougaret",
+        "linkedinUrl": "http://www.linkedin.com/in/anicet-nougaret-b7846b174"
+      }
+    ]
+  },
+  {
+    "name": "Contineu",
+    "description": "Computer vision for construction progress tracking.",
+    "location": "Bangalore",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Harshil Naik",
+        "linkedinUrl": "https://www.linkedin.com/in/harshilnaikk/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kanao Ramesh",
+        "linkedinUrl": "https://www.linkedin.com/in/rkanao"
+      }
+    ]
+  },
+  {
+    "name": "Thalya",
+    "description": "RNAi spray to enhance crop nitrogen efficiency.",
+    "location": "Paris",
+    "industry": "Agriculture & Farming",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Théo Hoenen",
+        "linkedinUrl": "https://www.linkedin.com/in/théo-hoenen/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Hayat Sehki",
+        "linkedinUrl": "https://www.linkedin.com/in/hayatsehki"
+      }
+    ]
+  },
+  {
+    "name": "HelmGuard AI",
+    "description": "Cybersecurity superintelligence platform for human and AI teams.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Daley",
+        "linkedinUrl": "https://www.linkedin.com/in/john-daley-a6a51936/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jack Miller",
+        "linkedinUrl": "https://www.linkedin.com/in/jack-w-miller/"
+      }
+    ]
+  },
+  {
+    "name": "Synthera AI",
+    "description": "AI-generated market simulations for investor strategy testing.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mariana Barona",
+        "linkedinUrl": "https://www.linkedin.com/in/mariana-barona-09973b168/"
+      },
+      {
+        "role": "CTO",
+        "name": "Lukas Schreiner",
+        "linkedinUrl": "http://www.linkedin.com/in/lukas-schreiner"
+      }
+    ]
+  },
+  {
+    "name": "toby",
+    "description": "Real-time speech and text translation for global conversations.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucas Campa",
+        "linkedinUrl": "https://www.linkedin.com/in/lucas-campa/"
+      },
+      {
+        "role": "CTO",
+        "name": "Vincent Wilmet",
+        "linkedinUrl": "https://www.linkedin.com/in/vincent--wilmet/"
+      }
+    ]
+  },
+  {
+    "name": "Prefer",
+    "description": "Flavours and ingredients from fermentation.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jake Berber",
+        "linkedinUrl": "https://www.linkedin.com/in/jakeberber"
+      },
+      {
+        "role": "CTO",
+        "name": "Ding Jie Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/djtansg"
+      }
+    ]
+  },
+  {
+    "name": "Ressl AI",
+    "description": "AI Salesforce Engineer.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arushi Gandhi",
+        "linkedinUrl": "https://www.linkedin.com/in/arushi-gandhi/"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhishek Eswaran",
+        "linkedinUrl": "https://www.linkedin.com/in/abhishek-e-b436231a4/"
+      }
+    ]
+  },
+  {
+    "name": "Spot",
+    "description": "API for at-home clinical sample collection.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Andrew Jajack",
+        "linkedinUrl": "https://www.linkedin.com/in/ajajack/"
+      }
+    ]
+  },
+  {
+    "name": "Wisent",
+    "description": "World's best AI.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Łukasz Bartoszcze",
+        "linkedinUrl": "https://www.linkedin.com/in/lbartoszcze/"
+      }
+    ]
+  },
+  {
+    "name": "Sartor",
+    "description": "The Canva for fashion design and manufacturing.",
+    "location": "London",
+    "industry": "Logistics",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jemima Bunbury",
+        "linkedinUrl": "https://www.linkedin.com/in/jemima-b-316a2b108/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Daan Ferdinandusse",
+        "linkedinUrl": "https://www.linkedin.com/in/daan-ferdinandusse/"
+      }
+    ]
+  },
+  {
+    "name": "Locksmith Bio",
+    "description": "Drugging the undruggable.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ajitesh Lunge",
+        "linkedinUrl": "https://www.linkedin.com/in/ajitesh-lunge/"
+      },
+      {
+        "role": "CTO",
+        "name": "Yashas Devasurmutt",
+        "linkedinUrl": "https://www.linkedin.com/in/yashas-devasurmutt/"
+      }
+    ]
+  },
+  {
+    "name": "Haystack",
+    "description": "Delivery analytics for engineering teams.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julian Colina",
+        "linkedinUrl": "https://www.linkedin.com/in/julian-colina-b430b776/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kan Yilmaz",
+        "linkedinUrl": "https://www.linkedin.com/in/thellimist"
+      }
+    ]
+  },
+  {
+    "name": "Lucent",
+    "description": "Cursor for creators.",
+    "location": "London",
+    "industry": "Marketing & Advertising",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alex Koumpas",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandroskoumpas/"
+      },
+      {
+        "role": "CTO",
+        "name": "Dimitrios Panagiotopoulos",
+        "linkedinUrl": "https://www.linkedin.com/in/dimitrios-panagiotopoulos/?originalSubdomain=uk"
+      }
+    ]
+  },
+  {
+    "name": "Arda Biomaterials",
+    "description": "Circular biomaterials from waste feedstocks.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Brett Cotten",
+        "linkedinUrl": "https://www.linkedin.com/in/brett-a-cotten"
+      },
+      {
+        "role": "CTO",
+        "name": "Edward TJ Mitchell",
+        "linkedinUrl": "https://www.linkedin.com/in/edward-j-mitchell/"
+      }
+    ]
+  },
+  {
+    "name": "quso.ai",
+    "description": "AI for streamlined video content creation.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vedant Maheshwari Maheshwari",
+        "linkedinUrl": "https://www.linkedin.com/in/vedant-maheshwari/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kushagra Pandya",
+        "linkedinUrl": "https://www.linkedin.com/in/tsaingra"
+      }
+    ]
+  },
+  {
+    "name": "Rightbot",
+    "description": "Autonomous unloading robots for warehouses.",
+    "location": "Bangalore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anurag Dutta",
+        "linkedinUrl": "https://www.linkedin.com/in/anurag-dutta-3078016/"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhinav Warrier",
+        "linkedinUrl": "https://www.linkedin.com/in/amber-shafi/"
+      }
+    ]
+  },
+  {
+    "name": "Beatoven.ai",
+    "description": "Fairly trained AI-composed royalty-free music for creators.",
+    "location": "Bangalore",
+    "industry": "Telecoms & Media",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mansoor Rahimat Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/mansoorkhansitar/"
+      },
+      {
+        "role": "CTO",
+        "name": "Siddharth Bhardwaj",
+        "linkedinUrl": "https://www.linkedin.com/in/sid0710/"
+      }
+    ]
+  },
+  {
+    "name": "GreenLeaze",
+    "description": "Subscription leasing for e-commerce merchants.",
+    "location": "Paris",
+    "industry": "Financial Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stéphane Richard",
+        "linkedinUrl": "https://www.linkedin.com/in/st%C3%A9phane-richard-/"
+      },
+      {
+        "role": "CTO",
+        "name": "Hippolyte Bach",
+        "linkedinUrl": "https://www.linkedin.com/in/hippolyte-bach"
+      }
+    ]
+  },
+  {
+    "name": "Pyto",
+    "description": "Voice AI for inbound sales conversion.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandre Taillandier",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandre-taillandier/"
+      },
+      {
+        "role": "cto",
+        "name": "Antoine Bellion",
+        "linkedinUrl": "https://www.linkedin.com/in/abellion"
+      }
+    ]
+  },
+  {
+    "name": "VoltaBack",
+    "description": "Charging session management for fleet EVs.",
+    "location": "Paris",
+    "industry": "Automotive & Mobility",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arnaud Tran",
+        "linkedinUrl": "https://www.linkedin.com/in/arnaud-tran/"
+      },
+      {
+        "role": "CTO",
+        "name": "Adrien Guenard",
+        "linkedinUrl": "https://www.linkedin.com/in/adrien-guenard-854806195/"
+      }
+    ]
+  },
+  {
+    "name": "Lucentia",
+    "description": "AI-powered cardiac diagnostics.",
+    "location": "Paris",
+    "industry": "Healthcare",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sahar Jalal",
+        "linkedinUrl": "https://www.linkedin.com/in/sahar-jalal/"
+      }
+    ]
+  },
+  {
+    "name": "Bubble Robotics",
+    "description": "Autonomous underwater robots for marine work.",
+    "location": "Paris",
+    "industry": "Energy & Utilities",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jean Crosetti",
+        "linkedinUrl": "https://www.linkedin.com/in/jean-crosetti/"
+      },
+      {
+        "role": "CTO",
+        "name": "Patricia Apostol",
+        "linkedinUrl": "https://www.linkedin.com/in/patricia-apostol/"
+      }
+    ]
+  },
+  {
+    "name": "Belidor",
+    "description": "The construction intelligence layer.",
+    "location": "Paris",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marc Apicella",
+        "linkedinUrl": "https://www.linkedin.com/in/marcapicella/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Baptiste Grandclerc",
+        "linkedinUrl": "https://www.linkedin.com/in/baptiste-grandclerc-65b7ab51/"
+      }
+    ]
+  },
+  {
+    "name": "SunGreenH2",
+    "description": "On-site green hydrogen electrolysers for industry.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tulika Raj",
+        "linkedinUrl": "https://www.linkedin.com/in/tulika-raj-3a14141"
+      },
+      {
+        "role": "CTO",
+        "name": "Saeid masudy panah",
+        "linkedinUrl": "https://sg.linkedin.com/in/saeid-masudy-panah"
+      }
+    ]
+  },
+  {
+    "name": "Unsiloed AI",
+    "description": "AI agents for unstructured financial data.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aman Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/aman005/"
+      },
+      {
+        "role": "CTO",
+        "name": "Adnan Abbas",
+        "linkedinUrl": "https://www.linkedin.com/in/adnan-abbas-903b711a2/"
+      }
+    ]
+  },
+  {
+    "name": "Autoset",
+    "description": "Targeted data generation for AI developers.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Saicharan Ganapathy",
+        "linkedinUrl": "https://www.linkedin.com/in/saicharan-ganapathy-1b59b91b3/"
+      },
+      {
+        "role": "CTO",
+        "name": "Aditya Mohan",
+        "linkedinUrl": "https://www.linkedin.com/in/aditya-mohan-96300818b/"
+      },
+      {
+        "role": "CPO",
+        "name": "Dev Desai",
+        "linkedinUrl": "https://www.linkedin.com/in/dev-moxaj-desai/"
+      }
+    ]
+  },
+  {
+    "name": "Aule Space",
+    "description": "Jetpacks for life-extension of satellites.",
+    "location": "Bangalore",
+    "industry": "Aerospace & Defence",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jay Panchal",
+        "linkedinUrl": "https://www.linkedin.com/in/-jaypanchal/"
+      },
+      {
+        "role": "CTO",
+        "name": "Nithyaa Giri",
+        "linkedinUrl": "https://www.linkedin.com/in/nithyaashree/"
+      },
+      {
+        "role": "COO",
+        "name": "Hrishit Tambi",
+        "linkedinUrl": "https://www.linkedin.com/in/hrishit-tambi/"
+      }
+    ]
+  },
+  {
+    "name": "Metris",
+    "description": "AI-native OS for renewables.",
+    "location": "London",
+    "industry": "Energy & Utilities",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Natasha Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/natasha-jones-url/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "William Whatley",
+        "linkedinUrl": "https://www.linkedin.com/in/wwwhatley/"
+      }
+    ]
+  },
+  {
+    "name": "Asteroid",
+    "description": "Runtime supervision for AI agents.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "David Mlcoch",
+        "linkedinUrl": "https://www.linkedin.com/in/davidmlcoch/"
+      },
+      {
+        "role": "CTO",
+        "name": "Joe Hewett",
+        "linkedinUrl": "https://x.com/simulated_land"
+      }
+    ]
+  },
+  {
+    "name": "Asterix Health",
+    "description": "The modern workforce solution for UK healthcare.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julian Titz",
+        "linkedinUrl": "https://www.linkedin.com/in/juliantitz/"
+      },
+      {
+        "role": "COO",
+        "name": "Max Thilo",
+        "linkedinUrl": "https://www.linkedin.com/in/max-thilo-b3150427a/"
+      }
+    ]
+  },
+  {
+    "name": "Mutable Tactics",
+    "description": "Physical AI platform for collaborative robotics.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Colin MacLeod",
+        "linkedinUrl": "https://www.linkedin.com/in/colin-macleod-33a80714/"
+      },
+      {
+        "role": "CTO",
+        "name": "Enrique Munoz de Cote",
+        "linkedinUrl": "https://www.linkedin.com/in/enriquedecote/"
+      }
+    ]
+  },
+  {
+    "name": "The Personal AI Company",
+    "description": "AI companion for personal productivity.",
+    "location": "London",
+    "industry": "Consumer Products",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sanskar Jethi",
+        "linkedinUrl": "https://www.linkedin.com/in/sanskar123/"
+      },
+      {
+        "role": "CTO",
+        "name": "Arsen Kylyshbek",
+        "linkedinUrl": "https://linkedin.com/in/arsenkk"
+      }
+    ]
+  },
+  {
+    "name": "VIBE",
+    "description": "AI for daily reflection with friends.",
+    "location": "London",
+    "industry": "Consumer Products",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stelio Ropokis",
+        "linkedinUrl": "https://www.linkedin.com/in/stelioropokis/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Thomas Metcalfe",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-metcalfe"
+      }
+    ]
+  },
+  {
+    "name": "Arctas",
+    "description": "Government contracting automation for small businesses.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luke Nascimento",
+        "linkedinUrl": "https://www.linkedin.com/in/luke-nascimento/"
+      }
+    ]
+  },
+  {
+    "name": "Compass Labs",
+    "description": "DeFi protocol simulation infrastructure.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elisabeth Duijnstee",
+        "linkedinUrl": "http://www.linkedin.com/in/elisabeth-duijnstee-9104b7124"
+      },
+      {
+        "role": "CEO",
+        "name": "Rohan Tangri",
+        "linkedinUrl": "http://www.linkedin.com/in/rohan-tangri"
+      }
+    ]
+  },
+  {
+    "name": "Lodestar",
+    "description": "The first autonomous, AI fighter pilot for space.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Neil Buchanan",
+        "linkedinUrl": "https://www.linkedin.com/in/neil-buchanan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Santini",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-santini/"
+      }
+    ]
+  },
+  {
+    "name": "Kaio Labs",
+    "description": "Accelerating the transition to sustainable fuels and chemicals through AI-powered discovery.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "William Purvis",
+        "linkedinUrl": "https://www.linkedin.com/in/williampurvis00/"
+      },
+      {
+        "role": "CTO",
+        "name": "Yash Sinha",
+        "linkedinUrl": "https://www.linkedin.com/in/yash-sinha-556b411b3/"
+      }
+    ]
+  },
+  {
+    "name": "Crane Biosciences",
+    "description": "Red blood cell-derived nanoparticle platform for brain mRNA delivery.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luca Bolondi",
+        "linkedinUrl": "https://www.linkedin.com/in/luca-bolondi/"
+      },
+      {
+        "role": "CTO",
+        "name": "Sujaan Das",
+        "linkedinUrl": "https://www.linkedin.com/in/sujaandas"
+      }
+    ]
+  },
+  {
+    "name": "Noah Labs",
+    "description": "Voice-based heart failure monitoring.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Oliver Piepenstock",
+        "linkedinUrl": "https://www.linkedin.com/in/oliver-piepenstock/"
+      },
+      {
+        "role": "CTO",
+        "name": "Marcus Hott",
+        "linkedinUrl": "https://www.linkedin.com/in/marcus-hott-082227151/"
+      }
+    ]
+  },
+  {
+    "name": "Peakflo",
+    "description": "AI for finance operations automation.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Saurabh Chauhan",
+        "linkedinUrl": "https://www.linkedin.com/in/saurabh-chauhan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Dmitry Vedenyapin",
+        "linkedinUrl": "https://www.linkedin.com/in/dmitryvedenyapin/"
+      }
+    ]
+  },
+  {
+    "name": "Fairmart",
+    "description": "Instant inventory digitization for retailers.",
+    "location": "Singapore",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jan Gasparic",
+        "linkedinUrl": "https://hk.linkedin.com/in/jangasparic"
+      },
+      {
+        "role": "CTO",
+        "name": "Daniil Moskovtsov",
+        "linkedinUrl": "https://www.linkedin.com/in/daniil-moskovtsov-40365032/"
+      }
+    ]
+  },
+  {
+    "name": "Floworks",
+    "description": "Field-force automation via WhatsApp.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sarthak Shrivastava",
+        "linkedinUrl": "https://www.linkedin.com/in/sarthak-shrivastava/"
+      },
+      {
+        "role": "CTO",
+        "name": "Sudipta Biswas",
+        "linkedinUrl": "http://linkedin.com/in/sudipta-biswas"
+      }
+    ]
+  },
+  {
+    "name": "Polari Labs",
+    "description": "Discreet and spontaneous anal prep device for sexual wellness.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anna Vybornova",
+        "linkedinUrl": "https://www.linkedin.com/in/annavyb/"
+      },
+      {
+        "role": "CTO",
+        "name": "Henry Blest",
+        "linkedinUrl": "https://www.linkedin.com/in/dr-henry-blest-39883b147/"
+      }
+    ]
+  },
+  {
+    "name": "Telescope Analytics",
+    "description": "ML for customer targeting in B2B sales.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Reza Javan",
+        "linkedinUrl": "https://www.linkedin.com/in/rezajavan/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Camin McCluskey",
+        "linkedinUrl": "https://www.linkedin.com/in/camin-mccluskey/"
+      }
+    ]
+  },
+  {
+    "name": "AVAYL",
+    "description": "Building the future of medical information with AI.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Miena Amiri",
+        "linkedinUrl": "https://de.linkedin.com/in/mienaamiri"
+      },
+      {
+        "role": "CTO",
+        "name": "Alexander Götz",
+        "linkedinUrl": "https://www.linkedin.com/in/alexjgoetz/"
+      }
+    ]
+  },
+  {
+    "name": "Flynt",
+    "description": "Dynamic pricing for restaurant profitability.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thibault Desplats",
+        "linkedinUrl": "https://www.linkedin.com/in/tdesplats/"
+      },
+      {
+        "role": "CTO",
+        "name": "Wuillaume Dalle",
+        "linkedinUrl": "https://www.linkedin.com/in//"
+      }
+    ]
+  },
+  {
+    "name": "Bigteam.ai",
+    "description": "Automated prompt engineering for GenAI teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pavir Patel",
+        "linkedinUrl": "https://www.linkedin.com/in/pavir/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Stephen Byrne",
+        "linkedinUrl": "https://www.linkedin.com/in/stephen-byrne-/"
+      }
+    ]
+  },
+  {
+    "name": "Vivid Machines",
+    "description": "Computer-vision insights for crop health.",
+    "location": "Toronto",
+    "industry": "Agriculture & Farming",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jenny Lemieux",
+        "linkedinUrl": "https://www.linkedin.com/in/jennylemieux/"
+      },
+      {
+        "role": "CTO",
+        "name": "Jonathan Binas",
+        "linkedinUrl": "https://www.linkedin.com/in/jbinas/"
+      }
+    ]
+  },
+  {
+    "name": "FLOWBIO",
+    "description": "Real-time hydration insights for athletes.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stefan Fluit",
+        "linkedinUrl": "https://www.linkedin.com/in/sapvdf/"
+      },
+      {
+        "role": "CTO",
+        "name": "Giovanni Rovere",
+        "linkedinUrl": "https://www.linkedin.com/in/giovannirovere/"
+      }
+    ]
+  },
+  {
+    "name": "EndoGene.Bio",
+    "description": "Epigenetic diagnostics for early endometriosis detection.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Maria Zaballos",
+        "linkedinUrl": "https://www.linkedin.com/in/maria-teresa-p%C3%A9rez-zaballos-85179b87/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Madeleine Moscatelli",
+        "linkedinUrl": "https://www.linkedin.com/in/madeleine-moscatelli/"
+      }
+    ]
+  },
+  {
+    "name": "Kanjo",
+    "description": "AI triage for family mental-health care.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Sophia Wayne",
+        "linkedinUrl": "https://www.linkedin.com/in/sophia-pw/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Stefan Bostock",
+        "linkedinUrl": "https://www.linkedin.com/in/stefanbostock/"
+      }
+    ]
+  },
+  {
+    "name": "Reach Industries",
+    "description": "Lab workflow automation for research teams.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Silas Adekunle",
+        "linkedinUrl": "https://www.linkedin.com/in/silasade/"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Beck",
+        "linkedinUrl": "https://www.linkedin.com/in/chrisjbeckuk/"
+      }
+    ]
+  },
+  {
+    "name": "Mirantus",
+    "description": "On-site tele-diagnostics for remote communities.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dominik Pederzani",
+        "linkedinUrl": "https://de.linkedin.com/in/dominik-pederzani-07baa26a"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Claus Gruber",
+        "linkedinUrl": "https://www.linkedin.com/in/claus-g-759122145/"
+      }
+    ]
+  },
+  {
+    "name": "Kettel",
+    "description": "Guided home buying for first-time purchasers.",
+    "location": "London",
+    "industry": "Construction & Real Estate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Trevor Stunden",
+        "linkedinUrl": "https://www.linkedin.com/in/trevorstunden"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Tupper",
+        "linkedinUrl": "https://www.linkedin.com/in/alex-tupper-606319a9/"
+      }
+    ]
+  },
+  {
+    "name": "AgileRL",
+    "description": "Accessible reinforcement learning tools for developers.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Param Kumar",
+        "linkedinUrl": "https://www.linkedin.com/in/param-kumar"
+      },
+      {
+        "role": "CTO",
+        "name": "Nick Ustaran-Anderegg",
+        "linkedinUrl": "https://www.linkedin.com/in/nua/"
+      }
+    ]
+  },
+  {
+    "name": "PentaBind",
+    "description": "AI-designed aptamer therapeutics for biopharma.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rory Ryan",
+        "linkedinUrl": "https://www.linkedin.com/in/rorywryan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Phil Haynes",
+        "linkedinUrl": "https://www.linkedin.com/in/philhaynes1/"
+      }
+    ]
+  },
+  {
+    "name": "Shmood",
+    "description": "AI feedback loops for design reviews.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Malvika Jain",
+        "linkedinUrl": "https://www.linkedin.com/in/malvikaj/"
+      }
+    ]
+  },
+  {
+    "name": "Samp",
+    "description": "Continuous reality capture for industrial operations.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Laurent Bourgouin",
+        "linkedinUrl": "https://www.linkedin.com/in/laurent-bourgouin-8b695953"
+      },
+      {
+        "role": "CTO",
+        "name": "Shivani Shah",
+        "linkedinUrl": "https://www.linkedin.com/in/shivanishah21"
+      }
+    ]
+  },
+  {
+    "name": "Alectify",
+    "description": "AI insights for construction contractors.",
+    "location": "Toronto",
+    "industry": "Energy & Utilities",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ajay Gupta",
+        "linkedinUrl": "https://ca.linkedin.com/in/ajay-gupta-53390915"
+      },
+      {
+        "role": "CTO",
+        "name": "Naveen Vedula",
+        "linkedinUrl": "http://linkedin.com/in/naveen-vedula-9a897214"
+      }
+    ]
+  },
+  {
+    "name": "ShareID",
+    "description": "Instant identity verification for businesses.",
+    "location": "Paris",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sara Sebti",
+        "linkedinUrl": "https://www.linkedin.com/in/sara-sebti/"
+      },
+      {
+        "role": "CTO",
+        "name": "Sawsen Rezig",
+        "linkedinUrl": "https://www.linkedin.com/in/sawsen-rezig-43a49612/"
+      }
+    ]
+  },
+  {
+    "name": "BetterData",
+    "description": "Synthetic data for secure financial sharing.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Uzair Javaid",
+        "linkedinUrl": "https://www.linkedin.com/in/uzair-javaid/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kevin Yee",
+        "linkedinUrl": "https://www.linkedin.com/in/yee-kevin/"
+      }
+    ]
+  },
+  {
+    "name": "Untap",
+    "description": "Wastewater pathogen monitoring for public health.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Claire Trant",
+        "linkedinUrl": "https://www.linkedin.com/in/claire-trant/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Jay Bullen",
+        "linkedinUrl": "https://www.linkedin.com/in/jay-bullen-224521162/"
+      }
+    ]
+  },
+  {
+    "name": "Round",
+    "description": "AI-agents for finance teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pac O'Shea",
+        "linkedinUrl": "https://www.linkedin.com/in/pac-o-shea/"
+      },
+      {
+        "role": "CTO",
+        "name": "Hayyaan Ahmad",
+        "linkedinUrl": "https://linkedin.com/in/hayyaan"
+      }
+    ]
+  },
+  {
+    "name": "CarbonFarm",
+    "description": "AI monitoring for rice-farm carbon credits.",
+    "location": "Paris",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vassily Carantino",
+        "linkedinUrl": "https://www.linkedin.com/in/vassily-carantino/"
+      },
+      {
+        "role": "CTO",
+        "name": "James Hastwell",
+        "linkedinUrl": "https://www.linkedin.com/in/jameshastwell/"
+      }
+    ]
+  },
+  {
+    "name": "Jimini AI",
+    "description": "AI automation for legal drafting.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Raphael Arroche",
+        "linkedinUrl": "https://www.linkedin.com/in/raphael-arroche-a86740a7/"
+      },
+      {
+        "role": "CTO",
+        "name": "Stéphane Béreux",
+        "linkedinUrl": "https://www.linkedin.com/in/stephanebereux"
+      }
+    ]
+  },
+  {
+    "name": "Freshflow",
+    "description": "AI demand forecasting for grocers.",
+    "location": "Berlin",
+    "industry": "Food",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Avik Mukhija",
+        "linkedinUrl": "https://www.linkedin.com/in/avik-m-92773163/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Carmine Paolino",
+        "linkedinUrl": "https://www.linkedin.com/in/carminepaolino/"
+      }
+    ]
+  },
+  {
+    "name": "Kolibri",
+    "description": "Acoustic bioproduction for gene therapies.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Amélie Quilichini",
+        "linkedinUrl": "https://www.linkedin.com/in/ameliequilichini"
+      },
+      {
+        "role": "CTO",
+        "name": "Gabriel Dumy",
+        "linkedinUrl": "https://www.linkedin.com/in/gabrieldumy/"
+      }
+    ]
+  },
+  {
+    "name": "RC Labs",
+    "description": "Adaptive battery management for EV and grid storage.",
+    "location": "Hong Kong",
+    "industry": "Energy & Utilities",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Raghu Raman",
+        "linkedinUrl": "https://www.linkedin.com/in/s-raghuraman/"
+      },
+      {
+        "role": "CTO",
+        "name": "Yat Chi Fong",
+        "linkedinUrl": "https://www.linkedin.com/in/yat-chi-fong-9b257a51/"
+      }
+    ]
+  },
+  {
+    "name": "Cosmos Video",
+    "description": "Virtual offices for remote teams.",
+    "location": "London",
+    "industry": "Education",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Karan Baweja",
+        "linkedinUrl": "http://www.linkedin.com/in/karandb"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Rahul Goyal",
+        "linkedinUrl": "https://www.linkedin.com/in/rahulgoyal203/"
+      }
+    ]
+  },
+  {
+    "name": "Messium",
+    "description": "Hyperspectral monitoring for precision farming.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "George Gilks",
+        "linkedinUrl": "https://www.linkedin.com/in/george-marangos-gilks-307ab261/"
+      },
+      {
+        "role": "CTO",
+        "name": "Vishal Soomaney Vijaykumar",
+        "linkedinUrl": "https://www.linkedin.com/in/vsoomaney/"
+      }
+    ]
+  },
+  {
+    "name": "rouvia",
+    "description": "Sustainable rail freight for shippers.",
+    "location": "Berlin",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Benjamin Noyan",
+        "linkedinUrl": "http://www.linkedin.com/in/benjamin-noyan"
+      },
+      {
+        "role": "CTO",
+        "name": "Fuad Becirbasic",
+        "linkedinUrl": "https://www.linkedin.com/in/fuadbecirbasic/"
+      }
+    ]
+  },
+  {
+    "name": "Quack AI",
+    "description": "Deep-learning code reviews for development teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "François-Guillaume Fernandez",
+        "linkedinUrl": "https://www.linkedin.com/in/frgfm/"
+      }
+    ]
+  },
+  {
+    "name": "A&B Smart Materials",
+    "description": "Biodegradable smart hydrogels for passive cooling.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amaury Buggenoms",
+        "linkedinUrl": "https://www.linkedin.com/in/amauryvtdb/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ben White",
+        "linkedinUrl": "http://www.linkedin.com/in/benjamin-white-406580238"
+      }
+    ]
+  },
+  {
+    "name": "Rand",
+    "description": "NFT marketplace on the Algorand blockchain.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ross Murray-Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/rossmurrayjones"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Agash Navaranjan",
+        "linkedinUrl": "https://www.linkedin.com/in/agash-navaranjan/"
+      }
+    ]
+  },
+  {
+    "name": "Unakin",
+    "description": "AI text-to-game prototyping for studios.",
+    "location": "London",
+    "industry": "Gaming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ollie Markham",
+        "linkedinUrl": "https://www.linkedin.com/in/oliver-markham-596705a5/"
+      },
+      {
+        "role": "CTO",
+        "name": "Gian Luigi D'Alessandro",
+        "linkedinUrl": "https://www.linkedin.com/in/giandalessandro/"
+      }
+    ]
+  },
+  {
+    "name": "Quantly",
+    "description": "AI analytics for financial analysts.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vladislav Stanev",
+        "linkedinUrl": "https://www.linkedin.com/in/vladislav-stanev-80563882"
+      },
+      {
+        "role": "CTO",
+        "name": "Ivan Kavalerov",
+        "linkedinUrl": "https://www.linkedin.com/in/ikavalerov/"
+      }
+    ]
+  },
+  {
+    "name": "Unison",
+    "description": "Omics data services for biotech teams.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Daniel Sozonov",
+        "linkedinUrl": "https://www.linkedin.com/in/danielsozonov"
+      }
+    ]
+  },
+  {
+    "name": "Amatera",
+    "description": "Biotech breeding for perennial crops.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Omar Dekkiche",
+        "linkedinUrl": "https://www.linkedin.com/in/omar-dekkiche-563040b3/"
+      },
+      {
+        "role": "CTO",
+        "name": "Lucie Kriegshauser",
+        "linkedinUrl": "https://www.linkedin.com/in/lucie-kriegshauser-phd-560135102/"
+      }
+    ]
+  },
+  {
+    "name": "qlip",
+    "description": "AI video repurposing for social channels.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Svend Court-Payen",
+        "linkedinUrl": "https://www.linkedin.com/in/svend-court-payen-bb2926109/"
+      },
+      {
+        "role": "CTO",
+        "name": "Pamela Carvallo",
+        "linkedinUrl": "https://www.linkedin.com/in/pamelacarvallo/"
+      }
+    ]
+  },
+  {
+    "name": "Teora",
+    "description": "Microbial engineering for sustainable ingredients.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishita Changede",
+        "linkedinUrl": "https://www.linkedin.com/in/rishitachangede/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Seyed Mohammad Hasheminejad",
+        "linkedinUrl": "https://www.linkedin.com/in/mhasheminejad/"
+      }
+    ]
+  },
+  {
+    "name": "pFIBRE",
+    "description": "Marine-biodegradable packaging films.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Prakruti Kodali",
+        "linkedinUrl": ""
+      },
+      {
+        "role": "CTO",
+        "name": "Dinaz Tamboli",
+        "linkedinUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Exogene",
+    "description": "AI for T-cell receptor discovery in oncology.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Federico Paoletti",
+        "linkedinUrl": "https://www.linkedin.com/in/federico-paoletti/"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrea Mambrini",
+        "linkedinUrl": "https://www.linkedin.com/in/mambrini/"
+      }
+    ]
+  },
+  {
+    "name": "MedPay",
+    "description": "Transforming neighborhood pharmacies using technology.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ravi Chandra",
+        "linkedinUrl": "https://www.linkedin.com/in/ravi-chandra-entrepreneur/"
+      },
+      {
+        "role": "CTO",
+        "name": "Arun Bhatia",
+        "linkedinUrl": "https://www.linkedin.com/in/arunbhatia786/"
+      }
+    ]
+  },
+  {
+    "name": "NeuroPixel.AI",
+    "description": "AI for apparel catalog creation.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arvind Nair",
+        "linkedinUrl": "https://www.linkedin.com/in/arvind-venugopal-nair-85378079/"
+      },
+      {
+        "role": "CTO",
+        "name": "Amritendu Mukherjee",
+        "linkedinUrl": "http://www.linkedin.com/in/amritendu-mukherjee"
+      }
+    ]
+  },
+  {
+    "name": "unScript AI",
+    "description": "AI for personalized interactive video campaigns.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ritwika Chowdhury",
+        "linkedinUrl": "https://www.linkedin.com/in/ritwika-chowdhury-a70201112"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Akhil Menon",
+        "linkedinUrl": "https://www.linkedin.com/in/akhilmenonz1/"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Boost",
+    "description": "AI for chemical formulation design.",
+    "location": "Singapore",
+    "industry": "Chemicals",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Filip Auksztol",
+        "linkedinUrl": "http://linkedin.com/in/auksztol/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kacper Kielak",
+        "linkedinUrl": "https://www.linkedin.com/feed/"
+      }
+    ]
+  },
+  {
+    "name": "Phasio",
+    "description": "AI-driven workflow collaboration for SME manufacturers.",
+    "location": "Singapore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Harry Lucas",
+        "linkedinUrl": "http://www.linkedin.com/in/harry-conor-lucas"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sudharshan Raman",
+        "linkedinUrl": "https://www.linkedin.com/in/sudharshan-raman-315923101/"
+      }
+    ]
+  },
+  {
+    "name": "Flare",
+    "description": "Scheduled delivery for online shoppers.",
+    "location": "London",
+    "industry": "Logistics",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Daniel Parekh-Hill",
+        "linkedinUrl": "https://www.linkedin.com/in/danielparekhhill/"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Hooper",
+        "linkedinUrl": "https://www.linkedin.com/in/alexgreenhillhooper/"
+      }
+    ]
+  },
+  {
+    "name": "LightHearted AI",
+    "description": "Noninvasive cardiac screening via wearables.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucrezia Cester",
+        "linkedinUrl": "https://www.linkedin.com/in/lucrezia-cester-phd-6740b7156/"
+      },
+      {
+        "role": "CTO",
+        "name": "Dilip Rajeswari",
+        "linkedinUrl": "https://www.linkedin.com/in/dilip-rajeswari-5a900818a/"
+      }
+    ]
+  },
+  {
+    "name": "Super",
+    "description": "No-code token creation for web3 teams.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bisola Asolo",
+        "linkedinUrl": "https://www.linkedin.com/in/bisola-asolo-498a72b1/"
+      },
+      {
+        "role": "CTO",
+        "name": "Adrian Kozhevnikov",
+        "linkedinUrl": "https://www.linkedin.com/in/adrian-kozhevnikov/"
+      }
+    ]
+  },
+  {
+    "name": "Zebracat",
+    "description": "AI video creation from text for marketers.",
+    "location": "Berlin",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Michael Baumgartner",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-baumgartner/"
+      },
+      {
+        "role": "CTO",
+        "name": "Reza Zolfaghari",
+        "linkedinUrl": "https://www.linkedin.com/in/zolf/"
+      }
+    ]
+  },
+  {
+    "name": "D-Nome",
+    "description": "Room-temperature genomic testing for labs.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Divya Sriram",
+        "linkedinUrl": "https://www.linkedin.com/in/divya-sriram-a60327171"
+      },
+      {
+        "role": "CTO",
+        "name": "Sujoy Deb",
+        "linkedinUrl": "https://www.linkedin.com/in/sujoy-deb-19736471"
+      }
+    ]
+  },
+  {
+    "name": "Jackett",
+    "description": "AI-powered personalized assessments for educators.",
+    "location": "Singapore",
+    "industry": "Education",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Charlotte Trudgill",
+        "linkedinUrl": "https://www.linkedin.com/in/charlottejoytrudgill/"
+      },
+      {
+        "role": "CTO",
+        "name": "Rachiket Arya",
+        "linkedinUrl": "https://www.linkedin.com/in/rachiket-arya/"
+      }
+    ]
+  },
+  {
+    "name": "Hawksight",
+    "description": "Crowdsourced trading signals for investors.",
+    "location": "Singapore",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bradian Muliadi",
+        "linkedinUrl": "https://www.linkedin.com/in/bradian/?originalSubdomain=id"
+      },
+      {
+        "role": "CTO",
+        "name": "Lorenzo Ampil",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzoampil/"
+      }
+    ]
+  },
+  {
+    "name": "Magnestar",
+    "description": "Magnetic debris mitigation for satellite operators.",
+    "location": "Toronto",
+    "industry": "Aerospace & Defence",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacqueline Good",
+        "linkedinUrl": "https://www.linkedin.com/in/jacqueline-good-266ba9a4/"
+      }
+    ]
+  },
+  {
+    "name": "Cheffer",
+    "description": "Optimized purchasing for restaurant owners.",
+    "location": "Toronto",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Keshev Kulkarni",
+        "linkedinUrl": "https://www.linkedin.com/in/keshev/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Milton Donefer",
+        "linkedinUrl": "https://www.linkedin.com/in/miltoncalderondonefer/"
+      }
+    ]
+  },
+  {
+    "name": "Vanellus",
+    "description": "Automated mesh and simulation for engineers.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Laurence Cullen",
+        "linkedinUrl": "https://www.linkedin.com/in/laurence-cullen-169000105/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michael Negus",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-negus/"
+      }
+    ]
+  },
+  {
+    "name": "CheMastery",
+    "description": "Lab automation for chemical workflows.",
+    "location": "London",
+    "industry": "Chemicals",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anna Andreou",
+        "linkedinUrl": "https://www.linkedin.com/in/anna-andreou/"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefan Glatzel",
+        "linkedinUrl": "https://www.linkedin.com/in/stefanglatzel/"
+      }
+    ]
+  },
+  {
+    "name": "bryo",
+    "description": "AI for SME quoting and ordering.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Giovanni Ughi",
+        "linkedinUrl": "https://www.linkedin.com/in/giovanni-ughi/"
+      },
+      {
+        "role": "CTO",
+        "name": "Nikhil Mudholkar",
+        "linkedinUrl": "https://www.linkedin.com/in/nikhil-mudholkar/"
+      }
+    ]
+  },
+  {
+    "name": "Orbital Matter",
+    "description": "3D printing for space infrastructure.",
+    "location": "Berlin",
+    "industry": "Aerospace & Defence",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jakub Stojek",
+        "linkedinUrl": "https://www.linkedin.com/in/jakubstojek/"
+      },
+      {
+        "role": "CTO",
+        "name": "Robert Ihnatisin",
+        "linkedinUrl": "https://www.linkedin.com/in/robert-ihnatisin-390196109/"
+      }
+    ]
+  },
+  {
+    "name": "Thermosphr",
+    "description": "Real-time thermal modeling for buildings.",
+    "location": "Berlin",
+    "industry": "Climate",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Le Borgne",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-leborgne/"
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Aaron Chan",
+        "linkedinUrl": "https://www.linkedin.com/in/markaaronchan/"
+      }
+    ]
+  },
+  {
+    "name": "Esencia Foods",
+    "description": "Mycelium-based proteins for sustainable foods.",
+    "location": "Berlin",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hendrik Kaye",
+        "linkedinUrl": "http://linkedin.com/in/hekaye"
+      },
+      {
+        "role": "CTO",
+        "name": "Bruno Scocozza",
+        "linkedinUrl": "https://www.linkedin.com/in/bscocozza/"
+      }
+    ]
+  },
+  {
+    "name": "Koncile",
+    "description": "Automated document data extraction for businesses.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jules Ratier",
+        "linkedinUrl": "https://www.linkedin.com/in/jules-r-575ba785/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tristan Thommen",
+        "linkedinUrl": "https://www.linkedin.com/in/tristan-t/"
+      }
+    ]
+  },
+  {
+    "name": "immunitoAI",
+    "description": "AI-driven antibody design for therapeutic development.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aridni Shah",
+        "linkedinUrl": "https://www.linkedin.com/in/aridni-shah-a360781a0/"
+      },
+      {
+        "role": "CTO",
+        "name": "Trisha Chatterjee",
+        "linkedinUrl": "https://www.linkedin.com/in/trishachatterjee"
+      }
+    ]
+  },
+  {
+    "name": "ESGnie",
+    "description": "ESG data management and analytics for investors.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jiale Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/jialetan/"
+      },
+      {
+        "role": "CTO",
+        "name": "Majid Hasan",
+        "linkedinUrl": "https://www.linkedin.com/in/majidhasan/"
+      }
+    ]
+  },
+  {
+    "name": "Airboxr",
+    "description": "No-code data enrichment in spreadsheets.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Shubham Kaushal",
+        "linkedinUrl": "https://www.linkedin.com/in/shubh-kaushal/"
+      }
+    ]
+  },
+  {
+    "name": "Birkeland",
+    "description": "Lightning-based prediction markets for events.",
+    "location": "Singapore",
+    "industry": "web3",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "James Pierog",
+        "linkedinUrl": "https://www.linkedin.com/in/james-pierog-932a72207/"
+      },
+      {
+        "role": "CTO",
+        "name": "Ruban Thasapparaj",
+        "linkedinUrl": "https://www.linkedin.com/in/rubansundararaj/"
+      }
+    ]
+  },
+  {
+    "name": "LiveCrew",
+    "description": "In-store shopper insights for retail teams.",
+    "location": "Paris",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Dory",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathan-dory/"
+      }
+    ]
+  },
+  {
+    "name": "Alki",
+    "description": "AI-driven warehouse resource optimization.",
+    "location": "Paris",
+    "industry": "Logistics",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Léopold Delhaize",
+        "linkedinUrl": "https://www.linkedin.com/in/l%C3%A9opold-delhaize-8589a236/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tanguy Levent",
+        "linkedinUrl": "https://www.linkedin.com/in/tanguylevent/"
+      }
+    ]
+  },
+  {
+    "name": "Zolnoi",
+    "description": "AI-first maintenance for manufacturers.",
+    "location": "Bangalore",
+    "industry": "Energy & Utilities",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sivam Pillai",
+        "linkedinUrl": "https://linkedin.com/in/sivampillai"
+      }
+    ]
+  },
+  {
+    "name": "Expertia AI",
+    "description": "AI matching for SME hiring.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kanishk Shukla",
+        "linkedinUrl": "https://www.linkedin.com/in/shuklakanishk/"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshay Gugnani",
+        "linkedinUrl": "https://www.linkedin.com/in/akshaygugnani/"
+      }
+    ]
+  },
+  {
+    "name": "Frontline",
+    "description": "AI forecasting for capital projects.",
+    "location": "Singapore",
+    "industry": "Construction & Real Estate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luis Martinez",
+        "linkedinUrl": "https://www.linkedin.com/in/luis--martinez/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ding Ruiqi",
+        "linkedinUrl": "https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/CV_Ruiqi_Ding.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Sequestr",
+    "description": "Carbon rights marketplace for project developers and buyers.",
+    "location": "Toronto",
+    "industry": "Climate",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishabh Varshney",
+        "linkedinUrl": "https://www.linkedin.com/in/rishabhvarshney/"
+      },
+      {
+        "role": "CTO",
+        "name": "Tony Qu",
+        "linkedinUrl": "https://www.linkedin.com/in/tonyqu1/"
+      }
+    ]
+  },
+  {
+    "name": "PreWarp",
+    "description": "Demand forecasting for fashion brands.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thomas Barber",
+        "linkedinUrl": "https://www.linkedin.com/in/thomasebarber/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Tom Walker",
+        "linkedinUrl": "https://www.linkedin.com/in/tom-walker-320318129/"
+      }
+    ]
+  },
+  {
+    "name": "Velsa",
+    "description": "Data-driven legal management for startups and SMEs.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Leon Wisskirchen",
+        "linkedinUrl": "https://www.linkedin.com/in/leon-wisskirchen/"
+      },
+      {
+        "role": "CTO",
+        "name": "Konstantin Häfner",
+        "linkedinUrl": "https://www.linkedin.com/in/konstantinhaefner582421142/"
+      }
+    ]
+  },
+  {
+    "name": "Rex.fit",
+    "description": "Automated nutrition tracking for fitness enthusiasts.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Rangel Milushev",
+        "linkedinUrl": "https://www.linkedin.com/in/rangel-milushev/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ahmad Roumie",
+        "linkedinUrl": "https://www.linkedin.com/in/ahmad-roumie-1a59a417a/"
+      }
+    ]
+  },
+  {
+    "name": "Subconscious Compute",
+    "description": "Edge-AI models for offline devices.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anter Virk",
+        "linkedinUrl": "https://www.linkedin.com/in/anterpreneur"
+      },
+      {
+        "role": "CTO",
+        "name": "Dilawar Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/dilawars/"
+      }
+    ]
+  },
+  {
+    "name": "Coupl",
+    "description": "Joint banking for millennial couples.",
+    "location": "Bangalore",
+    "industry": "Consumer Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Srinivas Sarkar",
+        "linkedinUrl": "https://www.linkedin.com/in/srinivas-sarkar/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kushagra Manglik",
+        "linkedinUrl": "https://www.linkedin.com/in/kushagra-manglik-906399120/"
+      }
+    ]
+  },
+  {
+    "name": "Fattastic Technologies",
+    "description": "Tailored lipids for alternative proteins.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Satnam Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/satnam-singh-994b135a/"
+      }
+    ]
+  },
+  {
+    "name": "Ezzayo",
+    "description": "No-code tokenomics stress tests.",
+    "location": "Singapore",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Samarth Shyam",
+        "linkedinUrl": "http://linkedin.com/in/samarthshyam"
+      },
+      {
+        "role": "CTO",
+        "name": "Agrim Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/agrims/"
+      }
+    ]
+  },
+  {
+    "name": "ElevateHQ",
+    "description": "Automated commission calculations for sales teams.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Apoorv Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/apoorvsingh91/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kartik Arora",
+        "linkedinUrl": "https://linkedin.com/in/kartikarora"
+      }
+    ]
+  },
+  {
+    "name": "Healium Intelliscan Corporation",
+    "description": "AI for early chronic kidney-disease detection.",
+    "location": "Bangalore",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Biju Jacob",
+        "linkedinUrl": "https://www.linkedin.com/in/biju-jacob-803243a"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Neeraj Kumar",
+        "linkedinUrl": "https://www.linkedin.com/in/neeraj-tiwari-phd-5960a5115/"
+      }
+    ]
+  },
+  {
+    "name": "Telepathic Technologies",
+    "description": "Non-invasive brain-computer links for defense.",
+    "location": "New York",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Noah Shamus",
+        "linkedinUrl": "https://uk.linkedin.com/in/noah-shamus"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ellery Buntel",
+        "linkedinUrl": "https://www.linkedin.com/in/ellery-buntel"
+      }
+    ]
+  },
+  {
+    "name": "Newtone",
+    "description": "AI for scalable branded content creation.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Henri Bouteiller",
+        "linkedinUrl": "https://www.linkedin.com/in/henri-de-bouteiller-155b1b31/"
+      },
+      {
+        "role": "Founding CEO",
+        "name": "Julia Denoly",
+        "linkedinUrl": "https://www.linkedin.com/in/julia-denoly/"
+      }
+    ]
+  },
+  {
+    "name": "Amayu Health",
+    "description": "Psychedelic-assisted therapy for mental health.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eva Goblirsch",
+        "linkedinUrl": "https://www.linkedin.com/in/eva-maria-goblirsch-320b838b/"
+      },
+      {
+        "role": "CTO",
+        "name": "Fabian Steuer",
+        "linkedinUrl": "https://www.linkedin.com/in/fabiansteuer/"
+      }
+    ]
+  },
+  {
+    "name": "Ailiverse",
+    "description": "No-code deep-learning training across GPUs.",
+    "location": "Singapore",
+    "industry": "Developer Tools",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Burhan Tayyab",
+        "linkedinUrl": "https://www.linkedin.com/in/burhanutayyab/?originalSubdomain=sg"
+      }
+    ]
+  },
+  {
+    "name": "Pixcap",
+    "description": "Web-based 3D editing for design teams.",
+    "location": "Hong Kong",
+    "industry": "Marketing & Advertising",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vincent Looi",
+        "linkedinUrl": "https://www.linkedin.com/in/cj-looi/"
+      }
+    ]
+  },
+  {
+    "name": "Rally.Fan",
+    "description": "Your AI helpers for business growth.",
+    "location": "Toronto",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ryan Watkins",
+        "linkedinUrl": "https://www.linkedin.com/in/ryan-/"
+      },
+      {
+        "role": "CTO",
+        "name": "Charles Ashby",
+        "linkedinUrl": "https://www.linkedin.com/in/charles-ashby-2b1968148/"
+      }
+    ]
+  },
+  {
+    "name": "Agota Health",
+    "description": "Agency staffing automation for hospitals.",
+    "location": "Toronto",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phil Protomanni",
+        "linkedinUrl": "https://www.linkedin.com/in/phil-protomanni-0ba694a6/"
+      },
+      {
+        "role": "CPO",
+        "name": "Dan Pappo",
+        "linkedinUrl": "https://linkedin.com/in/danpappo"
+      }
+    ]
+  },
+  {
+    "name": "Powerhouse AI",
+    "description": "AI inventory counting for warehouses.",
+    "location": "Singapore",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Ivo Verhaegh",
+        "linkedinUrl": "https://www.linkedin.com/in/ivoverhaegh/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Kushal Pillay",
+        "linkedinUrl": "https://www.linkedin.com/in/kushalpillay/"
+      }
+    ]
+  },
+  {
+    "name": "Fortephy",
+    "description": "AI-enabled smart contract auditor.",
+    "location": "Toronto",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Moe Kamla",
+        "linkedinUrl": "https://www.linkedin.com/in/msmkamla/"
+      },
+      {
+        "role": "CTO",
+        "name": "Syed Salman Haider",
+        "linkedinUrl": "https://www.linkedin.com/in/syedsalmanhaider/"
+      }
+    ]
+  },
+  {
+    "name": "Mycro Harvest",
+    "description": "AI-powered mushroom farming for sustainable food and materials.",
+    "location": "Toronto",
+    "industry": "Agriculture & Farming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Christopher Klich",
+        "linkedinUrl": "https://www.linkedin.com/in/christopher-klich/"
+      },
+      {
+        "role": "CTO",
+        "name": "Justin Cheng",
+        "linkedinUrl": "https://www.linkedin.com/in/justin-cheng-864911122/"
+      }
+    ]
+  },
+  {
+    "name": "Orbit",
+    "description": "The interface to emotion.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Akshat Sharma",
+        "linkedinUrl": "https://www.linkedin.com/in/akshat-sharma280601/"
+      },
+      {
+        "role": "CTO",
+        "name": "Dipanshu Gandhi",
+        "linkedinUrl": "https://www.linkedin.com/in/dipanshugandhi/"
+      }
+    ]
+  },
+  {
+    "name": "Latte",
+    "description": "AI video editing for social creators.",
+    "location": "London",
+    "industry": "Marketing & Advertising",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Michael Martin",
+        "linkedinUrl": "https://www.linkedin.com/in/-michael-martin/"
+      },
+      {
+        "role": "CTO",
+        "name": "Timothy Wu",
+        "linkedinUrl": "https://www.linkedin.com/in/timvvvht/"
+      }
+    ]
+  },
+  {
+    "name": "Korda",
+    "description": "Music distribution for independent artists.",
+    "location": "London",
+    "industry": "Telecoms & Media",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mali McCalla",
+        "linkedinUrl": "https://uk.linkedin.com/in/malimccalla"
+      },
+      {
+        "role": "CTO",
+        "name": "Alina Verbenchuk",
+        "linkedinUrl": "https://www.linkedin.com/in/alinaverbenchuk/"
+      }
+    ]
+  },
+  {
+    "name": "Vula",
+    "description": "AI lending services for African SMEs.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nic Rawhani",
+        "linkedinUrl": "https://www.linkedin.com/in/nicraw/"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Goff",
+        "linkedinUrl": "https://www.linkedin.com/in/alexander-goff/"
+      }
+    ]
+  },
+  {
+    "name": "Atom",
+    "description": "Automated grant applications for researchers.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tomer Sautoy",
+        "linkedinUrl": "https://www.linkedin.com/in/tomer-du-sautoy-360006115/"
+      },
+      {
+        "role": "CTO",
+        "name": "Hamilton Evans",
+        "linkedinUrl": "https://www.linkedin.com/in/hamevans/"
+      }
+    ]
+  },
+  {
+    "name": "ChronosDx",
+    "description": "Implantable ultra-sensitive biosensing on a chip.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ella Mi",
+        "linkedinUrl": "https://www.linkedin.com/in/ellami/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "James Tyrrell",
+        "linkedinUrl": "https://www.linkedin.com/in/jamesetyrrell/"
+      }
+    ]
+  },
+  {
+    "name": "Fit Collective",
+    "description": "Generative AI fit optimization for fashion teams.",
+    "location": "London",
+    "industry": "Retail & Commerce",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phoebe Gormley",
+        "linkedinUrl": "https://www.linkedin.com/in/phoebegormley/"
+      }
+    ]
+  },
+  {
+    "name": "FinStack",
+    "description": "No-Code Loan Origination System for lending companies.",
+    "location": "Bangalore",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gaurav Agarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/gaurav-agarwal1/"
+      }
+    ]
+  },
+  {
+    "name": "The Bland Company",
+    "description": "Protein ingredients for egg alternatives.",
+    "location": "London",
+    "industry": "Food",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Yash Khandelwal",
+        "linkedinUrl": "https://www.linkedin.com/in/ykhandelwal6/"
+      },
+      {
+        "role": "CPO",
+        "name": "Micol Hafez",
+        "linkedinUrl": "https://www.linkedin.com/in/micol-hafez"
+      }
+    ]
+  },
+  {
+    "name": "Pitri",
+    "description": "Fungal biotechnology for non-toxic colorants.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jesse Adler",
+        "linkedinUrl": "https://www.linkedin.com/in/jesse-adler/?originalSubdomain=uk"
+      }
+    ]
+  },
+  {
+    "name": "ElementZero Biolabs",
+    "description": "100× more sensitive point-of-care genetic tests.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Moura",
+        "linkedinUrl": "https://www.linkedin.com/in/mourajohn/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Karol Rogowski",
+        "linkedinUrl": "https://www.linkedin.com/in/karol-rogowski/"
+      }
+    ]
+  },
+  {
+    "name": "LegalAI",
+    "description": "AI for consumer litigation guidance.",
+    "location": "Berlin",
+    "industry": "Legal & Compliance",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tessia Tober",
+        "linkedinUrl": "http://www.linkedin.com/in/dr-tessia-tober-40096414a"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Arpit Bajpai",
+        "linkedinUrl": "https://www.linkedin.com/in/bajpai-arpit/"
+      }
+    ]
+  },
+  {
+    "name": "payper",
+    "description": "B2B checkout and payment tracking for businesses.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thomas Claassen",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-claassen-a81396b2/"
+      },
+      {
+        "role": "CTO",
+        "name": "Kevin Bonte",
+        "linkedinUrl": "https://www.linkedin.com/in/kevin-bonte/"
+      }
+    ]
+  },
+  {
+    "name": "Flippit",
+    "description": "AI for customer interview analysis.",
+    "location": "Paris",
+    "industry": "Telecoms & Media",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Lorenzo D'Auria",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzo-dauria/"
+      },
+      {
+        "role": "CTO",
+        "name": "Lucien Maman",
+        "linkedinUrl": "https://www.linkedin.com/in/lucien-maman"
+      }
+    ]
+  },
+  {
+    "name": "X80 Security",
+    "description": "Automated threat simulation for cybersecurity teams.",
+    "location": "Paris",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simon Janin",
+        "linkedinUrl": "https://www.linkedin.com/in/simon-janin/"
+      }
+    ]
+  },
+  {
+    "name": "Friendly Brands",
+    "description": "D2C brand co-promotion for customer acquisition.",
+    "location": "Bangalore",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sreenadh Narayanan",
+        "linkedinUrl": "https://www.linkedin.com/in/sreenadhn/"
+      },
+      {
+        "role": "CTO",
+        "name": "Prashant Maurice",
+        "linkedinUrl": "https://www.linkedin.com/in/prashantmaurice/"
+      }
+    ]
+  },
+  {
+    "name": "Hushl",
+    "description": "Human-centric AI that amplifies human creativity and productivity.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Adithya Narayanan",
+        "linkedinUrl": "https://www.linkedin.com/in/adithya-narayanan-37403377/"
+      },
+      {
+        "role": "CTO",
+        "name": "Aakarsh Yadav",
+        "linkedinUrl": "https://linkedin.com/in/aakarshyadav"
+      }
+    ]
+  },
+  {
+    "name": "Sidecar",
+    "description": "Virtual AI teammate for the global freight forwarding industry.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sudhanshu Heda",
+        "linkedinUrl": "https://linkedin.com/in/sudhanshu-heda"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshat Khare",
+        "linkedinUrl": "https://www.linkedin.com/in/akshat-khare-codebat/"
+      }
+    ]
+  },
+  {
+    "name": "Vadoo AI",
+    "description": "Peer-to-peer video streaming for platform operators.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ankur Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/ankursingh4/"
+      },
+      {
+        "role": "CTO",
+        "name": "Anil Matcha",
+        "linkedinUrl": "https://www.linkedin.com/in/joseilaffitte/"
+      }
+    ]
+  },
+  {
+    "name": "Capitall",
+    "description": "Peer-to-business lending for retail investors.",
+    "location": "Bangalore",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sanskar Jayaswal",
+        "linkedinUrl": "http://www.linkedin.com/in/sanskarjayaswal"
+      },
+      {
+        "role": "CTO",
+        "name": "Pranav NairH",
+        "linkedinUrl": "https://www.linkedin.com/in/pranav-nair/"
+      }
+    ]
+  },
+  {
+    "name": "Allium Bio",
+    "description": "Food-grade biotech ingredients for plant-based brands.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Ho",
+        "linkedinUrl": "https://www.linkedin.com/in/jonjamesho/"
+      },
+      {
+        "role": "CTO",
+        "name": "Albertus Sarwono",
+        "linkedinUrl": "https://www.linkedin.com/in/albertussarwono/"
+      }
+    ]
+  },
+  {
+    "name": "Bioponics",
+    "description": "CRISPR-based bio-fertilizers for farmers.",
+    "location": "Hong Kong",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hubert Tse",
+        "linkedinUrl": "https://www.linkedin.com/in/hubert-tse"
+      },
+      {
+        "role": "CTO",
+        "name": "Akhilesh Chaurasia",
+        "linkedinUrl": "https://www.linkedin.com/in/akhilesh-k-chaurasia-0a6a4a19/"
+      }
+    ]
+  },
+  {
+    "name": "ForeQast",
+    "description": "Predictive automation for supply chain planners.",
+    "location": "Toronto",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Aida Ahmadzadegan",
+        "linkedinUrl": "https://www.linkedin.com/in/aidaahmadzadegan/"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chris Masternak",
+        "linkedinUrl": "http://linkedin.com/in/cmaster"
+      }
+    ]
+  },
+  {
+    "name": "Syncware",
+    "description": "Warehouse analytics for WMS operators.",
+    "location": "Singapore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Dirk-Jan van Veen",
+        "linkedinUrl": "https://www.linkedin.com/in/dirk-jan-van-veen-0b625569/"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Walter Pintor",
+        "linkedinUrl": "https://www.linkedin.com/in/walter-pintor"
+      }
+    ]
+  },
+  {
+    "name": "Astronome",
+    "description": "Automated IT management for SMBs.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Chloe Burles",
+        "linkedinUrl": "https://www.linkedin.com/in/chloe-burles/"
+      }
+    ]
+  },
+  {
+    "name": "Iris Lab",
+    "description": "Laser charging for autonomous drones.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Bourliatoux",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-bourliatoux"
+      },
+      {
+        "role": "CTO",
+        "name": "Lakshman Srinivasan",
+        "linkedinUrl": "https://www.linkedin.com/in/lakshmansrinivasan/"
+      },
+      {
+        "role": "COO",
+        "name": "Bastien Fabre",
+        "linkedinUrl": "https://www.linkedin.com/in/bastien-fabre-a6ba0813a/"
+      }
+    ]
+  }
+]
