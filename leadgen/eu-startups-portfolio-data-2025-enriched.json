@@ -54,14 +54,6 @@
         "phoneNumber": "+33688426071",
         "email": "stefan@a-dapt.com",
         "apolloId": "690699efee485b002193da1e"
-      },
-      {
-        "role": "CTO",
-        "name": "Thomas Korner",
-        "linkedinUrl": "http://www.linkedin.com/in/thomas-korner-b2039324",
-        "phoneNumber": "+529993613592",
-        "email": "thomas@a-dapt.com",
-        "apolloId": "690699fefb2d920011ec8720"
       }
     ]
   },
@@ -106,44 +98,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Dan Gilbert",
-        "linkedinUrl": "http://www.linkedin.com/in/dan-gilbert-cfa-4b351a15",
-        "phoneNumber": "6179515078",
-        "email": null,
-        "apolloId": "69069a3ebfe6af000d99bd9d"
-      },
-      {
-        "role": "CTO",
-        "name": "Eric Cooper",
-        "linkedinUrl": "http://www.linkedin.com/in/eric13cooper",
-        "phoneNumber": "6175194722",
-        "email": "ecooper@abry.com",
-        "apolloId": "69069a5001356e000dea7a4b"
-      },
-      {
         "role": "CEO",
         "name": "Brucato",
         "linkedinUrl": "http://www.linkedin.com/in/c-j-brucato-iii-b33830",
         "phoneNumber": "6178354843",
         "email": null,
         "apolloId": "69069a615e4bbe001582ade1"
-      },
-      {
-        "role": "CTO",
-        "name": "Akshay Mahajan",
-        "linkedinUrl": "http://www.linkedin.com/in/akshay-mahajan-cfa-9748845",
-        "phoneNumber": "6173758867",
-        "email": null,
-        "apolloId": "69069a727b5de70015373140"
-      },
-      {
-        "role": "CTO",
-        "name": "Chris Anzivino",
-        "linkedinUrl": "http://www.linkedin.com/in/chris-anzivino-b703121",
-        "phoneNumber": "6177169721",
-        "email": "chris.anzivino@abry.com",
-        "apolloId": "69069a8130a9eb000d7d442e"
       },
       {
         "role": "CEO",
@@ -178,16 +138,7 @@
     "location": "DE",
     "industry": "Cyprus",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Marcus Vinicius Vargas",
-        "linkedinUrl": "http://www.linkedin.com/in/marcus-vin%c3%adcius-vargas-753480110",
-        "phoneNumber": null,
-        "email": "marcusviniciusvargas@actionrun.app",
-        "apolloId": "69069aaf5e4bbe001582af6b"
-      }
-    ]
+    "people": []
   },
   {
     "name": "AgencyPro",
@@ -196,14 +147,6 @@
     "industry": "UK",
     "founded": "2025",
     "people": [
-      {
-        "role": "CEO",
-        "name": "Bill Casey",
-        "linkedinUrl": "http://www.linkedin.com/in/bill-casey-5204602",
-        "phoneNumber": "6172492192",
-        "email": null,
-        "apolloId": "69069abf56d73300198d26e3"
-      },
       {
         "role": "Founder",
         "name": "Felipe Lopes",
@@ -487,16 +430,7 @@
     "location": "London",
     "industry": "UK",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Joe Benno",
-        "linkedinUrl": "http://www.linkedin.com/in/bennofilms",
-        "phoneNumber": "+447899012110",
-        "email": "joe@bennofilms.com",
-        "apolloId": "69069bf800d45000197cb984"
-      }
-    ]
+    "people": []
   },
   {
     "name": "Bloom Future",
@@ -622,14 +556,6 @@
         "apolloId": "69069c7e036caa00191e6c57"
       },
       {
-        "role": "CTO",
-        "name": "Charlotte Malbasa",
-        "linkedinUrl": "http://www.linkedin.com/in/charlottemalbasa",
-        "phoneNumber": null,
-        "email": "charlotte.malbasa@capture.team",
-        "apolloId": "69069c8b14aefa0015227337"
-      },
-      {
         "role": "CEO",
         "name": "Amit Verma",
         "linkedinUrl": "http://www.linkedin.com/in/amitvermasd",
@@ -671,38 +597,6 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Charlie Yuille",
-        "linkedinUrl": "http://www.linkedin.com/in/charlie-yuille-1a2803176",
-        "phoneNumber": null,
-        "email": "charlie@chikcreative.com",
-        "apolloId": "69069cdfe16ad50021a8fe5b"
-      },
-      {
-        "role": "CTO",
-        "name": "Sofia Maquivar",
-        "linkedinUrl": "http://www.linkedin.com/in/sofia-maquivar-387821171",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "69069d0f03db3a001951d559"
-      },
-      {
-        "role": "CTO",
-        "name": "Catherine Westwood",
-        "linkedinUrl": "http://www.linkedin.com/in/catherine-westwood-0bb7253a",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "69069d20b477140011dc87c4"
-      },
-      {
-        "role": "CTO",
-        "name": "Henrique Tiongo",
-        "linkedinUrl": "http://www.linkedin.com/in/henrique-paulo-tiongo-17201a311",
-        "phoneNumber": null,
-        "email": "henrique.tiongo@chikchikhoteis.com",
-        "apolloId": "69069d38681bae00152193d2"
-      },
-      {
         "role": "Cofounder",
         "name": "Philippe Rilos",
         "linkedinUrl": "http://www.linkedin.com/in/philippe-rilos-8b73577a",
@@ -726,14 +620,6 @@
         "phoneNumber": "+61402684283",
         "email": "riley@chunkmotion.design",
         "apolloId": "69069d5e9a726800155bddd9"
-      },
-      {
-        "role": "CTO",
-        "name": "Brian McHarg",
-        "linkedinUrl": "http://www.linkedin.com/in/brianmcharg",
-        "phoneNumber": "+441413530876",
-        "email": "brian.mcharg@chunkgroup.com",
-        "apolloId": "69069d7c8d1692000d94506f"
       },
       {
         "role": "Cofounder",
@@ -760,28 +646,12 @@
         "apolloId": "69069e0e683de30015ee10d4"
       },
       {
-        "role": "CTO",
-        "name": "Martin Howard",
-        "linkedinUrl": "http://www.linkedin.com/in/martin-howard-2606199",
-        "phoneNumber": "+447903017228",
-        "email": null,
-        "apolloId": "69069e412abcc50019b12a98"
-      },
-      {
         "role": "Cofounder",
         "name": "Katie Cocklin",
         "linkedinUrl": "http://www.linkedin.com/in/katiekosloski",
         "phoneNumber": "5178988838",
         "email": "katie@chunknibbles.com",
         "apolloId": "69069e71e583970021f26bd0"
-      },
-      {
-        "role": "CTO",
-        "name": "Richard Sanders",
-        "linkedinUrl": "http://www.linkedin.com/in/richard-sanders-16a9641b5",
-        "phoneNumber": "+447961318689",
-        "email": "richard@chunkclothing.com",
-        "apolloId": "69069ea69214ca0015a5c693"
       }
     ]
   },
@@ -840,14 +710,6 @@
         "phoneNumber": "+36202416400",
         "email": null,
         "apolloId": "69069ff456d73300198d35c6"
-      },
-      {
-        "role": "CTO",
-        "name": "Juan Pablo Coelho",
-        "linkedinUrl": "http://www.linkedin.com/in/juancoelho",
-        "phoneNumber": "+33767681453",
-        "email": "juanpablo@clausepilot.com",
-        "apolloId": "6906a0338825390021d084fd"
       }
     ]
   },
@@ -901,14 +763,6 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Ellen Martin",
-        "linkedinUrl": "http://www.linkedin.com/in/ellen-muriel-martin",
-        "phoneNumber": "+491792409329",
-        "email": "ellen@comdaily.ai",
-        "apolloId": "6906a1445e4bbe000d58bd5a"
-      },
-      {
         "role": "Founder",
         "name": "Ata Keskinel",
         "linkedinUrl": "http://www.linkedin.com/in/ata-erim-keskinel-96b3621a9",
@@ -940,14 +794,6 @@
         "phoneNumber": "+31621704823",
         "email": "t.koevoets@bolddata.nl",
         "apolloId": "6906a1f1a71cdf0011f884c7"
-      },
-      {
-        "role": "CTO",
-        "name": "Uttam Ramdaras",
-        "linkedinUrl": "http://www.linkedin.com/in/uttam-ramdaras-2293b5106",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "6906a2291d93be0011257a4d"
       }
     ]
   },
@@ -958,14 +804,6 @@
     "industry": "Romania",
     "founded": "2025",
     "people": [
-      {
-        "role": "CTO",
-        "name": "Heiko Lauer",
-        "linkedinUrl": "http://www.linkedin.com/in/heiko-lauer-28584b122",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "6906a269281131002173c69a"
-      },
       {
         "role": "Founder",
         "name": "Pieter Arendsen",
@@ -1202,44 +1040,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Niels Braendstrup",
-        "linkedinUrl": "http://www.linkedin.com/in/niels-aaby-br%c3%a6ndstrup-954a71156",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "6906a68f2a9bb2001da13046"
-      },
-      {
         "role": "CEO",
         "name": "Chris Reid",
         "linkedinUrl": "http://www.linkedin.com/in/chris-reid-36b26619",
         "phoneNumber": "6047612798",
         "email": "chris.reid@ekonapower.com",
         "apolloId": "6906a6cc2abcc500153a32b7"
-      },
-      {
-        "role": "CTO",
-        "name": "Dave Pauluzzi",
-        "linkedinUrl": "http://www.linkedin.com/in/dave-pauluzzi-750750",
-        "phoneNumber": "6047240056",
-        "email": "david.pauluzzi@ekonapower.com",
-        "apolloId": "6906a7074e4a9e000d6d1da0"
-      },
-      {
-        "role": "CTO",
-        "name": "Rachel P",
-        "linkedinUrl": "http://www.linkedin.com/in/rachelepaterson",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "6906a73e18ab48001115c973"
-      },
-      {
-        "role": "CTO",
-        "name": "Sally Carefoot",
-        "linkedinUrl": "http://www.linkedin.com/in/sallycarefoot",
-        "phoneNumber": null,
-        "email": "sally.carefoot@ekonapower.com",
-        "apolloId": "6906a77f53dece0011d4868d"
       }
     ]
   },
@@ -1259,14 +1065,6 @@
         "apolloId": "6906a7bc1fc5550015249e29"
       },
       {
-        "role": "CTO",
-        "name": "Billy Nichols",
-        "linkedinUrl": "http://www.linkedin.com/in/williamonichols",
-        "phoneNumber": "6027693479",
-        "email": "billy@emblem.pe",
-        "apolloId": "6906a802ef39c4001193d502"
-      },
-      {
         "role": "Founder",
         "name": "Michael Tallman",
         "linkedinUrl": "http://www.linkedin.com/in/michael-tallman-3481634",
@@ -1281,22 +1079,6 @@
         "phoneNumber": null,
         "email": "partenariats@emblemgrenoble.com",
         "apolloId": "6906a88660ea24000db57346"
-      },
-      {
-        "role": "CTO",
-        "name": "Charles Wray",
-        "linkedinUrl": "http://www.linkedin.com/in/charles-wray-660606105",
-        "phoneNumber": "8013527388",
-        "email": "charlie.wray@wearemblem.com",
-        "apolloId": "6906a8caa32f71001d7fe885"
-      },
-      {
-        "role": "CTO",
-        "name": "Jeffrey Braun",
-        "linkedinUrl": "http://www.linkedin.com/in/jeffrey-braun-7069837",
-        "phoneNumber": "5135521518",
-        "email": "jeffrey@emblembuilt.com",
-        "apolloId": "6906a9027f3e190021f7d757"
       },
       {
         "role": "Founder",
@@ -1320,7 +1102,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/andrew-jones-013154219",
         "phoneNumber": null,
         "email": "andjones@emblem.pe",
-        "apolloId": null
+        "apolloId": "69071fe003db3a001952670d"
       }
     ]
   },
@@ -1393,17 +1175,9 @@
         "role": "Cofounder",
         "name": "Cosmin Ciocirlan",
         "linkedinUrl": "http://www.linkedin.com/in/cosmin-gabriel-ciocirlan-b60191195",
-        "phoneNumber": null,
+        "phoneNumber": "+40742059599",
         "email": "cosmin@esencasizing.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Cristina Ghita",
-        "linkedinUrl": "http://www.linkedin.com/in/cristina-theodora-ghita-763b751b5",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": "6906aa8eeeda0400153c2f3b"
+        "apolloId": "69072019ac6107000def1dab"
       }
     ]
   },
@@ -1418,9 +1192,9 @@
         "role": "CEO",
         "name": "Achraf Gharsalli",
         "linkedinUrl": "http://www.linkedin.com/in/achraf-gharsalli-evimo",
-        "phoneNumber": null,
+        "phoneNumber": "+33679668816",
         "email": "achraf.gharsalli@evimo.fr",
-        "apolloId": null
+        "apolloId": "6907202f811a620015716606"
       },
       {
         "role": "CTO",
@@ -1437,14 +1211,6 @@
         "phoneNumber": null,
         "email": null,
         "apolloId": "6906aae70018d70015ef7ffc"
-      },
-      {
-        "role": "CTO",
-        "name": "Bahar Ozcan",
-        "linkedinUrl": "http://www.linkedin.com/in/bahar%c3%b6zcan",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
       }
     ]
   },
@@ -1512,14 +1278,6 @@
         "phoneNumber": "+917053467366",
         "email": null,
         "apolloId": "6906abaeb28cc00015e87815"
-      },
-      {
-        "role": "CTO",
-        "name": "Lina Nasr",
-        "linkedinUrl": "http://www.linkedin.com/in/lina-nasr-3305ba17",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
       }
     ]
   },
@@ -1581,14 +1339,6 @@
         "apolloId": "6906ac6cdd661c0019b5432d"
       },
       {
-        "role": "CTO",
-        "name": "Michelle Winfield",
-        "linkedinUrl": "http://www.linkedin.com/in/michelle-winfield-711501170",
-        "phoneNumber": "+447427655809",
-        "email": null,
-        "apolloId": "6906ac8deb80ef000dc7bb8d"
-      },
-      {
         "role": "Cofounder",
         "name": "Roberta Pedersoli",
         "linkedinUrl": "http://www.linkedin.com/in/robertamorellipedersoli",
@@ -1625,9 +1375,9 @@
         "role": "Founder",
         "name": "Alexey Antipov",
         "linkedinUrl": "http://www.linkedin.com/in/alexantipov",
-        "phoneNumber": null,
+        "phoneNumber": "+34627202212",
         "email": "alexey@foldwrap.com",
-        "apolloId": null
+        "apolloId": "690720da2abcc5000d4d7187"
       }
     ]
   },
@@ -1670,16 +1420,7 @@
     "location": "Spain",
     "industry": "Spain",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Rafael Silva De Oliveira",
-        "linkedinUrl": "http://www.linkedin.com/in/rafael-silva-de-oliveira-05804962",
-        "phoneNumber": null,
-        "email": "rafael.silva@freeroom.es",
-        "apolloId": "6906ad3e03db3a001d324e6b"
-      }
-    ]
+    "people": []
   },
   {
     "name": "Fulfilled",
@@ -1692,17 +1433,17 @@
         "role": "CTO",
         "name": "Alexander Duria",
         "linkedinUrl": "http://www.linkedin.com/in/alexander-duria-b4a20376",
-        "phoneNumber": null,
+        "phoneNumber": "6473942931",
         "email": "alex@fulfilledwealth.co",
-        "apolloId": null
+        "apolloId": "6907210deba9f900113336a5"
       },
       {
         "role": "CEO",
         "name": "Claire Hurwitt",
         "linkedinUrl": "http://www.linkedin.com/in/clairehurwitt",
-        "phoneNumber": null,
+        "phoneNumber": "8609107172",
         "email": "claire@fulfilledhf.com",
-        "apolloId": null
+        "apolloId": "6907211a0bfba800127ea237"
       },
       {
         "role": "Cofounder",
@@ -1710,55 +1451,39 @@
         "linkedinUrl": "http://www.linkedin.com/in/matt-glossop",
         "phoneNumber": null,
         "email": "matt@fulfilledwealth.co",
-        "apolloId": null
+        "apolloId": "690721293e16630021f96530"
       },
       {
         "role": "Founder",
         "name": "Luke Plane",
         "linkedinUrl": "http://www.linkedin.com/in/luke-plane-fulfilled",
-        "phoneNumber": null,
+        "phoneNumber": "+447377457250",
         "email": "luke@fulfilledtalent.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Larry Siegle",
-        "linkedinUrl": "http://www.linkedin.com/in/larry-siegle-49a48657",
-        "phoneNumber": null,
-        "email": "larry.siegle@fulfilleddynamics.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Mikko Martel",
-        "linkedinUrl": "http://www.linkedin.com/in/mikko-martel-74990b11b",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "69072136eb80ef000dc8416a"
       },
       {
         "role": "Founder",
         "name": "Brin'na Rollins-Williams",
         "linkedinUrl": "http://www.linkedin.com/in/brinna-legacyfulfilled",
-        "phoneNumber": null,
+        "phoneNumber": "7658835167",
         "email": "brinna@legacyfulfilled.com",
-        "apolloId": null
+        "apolloId": "6907215f47365b0015c8b95f"
       },
       {
         "role": "CEO",
         "name": "John Brown",
         "linkedinUrl": "http://www.linkedin.com/in/john-brown-0588884",
-        "phoneNumber": null,
+        "phoneNumber": "8012439084",
         "email": "john@befulfilled.net",
-        "apolloId": null
+        "apolloId": "6907216cec54b80015b67494"
       },
       {
         "role": "CEO",
         "name": "Dorothy Bolettieri",
         "linkedinUrl": "http://www.linkedin.com/in/dorothy-bolettieri-aa165521",
-        "phoneNumber": null,
+        "phoneNumber": "7137666552",
         "email": null,
-        "apolloId": null
+        "apolloId": "6907217956d73300150dd45c"
       }
     ]
   },
@@ -1773,9 +1498,9 @@
         "role": "Cofounder",
         "name": "Saraban Tahura",
         "linkedinUrl": "http://www.linkedin.com/in/sarabanturin",
-        "phoneNumber": null,
+        "phoneNumber": "+8801673834977",
         "email": null,
-        "apolloId": null
+        "apolloId": "690721862abcc50021ed005f"
       },
       {
         "role": "CTO",
@@ -1783,15 +1508,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/safrakib",
         "phoneNumber": "+8801913605807",
         "email": "abul@fundinfolks.com",
-        "apolloId": null
+        "apolloId": "69072193ce1cf100196b83f3"
       },
       {
         "role": "Founder",
         "name": "Mahade Khan",
         "linkedinUrl": "http://www.linkedin.com/in/mahadekhan",
-        "phoneNumber": null,
+        "phoneNumber": "+8801676009983",
         "email": null,
-        "apolloId": null
+        "apolloId": "6907219f4cc5c800112d9f1d"
       }
     ]
   },
@@ -1808,7 +1533,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/farzan07",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690721addd661c0021a27430"
       }
     ]
   },
@@ -1825,15 +1550,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/artksrv",
         "phoneNumber": "+34637707108",
         "email": "ak@glapp.io",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Osmar Borges",
-        "linkedinUrl": "http://www.linkedin.com/in/osmar-borges-borges-3574764b",
-        "phoneNumber": null,
-        "email": "osmar@glapp.com.br",
-        "apolloId": null
+        "apolloId": "690721ba2073320015c393d3"
       }
     ]
   },
@@ -1848,9 +1565,9 @@
         "role": "CTO",
         "name": "Asaf Horvitz",
         "linkedinUrl": "http://www.linkedin.com/in/asafhorvitz",
-        "phoneNumber": null,
+        "phoneNumber": "3175186750",
         "email": null,
-        "apolloId": null
+        "apolloId": "690721d4eba9f90015c839a8"
       },
       {
         "role": "Cofounder",
@@ -1858,15 +1575,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/orenarieli",
         "phoneNumber": "+972527251714",
         "email": "oren.arieli@greenbay.solutions",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Edmore Mukakavari",
-        "linkedinUrl": "http://www.linkedin.com/in/edmore-mukakavari-2322475",
-        "phoneNumber": null,
-        "email": "edmore.mukakavari@greenbay.solutions",
-        "apolloId": null
+        "apolloId": "690721e1a32f71000d25fc1d"
       }
     ]
   },
@@ -1883,7 +1592,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/oguzhan-gok",
         "phoneNumber": "+33766534831",
         "email": "oguzhan@guidel.co",
-        "apolloId": null
+        "apolloId": "690721fb18ab48000d8f63ab"
       }
     ]
   },
@@ -1898,17 +1607,17 @@
         "role": "Cofounder",
         "name": "Paul Wong",
         "linkedinUrl": "http://www.linkedin.com/in/paul-wong-cp",
-        "phoneNumber": null,
+        "phoneNumber": "+358415795665",
         "email": "paul.wong@aalto.fi",
-        "apolloId": null
+        "apolloId": "690722070018d700190622c9"
       },
       {
         "role": "CTO",
         "name": "Wouter Badenhorst",
         "linkedinUrl": "http://www.linkedin.com/in/wouter-dirk-badenhorst-97081a145",
-        "phoneNumber": null,
+        "phoneNumber": "+358417504512",
         "email": "wouter.badenhorst@halide.energy",
-        "apolloId": null
+        "apolloId": "69072214ac6107001d713f59"
       }
     ]
   },
@@ -1925,7 +1634,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/mike-b-7831b1136",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "6907222118ab480015843807"
       }
     ]
   },
@@ -1937,36 +1646,28 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Laurea Solsona Saiz",
-        "linkedinUrl": "http://www.linkedin.com/in/laureasolsona",
-        "phoneNumber": null,
-        "email": "l.solsona@hostmate.es",
-        "apolloId": null
-      },
-      {
         "role": "CEO",
         "name": "Roger Closas",
         "linkedinUrl": "http://www.linkedin.com/in/roger-closas-7394482bb",
         "phoneNumber": null,
         "email": "r.closas@hostmate.es",
-        "apolloId": null
+        "apolloId": "6907223b5e4bbe00118df552"
       },
       {
         "role": "CEO",
         "name": "Maurizio Sicuro",
         "linkedinUrl": "http://www.linkedin.com/in/maurizio-sicuro-175124144",
-        "phoneNumber": null,
+        "phoneNumber": "+393494436897",
         "email": "maurizio.sicuro@hostmate.it",
-        "apolloId": null
+        "apolloId": "69072248da029c0021f0c725"
       },
       {
         "role": "CTO",
         "name": "Victor Closas Casadevall",
         "linkedinUrl": "http://www.linkedin.com/in/victor-closas-casadevall",
         "phoneNumber": "+34693742940",
-        "email": null,
-        "apolloId": null
+        "email": "v.closas@hostmate.es",
+        "apolloId": "690722544cc5c8000d70cfc5"
       },
       {
         "role": "Cofounder",
@@ -1974,7 +1675,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/fabio-salvetti-541a3567",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690722627b5de7001d561854"
       }
     ]
   },
@@ -1991,7 +1692,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/chanel-sam-08372a15a",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "6907227341b01900111c3f55"
       }
     ]
   },
@@ -2006,9 +1707,9 @@
         "role": "Founder",
         "name": "Taha Al-Taie",
         "linkedinUrl": "http://www.linkedin.com/in/taha-altaie",
-        "phoneNumber": null,
+        "phoneNumber": "+4915785083140",
         "email": "taha.altaie@iknowly.com",
-        "apolloId": null
+        "apolloId": "690722825eef1e00110ce0a9"
       },
       {
         "role": "Cofounder",
@@ -2016,7 +1717,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/ahmed-abdalla-de",
         "phoneNumber": "3322224766",
         "email": "ahmed.abdalla@iknowly.com",
-        "apolloId": null
+        "apolloId": "6907228f2987b1001d2aa4c1"
       },
       {
         "role": "Cofounder",
@@ -2024,7 +1725,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/dhanmeet-nijhawan",
         "phoneNumber": "+491635170538",
         "email": "dhanmeet.nijhawan@iknowly.com",
-        "apolloId": null
+        "apolloId": "6907229d921317001d4f81ec"
       }
     ]
   },
@@ -2039,9 +1740,9 @@
         "role": "Founder",
         "name": "Joey Sendz",
         "linkedinUrl": "http://www.linkedin.com/in/joey-sendz-1aab83211",
-        "phoneNumber": null,
+        "phoneNumber": "4086934908",
         "email": "joseph@instantpressco.com",
-        "apolloId": null
+        "apolloId": "690722ae0018d70015f00b67"
       }
     ]
   },
@@ -2058,7 +1759,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/elizabeth-fuller-prasad-8bb4b51b4",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690722bb2811310021744c88"
       }
     ]
   },
@@ -2075,7 +1776,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/kaluf",
         "phoneNumber": "+5541999653451",
         "email": "marcelo.kaluf@iotag.com.br",
-        "apolloId": null
+        "apolloId": "690722d4d568d30019ba0f6e"
       }
     ]
   },
@@ -2092,7 +1793,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/louv",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690722e1c4b595001167ac64"
       }
     ]
   },
@@ -2104,28 +1805,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Agustin Ibanez Padilla",
-        "linkedinUrl": "http://www.linkedin.com/in/agustin-ibanezpadilla",
-        "phoneNumber": null,
-        "email": "agustin.ibanez@agenciakliv.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Gonzalo Nazar",
-        "linkedinUrl": "http://www.linkedin.com/in/gonzalo-nazar",
-        "phoneNumber": null,
-        "email": "gonzalo.nazar@agenciakliv.com",
-        "apolloId": null
-      },
-      {
         "role": "Cofounder",
         "name": "Niraj Perera",
         "linkedinUrl": "http://www.linkedin.com/in/niraj-perera-a67573224",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "69072312f14035001de8938e"
       }
     ]
   },
@@ -2135,16 +1820,7 @@
     "location": "Pasching",
     "industry": "Austria",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Sebastien Bernacchi",
-        "linkedinUrl": "http://www.linkedin.com/in/s%c3%a9bastien-b-6b453764",
-        "phoneNumber": null,
-        "email": "sebastien@krajete.com",
-        "apolloId": null
-      }
-    ]
+    "people": []
   },
   {
     "name": "Kreatli",
@@ -2157,9 +1833,9 @@
         "role": "Cofounder",
         "name": "Heorhi Talochka",
         "linkedinUrl": "http://www.linkedin.com/in/heorhi-talochka",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+48518433739",
+        "email": "george@kreatli.com",
+        "apolloId": "69072331ce1cf100196b8732"
       }
     ]
   },
@@ -2169,16 +1845,7 @@
     "location": "Rome, Italy",
     "industry": "Italy",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Maurizio Tiberi",
-        "linkedinUrl": "http://www.linkedin.com/in/mauriziotiberi",
-        "phoneNumber": null,
-        "email": "maurizio.tiberi@translated.net",
-        "apolloId": null
-      }
-    ]
+    "people": []
   },
   {
     "name": "Lawpic",
@@ -2193,15 +1860,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/farzanabeeharry",
         "phoneNumber": "+33650255287",
         "email": "fbeeharry@lawpic.com",
-        "apolloId": null
+        "apolloId": "690723510360c6000d1576ef"
       },
       {
         "role": "Founder",
         "name": "Manan Thakker",
         "linkedinUrl": "http://www.linkedin.com/in/manan-thakker-cyberlaw-infosec",
-        "phoneNumber": null,
+        "phoneNumber": "+919428260670",
         "email": null,
-        "apolloId": null
+        "apolloId": "6907235eeba9f90015c83aec"
       }
     ]
   },
@@ -2218,7 +1885,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/the-mwolf",
         "phoneNumber": "+4915252069445",
         "email": "mwolf@leadboosterpro.io",
-        "apolloId": null
+        "apolloId": "6907236b0360c6001da8f6f9"
       }
     ]
   },
@@ -2235,15 +1902,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/hafiz-mama",
         "phoneNumber": "+4917662388466",
         "email": "hafiz@leadrep.ai",
-        "apolloId": null
+        "apolloId": "6907237a9cd7a4001570892e"
       },
       {
         "role": "CTO",
         "name": "Herve Eblohoue",
         "linkedinUrl": "http://www.linkedin.com/in/herve-eblohoue-b7aab53b",
-        "phoneNumber": null,
+        "phoneNumber": "+33787459103",
         "email": "herve@leadrep.ai",
-        "apolloId": null
+        "apolloId": "69072389830fbb001d77381c"
       }
     ]
   },
@@ -2260,7 +1927,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/laurin-hagemann",
         "phoneNumber": "+491631925215",
         "email": "laurin@learngraph.org",
-        "apolloId": null
+        "apolloId": "690723967dfbdb001d9e15ca"
       }
     ]
   },
@@ -2275,9 +1942,9 @@
         "role": "Founder",
         "name": "Sina Azimi",
         "linkedinUrl": "http://www.linkedin.com/in/sina-azimi-815673a1",
-        "phoneNumber": null,
+        "phoneNumber": "+85253052494",
         "email": "sina@lisen-entrepreneur.com",
-        "apolloId": null
+        "apolloId": "690723a3eb1200000dc5fd77"
       },
       {
         "role": "Founder",
@@ -2285,39 +1952,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/himani-bhanot",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690723b2bfe6af001b219be3"
       },
       {
         "role": "CEO",
         "name": "Lisen Bengtsson",
         "linkedinUrl": "http://www.linkedin.com/in/lisen-bengtsson-0b989623",
-        "phoneNumber": null,
+        "phoneNumber": "+46708393997",
         "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Jaquelinne Munoz",
-        "linkedinUrl": "http://www.linkedin.com/in/jaquelinnemunozcalderon",
-        "phoneNumber": "+525510888083",
-        "email": "jm.calderon@lisengp.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Javier Allard De Landa",
-        "linkedinUrl": "http://www.linkedin.com/in/javierallard",
-        "phoneNumber": null,
-        "email": "javier.allard@lisengp.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Gurukaelaiarasu Mani",
-        "linkedinUrl": "http://www.linkedin.com/in/gurukaelaiarasu",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "690723c0c4b595001167b202"
       }
     ]
   },
@@ -2334,7 +1977,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/matanmishan",
         "phoneNumber": "4083291956",
         "email": "matan@livecycle.io",
-        "apolloId": null
+        "apolloId": "690723f813062f0011924cdf"
       },
       {
         "role": "CEO",
@@ -2342,15 +1985,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/arnebassez",
         "phoneNumber": null,
         "email": "arne.bassez@digitmint.eu",
-        "apolloId": null
+        "apolloId": "690724044249ca001d7f7f90"
       },
       {
         "role": "CTO",
         "name": "Rafael Pinto",
         "linkedinUrl": "http://www.linkedin.com/in/raprp",
-        "phoneNumber": null,
+        "phoneNumber": "+5521967102919",
         "email": "rafael.pinto@digitmint.eu",
-        "apolloId": null
+        "apolloId": "69072412649872001db3370c"
       },
       {
         "role": "CTO",
@@ -2358,7 +2001,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/yshay-yaacobi-17444623b",
         "phoneNumber": "+972523678969",
         "email": "yshay@livecycle.io",
-        "apolloId": null
+        "apolloId": "6907242013062f0011924d16"
       }
     ]
   },
@@ -2368,16 +2011,7 @@
     "location": "France",
     "industry": "France",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Claudia Gomez Tovar",
-        "linkedinUrl": "http://www.linkedin.com/in/claudia-liliana-g%c3%b3mez-tovar-663799204",
-        "phoneNumber": "+573204499077",
-        "email": "claudia.gomez@lunesia.com.co",
-        "apolloId": null
-      }
-    ]
+    "people": []
   },
   {
     "name": "LYRASENSE",
@@ -2392,15 +2026,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/naderlabib",
         "phoneNumber": "+4915144906538",
         "email": "nader@lyrasense.com",
-        "apolloId": null
+        "apolloId": "6907243db31b800019a1e523"
       },
       {
         "role": "CTO",
         "name": "Dimitris Kirtsios",
         "linkedinUrl": "http://www.linkedin.com/in/dimkirt",
-        "phoneNumber": null,
+        "phoneNumber": "+4917622135857",
         "email": "dimitris@lyrasense.com",
-        "apolloId": null
+        "apolloId": "6907244beeda04000db03a8f"
       }
     ]
   },
@@ -2417,7 +2051,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/mdsabbiron",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "6907245818ab48000d8f6517"
       }
     ]
   },
@@ -2434,23 +2068,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/jmartinez8",
         "phoneNumber": "+33662610366",
         "email": "jc.martinez@talent-partners.fr",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Melina Shannon-Dipietro",
-        "linkedinUrl": "http://www.linkedin.com/in/melina-shannon-dipietro-49634215",
-        "phoneNumber": null,
-        "email": "msd@madfeed.co",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Mark Falzon",
-        "linkedinUrl": "http://www.linkedin.com/in/markfalzon",
-        "phoneNumber": "+61419479573",
-        "email": "mark@madventures.au",
-        "apolloId": null
+        "apolloId": "690724662411650019c3db13"
       },
       {
         "role": "Cofounder",
@@ -2458,23 +2076,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/nancy-brieux",
         "phoneNumber": "+33785606909",
         "email": "nancy.brieux@talent-partners.fr",
-        "apolloId": null
+        "apolloId": "69072495bfe6af0019e7665f"
       },
       {
         "role": "Cofounder",
         "name": "Bobby Randhawa",
         "linkedinUrl": "http://www.linkedin.com/in/bobbyrandhawa",
-        "phoneNumber": null,
+        "phoneNumber": "6263541617",
         "email": "bobby@iammad.co",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Vinicius Sakamoto",
-        "linkedinUrl": "http://www.linkedin.com/in/vinicius-sakamoto-21006623",
-        "phoneNumber": null,
-        "email": "vinicius.sakamoto@yeswearemad.com",
-        "apolloId": null
+        "apolloId": "690724aa9a726800155cabd8"
       },
       {
         "role": "Cofounder",
@@ -2482,23 +2092,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/macleay",
         "phoneNumber": "+61405628288",
         "email": "mac@madventures.au",
-        "apolloId": null
+        "apolloId": "690724c7c103800019515d51"
       },
       {
         "role": "Founder",
         "name": "Jean Revis",
         "linkedinUrl": "http://www.linkedin.com/in/jean-r%c3%a9vis-514739",
-        "phoneNumber": null,
+        "phoneNumber": "+33609850048",
         "email": "jean.revis@mad.fr",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Gustavo Vieira",
-        "linkedinUrl": "http://www.linkedin.com/in/gustavohvieira",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "690724d6a71cdf000dc8d6fb"
       }
     ]
   },
@@ -2515,7 +2117,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/agnese-ajelix",
         "phoneNumber": "+37126951620",
         "email": null,
-        "apolloId": null
+        "apolloId": "690724f4ec61c70011db3452"
       }
     ]
   },
@@ -2532,7 +2134,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/moonseong-lee-a15b41221",
         "phoneNumber": null,
         "email": "moon@makerbox.kr",
-        "apolloId": null
+        "apolloId": "69072502683de3001109e7c6"
       },
       {
         "role": "Cofounder",
@@ -2540,7 +2142,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/konemany-kanlaya-26119b212",
         "phoneNumber": null,
         "email": "konemany@makerbox.la",
-        "apolloId": null
+        "apolloId": "6907250f27b07c0019352e42"
       }
     ]
   },
@@ -2557,7 +2159,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/cyril-pluche",
         "phoneNumber": "+33618534882",
         "email": "cyril@marblism.com",
-        "apolloId": null
+        "apolloId": "6907251c2073320015c39bcc"
       },
       {
         "role": "Founder",
@@ -2565,7 +2167,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/ulricmusset",
         "phoneNumber": "+447397901469",
         "email": "ulric@marblism.com",
-        "apolloId": null
+        "apolloId": "6907252b4249ca001d7f86a0"
       }
     ]
   },
@@ -2577,36 +2179,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Nusimovici-Avadis Danielle",
-        "linkedinUrl": "http://www.linkedin.com/in/nusimovici-avadis-danielle-41b0a47",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Adrian Herscovici",
-        "linkedinUrl": "http://www.linkedin.com/in/adrian-herscovici-78023b15",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Herscovici Adrian",
-        "linkedinUrl": "http://www.linkedin.com/in/herscovici-adrian-46309814",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
         "role": "CEO",
         "name": "Wojciech Dziezyc",
         "linkedinUrl": "http://www.linkedin.com/in/wojciech-dzie%c5%bcyc-372b2863",
-        "phoneNumber": null,
+        "phoneNumber": "+48501251563",
         "email": "wdziezyc@mediguide.com",
-        "apolloId": null
+        "apolloId": "690725639214ca0011af1cf7"
       },
       {
         "role": "CEO",
@@ -2614,7 +2192,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/veramguerreiro",
         "phoneNumber": "+34673186021",
         "email": "vguerreiro@mediguide.com",
-        "apolloId": null
+        "apolloId": "6907256f4e94680015167cc6"
       },
       {
         "role": "CEO",
@@ -2622,7 +2200,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/enrique-blanco-mediguide",
         "phoneNumber": "+5491155792109",
         "email": "eblanco@mediguide.com",
-        "apolloId": null
+        "apolloId": "6907257d990bf20011be25c6"
       },
       {
         "role": "Founder",
@@ -2630,7 +2208,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/eray-baris-karacaoglu-46a69b63",
         "phoneNumber": "+905424015967",
         "email": "e.karacaoglu@mediguideistanbul.com",
-        "apolloId": null
+        "apolloId": "6907258add661c0019b5c4d9"
       }
     ]
   },
@@ -2645,9 +2223,9 @@
         "role": "Cofounder",
         "name": "Oksana Omelchenko",
         "linkedinUrl": "http://www.linkedin.com/in/oksana-omelchenko",
-        "phoneNumber": null,
+        "phoneNumber": "+380938868299",
         "email": "oksana.o@midcontract.com",
-        "apolloId": null
+        "apolloId": "69072599a6fbd1001d90dbd9"
       },
       {
         "role": "CTO",
@@ -2655,7 +2233,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/andrey-kirilov-641293153",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690725a618ab480019c57177"
       },
       {
         "role": "Founder",
@@ -2663,7 +2241,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/anikulin",
         "phoneNumber": "+375293026070",
         "email": "andrew.n@midcontract.com",
-        "apolloId": null
+        "apolloId": "690725b3f4b3bd0019879f98"
       }
     ]
   },
@@ -2678,9 +2256,9 @@
         "role": "Cofounder",
         "name": "Idris Mughal",
         "linkedinUrl": "http://www.linkedin.com/in/idrismughal",
-        "phoneNumber": null,
+        "phoneNumber": "+32499840782",
         "email": "idris.mughal@mirapulse.com",
-        "apolloId": null
+        "apolloId": "690725c2a71cdf0015c53d93"
       }
     ]
   },
@@ -2695,41 +2273,25 @@
         "role": "CTO",
         "name": "Marijn Van Rijswijck",
         "linkedinUrl": "http://www.linkedin.com/in/marijn-van-rijswijck",
-        "phoneNumber": null,
+        "phoneNumber": "+31614143033",
         "email": null,
-        "apolloId": null
+        "apolloId": "690725d01d93be0011261a8c"
       },
       {
         "role": "Cofounder",
         "name": "Demian Voorhagen",
         "linkedinUrl": "http://www.linkedin.com/in/demianvoorhagen",
-        "phoneNumber": null,
+        "phoneNumber": "+31642239288",
         "email": null,
-        "apolloId": null
+        "apolloId": "690725dddd661c0011e8aaab"
       },
       {
         "role": "Cofounder",
         "name": "Vincent Leveque",
         "linkedinUrl": "http://www.linkedin.com/in/vleveque",
-        "phoneNumber": null,
+        "phoneNumber": "+41795450448",
         "email": "vincent.leveque@miravabio.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Vlad Miscianinov",
-        "linkedinUrl": "http://www.linkedin.com/in/vmiscianinov",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Jesus Pantoja Madrid",
-        "linkedinUrl": "http://www.linkedin.com/in/jesus-pantoja-madrid-2ba790b4",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "690725ea5e0705000d2c7961"
       }
     ]
   },
@@ -2744,9 +2306,9 @@
         "role": "Cofounder",
         "name": "Florian Poussard",
         "linkedinUrl": "http://www.linkedin.com/in/florian-p-8154955a",
-        "phoneNumber": null,
+        "phoneNumber": "+33627261784",
         "email": "f.poussard@mitamita.co",
-        "apolloId": null
+        "apolloId": "69072612fb2d920011ed4ed9"
       }
     ]
   },
@@ -2763,15 +2325,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/gerrypolynice",
         "phoneNumber": "4388883470",
         "email": "gerry@nalahair.com",
-        "apolloId": null
+        "apolloId": "6907262163e74900215c0870"
       },
       {
         "role": "Cofounder",
         "name": "Eleni Eyob",
         "linkedinUrl": "http://www.linkedin.com/in/elenieyob",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "5148398700",
+        "email": "eleni@nalahair.com",
+        "apolloId": "69072632830fbb001d773af6"
       }
     ]
   },
@@ -2788,23 +2350,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/ethanmonkhouse",
         "phoneNumber": "+353874668454",
         "email": "ethan@naviro.io",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Steven Schilling",
-        "linkedinUrl": "http://www.linkedin.com/in/steven-schilling",
-        "phoneNumber": "+4972118129092",
-        "email": "steven.schilling@webguide.one",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Samuel Plewe",
-        "linkedinUrl": "http://www.linkedin.com/in/samuelplewe",
-        "phoneNumber": "+4915110844213",
-        "email": "samuel.plewe@webguide.one",
-        "apolloId": null
+        "apolloId": "69072640207332000da1fd03"
       },
       {
         "role": "CEO",
@@ -2812,15 +2358,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/lola-nolan-",
         "phoneNumber": "9296743373",
         "email": "lola@naviro.ai",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "James Lumsden",
-        "linkedinUrl": "http://www.linkedin.com/in/jameslumsden",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "6907266ff14035000db390c5"
       }
     ]
   },
@@ -2837,7 +2375,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/jaspr",
         "phoneNumber": "6264633042",
         "email": "jasper@neonblue.ai",
-        "apolloId": null
+        "apolloId": "6907268db2e456000dc23600"
       },
       {
         "role": "Cofounder",
@@ -2845,7 +2383,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/elhage",
         "phoneNumber": "6508255035",
         "email": "steve@neonblue.ai",
-        "apolloId": null
+        "apolloId": "6907269d207332001daac947"
       },
       {
         "role": "Founder",
@@ -2853,15 +2391,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/nick-raval-471304274",
         "phoneNumber": null,
         "email": "nick@neosofttech.com",
-        "apolloId": null
+        "apolloId": "690726acf4b3bd0011388b2c"
       },
       {
         "role": "Founder",
         "name": "Preston Ramirez",
         "linkedinUrl": "http://www.linkedin.com/in/preston-ramirez-0252ba73",
-        "phoneNumber": null,
+        "phoneNumber": "+5583996509855",
         "email": null,
-        "apolloId": null
+        "apolloId": "690726bb7dcbc20011d1c10e"
       }
     ]
   },
@@ -2876,9 +2414,9 @@
         "role": "Cofounder",
         "name": "Stamos Kalogrias",
         "linkedinUrl": "http://www.linkedin.com/in/stamos-kalogrias",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+306938954730",
+        "email": "stamos@newerahotels.co",
+        "apolloId": "690726cb63e74900215c0d20"
       }
     ]
   },
@@ -2893,17 +2431,17 @@
         "role": "Cofounder",
         "name": "Magnus Strobel",
         "linkedinUrl": "http://www.linkedin.com/in/magnus-strobel-362a1461",
-        "phoneNumber": null,
+        "phoneNumber": "+4915731147832",
         "email": "magnus@nexuspolitics.org",
-        "apolloId": null
+        "apolloId": "690726e0683de3001d284961"
       },
       {
         "role": "Cofounder",
         "name": "Christoph Waffler",
         "linkedinUrl": "http://www.linkedin.com/in/christoph-waffler",
-        "phoneNumber": null,
+        "phoneNumber": "+4915123900566",
         "email": null,
-        "apolloId": null
+        "apolloId": "690726f2c7af7c00217930f8"
       }
     ]
   },
@@ -2920,7 +2458,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/abner-atugan-ayuba-968449255",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "69072701730cf7001918139a"
       }
     ]
   },
@@ -2937,7 +2475,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/aramvankruijssen",
         "phoneNumber": "+31610115937",
         "email": null,
-        "apolloId": null
+        "apolloId": "69072712df29b30019aa2266"
       }
     ]
   },
@@ -2954,15 +2492,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/pawan-sharma-a6101b47",
         "phoneNumber": "+919711001228",
         "email": "ps@ogma.in",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Pedro Rivera",
-        "linkedinUrl": "http://www.linkedin.com/in/pedro-rivera-a064918",
-        "phoneNumber": "+351219579164",
-        "email": "privera@ogma.pt",
-        "apolloId": null
+        "apolloId": "6907272d730cf70021d2f4f2"
       }
     ]
   },
@@ -2977,9 +2507,9 @@
         "role": "Founder",
         "name": "Piotr Kulpinski",
         "linkedinUrl": "http://www.linkedin.com/in/piotrkulpinski",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+48723129966",
+        "email": "piotr@kulpinski.pl",
+        "apolloId": "6907275035d4e4001d8c595c"
       }
     ]
   },
@@ -2994,17 +2524,17 @@
         "role": "Founder",
         "name": "Cristi Movila",
         "linkedinUrl": "http://www.linkedin.com/in/movilacristi",
-        "phoneNumber": null,
+        "phoneNumber": "+40765250943",
         "email": null,
-        "apolloId": null
+        "apolloId": "690767bd2cc29100190bf329"
       },
       {
         "role": "Cofounder",
         "name": "Vlad Stoiculescu",
         "linkedinUrl": "http://www.linkedin.com/in/vladstoiculescu",
-        "phoneNumber": null,
+        "phoneNumber": "+40741145893",
         "email": null,
-        "apolloId": null
+        "apolloId": "6907278163e749000dfb902a"
       }
     ]
   },
@@ -3021,7 +2551,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/unmarius",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690727918825390021d14b3a"
       }
     ]
   },
@@ -3036,9 +2566,9 @@
         "role": "Cofounder",
         "name": "Andreas Ribul-Olzer",
         "linkedinUrl": "http://www.linkedin.com/in/andreas-ribul",
-        "phoneNumber": null,
+        "phoneNumber": "+4915238764636",
         "email": "ribul@palprint.de",
-        "apolloId": null
+        "apolloId": "6907279f0360c60015498484"
       }
     ]
   },
@@ -3051,19 +2581,11 @@
     "people": [
       {
         "role": "CTO",
-        "name": "Luisa Machado",
-        "linkedinUrl": "http://www.linkedin.com/in/luisa-machado",
-        "phoneNumber": null,
-        "email": "luisa.machado@papayya.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
         "name": "Edgar Barbosa",
         "linkedinUrl": "http://www.linkedin.com/in/edgarbarbosa",
-        "phoneNumber": null,
+        "phoneNumber": "+351962735332",
         "email": "edgar.barbosa@papayya.com",
-        "apolloId": null
+        "apolloId": "690727bcc7af7c001d2aac26"
       },
       {
         "role": "Founder",
@@ -3071,7 +2593,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/pedroluisroque",
         "phoneNumber": "+351961431296",
         "email": "pedro.roque@papayya.com",
-        "apolloId": null
+        "apolloId": "690727ceb40484000da4f660"
       }
     ]
   },
@@ -3088,7 +2610,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/franz-bewerunge-61a185125",
         "phoneNumber": "+491791278460",
         "email": "franz.bewerunge@partbase.com",
-        "apolloId": null
+        "apolloId": "690727dbbf1a280021fbb3d4"
       },
       {
         "role": "Cofounder",
@@ -3096,7 +2618,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/ole-dening",
         "phoneNumber": "+491726883052",
         "email": "ole.dening@partbase.com",
-        "apolloId": null
+        "apolloId": "690727eab2e45600150aec5f"
       }
     ]
   },
@@ -3111,25 +2633,9 @@
         "role": "Cofounder",
         "name": "Dmitry Novikov",
         "linkedinUrl": "http://www.linkedin.com/in/dmitry-novikov-wst",
-        "phoneNumber": null,
+        "phoneNumber": "+34639937134",
         "email": "d.novikov@websky.tech",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Andrey Kozin",
-        "linkedinUrl": "http://www.linkedin.com/in/andrey-kozin-711a66167",
-        "phoneNumber": null,
-        "email": "a.kozin@websky.tech",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Serge Roberts",
-        "linkedinUrl": "http://www.linkedin.com/in/selezen",
-        "phoneNumber": "+380503830613",
-        "email": "s.roberts@websky.tech",
-        "apolloId": null
+        "apolloId": "690727f7f4b3bd0021822ee6"
       }
     ]
   },
@@ -3146,7 +2652,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/aidan-preston",
         "phoneNumber": "+447976117634",
         "email": "aidan@pentestly.io",
-        "apolloId": null
+        "apolloId": "69072823ce1cf1000dc8d735"
       }
     ]
   },
@@ -3163,7 +2669,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/alexandre-sarfati",
         "phoneNumber": "+33771793384",
         "email": "alexandre@pimms.io",
-        "apolloId": null
+        "apolloId": "69072832330301001d4470e5"
       },
       {
         "role": "CEO",
@@ -3171,23 +2677,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/danie-muller-4aa76b82",
         "phoneNumber": null,
         "email": "danie@pimms.io",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Mark Rich",
-        "linkedinUrl": "http://www.linkedin.com/in/markrich",
-        "phoneNumber": "9727744468",
-        "email": "mrich@whitehousepimms.com",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Stephan Bezuidenhout",
-        "linkedinUrl": "http://www.linkedin.com/in/stephan-bezuidenhout-pmp-certified-mba-39553364",
-        "phoneNumber": null,
-        "email": "stephan.bezuidenhout@pimms.co.za",
-        "apolloId": null
+        "apolloId": "69072841eeda04001dc30548"
       }
     ]
   },
@@ -3204,15 +2694,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/michal-palenik-planeat",
         "phoneNumber": null,
         "email": "michal.palenik@planeat.sk",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Susanne Woelfel",
-        "linkedinUrl": "http://www.linkedin.com/in/susanne-woelfel-5b737716",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "6907286d5daf2500113b6ec0"
       },
       {
         "role": "CEO",
@@ -3220,15 +2702,15 @@
         "linkedinUrl": "http://www.linkedin.com/in/nicola-lamberti-46b0856",
         "phoneNumber": "+393489407100",
         "email": "nicola.lamberti@planeat.eco",
-        "apolloId": null
+        "apolloId": "690728904e9468000dd1d63f"
       },
       {
         "role": "Cofounder",
         "name": "Giovanni Benedetto",
         "linkedinUrl": "http://www.linkedin.com/in/giovanni-di-benedetto-35b916165",
-        "phoneNumber": null,
+        "phoneNumber": "+393939488829",
         "email": "giovanni.dibenedetto@alimentiamoci.com",
-        "apolloId": null
+        "apolloId": "6907289f5eef1e002171aaff"
       }
     ]
   },
@@ -3241,19 +2723,19 @@
     "people": [
       {
         "role": "Cofounder",
+        "name": "Adam Bicz",
+        "linkedinUrl": "http://www.linkedin.com/in/adam-bicz-018bb53",
+        "phoneNumber": "+971503853679",
+        "email": null,
+        "apolloId": "690728bc37bdc00011842bd0"
+      },
+      {
+        "role": "Cofounder",
         "name": "Michal Jaworski",
         "linkedinUrl": "http://www.linkedin.com/in/michal-emil-jaworski",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "Cofounder",
-        "name": "Adam Bicz",
-        "linkedinUrl": "http://www.linkedin.com/in/adam-bicz-018bb53",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "690728adce1cf1002141438f"
       }
     ]
   },
@@ -3270,7 +2752,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/chanov",
         "phoneNumber": null,
         "email": "chanov@primastem.com",
-        "apolloId": null
+        "apolloId": "690728cb28113100114a7cde"
       },
       {
         "role": "Cofounder",
@@ -3278,7 +2760,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/mikaelharnois",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "690728d9241165001dab8f9c"
       }
     ]
   },
@@ -3290,36 +2772,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Joseph Ickes",
-        "linkedinUrl": "http://www.linkedin.com/in/josephickes",
-        "phoneNumber": null,
-        "email": "joseph.ickes@propane.agency",
-        "apolloId": null
-      },
-      {
         "role": "Founder",
         "name": "Dennis Green-Lieber",
         "linkedinUrl": "http://www.linkedin.com/in/dennisgreenlieber",
         "phoneNumber": "+4529367560",
         "email": "dennis@usepropane.ai",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Alec Ditonto",
-        "linkedinUrl": "http://www.linkedin.com/in/alecditonto",
-        "phoneNumber": "4155787475",
-        "email": "alec.ditonto@propane.agency",
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Lilu Odedra",
-        "linkedinUrl": "http://www.linkedin.com/in/liluodedra",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "690728f52ff61c000d4e3aa5"
       }
     ]
   },
@@ -3336,7 +2794,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/adam-gibson-a48a81358",
         "phoneNumber": null,
         "email": null,
-        "apolloId": null
+        "apolloId": "69072920649872001543b765"
       }
     ]
   },
@@ -3353,7 +2811,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/karlsonp",
         "phoneNumber": null,
         "email": "karlson@puraite.com",
-        "apolloId": null
+        "apolloId": "6907292ee2cf5b000de2bfb3"
       },
       {
         "role": "Cofounder",
@@ -3361,7 +2819,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/schahinb",
         "phoneNumber": null,
         "email": "schahin@puraite.com",
-        "apolloId": null
+        "apolloId": "690729402a9bb20021879297"
       }
     ]
   },
@@ -3376,25 +2834,17 @@
         "role": "Founder",
         "name": "Ellie Brown",
         "linkedinUrl": "http://www.linkedin.com/in/ellie-louise-brown-0722391b9",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+34657630875",
+        "email": "elliebrown@reconditionmcr.com",
+        "apolloId": "69072951a32f710011957693"
       },
       {
         "role": "Founder",
         "name": "Vlad Teodorescu",
         "linkedinUrl": "http://www.linkedin.com/in/vlad-teodorescu-57910834",
-        "phoneNumber": null,
+        "phoneNumber": "+40744333149",
         "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Recondition Engines",
-        "linkedinUrl": "http://www.linkedin.com/in/reconditionengines",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "apolloId": "69072964e2cf5b0021b104c0"
       }
     ]
   },
@@ -3406,28 +2856,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Zachary Ryan",
-        "linkedinUrl": "http://www.linkedin.com/in/zachary-ryan-289b40b0",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Reconstruct Pro",
-        "linkedinUrl": "http://www.linkedin.com/in/reconstruct-pro-190555176",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
         "role": "Cofounder",
         "name": "Michelle Lievaart",
         "linkedinUrl": "http://www.linkedin.com/in/michelle-lievaart-257a47116",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+31612700141",
+        "email": "michelle@reconstruct.nl",
+        "apolloId": "69072a02c7af7c0011720e5f"
       },
       {
         "role": "CEO",
@@ -3435,7 +2869,7 @@
         "linkedinUrl": "http://www.linkedin.com/in/zak-macrunnels-1bb9033",
         "phoneNumber": "6504852803",
         "email": "zak.macrunnels@reconstructinc.com",
-        "apolloId": null
+        "apolloId": "69072a264cc5c800215613bf"
       }
     ]
   },
@@ -3450,25 +2884,9 @@
         "role": "CEO",
         "name": "George Melashvili",
         "linkedinUrl": "http://www.linkedin.com/in/george-melashvili-05b27935",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Nicolo Arvati",
-        "linkedinUrl": "http://www.linkedin.com/in/nicoloarvati",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
-      },
-      {
-        "role": "CTO",
-        "name": "Miguel Sanchez Resendiz",
-        "linkedinUrl": "http://www.linkedin.com/in/miguel-s%c3%a1nchez-res%c3%a9ndiz-2b5544164",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+995599714711",
+        "email": "g.melashvili@renovo.ge",
+        "apolloId": "69072a506bdaa7001557b260"
       }
     ]
   },
@@ -3483,27 +2901,33 @@
         "role": "CEO",
         "name": "Jasdeep Sandhu",
         "linkedinUrl": "http://www.linkedin.com/in/jasdeep-sandhu-892376286",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "+61480099667",
+        "email": "jas@rentaaa.com",
+        "apolloId": "690769d3ac6a5400192095ee"
       },
       {
         "role": "Cofounder",
         "name": "Jon Harris",
         "linkedinUrl": "http://www.linkedin.com/in/jon-harris-600aa52",
-        "phoneNumber": null,
-        "email": null,
-        "apolloId": null
+        "phoneNumber": "9545517958",
+        "email": "jon_harris@ultimatesoftware.com",
+        "apolloId": "690769e03deb67001d4ad62d"
       },
       {
         "role": "CEO",
         "name": "Nicholas Luft",
-        "linkedinUrl": "http://www.linkedin.com/in/nicholasluft"
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasluft",
+        "phoneNumber": "5043389130",
+        "email": null,
+        "apolloId": "690769ed5deaee0021ca6e79"
       },
       {
         "role": "Cofounder",
         "name": "Navpreet Sandhu",
-        "linkedinUrl": "http://www.linkedin.com/in/navpreet-sandhu-212862256"
+        "linkedinUrl": "http://www.linkedin.com/in/navpreet-sandhu-212862256",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "690769fa8cfae90011b23c6c"
       }
     ]
   },
@@ -3513,28 +2937,7 @@
     "location": "Vilnius",
     "industry": "Lithuania",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Peter Scash",
-        "linkedinUrl": "http://www.linkedin.com/in/peter-scash-198591179"
-      },
-      {
-        "role": "CTO",
-        "name": "Jose Almeida",
-        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-carlos-almeida-a9016263"
-      },
-      {
-        "role": "CTO",
-        "name": "Anthony Taglione",
-        "linkedinUrl": "http://www.linkedin.com/in/anthony-taglione-9a1b1217"
-      },
-      {
-        "role": "CTO",
-        "name": "Wilson Silva",
-        "linkedinUrl": "http://www.linkedin.com/in/wilson-silva-58a884a7"
-      }
-    ]
+    "people": []
   },
   {
     "name": "RxClarity",
@@ -3546,17 +2949,26 @@
       {
         "role": "CTO",
         "name": "Agoston Fung",
-        "linkedinUrl": "http://www.linkedin.com/in/agostonfung"
+        "linkedinUrl": "http://www.linkedin.com/in/agostonfung",
+        "phoneNumber": "+447902136056",
+        "email": null,
+        "apolloId": "69076a1a5ba378000ddb468d"
       },
       {
         "role": "Cofounder",
         "name": "Zaharan Sofi",
-        "linkedinUrl": "http://www.linkedin.com/in/zaharan-sofi"
+        "linkedinUrl": "http://www.linkedin.com/in/zaharan-sofi",
+        "phoneNumber": "+447701392382",
+        "email": null,
+        "apolloId": "69076a27ee879d000decd65c"
       },
       {
         "role": "CTO",
         "name": "Rodger Karl",
-        "linkedinUrl": "http://www.linkedin.com/in/rodgerkarl"
+        "linkedinUrl": "http://www.linkedin.com/in/rodgerkarl",
+        "phoneNumber": "6128458792",
+        "email": null,
+        "apolloId": "69076a3465c89b00117d5372"
       }
     ]
   },
@@ -3570,12 +2982,18 @@
       {
         "role": "Cofounder",
         "name": "Pawel Sitarz",
-        "linkedinUrl": "http://www.linkedin.com/in/pawel-sitarz"
+        "linkedinUrl": "http://www.linkedin.com/in/pawel-sitarz",
+        "phoneNumber": "+48697509855",
+        "email": "p.sitarz@semiqa.com",
+        "apolloId": "69076a417d7d86000def81d3"
       },
       {
         "role": "Cofounder",
         "name": "Tomasz Matusiak",
-        "linkedinUrl": "http://www.linkedin.com/in/matusiak0tomasz"
+        "linkedinUrl": "http://www.linkedin.com/in/matusiak0tomasz",
+        "phoneNumber": null,
+        "email": "t.matusiak@semiqa.com",
+        "apolloId": "69076a4e603065001d9d682b"
       }
     ]
   },
@@ -3589,7 +3007,10 @@
       {
         "role": "Founder",
         "name": "Wesam Mikhail",
-        "linkedinUrl": "http://www.linkedin.com/in/wesammikhail"
+        "linkedinUrl": "http://www.linkedin.com/in/wesammikhail",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
       }
     ]
   },
@@ -3603,7 +3024,10 @@
       {
         "role": "CTO",
         "name": "Denis Sandu",
-        "linkedinUrl": "http://www.linkedin.com/in/denis-sandu"
+        "linkedinUrl": "http://www.linkedin.com/in/denis-sandu",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
       }
     ]
   },
@@ -3615,14 +3039,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Vipa Paura",
-        "linkedinUrl": "http://www.linkedin.com/in/vipa-paura-483951166"
-      },
-      {
         "role": "CEO",
         "name": "Aunt Cissy",
-        "linkedinUrl": "http://www.linkedin.com/in/aunt-cissy-994642169"
+        "linkedinUrl": "http://www.linkedin.com/in/aunt-cissy-994642169",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076a90f3ebc7001d426378"
       }
     ]
   },
@@ -3636,7 +3058,10 @@
       {
         "role": "Founder",
         "name": "Gajendra Sharma",
-        "linkedinUrl": "http://www.linkedin.com/in/gajendra-sharma-02b98283"
+        "linkedinUrl": "http://www.linkedin.com/in/gajendra-sharma-02b98283",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076a9de1d9880015c65543"
       }
     ]
   },
@@ -3650,7 +3075,10 @@
       {
         "role": "Founder",
         "name": "Baptiste Derongs",
-        "linkedinUrl": "http://www.linkedin.com/in/bderongs"
+        "linkedinUrl": "http://www.linkedin.com/in/bderongs",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076aa9c3e7f50019101af7"
       }
     ]
   },
@@ -3664,12 +3092,18 @@
       {
         "role": "Founder",
         "name": "Ruben Vanhees",
-        "linkedinUrl": "http://www.linkedin.com/in/rubenvanhees"
+        "linkedinUrl": "http://www.linkedin.com/in/rubenvanhees",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ab656ed7e0019b21444"
       },
       {
         "role": "CTO",
         "name": "Elijah Limaj",
-        "linkedinUrl": "http://www.linkedin.com/in/elijah-s-limaj-6b735837a"
+        "linkedinUrl": "http://www.linkedin.com/in/elijah-s-limaj-6b735837a",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ac33b20e7001905b55e"
       }
     ]
   },
@@ -3683,12 +3117,18 @@
       {
         "role": "Cofounder",
         "name": "Paul Kirchbichler",
-        "linkedinUrl": "http://www.linkedin.com/in/paul-kirchbichler"
+        "linkedinUrl": "http://www.linkedin.com/in/paul-kirchbichler",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ad01775430011e933c2"
       },
       {
         "role": "Cofounder",
         "name": "Mattis Kloepper",
-        "linkedinUrl": "http://www.linkedin.com/in/mattis-kloepper-1448501bb"
+        "linkedinUrl": "http://www.linkedin.com/in/mattis-kloepper-1448501bb",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076adcc8b954000d7ca495"
       }
     ]
   },
@@ -3702,12 +3142,18 @@
       {
         "role": "Cofounder",
         "name": "Wout Pauwels",
-        "linkedinUrl": "http://www.linkedin.com/in/wout-pauwels"
+        "linkedinUrl": "http://www.linkedin.com/in/wout-pauwels",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ae911de09001d5684ac"
       },
       {
         "role": "Cofounder",
         "name": "Maarten Wyns",
-        "linkedinUrl": "http://www.linkedin.com/in/maartenwyns"
+        "linkedinUrl": "http://www.linkedin.com/in/maartenwyns",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076af573fe2a0021e6c876"
       }
     ]
   },
@@ -3721,22 +3167,26 @@
       {
         "role": "Cofounder",
         "name": "Radmehr Mohebi",
-        "linkedinUrl": "http://www.linkedin.com/in/radmehr-mohebi"
+        "linkedinUrl": "http://www.linkedin.com/in/radmehr-mohebi",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b02c3e7f50019101feb"
       },
       {
         "role": "CTO",
         "name": "Mosaleh Azarkashb",
-        "linkedinUrl": "http://www.linkedin.com/in/mosaleh2002"
+        "linkedinUrl": "http://www.linkedin.com/in/mosaleh2002",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b0f59afed00118a9eb5"
       },
       {
         "role": "VP of Engineering",
         "name": "Starview Communications",
-        "linkedinUrl": "http://www.linkedin.com/in/starview-communications-80460031"
-      },
-      {
-        "role": "CTO",
-        "name": "Mohamad Mrie",
-        "linkedinUrl": "http://www.linkedin.com/in/mohamad-mrie-02538a269"
+        "linkedinUrl": "http://www.linkedin.com/in/starview-communications-80460031",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b1c62e6ed001d8824b5"
       }
     ]
   },
@@ -3746,13 +3196,7 @@
     "location": "London",
     "industry": "UK",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Samu Lang",
-        "linkedinUrl": "http://www.linkedin.com/in/langsamu"
-      }
-    ]
+    "people": []
   },
   {
     "name": "Supercamp",
@@ -3764,17 +3208,18 @@
       {
         "role": "Cofounder",
         "name": "Benas Bitvinskas",
-        "linkedinUrl": "http://www.linkedin.com/in/benbi"
-      },
-      {
-        "role": "CTO",
-        "name": "Anita Quintana",
-        "linkedinUrl": "http://www.linkedin.com/in/anita-quintana-76284522a"
+        "linkedinUrl": "http://www.linkedin.com/in/benbi",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b32b17a4100154d872e"
       },
       {
         "role": "CEO",
         "name": "Costin Iordache",
-        "linkedinUrl": "http://www.linkedin.com/in/costin-iordache-arborist"
+        "linkedinUrl": "http://www.linkedin.com/in/costin-iordache-arborist",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b446575280019326ecc"
       }
     ]
   },
@@ -3788,7 +3233,10 @@
       {
         "role": "CEO",
         "name": "Dario Bentancour",
-        "linkedinUrl": "http://www.linkedin.com/in/dario-bentancour-40107b23"
+        "linkedinUrl": "http://www.linkedin.com/in/dario-bentancour-40107b23",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b515b093e00153579e9"
       }
     ]
   },
@@ -3798,13 +3246,7 @@
     "location": "Manchester",
     "industry": "UK",
     "founded": "2025",
-    "people": [
-      {
-        "role": "CTO",
-        "name": "Dennis Sbrusch",
-        "linkedinUrl": "http://www.linkedin.com/in/dennissbruschjr"
-      }
-    ]
+    "people": []
   },
   {
     "name": "Syncable.dev",
@@ -3816,7 +3258,10 @@
       {
         "role": "Cofounder",
         "name": "Lishuai Jing",
-        "linkedinUrl": "http://www.linkedin.com/in/lishuaijing"
+        "linkedinUrl": "http://www.linkedin.com/in/lishuaijing",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b62c58ec50019991ced"
       }
     ]
   },
@@ -3830,7 +3275,10 @@
       {
         "role": "Founder",
         "name": "Julian Nadolski",
-        "linkedinUrl": "http://www.linkedin.com/in/julian-nadolski-186524251"
+        "linkedinUrl": "http://www.linkedin.com/in/julian-nadolski-186524251",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b6e5ba378001d633d2a"
       }
     ]
   },
@@ -3844,7 +3292,10 @@
       {
         "role": "Founder",
         "name": "Dominic El-Jerari",
-        "linkedinUrl": "http://www.linkedin.com/in/dominic-eljerari"
+        "linkedinUrl": "http://www.linkedin.com/in/dominic-eljerari",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b7b528592001d65d5db"
       }
     ]
   },
@@ -3858,7 +3309,10 @@
       {
         "role": "Founder",
         "name": "Nishith Srivastava",
-        "linkedinUrl": "http://www.linkedin.com/in/nishith"
+        "linkedinUrl": "http://www.linkedin.com/in/nishith",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b887a4c4e0015bc0b4c"
       }
     ]
   },
@@ -3872,17 +3326,26 @@
       {
         "role": "Cofounder",
         "name": "Rens Verbeek",
-        "linkedinUrl": "http://www.linkedin.com/in/rens-verbeek"
+        "linkedinUrl": "http://www.linkedin.com/in/rens-verbeek",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076b9573fe2a0021e6caee"
       },
       {
         "role": "CTO",
         "name": "Koen Wolf",
-        "linkedinUrl": "http://www.linkedin.com/in/koen-de-wolf-205793186"
+        "linkedinUrl": "http://www.linkedin.com/in/koen-de-wolf-205793186",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ba2ba7b8e0011445e37"
       },
       {
         "role": "Cofounder",
         "name": "Bruno Figueiredo",
-        "linkedinUrl": "http://www.linkedin.com/in/bruno-figueiredo-953906177"
+        "linkedinUrl": "http://www.linkedin.com/in/bruno-figueiredo-953906177",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076baf5b093e00116fc1e1"
       }
     ]
   },
@@ -3896,12 +3359,18 @@
       {
         "role": "CEO",
         "name": "Jacob Stiefel",
-        "linkedinUrl": "http://www.linkedin.com/in/jacob-stiefel-6446ba89"
+        "linkedinUrl": "http://www.linkedin.com/in/jacob-stiefel-6446ba89",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076bbc6030650015b4dacc"
       },
       {
         "role": "Cofounder",
         "name": "Lindsay Selvitelle",
-        "linkedinUrl": "http://www.linkedin.com/in/lindsayselvitelle"
+        "linkedinUrl": "http://www.linkedin.com/in/lindsayselvitelle",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076bc9bb38e500210174e5"
       }
     ]
   },
@@ -3915,12 +3384,18 @@
       {
         "role": "Cofounder",
         "name": "Aleksandra Dobreva",
-        "linkedinUrl": "http://www.linkedin.com/in/alexandra-gospodinova"
+        "linkedinUrl": "http://www.linkedin.com/in/alexandra-gospodinova",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076bd58ff47f001db5bcc1"
       },
       {
         "role": "Cofounder",
         "name": "Dobrian Dobrev",
-        "linkedinUrl": "http://www.linkedin.com/in/dobriandobrev"
+        "linkedinUrl": "http://www.linkedin.com/in/dobriandobrev",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076be2e2d243000d05241a"
       }
     ]
   },
@@ -3934,7 +3409,10 @@
       {
         "role": "Founder",
         "name": "Sam Cassman",
-        "linkedinUrl": "http://www.linkedin.com/in/sam-cassman-a5837847"
+        "linkedinUrl": "http://www.linkedin.com/in/sam-cassman-a5837847",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076bee403460001999ccbd"
       }
     ]
   },
@@ -3948,7 +3426,10 @@
       {
         "role": "Founder",
         "name": "Alex Serzhanovich",
-        "linkedinUrl": "http://www.linkedin.com/in/alex-serzhanovich"
+        "linkedinUrl": "http://www.linkedin.com/in/alex-serzhanovich",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076bfb60306500112fb061"
       }
     ]
   },
@@ -3962,32 +3443,42 @@
       {
         "role": "Cofounder",
         "name": "Yuting Peng",
-        "linkedinUrl": "http://www.linkedin.com/in/yuting-peng-0329"
-      },
-      {
-        "role": "Cofounder",
-        "name": "Alex Nikonov",
-        "linkedinUrl": "http://www.linkedin.com/in/alex-nikonov"
+        "linkedinUrl": "http://www.linkedin.com/in/yuting-peng-0329",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c07dd84fd0019e62e33"
       },
       {
         "role": "Cofounder",
         "name": "Hemang Nathwani",
-        "linkedinUrl": "http://www.linkedin.com/in/hnathwanipricetrakker"
+        "linkedinUrl": "http://www.linkedin.com/in/hnathwanipricetrakker",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c1923e712002189185e"
       },
       {
         "role": "Founder",
         "name": "Edward Kellman",
-        "linkedinUrl": "http://www.linkedin.com/in/edward-k-5403b2163"
+        "linkedinUrl": "http://www.linkedin.com/in/edward-k-5403b2163",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c2623e712000d0df6c2"
       },
       {
         "role": "Cofounder",
         "name": "Michelle Alexandra",
-        "linkedinUrl": "http://www.linkedin.com/in/michelle-alexandra-140867a7"
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-alexandra-140867a7",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c350aa54000112befea"
       },
       {
         "role": "CEO",
         "name": "Sagar Parikh",
-        "linkedinUrl": "http://www.linkedin.com/in/sagarparikh"
+        "linkedinUrl": "http://www.linkedin.com/in/sagarparikh",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c4111df9d002147d8d6"
       }
     ]
   },
@@ -4001,12 +3492,18 @@
       {
         "role": "Cofounder",
         "name": "Graham Maonaigh",
-        "linkedinUrl": "http://www.linkedin.com/in/grahamomaonaigh"
+        "linkedinUrl": "http://www.linkedin.com/in/grahamomaonaigh",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c4fac6a54002029b235"
       },
       {
         "role": "CTO",
         "name": "Saloni D",
-        "linkedinUrl": "http://www.linkedin.com/in/saloni-d-823614139"
+        "linkedinUrl": "http://www.linkedin.com/in/saloni-d-823614139",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c5d95a693001149747d"
       }
     ]
   },
@@ -4020,22 +3517,18 @@
       {
         "role": "Cofounder",
         "name": "Kehan Zhang",
-        "linkedinUrl": "http://www.linkedin.com/in/kehan-c-zhang"
-      },
-      {
-        "role": "CTO",
-        "name": "Jake Gold",
-        "linkedinUrl": "http://www.linkedin.com/in/jakegold"
+        "linkedinUrl": "http://www.linkedin.com/in/kehan-c-zhang",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c690ab808001125ac77"
       },
       {
         "role": "Cofounder",
         "name": "Riley Brown",
-        "linkedinUrl": "http://www.linkedin.com/in/riley-brown-7441b1101"
-      },
-      {
-        "role": "CTO",
-        "name": "Lola Adey",
-        "linkedinUrl": "http://www.linkedin.com/in/lola-adey"
+        "linkedinUrl": "http://www.linkedin.com/in/riley-brown-7441b1101",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c7bb8e8880021aee6fd"
       }
     ]
   },
@@ -4049,17 +3542,26 @@
       {
         "role": "Cofounder",
         "name": "Nicholas Piel",
-        "linkedinUrl": "http://www.linkedin.com/in/nicholasp"
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasp",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c8dfc3ad40021da6261"
       },
       {
         "role": "Cofounder",
         "name": "Sasha Ogurtov",
-        "linkedinUrl": "http://www.linkedin.com/in/sasha-ogurtov-844047a8"
+        "linkedinUrl": "http://www.linkedin.com/in/sasha-ogurtov-844047a8",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076c9a6cdcd40021c08252"
       },
       {
         "role": "Cofounder",
         "name": "Dzmitry Tolpekin",
-        "linkedinUrl": "http://www.linkedin.com/in/dzmitry-tolpekin"
+        "linkedinUrl": "http://www.linkedin.com/in/dzmitry-tolpekin",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ca6bbe8fb0015308f3b"
       }
     ]
   },
@@ -4073,7 +3575,10 @@
       {
         "role": "Founder",
         "name": "Yannik Suess",
-        "linkedinUrl": "http://www.linkedin.com/in/yanniksuess"
+        "linkedinUrl": "http://www.linkedin.com/in/yanniksuess",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076cb34b661b001551c90a"
       }
     ]
   },
@@ -4087,12 +3592,18 @@
       {
         "role": "Cofounder",
         "name": "Joao Filipe",
-        "linkedinUrl": "http://www.linkedin.com/in/joao-filipe-aa369986"
+        "linkedinUrl": "http://www.linkedin.com/in/joao-filipe-aa369986",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076cc09faaf3000d6b4d08"
       },
       {
         "role": "CTO",
         "name": "Jose Mota",
-        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-mota-a36a1a161"
+        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-mota-a36a1a161",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ccc5b093e0021e9caca"
       }
     ]
   },
@@ -4106,17 +3617,18 @@
       {
         "role": "CTO",
         "name": "Manivannan Rangarajan",
-        "linkedinUrl": "http://www.linkedin.com/in/manivannan-rangarajan-510b3275"
-      },
-      {
-        "role": "CTO",
-        "name": "Nicolle Lenuzza",
-        "linkedinUrl": "http://www.linkedin.com/in/nicolle-lenuzza-2a327792"
+        "linkedinUrl": "http://www.linkedin.com/in/manivannan-rangarajan-510b3275",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076cd956ed7e00152acbed"
       },
       {
         "role": "CEO",
         "name": "Andrea Vasconcellos",
-        "linkedinUrl": "http://www.linkedin.com/in/andrea-vasconcellos-830175115"
+        "linkedinUrl": "http://www.linkedin.com/in/andrea-vasconcellos-830175115",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076ceb73174000214d5c77"
       }
     ]
   },
@@ -4130,7 +3642,10 @@
       {
         "role": "CEO",
         "name": "Nikolay Kotsev",
-        "linkedinUrl": "http://www.linkedin.com/in/nikolay-kotsev"
+        "linkedinUrl": "http://www.linkedin.com/in/nikolay-kotsev",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076cf8b000190021183e35"
       }
     ]
   },
@@ -4144,7 +3659,10 @@
       {
         "role": "Founder",
         "name": "Younes Afkari",
-        "linkedinUrl": "http://www.linkedin.com/in/younes-afkari"
+        "linkedinUrl": "http://www.linkedin.com/in/younes-afkari",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076d04e1531f0021b91fbd"
       }
     ]
   },
@@ -4158,7 +3676,10 @@
       {
         "role": "Cofounder",
         "name": "Malith Gamage",
-        "linkedinUrl": "http://www.linkedin.com/in/malithmcr"
+        "linkedinUrl": "http://www.linkedin.com/in/malithmcr",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076d11fd8fcb0019e8758c"
       }
     ]
   },
@@ -4172,7 +3693,10 @@
       {
         "role": "Founder",
         "name": "Rohit Chhabra",
-        "linkedinUrl": "http://www.linkedin.com/in/rohit-chhabra-tech"
+        "linkedinUrl": "http://www.linkedin.com/in/rohit-chhabra-tech",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076d1ebbe8fb001df824b1"
       }
     ]
   },
@@ -4184,19 +3708,12 @@
     "founded": "2025",
     "people": [
       {
-        "role": "CTO",
-        "name": "Karl Thumm",
-        "linkedinUrl": "http://www.linkedin.com/in/karlthumm"
-      },
-      {
         "role": "CEO",
         "name": "George Farnon",
-        "linkedinUrl": "http://www.linkedin.com/in/george-farnon-89863b103"
-      },
-      {
-        "role": "CTO",
-        "name": "Sherry Leung",
-        "linkedinUrl": "http://www.linkedin.com/in/leung-sherry"
+        "linkedinUrl": "http://www.linkedin.com/in/george-farnon-89863b103",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69076d2f1775430015bcf834"
       }
     ]
   }
