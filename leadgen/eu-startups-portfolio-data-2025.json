@@ -1,0 +1,3303 @@
+[
+  {
+    "name": "2Na",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nnadozie Ezenekwe",
+        "linkedinUrl": "http://www.linkedin.com/in/nezenekwe"
+      },
+      {
+        "role": "Founder",
+        "name": "Christina Port",
+        "linkedinUrl": "http://www.linkedin.com/in/chport"
+      }
+    ]
+  },
+  {
+    "name": "A-dapt",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Claudio Piovesana",
+        "linkedinUrl": "http://www.linkedin.com/in/claudiopiovesana"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Matthew Mayes",
+        "linkedinUrl": "http://www.linkedin.com/in/matthewmayes"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefan Surzycki",
+        "linkedinUrl": "http://www.linkedin.com/in/stefansurzycki"
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Korner",
+        "linkedinUrl": "http://www.linkedin.com/in/thomas-korner-b2039324"
+      }
+    ]
+  },
+  {
+    "name": "Abrande",
+    "description": null,
+    "location": "Göteborg",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Rebecca Ewe",
+        "linkedinUrl": "http://www.linkedin.com/in/rebeccaewe"
+      },
+      {
+        "role": "Founder",
+        "name": "Simon Fouladi",
+        "linkedinUrl": "http://www.linkedin.com/in/simonfouladi"
+      },
+      {
+        "role": "CTO",
+        "name": "Edvin Brobeck",
+        "linkedinUrl": "http://www.linkedin.com/in/edvinbrobeck"
+      }
+    ]
+  },
+  {
+    "name": "Abry",
+    "description": null,
+    "location": "Rotterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Dan Gilbert",
+        "linkedinUrl": "http://www.linkedin.com/in/dan-gilbert-cfa-4b351a15"
+      },
+      {
+        "role": "CTO",
+        "name": "Eric Cooper",
+        "linkedinUrl": "http://www.linkedin.com/in/eric13cooper"
+      },
+      {
+        "role": "CEO",
+        "name": "Brucato",
+        "linkedinUrl": "http://www.linkedin.com/in/c-j-brucato-iii-b33830"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshay Mahajan",
+        "linkedinUrl": "http://www.linkedin.com/in/akshay-mahajan-cfa-9748845"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Anzivino",
+        "linkedinUrl": "http://www.linkedin.com/in/chris-anzivino-b703121"
+      },
+      {
+        "role": "CEO",
+        "name": "Gwenael Nicolas",
+        "linkedinUrl": "http://www.linkedin.com/in/gwena%c3%abl-nicolas-64bb347b"
+      }
+    ]
+  },
+  {
+    "name": "Accounts Draft",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Robert Benson-May",
+        "linkedinUrl": "http://www.linkedin.com/in/robert-benson-may"
+      }
+    ]
+  },
+  {
+    "name": "ActionRun",
+    "description": null,
+    "location": "DE",
+    "industry": "Cyprus",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Marcus Vinicius Vargas",
+        "linkedinUrl": "http://www.linkedin.com/in/marcus-vin%c3%adcius-vargas-753480110"
+      }
+    ]
+  },
+  {
+    "name": "AgencyPro",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bill Casey",
+        "linkedinUrl": "http://www.linkedin.com/in/bill-casey-5204602"
+      },
+      {
+        "role": "Founder",
+        "name": "Felipe Lopes",
+        "linkedinUrl": "http://www.linkedin.com/in/felipe-lopes-531a91192"
+      }
+    ]
+  },
+  {
+    "name": "AI Martz",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Michael Oke",
+        "linkedinUrl": "http://www.linkedin.com/in/olumidemichaeloke"
+      }
+    ]
+  },
+  {
+    "name": "Airgonomics.ai",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Maximilian Schusser",
+        "linkedinUrl": "http://www.linkedin.com/in/maximilianschusser"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Aleksandar Miskovic",
+        "linkedinUrl": "http://www.linkedin.com/in/a-misko"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nikola Miskovic",
+        "linkedinUrl": "http://www.linkedin.com/in/n-miskovic"
+      }
+    ]
+  },
+  {
+    "name": "All-in-One AI",
+    "description": null,
+    "location": "Birmingham",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Luca Zotto",
+        "linkedinUrl": "http://www.linkedin.com/in/dal-zotto-luca"
+      },
+      {
+        "role": "Founder",
+        "name": "Rajat Gupta",
+        "linkedinUrl": "http://www.linkedin.com/in/rajat-gupta-com"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nitish Gujjar",
+        "linkedinUrl": "http://www.linkedin.com/in/nitish-gujjar-a59054143"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chirag Savla",
+        "linkedinUrl": "http://www.linkedin.com/in/chiragsavla"
+      },
+      {
+        "role": "Founder",
+        "name": "Bharathi Masilamani",
+        "linkedinUrl": "http://www.linkedin.com/in/vmbharathi"
+      }
+    ]
+  },
+  {
+    "name": "Alsona",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jaclyn Curtis",
+        "linkedinUrl": "http://www.linkedin.com/in/jaclynvcurtis"
+      }
+    ]
+  },
+  {
+    "name": "Artemida Index",
+    "description": null,
+    "location": "Warszaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Piotr Malinowski",
+        "linkedinUrl": "http://www.linkedin.com/in/piotr-b-malinowski-"
+      }
+    ]
+  },
+  {
+    "name": "arterioscope",
+    "description": null,
+    "location": "Graz",
+    "industry": "Austria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hermann Moser",
+        "linkedinUrl": "http://www.linkedin.com/in/hermann-moser"
+      },
+      {
+        "role": "CTO",
+        "name": "Vahid Badeli",
+        "linkedinUrl": "http://www.linkedin.com/in/vahid-badeli-b99804113"
+      }
+    ]
+  },
+  {
+    "name": "Atrium Exchange",
+    "description": null,
+    "location": "Warsaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Taras Panasyuk",
+        "linkedinUrl": "http://www.linkedin.com/in/taras-panasyuk-b0742032"
+      }
+    ]
+  },
+  {
+    "name": "Atypically",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Anthony Tonder",
+        "linkedinUrl": "http://www.linkedin.com/in/anthony-van-tonder-863992a4"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Marianna Perlstein",
+        "linkedinUrl": "http://www.linkedin.com/in/marianna-perlstein"
+      },
+      {
+        "role": "Founder",
+        "name": "Yana Kleyman",
+        "linkedinUrl": "http://www.linkedin.com/in/yana-kleyman-45a76a313"
+      }
+    ]
+  },
+  {
+    "name": "Aurelytix",
+    "description": null,
+    "location": "Hamburg",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Dmitrii Korotovskii",
+        "linkedinUrl": "http://www.linkedin.com/in/korotovsky"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Anusha Akkina",
+        "linkedinUrl": "http://www.linkedin.com/in/anusha-akkina-acma-cgma-56154547"
+      }
+    ]
+  },
+  {
+    "name": "BambiGo",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Margaux Ramadier",
+        "linkedinUrl": "http://www.linkedin.com/in/margaux-ramadier-010a4888"
+      }
+    ]
+  },
+  {
+    "name": "Beatwell Technologies",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Evdochim Lucian",
+        "linkedinUrl": "http://www.linkedin.com/in/evdochim-lucian-31b67ab9"
+      }
+    ]
+  },
+  {
+    "name": "bennofilms",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Joe Benno",
+        "linkedinUrl": "http://www.linkedin.com/in/bennofilms"
+      }
+    ]
+  },
+  {
+    "name": "Bloom Future",
+    "description": null,
+    "location": "Heilbronn",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Romano Muniz",
+        "linkedinUrl": "http://www.linkedin.com/in/romanomuniz"
+      }
+    ]
+  },
+  {
+    "name": "Boathous Charter S.L",
+    "description": null,
+    "location": "Sevilla",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Francisco Herran Cerezo",
+        "linkedinUrl": "http://www.linkedin.com/in/francisco-herr%c3%a1n-cerezo"
+      }
+    ]
+  },
+  {
+    "name": "Book My Culture",
+    "description": null,
+    "location": "Cyprus",
+    "industry": "Cyprus",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Niki Effraimidou",
+        "linkedinUrl": "http://www.linkedin.com/in/niki-effraimidou-9a889b206"
+      }
+    ]
+  },
+  {
+    "name": "Capital AI srl",
+    "description": null,
+    "location": "Milano",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Vincent Fleuret",
+        "linkedinUrl": "http://www.linkedin.com/in/vincentfleuret"
+      },
+      {
+        "role": "CTO",
+        "name": "Simon Jacques",
+        "linkedinUrl": "http://www.linkedin.com/in/simon-jacques0"
+      }
+    ]
+  },
+  {
+    "name": "Capture",
+    "description": null,
+    "location": "Croydon",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Kevin Van Geem",
+        "linkedinUrl": "http://www.linkedin.com/in/kevin-van-geem-207a612"
+      },
+      {
+        "role": "Founder",
+        "name": "Abbie Enock",
+        "linkedinUrl": "http://www.linkedin.com/in/abbie-enock"
+      },
+      {
+        "role": "CEO",
+        "name": "Stijn Ronsse",
+        "linkedinUrl": "http://www.linkedin.com/in/stijn-ronsse-3b0b55b6"
+      },
+      {
+        "role": "CEO",
+        "name": "Nick Caw",
+        "linkedinUrl": "http://www.linkedin.com/in/nickcaw"
+      },
+      {
+        "role": "CEO",
+        "name": "Steve Marshall",
+        "linkedinUrl": "http://www.linkedin.com/in/steve-marshall-17437221"
+      },
+      {
+        "role": "CTO",
+        "name": "Charlotte Malbasa",
+        "linkedinUrl": "http://www.linkedin.com/in/charlottemalbasa"
+      },
+      {
+        "role": "CEO",
+        "name": "Amit Verma",
+        "linkedinUrl": "http://www.linkedin.com/in/amitvermasd"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Andreas Schroeder",
+        "linkedinUrl": "http://www.linkedin.com/in/andreas-schroeder"
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Hughes",
+        "linkedinUrl": "http://www.linkedin.com/in/mark-hughes-5633b021"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Fabian Foerster",
+        "linkedinUrl": "http://www.linkedin.com/in/fabian-f%c3%b6rster-272087133"
+      }
+    ]
+  },
+  {
+    "name": "Chik",
+    "description": null,
+    "location": "Sundsvall",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Charlie Yuille",
+        "linkedinUrl": "http://www.linkedin.com/in/charlie-yuille-1a2803176"
+      },
+      {
+        "role": "CTO",
+        "name": "Sofia Maquivar",
+        "linkedinUrl": "http://www.linkedin.com/in/sofia-maquivar-387821171"
+      },
+      {
+        "role": "CTO",
+        "name": "Catherine Westwood",
+        "linkedinUrl": "http://www.linkedin.com/in/catherine-westwood-0bb7253a"
+      },
+      {
+        "role": "CTO",
+        "name": "Henrique Tiongo",
+        "linkedinUrl": "http://www.linkedin.com/in/henrique-paulo-tiongo-17201a311"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Philippe Rilos",
+        "linkedinUrl": "http://www.linkedin.com/in/philippe-rilos-8b73577a"
+      }
+    ]
+  },
+  {
+    "name": "Chunk",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Riley McLaren",
+        "linkedinUrl": "http://www.linkedin.com/in/riley5-mclaren"
+      },
+      {
+        "role": "CTO",
+        "name": "Brian McHarg",
+        "linkedinUrl": "http://www.linkedin.com/in/brianmcharg"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Lydia Evans",
+        "linkedinUrl": "http://www.linkedin.com/in/lydiaevanschunk"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Donnie Kerrigan",
+        "linkedinUrl": "http://www.linkedin.com/in/donnie-kerrigan-b265a68"
+      },
+      {
+        "role": "Founder",
+        "name": "Lauren Ross",
+        "linkedinUrl": "http://www.linkedin.com/in/lauren-alexandra-ross-838585192"
+      },
+      {
+        "role": "CTO",
+        "name": "Martin Howard",
+        "linkedinUrl": "http://www.linkedin.com/in/martin-howard-2606199"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Katie Cocklin",
+        "linkedinUrl": "http://www.linkedin.com/in/katiekosloski"
+      },
+      {
+        "role": "CTO",
+        "name": "Richard Sanders",
+        "linkedinUrl": "http://www.linkedin.com/in/richard-sanders-16a9641b5"
+      }
+    ]
+  },
+  {
+    "name": "Claudia by Neuro",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Josh Budd",
+        "linkedinUrl": "http://www.linkedin.com/in/joshua-budd"
+      },
+      {
+        "role": "CTO",
+        "name": "Vlad B",
+        "linkedinUrl": "http://www.linkedin.com/in/vlad-bacila"
+      }
+    ]
+  },
+  {
+    "name": "ClausePilot",
+    "description": null,
+    "location": "Tallinn",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Eniko Nothig-Hegedues",
+        "linkedinUrl": "http://www.linkedin.com/in/enikonothighegedus"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Albert Fabian",
+        "linkedinUrl": "http://www.linkedin.com/in/albert-fabian-32348663"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Daniel Nothig",
+        "linkedinUrl": "http://www.linkedin.com/in/daniel-nothig"
+      },
+      {
+        "role": "CTO",
+        "name": "Juan Pablo Coelho",
+        "linkedinUrl": "http://www.linkedin.com/in/juancoelho"
+      }
+    ]
+  },
+  {
+    "name": "ClikBy",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Valery Padshyvalau",
+        "linkedinUrl": "http://www.linkedin.com/in/valery-makovich"
+      }
+    ]
+  },
+  {
+    "name": "CloudRay",
+    "description": null,
+    "location": "Estonia",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Sandeep Boyanapalli",
+        "linkedinUrl": "http://www.linkedin.com/in/sandeep-boyanapalli-b1385448"
+      },
+      {
+        "role": "Talent Acquisition",
+        "name": "Pooja G",
+        "linkedinUrl": "http://www.linkedin.com/in/pooja-g-3219601b2"
+      }
+    ]
+  },
+  {
+    "name": "comdaily",
+    "description": null,
+    "location": "North Rhine-Westphalia",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Ellen Martin",
+        "linkedinUrl": "http://www.linkedin.com/in/ellen-muriel-martin"
+      },
+      {
+        "role": "Founder",
+        "name": "Ata Keskinel",
+        "linkedinUrl": "http://www.linkedin.com/in/ata-erim-keskinel-96b3621a9"
+      }
+    ]
+  },
+  {
+    "name": "CompanyData.com",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Daan Wolff",
+        "linkedinUrl": "http://www.linkedin.com/in/daanwolffbolddata"
+      },
+      {
+        "role": "CTO",
+        "name": "Tosh Koevoets",
+        "linkedinUrl": "http://www.linkedin.com/in/tosh-koevoets-86884624"
+      },
+      {
+        "role": "CTO",
+        "name": "Uttam Ramdaras",
+        "linkedinUrl": "http://www.linkedin.com/in/uttam-ramdaras-2293b5106"
+      }
+    ]
+  },
+  {
+    "name": "ComputerShop",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Heiko Lauer",
+        "linkedinUrl": "http://www.linkedin.com/in/heiko-lauer-28584b122"
+      },
+      {
+        "role": "Founder",
+        "name": "Pieter Arendsen",
+        "linkedinUrl": "http://www.linkedin.com/in/pieter-arendsen-bb0a7b316"
+      }
+    ]
+  },
+  {
+    "name": "Contract Aura",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Angelle Horste",
+        "linkedinUrl": "http://www.linkedin.com/in/angelle-horste-she-her-hers-85a70918"
+      }
+    ]
+  },
+  {
+    "name": "Cool Web Tool",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Umit Ozturk",
+        "linkedinUrl": "http://www.linkedin.com/in/umit-ozturk"
+      }
+    ]
+  },
+  {
+    "name": "Cubish",
+    "description": null,
+    "location": "Napoli",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dorian Lazzari",
+        "linkedinUrl": "http://www.linkedin.com/in/dorianlazzari"
+      },
+      {
+        "role": "Founder",
+        "name": "Antonio Franco",
+        "linkedinUrl": "http://www.linkedin.com/in/antoniofumofranco"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrea Miccoli",
+        "linkedinUrl": "http://www.linkedin.com/in/andreamiccoli83"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Riccardo Marchini",
+        "linkedinUrl": "http://www.linkedin.com/in/riccardo-marchini"
+      }
+    ]
+  },
+  {
+    "name": "Dandelier AI",
+    "description": null,
+    "location": "Finland",
+    "industry": "Finland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Mikko Haellfors",
+        "linkedinUrl": "http://www.linkedin.com/in/mikkohallfors"
+      }
+    ]
+  },
+  {
+    "name": "DATA FOR ETHIC",
+    "description": null,
+    "location": "Fontenay-sous-Bois",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aymen Khelifi",
+        "linkedinUrl": "http://www.linkedin.com/in/aymen-khelifi-a82a19b4"
+      }
+    ]
+  },
+  {
+    "name": "Dcarbon NL",
+    "description": null,
+    "location": "Maastricht",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Mostafa Sobh",
+        "linkedinUrl": "http://www.linkedin.com/in/mostafa-sobh-9b74a323b"
+      }
+    ]
+  },
+  {
+    "name": "DeepWorq AI",
+    "description": null,
+    "location": "Marbella",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Paul Knight",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-knight-1498b8211"
+      }
+    ]
+  },
+  {
+    "name": "Docscrib",
+    "description": null,
+    "location": "Docscrib",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Shresth Khandelwal",
+        "linkedinUrl": "http://www.linkedin.com/in/shresth-khandelwal-83b5a4178"
+      }
+    ]
+  },
+  {
+    "name": "e-invoice.be",
+    "description": null,
+    "location": "Zemst",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Toon Vanagt",
+        "linkedinUrl": "http://www.linkedin.com/in/toonvanagt"
+      },
+      {
+        "role": "CTO",
+        "name": "Willem Groef",
+        "linkedinUrl": "http://www.linkedin.com/in/willem-de-groef"
+      }
+    ]
+  },
+  {
+    "name": "EcoComply",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Maurice K",
+        "linkedinUrl": "http://www.linkedin.com/in/maurice-k-3722b7172"
+      },
+      {
+        "role": "Cofounder",
+        "name": "John Iwueke",
+        "linkedinUrl": "http://www.linkedin.com/in/johniwueke"
+      },
+      {
+        "role": "CTO",
+        "name": "Daniel Lupan",
+        "linkedinUrl": "http://www.linkedin.com/in/daniellupan"
+      }
+    ]
+  },
+  {
+    "name": "ekona",
+    "description": null,
+    "location": "Basel",
+    "industry": "Switzerland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Niels Braendstrup",
+        "linkedinUrl": "http://www.linkedin.com/in/niels-aaby-br%c3%a6ndstrup-954a71156"
+      },
+      {
+        "role": "CEO",
+        "name": "Chris Reid",
+        "linkedinUrl": "http://www.linkedin.com/in/chris-reid-36b26619"
+      },
+      {
+        "role": "CTO",
+        "name": "Dave Pauluzzi",
+        "linkedinUrl": "http://www.linkedin.com/in/dave-pauluzzi-750750"
+      },
+      {
+        "role": "CTO",
+        "name": "Rachel P",
+        "linkedinUrl": "http://www.linkedin.com/in/rachelepaterson"
+      },
+      {
+        "role": "CTO",
+        "name": "Sally Carefoot",
+        "linkedinUrl": "http://www.linkedin.com/in/sallycarefoot"
+      }
+    ]
+  },
+  {
+    "name": "Emblem",
+    "description": null,
+    "location": "Luxembourg",
+    "industry": "Luxembourg",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Guillaume Durao",
+        "linkedinUrl": "http://www.linkedin.com/in/guillaumedurao"
+      },
+      {
+        "role": "CTO",
+        "name": "Billy Nichols",
+        "linkedinUrl": "http://www.linkedin.com/in/williamonichols"
+      },
+      {
+        "role": "Founder",
+        "name": "Michael Tallman",
+        "linkedinUrl": "http://www.linkedin.com/in/michael-tallman-3481634"
+      },
+      {
+        "role": "Founder",
+        "name": "Jeremy Servary",
+        "linkedinUrl": "http://www.linkedin.com/in/j%c3%a9r%c3%a9my-servary-9b55bb12b"
+      },
+      {
+        "role": "CTO",
+        "name": "Charles Wray",
+        "linkedinUrl": "http://www.linkedin.com/in/charles-wray-660606105"
+      },
+      {
+        "role": "CTO",
+        "name": "Jeffrey Braun",
+        "linkedinUrl": "http://www.linkedin.com/in/jeffrey-braun-7069837"
+      },
+      {
+        "role": "Founder",
+        "name": "Luke Aschenbrand",
+        "linkedinUrl": "http://www.linkedin.com/in/lukeaschenbrand"
+      },
+      {
+        "role": "Founder",
+        "name": "Benedicte Soissan",
+        "linkedinUrl": "http://www.linkedin.com/in/benedictederaphelissoissan"
+      },
+      {
+        "role": "Founder",
+        "name": "Andrew Jones",
+        "linkedinUrl": "http://www.linkedin.com/in/andrew-jones-013154219"
+      }
+    ]
+  },
+  {
+    "name": "Emelia.io",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Charles Lecalier",
+        "linkedinUrl": "http://www.linkedin.com/in/charles-lecalier"
+      }
+    ]
+  },
+  {
+    "name": "Equera",
+    "description": null,
+    "location": "Germany",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Danielle Finch",
+        "linkedinUrl": "http://www.linkedin.com/in/daniellefinch"
+      }
+    ]
+  },
+  {
+    "name": "Esenca Sizing",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Mihai Petre",
+        "linkedinUrl": "http://www.linkedin.com/in/mihai-petre"
+      },
+      {
+        "role": "CEO",
+        "name": "Dragos Tanasa",
+        "linkedinUrl": "http://www.linkedin.com/in/dragos-tanasa"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Eduard Cojocea",
+        "linkedinUrl": "http://www.linkedin.com/in/eduard-cojocea-a003b28b"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Cosmin Ciocirlan",
+        "linkedinUrl": "http://www.linkedin.com/in/cosmin-gabriel-ciocirlan-b60191195"
+      },
+      {
+        "role": "CTO",
+        "name": "Cristina Ghita",
+        "linkedinUrl": "http://www.linkedin.com/in/cristina-theodora-ghita-763b751b5"
+      }
+    ]
+  },
+  {
+    "name": "EVIMO",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Achraf Gharsalli",
+        "linkedinUrl": "http://www.linkedin.com/in/achraf-gharsalli-evimo"
+      },
+      {
+        "role": "CTO",
+        "name": "Seif Sassi",
+        "linkedinUrl": "http://www.linkedin.com/in/seif-sassi-8b137986"
+      },
+      {
+        "role": "Founder",
+        "name": "Masud Baradaran",
+        "linkedinUrl": "http://www.linkedin.com/in/masud-baradaran-baa5ab141"
+      },
+      {
+        "role": "CTO",
+        "name": "Bahar Ozcan",
+        "linkedinUrl": "http://www.linkedin.com/in/bahar%c3%b6zcan"
+      }
+    ]
+  },
+  {
+    "name": "FairUp",
+    "description": null,
+    "location": "Wuppertal",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Konstantin Schultewolter",
+        "linkedinUrl": "http://www.linkedin.com/in/schultewolter"
+      },
+      {
+        "role": "CTO",
+        "name": "Frederik Bendel",
+        "linkedinUrl": "http://www.linkedin.com/in/fred-bendel"
+      }
+    ]
+  },
+  {
+    "name": "Fame Creator",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Hossein Karimy",
+        "linkedinUrl": "http://www.linkedin.com/in/hosseinkarimy"
+      }
+    ]
+  },
+  {
+    "name": "Fameo",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Amit Gupta",
+        "linkedinUrl": "http://www.linkedin.com/in/amit-gupta-52378213"
+      },
+      {
+        "role": "Founder",
+        "name": "Ankit Shrivastav",
+        "linkedinUrl": "http://www.linkedin.com/in/ankit-s-32bb20a0"
+      },
+      {
+        "role": "CTO",
+        "name": "Lina Nasr",
+        "linkedinUrl": "http://www.linkedin.com/in/lina-nasr-3305ba17"
+      }
+    ]
+  },
+  {
+    "name": "FAVZ",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cynndy Cox",
+        "linkedinUrl": "http://www.linkedin.com/in/cynndycox"
+      }
+    ]
+  },
+  {
+    "name": "Fifth Axis",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Christopher Michailov-Lee",
+        "linkedinUrl": "http://www.linkedin.com/in/christophermichailovlee"
+      }
+    ]
+  },
+  {
+    "name": "Fluum",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Scarlette Gregorio",
+        "linkedinUrl": "http://www.linkedin.com/in/scarlette-alexandra-de-gregorio"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Giorgia Capoccia",
+        "linkedinUrl": "http://www.linkedin.com/in/giorgia-capoccia"
+      },
+      {
+        "role": "CTO",
+        "name": "Michelle Winfield",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-winfield-711501170"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Roberta Pedersoli",
+        "linkedinUrl": "http://www.linkedin.com/in/robertamorellipedersoli"
+      },
+      {
+        "role": "CTO",
+        "name": "Loan Alouache",
+        "linkedinUrl": "http://www.linkedin.com/in/loanalouache"
+      },
+      {
+        "role": "Founder",
+        "name": "Aurora Macchi",
+        "linkedinUrl": "http://www.linkedin.com/in/aurora-macchi-4224201b4"
+      }
+    ]
+  },
+  {
+    "name": "Foldwrap",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alexey Antipov",
+        "linkedinUrl": "http://www.linkedin.com/in/alexantipov"
+      }
+    ]
+  },
+  {
+    "name": "Frames",
+    "description": null,
+    "location": "Paris, France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Samantha Huynh",
+        "linkedinUrl": "http://www.linkedin.com/in/samanthahuynh"
+      },
+      {
+        "role": "Founder",
+        "name": "Fabrizio Gobbi",
+        "linkedinUrl": "http://www.linkedin.com/in/fabriziogobbi"
+      },
+      {
+        "role": "Founder",
+        "name": "Vincent Tantardini",
+        "linkedinUrl": "http://www.linkedin.com/in/vtantardini"
+      }
+    ]
+  },
+  {
+    "name": "Freeroom App",
+    "description": null,
+    "location": "Spain",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Rafael Silva De Oliveira",
+        "linkedinUrl": "http://www.linkedin.com/in/rafael-silva-de-oliveira-05804962"
+      }
+    ]
+  },
+  {
+    "name": "Fulfilled",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Alexander Duria",
+        "linkedinUrl": "http://www.linkedin.com/in/alexander-duria-b4a20376"
+      },
+      {
+        "role": "CEO",
+        "name": "Claire Hurwitt",
+        "linkedinUrl": "http://www.linkedin.com/in/clairehurwitt"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Matt Glossop",
+        "linkedinUrl": "http://www.linkedin.com/in/matt-glossop"
+      },
+      {
+        "role": "Founder",
+        "name": "Luke Plane",
+        "linkedinUrl": "http://www.linkedin.com/in/luke-plane-fulfilled"
+      },
+      {
+        "role": "CTO",
+        "name": "Larry Siegle",
+        "linkedinUrl": "http://www.linkedin.com/in/larry-siegle-49a48657"
+      },
+      {
+        "role": "CTO",
+        "name": "Mikko Martel",
+        "linkedinUrl": "http://www.linkedin.com/in/mikko-martel-74990b11b"
+      },
+      {
+        "role": "Founder",
+        "name": "Brin'na Rollins-Williams",
+        "linkedinUrl": "http://www.linkedin.com/in/brinna-legacyfulfilled"
+      },
+      {
+        "role": "CEO",
+        "name": "John Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/john-brown-0588884"
+      },
+      {
+        "role": "CEO",
+        "name": "Dorothy Bolettieri",
+        "linkedinUrl": "http://www.linkedin.com/in/dorothy-bolettieri-aa165521"
+      }
+    ]
+  },
+  {
+    "name": "FundinFolks",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Saraban Tahura",
+        "linkedinUrl": "http://www.linkedin.com/in/sarabanturin"
+      },
+      {
+        "role": "CTO",
+        "name": "Abul Rakib",
+        "linkedinUrl": "http://www.linkedin.com/in/safrakib"
+      },
+      {
+        "role": "Founder",
+        "name": "Mahade Khan",
+        "linkedinUrl": "http://www.linkedin.com/in/mahadekhan"
+      }
+    ]
+  },
+  {
+    "name": "Gatekeepr",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Farzan Chowdhury",
+        "linkedinUrl": "http://www.linkedin.com/in/farzan07"
+      }
+    ]
+  },
+  {
+    "name": "Glapp",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Artem Kosarev",
+        "linkedinUrl": "http://www.linkedin.com/in/artksrv"
+      },
+      {
+        "role": "CTO",
+        "name": "Osmar Borges",
+        "linkedinUrl": "http://www.linkedin.com/in/osmar-borges-borges-3574764b"
+      }
+    ]
+  },
+  {
+    "name": "Greenbay",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Asaf Horvitz",
+        "linkedinUrl": "http://www.linkedin.com/in/asafhorvitz"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Oren Arieli",
+        "linkedinUrl": "http://www.linkedin.com/in/orenarieli"
+      },
+      {
+        "role": "CTO",
+        "name": "Edmore Mukakavari",
+        "linkedinUrl": "http://www.linkedin.com/in/edmore-mukakavari-2322475"
+      }
+    ]
+  },
+  {
+    "name": "Guidel",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Oguzhan Gok",
+        "linkedinUrl": "http://www.linkedin.com/in/oguzhan-gok"
+      }
+    ]
+  },
+  {
+    "name": "Halide Energy",
+    "description": null,
+    "location": "Espoo",
+    "industry": "Finland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Paul Wong",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-wong-cp"
+      },
+      {
+        "role": "CTO",
+        "name": "Wouter Badenhorst",
+        "linkedinUrl": "http://www.linkedin.com/in/wouter-dirk-badenhorst-97081a145"
+      }
+    ]
+  },
+  {
+    "name": "Hosted.MD",
+    "description": null,
+    "location": "Sheffield",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Mike Barlow",
+        "linkedinUrl": "http://www.linkedin.com/in/mike-b-7831b1136"
+      }
+    ]
+  },
+  {
+    "name": "Hostmate",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Laurea Solsona Saiz",
+        "linkedinUrl": "http://www.linkedin.com/in/laureasolsona"
+      },
+      {
+        "role": "CEO",
+        "name": "Roger Closas",
+        "linkedinUrl": "http://www.linkedin.com/in/roger-closas-7394482bb"
+      },
+      {
+        "role": "CEO",
+        "name": "Maurizio Sicuro",
+        "linkedinUrl": "http://www.linkedin.com/in/maurizio-sicuro-175124144"
+      },
+      {
+        "role": "CTO",
+        "name": "Victor Closas Casadevall",
+        "linkedinUrl": "http://www.linkedin.com/in/victor-closas-casadevall"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Fabio Salvetti",
+        "linkedinUrl": "http://www.linkedin.com/in/fabio-salvetti-541a3567"
+      }
+    ]
+  },
+  {
+    "name": "I See U Baby Care",
+    "description": null,
+    "location": "Utrecht",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Chanel Sam",
+        "linkedinUrl": "http://www.linkedin.com/in/chanel-sam-08372a15a"
+      }
+    ]
+  },
+  {
+    "name": "iknowly",
+    "description": null,
+    "location": "Stuttgart",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Taha Al-Taie",
+        "linkedinUrl": "http://www.linkedin.com/in/taha-altaie"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ahmed Abdalla",
+        "linkedinUrl": "http://www.linkedin.com/in/ahmed-abdalla-de"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dhanmeet Nijhawan",
+        "linkedinUrl": "http://www.linkedin.com/in/dhanmeet-nijhawan"
+      }
+    ]
+  },
+  {
+    "name": "Instant Press Co.",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Joey Sendz",
+        "linkedinUrl": "http://www.linkedin.com/in/joey-sendz-1aab83211"
+      }
+    ]
+  },
+  {
+    "name": "Interactive CV",
+    "description": null,
+    "location": "Madrid",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Elizabeth Prasad",
+        "linkedinUrl": "http://www.linkedin.com/in/elizabeth-fuller-prasad-8bb4b51b4"
+      }
+    ]
+  },
+  {
+    "name": "IoTag",
+    "description": null,
+    "location": "Brescia",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Marcelo Kaluf",
+        "linkedinUrl": "http://www.linkedin.com/in/kaluf"
+      }
+    ]
+  },
+  {
+    "name": "iTutorOnline",
+    "description": null,
+    "location": "Brussels",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Louis Vanhove",
+        "linkedinUrl": "http://www.linkedin.com/in/louv"
+      }
+    ]
+  },
+  {
+    "name": "Kliv",
+    "description": null,
+    "location": "Borås",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Agustin Ibanez Padilla",
+        "linkedinUrl": "http://www.linkedin.com/in/agustin-ibanezpadilla"
+      },
+      {
+        "role": "CTO",
+        "name": "Gonzalo Nazar",
+        "linkedinUrl": "http://www.linkedin.com/in/gonzalo-nazar"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Niraj Perera",
+        "linkedinUrl": "http://www.linkedin.com/in/niraj-perera-a67573224"
+      }
+    ]
+  },
+  {
+    "name": "Krajete",
+    "description": null,
+    "location": "Pasching",
+    "industry": "Austria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Sebastien Bernacchi",
+        "linkedinUrl": "http://www.linkedin.com/in/s%c3%a9bastien-b-6b453764"
+      }
+    ]
+  },
+  {
+    "name": "Kreatli",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Heorhi Talochka",
+        "linkedinUrl": "http://www.linkedin.com/in/heorhi-talochka"
+      }
+    ]
+  },
+  {
+    "name": "Lara Translate",
+    "description": null,
+    "location": "Rome, Italy",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Maurizio Tiberi",
+        "linkedinUrl": "http://www.linkedin.com/in/mauriziotiberi"
+      }
+    ]
+  },
+  {
+    "name": "Lawpic",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Farzana Beeharry",
+        "linkedinUrl": "http://www.linkedin.com/in/farzanabeeharry"
+      },
+      {
+        "role": "Founder",
+        "name": "Manan Thakker",
+        "linkedinUrl": "http://www.linkedin.com/in/manan-thakker-cyberlaw-infosec"
+      }
+    ]
+  },
+  {
+    "name": "Lead Booster Pro",
+    "description": null,
+    "location": "Bayreuth",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Maximilian Wolf",
+        "linkedinUrl": "http://www.linkedin.com/in/the-mwolf"
+      }
+    ]
+  },
+  {
+    "name": "LeadRep AI",
+    "description": null,
+    "location": "Frankfurt",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hafiz Mama",
+        "linkedinUrl": "http://www.linkedin.com/in/hafiz-mama"
+      },
+      {
+        "role": "CTO",
+        "name": "Herve Eblohoue",
+        "linkedinUrl": "http://www.linkedin.com/in/herve-eblohoue-b7aab53b"
+      }
+    ]
+  },
+  {
+    "name": "LearnGraph",
+    "description": null,
+    "location": "Bochum",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Laurin Hagemann",
+        "linkedinUrl": "http://www.linkedin.com/in/laurin-hagemann"
+      }
+    ]
+  },
+  {
+    "name": "Lisen",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Sina Azimi",
+        "linkedinUrl": "http://www.linkedin.com/in/sina-azimi-815673a1"
+      },
+      {
+        "role": "Founder",
+        "name": "Himani Bhanot",
+        "linkedinUrl": "http://www.linkedin.com/in/himani-bhanot"
+      },
+      {
+        "role": "CEO",
+        "name": "Lisen Bengtsson",
+        "linkedinUrl": "http://www.linkedin.com/in/lisen-bengtsson-0b989623"
+      },
+      {
+        "role": "CTO",
+        "name": "Jaquelinne Munoz",
+        "linkedinUrl": "http://www.linkedin.com/in/jaquelinnemunozcalderon"
+      },
+      {
+        "role": "CTO",
+        "name": "Javier Allard De Landa",
+        "linkedinUrl": "http://www.linkedin.com/in/javierallard"
+      },
+      {
+        "role": "CTO",
+        "name": "Gurukaelaiarasu Mani",
+        "linkedinUrl": "http://www.linkedin.com/in/gurukaelaiarasu"
+      }
+    ]
+  },
+  {
+    "name": "LiveCycle",
+    "description": null,
+    "location": "Brussel",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Matan Mishan",
+        "linkedinUrl": "http://www.linkedin.com/in/matanmishan"
+      },
+      {
+        "role": "CEO",
+        "name": "Arne Bassez",
+        "linkedinUrl": "http://www.linkedin.com/in/arnebassez"
+      },
+      {
+        "role": "CTO",
+        "name": "Rafael Pinto",
+        "linkedinUrl": "http://www.linkedin.com/in/raprp"
+      },
+      {
+        "role": "CTO",
+        "name": "Yshay Yaacobi",
+        "linkedinUrl": "http://www.linkedin.com/in/yshay-yaacobi-17444623b"
+      }
+    ]
+  },
+  {
+    "name": "Lunesia",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Claudia Gomez Tovar",
+        "linkedinUrl": "http://www.linkedin.com/in/claudia-liliana-g%c3%b3mez-tovar-663799204"
+      }
+    ]
+  },
+  {
+    "name": "LYRASENSE",
+    "description": null,
+    "location": "London and Munich",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nader Labib",
+        "linkedinUrl": "http://www.linkedin.com/in/naderlabib"
+      },
+      {
+        "role": "CTO",
+        "name": "Dimitris Kirtsios",
+        "linkedinUrl": "http://www.linkedin.com/in/dimkirt"
+      }
+    ]
+  },
+  {
+    "name": "Machador",
+    "description": null,
+    "location": "Wiesbaden",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Sabbir",
+        "linkedinUrl": "http://www.linkedin.com/in/mdsabbiron"
+      }
+    ]
+  },
+  {
+    "name": "MAD",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jean-Charles Martinez",
+        "linkedinUrl": "http://www.linkedin.com/in/jmartinez8"
+      },
+      {
+        "role": "CTO",
+        "name": "Melina Shannon-Dipietro",
+        "linkedinUrl": "http://www.linkedin.com/in/melina-shannon-dipietro-49634215"
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Falzon",
+        "linkedinUrl": "http://www.linkedin.com/in/markfalzon"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nancy Brieux",
+        "linkedinUrl": "http://www.linkedin.com/in/nancy-brieux"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Bobby Randhawa",
+        "linkedinUrl": "http://www.linkedin.com/in/bobbyrandhawa"
+      },
+      {
+        "role": "CTO",
+        "name": "Vinicius Sakamoto",
+        "linkedinUrl": "http://www.linkedin.com/in/vinicius-sakamoto-21006623"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mac Christopherson",
+        "linkedinUrl": "http://www.linkedin.com/in/macleay"
+      },
+      {
+        "role": "Founder",
+        "name": "Jean Revis",
+        "linkedinUrl": "http://www.linkedin.com/in/jean-r%c3%a9vis-514739"
+      },
+      {
+        "role": "CTO",
+        "name": "Gustavo Vieira",
+        "linkedinUrl": "http://www.linkedin.com/in/gustavohvieira"
+      }
+    ]
+  },
+  {
+    "name": "Mailerio",
+    "description": null,
+    "location": "Riga",
+    "industry": "Latvia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Agnese Jaunosane",
+        "linkedinUrl": "http://www.linkedin.com/in/agnese-ajelix"
+      }
+    ]
+  },
+  {
+    "name": "MakerBox",
+    "description": null,
+    "location": "San Nicola",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Moonseong Lee",
+        "linkedinUrl": "http://www.linkedin.com/in/moonseong-lee-a15b41221"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Konemany Kanlaya",
+        "linkedinUrl": "http://www.linkedin.com/in/konemany-kanlaya-26119b212"
+      }
+    ]
+  },
+  {
+    "name": "Marblism",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cyril Pluche",
+        "linkedinUrl": "http://www.linkedin.com/in/cyril-pluche"
+      },
+      {
+        "role": "Founder",
+        "name": "Ulric Musset",
+        "linkedinUrl": "http://www.linkedin.com/in/ulricmusset"
+      }
+    ]
+  },
+  {
+    "name": "MediGuide",
+    "description": null,
+    "location": "Ljubljana",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Nusimovici-Avadis Danielle",
+        "linkedinUrl": "http://www.linkedin.com/in/nusimovici-avadis-danielle-41b0a47"
+      },
+      {
+        "role": "CTO",
+        "name": "Adrian Herscovici",
+        "linkedinUrl": "http://www.linkedin.com/in/adrian-herscovici-78023b15"
+      },
+      {
+        "role": "CTO",
+        "name": "Herscovici Adrian",
+        "linkedinUrl": "http://www.linkedin.com/in/herscovici-adrian-46309814"
+      },
+      {
+        "role": "CEO",
+        "name": "Wojciech Dziezyc",
+        "linkedinUrl": "http://www.linkedin.com/in/wojciech-dzie%c5%bcyc-372b2863"
+      },
+      {
+        "role": "CEO",
+        "name": "Vera Guerreiro",
+        "linkedinUrl": "http://www.linkedin.com/in/veramguerreiro"
+      },
+      {
+        "role": "CEO",
+        "name": "Enrique Blanco",
+        "linkedinUrl": "http://www.linkedin.com/in/enrique-blanco-mediguide"
+      },
+      {
+        "role": "Founder",
+        "name": "Eray Karacaoglu",
+        "linkedinUrl": "http://www.linkedin.com/in/eray-baris-karacaoglu-46a69b63"
+      }
+    ]
+  },
+  {
+    "name": "Midcontract",
+    "description": null,
+    "location": "Portugal",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Oksana Omelchenko",
+        "linkedinUrl": "http://www.linkedin.com/in/oksana-omelchenko"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrey Kirilov",
+        "linkedinUrl": "http://www.linkedin.com/in/andrey-kirilov-641293153"
+      },
+      {
+        "role": "Founder",
+        "name": "Andrew Nikulin",
+        "linkedinUrl": "http://www.linkedin.com/in/anikulin"
+      }
+    ]
+  },
+  {
+    "name": "Mirapulse",
+    "description": null,
+    "location": "Etterbeek",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Idris Mughal",
+        "linkedinUrl": "http://www.linkedin.com/in/idrismughal"
+      }
+    ]
+  },
+  {
+    "name": "Mirava",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Marijn Van Rijswijck",
+        "linkedinUrl": "http://www.linkedin.com/in/marijn-van-rijswijck"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Demian Voorhagen",
+        "linkedinUrl": "http://www.linkedin.com/in/demianvoorhagen"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vincent Leveque",
+        "linkedinUrl": "http://www.linkedin.com/in/vleveque"
+      },
+      {
+        "role": "CTO",
+        "name": "Vlad Miscianinov",
+        "linkedinUrl": "http://www.linkedin.com/in/vmiscianinov"
+      },
+      {
+        "role": "CTO",
+        "name": "Jesus Pantoja Madrid",
+        "linkedinUrl": "http://www.linkedin.com/in/jesus-pantoja-madrid-2ba790b4"
+      }
+    ]
+  },
+  {
+    "name": "MitaMita",
+    "description": null,
+    "location": "Mérignac",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Florian Poussard",
+        "linkedinUrl": "http://www.linkedin.com/in/florian-p-8154955a"
+      }
+    ]
+  },
+  {
+    "name": "Nala AI",
+    "description": null,
+    "location": "Belum",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Gerry Polynice",
+        "linkedinUrl": "http://www.linkedin.com/in/gerrypolynice"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Eleni Eyob",
+        "linkedinUrl": "http://www.linkedin.com/in/elenieyob"
+      }
+    ]
+  },
+  {
+    "name": "naviro",
+    "description": null,
+    "location": "Dublin",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Ethan Monkhouse",
+        "linkedinUrl": "http://www.linkedin.com/in/ethanmonkhouse"
+      },
+      {
+        "role": "CTO",
+        "name": "Steven Schilling",
+        "linkedinUrl": "http://www.linkedin.com/in/steven-schilling"
+      },
+      {
+        "role": "CTO",
+        "name": "Samuel Plewe",
+        "linkedinUrl": "http://www.linkedin.com/in/samuelplewe"
+      },
+      {
+        "role": "CEO",
+        "name": "Lola Nolan",
+        "linkedinUrl": "http://www.linkedin.com/in/lola-nolan-"
+      },
+      {
+        "role": "CTO",
+        "name": "James Lumsden",
+        "linkedinUrl": "http://www.linkedin.com/in/jameslumsden"
+      }
+    ]
+  },
+  {
+    "name": "Neon Blue",
+    "description": null,
+    "location": "San Francisco",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Jasper Chan",
+        "linkedinUrl": "http://www.linkedin.com/in/jaspr"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Steve El-Hage",
+        "linkedinUrl": "http://www.linkedin.com/in/elhage"
+      },
+      {
+        "role": "Founder",
+        "name": "Nick Raval",
+        "linkedinUrl": "http://www.linkedin.com/in/nick-raval-471304274"
+      },
+      {
+        "role": "Founder",
+        "name": "Preston Ramirez",
+        "linkedinUrl": "http://www.linkedin.com/in/preston-ramirez-0252ba73"
+      }
+    ]
+  },
+  {
+    "name": "New Era Hotels",
+    "description": null,
+    "location": "Athens",
+    "industry": "Greece",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Stamos Kalogrias",
+        "linkedinUrl": "http://www.linkedin.com/in/stamos-kalogrias"
+      }
+    ]
+  },
+  {
+    "name": "Nexus Politics",
+    "description": null,
+    "location": "München",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Magnus Strobel",
+        "linkedinUrl": "http://www.linkedin.com/in/magnus-strobel-362a1461"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Christoph Waffler",
+        "linkedinUrl": "http://www.linkedin.com/in/christoph-waffler"
+      }
+    ]
+  },
+  {
+    "name": "Niblingo",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Abner Ayuba",
+        "linkedinUrl": "http://www.linkedin.com/in/abner-atugan-ayuba-968449255"
+      }
+    ]
+  },
+  {
+    "name": "Odixus",
+    "description": null,
+    "location": "Emmeloord",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aram Van Kruijssen",
+        "linkedinUrl": "http://www.linkedin.com/in/aramvankruijssen"
+      }
+    ]
+  },
+  {
+    "name": "Ogma",
+    "description": null,
+    "location": "Mayo",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Pawan Sharma",
+        "linkedinUrl": "http://www.linkedin.com/in/pawan-sharma-a6101b47"
+      },
+      {
+        "role": "CTO",
+        "name": "Pedro Rivera",
+        "linkedinUrl": "http://www.linkedin.com/in/pedro-rivera-a064918"
+      }
+    ]
+  },
+  {
+    "name": "OpenAlternative",
+    "description": null,
+    "location": "Krakow",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Piotr Kulpinski",
+        "linkedinUrl": "http://www.linkedin.com/in/piotrkulpinski"
+      }
+    ]
+  },
+  {
+    "name": "Opticomm.AI",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cristi Movila",
+        "linkedinUrl": "http://www.linkedin.com/in/movilacristi"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vlad Stoiculescu",
+        "linkedinUrl": "http://www.linkedin.com/in/vladstoiculescu"
+      }
+    ]
+  },
+  {
+    "name": "Ovesio",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Marius Felea",
+        "linkedinUrl": "http://www.linkedin.com/in/unmarius"
+      }
+    ]
+  },
+  {
+    "name": "PALPRINT",
+    "description": null,
+    "location": "Paderborn",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Andreas Ribul-Olzer",
+        "linkedinUrl": "http://www.linkedin.com/in/andreas-ribul"
+      }
+    ]
+  },
+  {
+    "name": "Papayya",
+    "description": null,
+    "location": "Porto",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Luisa Machado",
+        "linkedinUrl": "http://www.linkedin.com/in/luisa-machado"
+      },
+      {
+        "role": "CTO",
+        "name": "Edgar Barbosa",
+        "linkedinUrl": "http://www.linkedin.com/in/edgarbarbosa"
+      },
+      {
+        "role": "Founder",
+        "name": "Pedro Roque",
+        "linkedinUrl": "http://www.linkedin.com/in/pedroluisroque"
+      }
+    ]
+  },
+  {
+    "name": "Partbase",
+    "description": null,
+    "location": "Barleben",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Franz Bewerunge",
+        "linkedinUrl": "http://www.linkedin.com/in/franz-bewerunge-61a185125"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ole Dening",
+        "linkedinUrl": "http://www.linkedin.com/in/ole-dening"
+      }
+    ]
+  },
+  {
+    "name": "Paximizer",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Dmitry Novikov",
+        "linkedinUrl": "http://www.linkedin.com/in/dmitry-novikov-wst"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrey Kozin",
+        "linkedinUrl": "http://www.linkedin.com/in/andrey-kozin-711a66167"
+      },
+      {
+        "role": "CTO",
+        "name": "Serge Roberts",
+        "linkedinUrl": "http://www.linkedin.com/in/selezen"
+      }
+    ]
+  },
+  {
+    "name": "Pentestly.io",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Aidan Preston",
+        "linkedinUrl": "http://www.linkedin.com/in/aidan-preston"
+      }
+    ]
+  },
+  {
+    "name": "PIMMS",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alexandre Sarfati",
+        "linkedinUrl": "http://www.linkedin.com/in/alexandre-sarfati"
+      },
+      {
+        "role": "CEO",
+        "name": "Danie Muller",
+        "linkedinUrl": "http://www.linkedin.com/in/danie-muller-4aa76b82"
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Rich",
+        "linkedinUrl": "http://www.linkedin.com/in/markrich"
+      },
+      {
+        "role": "CTO",
+        "name": "Stephan Bezuidenhout",
+        "linkedinUrl": "http://www.linkedin.com/in/stephan-bezuidenhout-pmp-certified-mba-39553364"
+      }
+    ]
+  },
+  {
+    "name": "PlanEat",
+    "description": null,
+    "location": "Tallinn",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Michal Palenik",
+        "linkedinUrl": "http://www.linkedin.com/in/michal-palenik-planeat"
+      },
+      {
+        "role": "CTO",
+        "name": "Susanne Woelfel",
+        "linkedinUrl": "http://www.linkedin.com/in/susanne-woelfel-5b737716"
+      },
+      {
+        "role": "CEO",
+        "name": "Nicola Lamberti",
+        "linkedinUrl": "http://www.linkedin.com/in/nicola-lamberti-46b0856"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Giovanni Benedetto",
+        "linkedinUrl": "http://www.linkedin.com/in/giovanni-di-benedetto-35b916165"
+      }
+    ]
+  },
+  {
+    "name": "Polimio.com",
+    "description": null,
+    "location": "Wrocław",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Michal Jaworski",
+        "linkedinUrl": "http://www.linkedin.com/in/michal-emil-jaworski"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Adam Bicz",
+        "linkedinUrl": "http://www.linkedin.com/in/adam-bicz-018bb53"
+      }
+    ]
+  },
+  {
+    "name": "PrimaSTEM",
+    "description": null,
+    "location": "Cannes",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Andrei Chanov",
+        "linkedinUrl": "http://www.linkedin.com/in/chanov"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mikael Harnois",
+        "linkedinUrl": "http://www.linkedin.com/in/mikaelharnois"
+      }
+    ]
+  },
+  {
+    "name": "Propane",
+    "description": null,
+    "location": "Copenhagen",
+    "industry": "Denmark",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Joseph Ickes",
+        "linkedinUrl": "http://www.linkedin.com/in/josephickes"
+      },
+      {
+        "role": "Founder",
+        "name": "Dennis Green-Lieber",
+        "linkedinUrl": "http://www.linkedin.com/in/dennisgreenlieber"
+      },
+      {
+        "role": "CTO",
+        "name": "Alec Ditonto",
+        "linkedinUrl": "http://www.linkedin.com/in/alecditonto"
+      },
+      {
+        "role": "CTO",
+        "name": "Lilu Odedra",
+        "linkedinUrl": "http://www.linkedin.com/in/liluodedra"
+      }
+    ]
+  },
+  {
+    "name": "Property Marketplace",
+    "description": null,
+    "location": "Valella",
+    "industry": "Malta",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Adam Gibson",
+        "linkedinUrl": "http://www.linkedin.com/in/adam-gibson-a48a81358"
+      }
+    ]
+  },
+  {
+    "name": "Puraite",
+    "description": null,
+    "location": "Bielefeld",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Karlson Pfannschmidt",
+        "linkedinUrl": "http://www.linkedin.com/in/karlsonp"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Schahin Baki",
+        "linkedinUrl": "http://www.linkedin.com/in/schahinb"
+      }
+    ]
+  },
+  {
+    "name": "Recondition",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Ellie Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/ellie-louise-brown-0722391b9"
+      },
+      {
+        "role": "Founder",
+        "name": "Vlad Teodorescu",
+        "linkedinUrl": "http://www.linkedin.com/in/vlad-teodorescu-57910834"
+      },
+      {
+        "role": "CTO",
+        "name": "Recondition Engines",
+        "linkedinUrl": "http://www.linkedin.com/in/reconditionengines"
+      }
+    ]
+  },
+  {
+    "name": "Reconstruct",
+    "description": null,
+    "location": "Corniglia",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Zachary Ryan",
+        "linkedinUrl": "http://www.linkedin.com/in/zachary-ryan-289b40b0"
+      },
+      {
+        "role": "CTO",
+        "name": "Reconstruct Pro",
+        "linkedinUrl": "http://www.linkedin.com/in/reconstruct-pro-190555176"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michelle Lievaart",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-lievaart-257a47116"
+      },
+      {
+        "role": "CEO",
+        "name": "Zak Macrunnels",
+        "linkedinUrl": "http://www.linkedin.com/in/zak-macrunnels-1bb9033"
+      }
+    ]
+  },
+  {
+    "name": "Renovo",
+    "description": null,
+    "location": "Milano",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "George Melashvili",
+        "linkedinUrl": "http://www.linkedin.com/in/george-melashvili-05b27935"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolo Arvati",
+        "linkedinUrl": "http://www.linkedin.com/in/nicoloarvati"
+      },
+      {
+        "role": "CTO",
+        "name": "Miguel Sanchez Resendiz",
+        "linkedinUrl": "http://www.linkedin.com/in/miguel-s%c3%a1nchez-res%c3%a9ndiz-2b5544164"
+      }
+    ]
+  },
+  {
+    "name": "Rent Anything",
+    "description": null,
+    "location": "Lisbon",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jasdeep Sandhu",
+        "linkedinUrl": "http://www.linkedin.com/in/jasdeep-sandhu-892376286"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Jon Harris",
+        "linkedinUrl": "http://www.linkedin.com/in/jon-harris-600aa52"
+      },
+      {
+        "role": "CEO",
+        "name": "Nicholas Luft",
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasluft"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Navpreet Sandhu",
+        "linkedinUrl": "http://www.linkedin.com/in/navpreet-sandhu-212862256"
+      }
+    ]
+  },
+  {
+    "name": "RIZON",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Peter Scash",
+        "linkedinUrl": "http://www.linkedin.com/in/peter-scash-198591179"
+      },
+      {
+        "role": "CTO",
+        "name": "Jose Almeida",
+        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-carlos-almeida-a9016263"
+      },
+      {
+        "role": "CTO",
+        "name": "Anthony Taglione",
+        "linkedinUrl": "http://www.linkedin.com/in/anthony-taglione-9a1b1217"
+      },
+      {
+        "role": "CTO",
+        "name": "Wilson Silva",
+        "linkedinUrl": "http://www.linkedin.com/in/wilson-silva-58a884a7"
+      }
+    ]
+  },
+  {
+    "name": "RxClarity",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Agoston Fung",
+        "linkedinUrl": "http://www.linkedin.com/in/agostonfung"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Zaharan Sofi",
+        "linkedinUrl": "http://www.linkedin.com/in/zaharan-sofi"
+      },
+      {
+        "role": "CTO",
+        "name": "Rodger Karl",
+        "linkedinUrl": "http://www.linkedin.com/in/rodgerkarl"
+      }
+    ]
+  },
+  {
+    "name": "semiQa",
+    "description": null,
+    "location": "Wrocław",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Pawel Sitarz",
+        "linkedinUrl": "http://www.linkedin.com/in/pawel-sitarz"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tomasz Matusiak",
+        "linkedinUrl": "http://www.linkedin.com/in/matusiak0tomasz"
+      }
+    ]
+  },
+  {
+    "name": "SERPGrid",
+    "description": null,
+    "location": "Stockholm",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Wesam Mikhail",
+        "linkedinUrl": "http://www.linkedin.com/in/wesammikhail"
+      }
+    ]
+  },
+  {
+    "name": "ShareAI",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Denis Sandu",
+        "linkedinUrl": "http://www.linkedin.com/in/denis-sandu"
+      }
+    ]
+  },
+  {
+    "name": "Shellsea",
+    "description": null,
+    "location": "Warszawa",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Vipa Paura",
+        "linkedinUrl": "http://www.linkedin.com/in/vipa-paura-483951166"
+      },
+      {
+        "role": "CEO",
+        "name": "Aunt Cissy",
+        "linkedinUrl": "http://www.linkedin.com/in/aunt-cissy-994642169"
+      }
+    ]
+  },
+  {
+    "name": "Somvan",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Gajendra Sharma",
+        "linkedinUrl": "http://www.linkedin.com/in/gajendra-sharma-02b98283"
+      }
+    ]
+  },
+  {
+    "name": "Sparkier",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Baptiste Derongs",
+        "linkedinUrl": "http://www.linkedin.com/in/bderongs"
+      }
+    ]
+  },
+  {
+    "name": "SplitStay",
+    "description": null,
+    "location": "Belgium",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Ruben Vanhees",
+        "linkedinUrl": "http://www.linkedin.com/in/rubenvanhees"
+      },
+      {
+        "role": "CTO",
+        "name": "Elijah Limaj",
+        "linkedinUrl": "http://www.linkedin.com/in/elijah-s-limaj-6b735837a"
+      }
+    ]
+  },
+  {
+    "name": "Spreat",
+    "description": null,
+    "location": "Düsseldorf",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Paul Kirchbichler",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-kirchbichler"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mattis Kloepper",
+        "linkedinUrl": "http://www.linkedin.com/in/mattis-kloepper-1448501bb"
+      }
+    ]
+  },
+  {
+    "name": "SquadAssist",
+    "description": null,
+    "location": "Leuven",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Wout Pauwels",
+        "linkedinUrl": "http://www.linkedin.com/in/wout-pauwels"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Maarten Wyns",
+        "linkedinUrl": "http://www.linkedin.com/in/maartenwyns"
+      }
+    ]
+  },
+  {
+    "name": "Starview",
+    "description": null,
+    "location": "Turin",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Radmehr Mohebi",
+        "linkedinUrl": "http://www.linkedin.com/in/radmehr-mohebi"
+      },
+      {
+        "role": "CTO",
+        "name": "Mosaleh Azarkashb",
+        "linkedinUrl": "http://www.linkedin.com/in/mosaleh2002"
+      },
+      {
+        "role": "VP of Engineering",
+        "name": "Starview Communications",
+        "linkedinUrl": "http://www.linkedin.com/in/starview-communications-80460031"
+      },
+      {
+        "role": "CTO",
+        "name": "Mohamad Mrie",
+        "linkedinUrl": "http://www.linkedin.com/in/mohamad-mrie-02538a269"
+      }
+    ]
+  },
+  {
+    "name": "StudyVisor",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Samu Lang",
+        "linkedinUrl": "http://www.linkedin.com/in/langsamu"
+      }
+    ]
+  },
+  {
+    "name": "Supercamp",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Benas Bitvinskas",
+        "linkedinUrl": "http://www.linkedin.com/in/benbi"
+      },
+      {
+        "role": "CTO",
+        "name": "Anita Quintana",
+        "linkedinUrl": "http://www.linkedin.com/in/anita-quintana-76284522a"
+      },
+      {
+        "role": "CEO",
+        "name": "Costin Iordache",
+        "linkedinUrl": "http://www.linkedin.com/in/costin-iordache-arborist"
+      }
+    ]
+  },
+  {
+    "name": "Supertoons",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dario Bentancour",
+        "linkedinUrl": "http://www.linkedin.com/in/dario-bentancour-40107b23"
+      }
+    ]
+  },
+  {
+    "name": "SureThing",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Dennis Sbrusch",
+        "linkedinUrl": "http://www.linkedin.com/in/dennissbruschjr"
+      }
+    ]
+  },
+  {
+    "name": "Syncable.dev",
+    "description": null,
+    "location": "Copenhagen",
+    "industry": "Denmark",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Lishuai Jing",
+        "linkedinUrl": "http://www.linkedin.com/in/lishuaijing"
+      }
+    ]
+  },
+  {
+    "name": "Syntec DTx",
+    "description": null,
+    "location": "Solingen",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Julian Nadolski",
+        "linkedinUrl": "http://www.linkedin.com/in/julian-nadolski-186524251"
+      }
+    ]
+  },
+  {
+    "name": "Tensor Suisse AG",
+    "description": null,
+    "location": "Zug",
+    "industry": "Switzerland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Dominic El-Jerari",
+        "linkedinUrl": "http://www.linkedin.com/in/dominic-eljerari"
+      }
+    ]
+  },
+  {
+    "name": "The Agentics Co.",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nishith Srivastava",
+        "linkedinUrl": "http://www.linkedin.com/in/nishith"
+      }
+    ]
+  },
+  {
+    "name": "The Storage Scanner",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Rens Verbeek",
+        "linkedinUrl": "http://www.linkedin.com/in/rens-verbeek"
+      },
+      {
+        "role": "CTO",
+        "name": "Koen Wolf",
+        "linkedinUrl": "http://www.linkedin.com/in/koen-de-wolf-205793186"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Bruno Figueiredo",
+        "linkedinUrl": "http://www.linkedin.com/in/bruno-figueiredo-953906177"
+      }
+    ]
+  },
+  {
+    "name": "To-Do List",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacob Stiefel",
+        "linkedinUrl": "http://www.linkedin.com/in/jacob-stiefel-6446ba89"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Lindsay Selvitelle",
+        "linkedinUrl": "http://www.linkedin.com/in/lindsayselvitelle"
+      }
+    ]
+  },
+  {
+    "name": "Toddlr",
+    "description": null,
+    "location": "Sofia",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Aleksandra Dobreva",
+        "linkedinUrl": "http://www.linkedin.com/in/alexandra-gospodinova"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dobrian Dobrev",
+        "linkedinUrl": "http://www.linkedin.com/in/dobriandobrev"
+      }
+    ]
+  },
+  {
+    "name": "Toksta",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Sam Cassman",
+        "linkedinUrl": "http://www.linkedin.com/in/sam-cassman-a5837847"
+      }
+    ]
+  },
+  {
+    "name": "Tradefulness",
+    "description": null,
+    "location": "Warsaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alex Serzhanovich",
+        "linkedinUrl": "http://www.linkedin.com/in/alex-serzhanovich"
+      }
+    ]
+  },
+  {
+    "name": "TRAKKER",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Yuting Peng",
+        "linkedinUrl": "http://www.linkedin.com/in/yuting-peng-0329"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Alex Nikonov",
+        "linkedinUrl": "http://www.linkedin.com/in/alex-nikonov"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Hemang Nathwani",
+        "linkedinUrl": "http://www.linkedin.com/in/hnathwanipricetrakker"
+      },
+      {
+        "role": "Founder",
+        "name": "Edward Kellman",
+        "linkedinUrl": "http://www.linkedin.com/in/edward-k-5403b2163"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michelle Alexandra",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-alexandra-140867a7"
+      },
+      {
+        "role": "CEO",
+        "name": "Sagar Parikh",
+        "linkedinUrl": "http://www.linkedin.com/in/sagarparikh"
+      }
+    ]
+  },
+  {
+    "name": "Tuarity",
+    "description": null,
+    "location": "Dublin",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Graham Maonaigh",
+        "linkedinUrl": "http://www.linkedin.com/in/grahamomaonaigh"
+      },
+      {
+        "role": "CTO",
+        "name": "Saloni D",
+        "linkedinUrl": "http://www.linkedin.com/in/saloni-d-823614139"
+      }
+    ]
+  },
+  {
+    "name": "VibeCode",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Kehan Zhang",
+        "linkedinUrl": "http://www.linkedin.com/in/kehan-c-zhang"
+      },
+      {
+        "role": "CTO",
+        "name": "Jake Gold",
+        "linkedinUrl": "http://www.linkedin.com/in/jakegold"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Riley Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/riley-brown-7441b1101"
+      },
+      {
+        "role": "CTO",
+        "name": "Lola Adey",
+        "linkedinUrl": "http://www.linkedin.com/in/lola-adey"
+      }
+    ]
+  },
+  {
+    "name": "Webfuse",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Nicholas Piel",
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasp"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sasha Ogurtov",
+        "linkedinUrl": "http://www.linkedin.com/in/sasha-ogurtov-844047a8"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dzmitry Tolpekin",
+        "linkedinUrl": "http://www.linkedin.com/in/dzmitry-tolpekin"
+      }
+    ]
+  },
+  {
+    "name": "Webmetic",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Yannik Suess",
+        "linkedinUrl": "http://www.linkedin.com/in/yanniksuess"
+      }
+    ]
+  },
+  {
+    "name": "Xavier AI",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Joao Filipe",
+        "linkedinUrl": "http://www.linkedin.com/in/joao-filipe-aa369986"
+      },
+      {
+        "role": "CTO",
+        "name": "Jose Mota",
+        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-mota-a36a1a161"
+      }
+    ]
+  },
+  {
+    "name": "XME",
+    "description": null,
+    "location": "Riga",
+    "industry": "Latvia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Manivannan Rangarajan",
+        "linkedinUrl": "http://www.linkedin.com/in/manivannan-rangarajan-510b3275"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolle Lenuzza",
+        "linkedinUrl": "http://www.linkedin.com/in/nicolle-lenuzza-2a327792"
+      },
+      {
+        "role": "CEO",
+        "name": "Andrea Vasconcellos",
+        "linkedinUrl": "http://www.linkedin.com/in/andrea-vasconcellos-830175115"
+      }
+    ]
+  },
+  {
+    "name": "Xylon X",
+    "description": null,
+    "location": "Sofia",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nikolay Kotsev",
+        "linkedinUrl": "http://www.linkedin.com/in/nikolay-kotsev"
+      }
+    ]
+  },
+  {
+    "name": "Yukari Labs",
+    "description": null,
+    "location": "Brussels",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Younes Afkari",
+        "linkedinUrl": "http://www.linkedin.com/in/younes-afkari"
+      }
+    ]
+  },
+  {
+    "name": "ZapDigits",
+    "description": null,
+    "location": "Rotterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Malith Gamage",
+        "linkedinUrl": "http://www.linkedin.com/in/malithmcr"
+      }
+    ]
+  },
+  {
+    "name": "Zeus Tech Assessment",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Rohit Chhabra",
+        "linkedinUrl": "http://www.linkedin.com/in/rohit-chhabra-tech"
+      }
+    ]
+  },
+  {
+    "name": "Zola Analytics",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Karl Thumm",
+        "linkedinUrl": "http://www.linkedin.com/in/karlthumm"
+      },
+      {
+        "role": "CEO",
+        "name": "George Farnon",
+        "linkedinUrl": "http://www.linkedin.com/in/george-farnon-89863b103"
+      },
+      {
+        "role": "CTO",
+        "name": "Sherry Leung",
+        "linkedinUrl": "http://www.linkedin.com/in/leung-sherry"
+      }
+    ]
+  }
+]

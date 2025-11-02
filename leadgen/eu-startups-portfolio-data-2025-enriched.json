@@ -1,0 +1,4203 @@
+[
+  {
+    "name": "2Na",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nnadozie Ezenekwe",
+        "linkedinUrl": "http://www.linkedin.com/in/nezenekwe",
+        "phoneNumber": "+447395347584",
+        "email": "nnadozie.ezenekwe@2nacapital.com",
+        "apolloId": "690699b463e749000dfac4a8"
+      },
+      {
+        "role": "Founder",
+        "name": "Christina Port",
+        "linkedinUrl": "http://www.linkedin.com/in/chport",
+        "phoneNumber": null,
+        "email": "christina.port@2nafish.bio",
+        "apolloId": "690699c4641c280011597dcb"
+      }
+    ]
+  },
+  {
+    "name": "A-dapt",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Claudio Piovesana",
+        "linkedinUrl": "http://www.linkedin.com/in/claudiopiovesana",
+        "phoneNumber": "+33624357162",
+        "email": "claudio@a-dapt.com",
+        "apolloId": "690699d38e3bbf00115210ec"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Matthew Mayes",
+        "linkedinUrl": "http://www.linkedin.com/in/matthewmayes",
+        "phoneNumber": "+442086926278",
+        "email": "matthew@a-dapt.com",
+        "apolloId": "690699e2c3900b000deca87a"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefan Surzycki",
+        "linkedinUrl": "http://www.linkedin.com/in/stefansurzycki",
+        "phoneNumber": "+33688426071",
+        "email": "stefan@a-dapt.com",
+        "apolloId": "690699efee485b002193da1e"
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Korner",
+        "linkedinUrl": "http://www.linkedin.com/in/thomas-korner-b2039324",
+        "phoneNumber": "+529993613592",
+        "email": "thomas@a-dapt.com",
+        "apolloId": "690699fefb2d920011ec8720"
+      }
+    ]
+  },
+  {
+    "name": "Abrande",
+    "description": null,
+    "location": "Göteborg",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Rebecca Ewe",
+        "linkedinUrl": "http://www.linkedin.com/in/rebeccaewe",
+        "phoneNumber": null,
+        "email": "rebecca@abrande.com",
+        "apolloId": "69069a119214ca0015a5be51"
+      },
+      {
+        "role": "Founder",
+        "name": "Simon Fouladi",
+        "linkedinUrl": "http://www.linkedin.com/in/simonfouladi",
+        "phoneNumber": "+46739032351",
+        "email": "simon@abrande.com",
+        "apolloId": "69069a21d54d9c00152f7991"
+      },
+      {
+        "role": "CTO",
+        "name": "Edvin Brobeck",
+        "linkedinUrl": "http://www.linkedin.com/in/edvinbrobeck",
+        "phoneNumber": "+46737649207",
+        "email": null,
+        "apolloId": "69069a2ec3900b0015c86dc9"
+      }
+    ]
+  },
+  {
+    "name": "Abry",
+    "description": null,
+    "location": "Rotterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Dan Gilbert",
+        "linkedinUrl": "http://www.linkedin.com/in/dan-gilbert-cfa-4b351a15",
+        "phoneNumber": "6179515078",
+        "email": null,
+        "apolloId": "69069a3ebfe6af000d99bd9d"
+      },
+      {
+        "role": "CTO",
+        "name": "Eric Cooper",
+        "linkedinUrl": "http://www.linkedin.com/in/eric13cooper",
+        "phoneNumber": "6175194722",
+        "email": "ecooper@abry.com",
+        "apolloId": "69069a5001356e000dea7a4b"
+      },
+      {
+        "role": "CEO",
+        "name": "Brucato",
+        "linkedinUrl": "http://www.linkedin.com/in/c-j-brucato-iii-b33830",
+        "phoneNumber": "6178354843",
+        "email": null,
+        "apolloId": "69069a615e4bbe001582ade1"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshay Mahajan",
+        "linkedinUrl": "http://www.linkedin.com/in/akshay-mahajan-cfa-9748845",
+        "phoneNumber": "6173758867",
+        "email": null,
+        "apolloId": "69069a727b5de70015373140"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Anzivino",
+        "linkedinUrl": "http://www.linkedin.com/in/chris-anzivino-b703121",
+        "phoneNumber": "6177169721",
+        "email": "chris.anzivino@abry.com",
+        "apolloId": "69069a8130a9eb000d7d442e"
+      },
+      {
+        "role": "CEO",
+        "name": "Gwenael Nicolas",
+        "linkedinUrl": "http://www.linkedin.com/in/gwena%c3%abl-nicolas-64bb347b",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069a9460ea24001d342952"
+      }
+    ]
+  },
+  {
+    "name": "Accounts Draft",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Robert Benson-May",
+        "linkedinUrl": "http://www.linkedin.com/in/robert-benson-may",
+        "phoneNumber": "+447580116757",
+        "email": "rbm@picklerooms.com",
+        "apolloId": "69069aa16bdaa70019aa7ca1"
+      }
+    ]
+  },
+  {
+    "name": "ActionRun",
+    "description": null,
+    "location": "DE",
+    "industry": "Cyprus",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Marcus Vinicius Vargas",
+        "linkedinUrl": "http://www.linkedin.com/in/marcus-vin%c3%adcius-vargas-753480110",
+        "phoneNumber": null,
+        "email": "marcusviniciusvargas@actionrun.app",
+        "apolloId": "69069aaf5e4bbe001582af6b"
+      }
+    ]
+  },
+  {
+    "name": "AgencyPro",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bill Casey",
+        "linkedinUrl": "http://www.linkedin.com/in/bill-casey-5204602",
+        "phoneNumber": "6172492192",
+        "email": null,
+        "apolloId": "69069abf56d73300198d26e3"
+      },
+      {
+        "role": "Founder",
+        "name": "Felipe Lopes",
+        "linkedinUrl": "http://www.linkedin.com/in/felipe-lopes-531a91192",
+        "phoneNumber": "4029689168",
+        "email": null,
+        "apolloId": "69069acc37f09000213b6014"
+      }
+    ]
+  },
+  {
+    "name": "AI Martz",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Michael Oke",
+        "linkedinUrl": "http://www.linkedin.com/in/olumidemichaeloke",
+        "phoneNumber": "+447448523416",
+        "email": null,
+        "apolloId": "69069ada4e9468001515e99a"
+      }
+    ]
+  },
+  {
+    "name": "Airgonomics.ai",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Maximilian Schusser",
+        "linkedinUrl": "http://www.linkedin.com/in/maximilianschusser",
+        "phoneNumber": null,
+        "email": "ms@airgonomics.ai",
+        "apolloId": "69069ae8d54d9c0019d47dd1"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Aleksandar Miskovic",
+        "linkedinUrl": "http://www.linkedin.com/in/a-misko",
+        "phoneNumber": "+4915901847606",
+        "email": "am@airgonomics.ai",
+        "apolloId": "69069af59a72680021d68449"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nikola Miskovic",
+        "linkedinUrl": "http://www.linkedin.com/in/n-miskovic",
+        "phoneNumber": null,
+        "email": "nm@airgonomics.ai",
+        "apolloId": "69069b056bdaa7002132fa3a"
+      }
+    ]
+  },
+  {
+    "name": "All-in-One AI",
+    "description": null,
+    "location": "Birmingham",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Luca Zotto",
+        "linkedinUrl": "http://www.linkedin.com/in/dal-zotto-luca",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069b12bfe6af000d99c1f1"
+      },
+      {
+        "role": "Founder",
+        "name": "Rajat Gupta",
+        "linkedinUrl": "http://www.linkedin.com/in/rajat-gupta-com",
+        "phoneNumber": "+919870095263",
+        "email": "rajat@galaxy.ai",
+        "apolloId": "69069b1f30a9eb0019862bf5"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nitish Gujjar",
+        "linkedinUrl": "http://www.linkedin.com/in/nitish-gujjar-a59054143",
+        "phoneNumber": null,
+        "email": "nitish@galaxy.ai",
+        "apolloId": "69069b2c660f380019c16c53"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chirag Savla",
+        "linkedinUrl": "http://www.linkedin.com/in/chiragsavla",
+        "phoneNumber": "+971509919677",
+        "email": "chirag@kumba.ai",
+        "apolloId": "69069b38a2fcc8000d1e138f"
+      },
+      {
+        "role": "Founder",
+        "name": "Bharathi Masilamani",
+        "linkedinUrl": "http://www.linkedin.com/in/vmbharathi",
+        "phoneNumber": "+971585313187",
+        "email": "bharathi.masilamani@axiomtelecom.com",
+        "apolloId": "69069b45a2fcc8000d1e13ad"
+      }
+    ]
+  },
+  {
+    "name": "Alsona",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jaclyn Curtis",
+        "linkedinUrl": "http://www.linkedin.com/in/jaclynvcurtis",
+        "phoneNumber": "3134105024",
+        "email": "jaclyn.curtis@alsona.com",
+        "apolloId": "69069b53c89cb50021cd74a7"
+      }
+    ]
+  },
+  {
+    "name": "Artemida Index",
+    "description": null,
+    "location": "Warszaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Piotr Malinowski",
+        "linkedinUrl": "http://www.linkedin.com/in/piotr-b-malinowski-",
+        "phoneNumber": "+48693122322",
+        "email": null,
+        "apolloId": "69069b602073320015c2df12"
+      }
+    ]
+  },
+  {
+    "name": "arterioscope",
+    "description": null,
+    "location": "Graz",
+    "industry": "Austria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hermann Moser",
+        "linkedinUrl": "http://www.linkedin.com/in/hermann-moser",
+        "phoneNumber": "+436803220870",
+        "email": "hermann.moser@arterioscope.com",
+        "apolloId": "69069b6deeda04000daf87b5"
+      },
+      {
+        "role": "CTO",
+        "name": "Vahid Badeli",
+        "linkedinUrl": "http://www.linkedin.com/in/vahid-badeli-b99804113",
+        "phoneNumber": null,
+        "email": "vahid.badeli@arterioscope.com",
+        "apolloId": "69069b7ac89cb50019c51546"
+      }
+    ]
+  },
+  {
+    "name": "Atrium Exchange",
+    "description": null,
+    "location": "Warsaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Taras Panasyuk",
+        "linkedinUrl": "http://www.linkedin.com/in/taras-panasyuk-b0742032",
+        "phoneNumber": "+380503186666",
+        "email": "taras@atriabrokers.com",
+        "apolloId": "69069b879ec381001934ec74"
+      }
+    ]
+  },
+  {
+    "name": "Atypically",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Anthony Tonder",
+        "linkedinUrl": "http://www.linkedin.com/in/anthony-van-tonder-863992a4",
+        "phoneNumber": "+27837425996",
+        "email": "anthony@atypicallydigital.co.za",
+        "apolloId": "69069b94eeda04002150d92d"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Marianna Perlstein",
+        "linkedinUrl": "http://www.linkedin.com/in/marianna-perlstein",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069ba27cadb000153e3361"
+      },
+      {
+        "role": "Founder",
+        "name": "Yana Kleyman",
+        "linkedinUrl": "http://www.linkedin.com/in/yana-kleyman-45a76a313",
+        "phoneNumber": "+5542991548498",
+        "email": null,
+        "apolloId": "69069bb3660f380015cfe585"
+      }
+    ]
+  },
+  {
+    "name": "Aurelytix",
+    "description": null,
+    "location": "Hamburg",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Dmitrii Korotovskii",
+        "linkedinUrl": "http://www.linkedin.com/in/korotovsky",
+        "phoneNumber": "+4915256846818",
+        "email": "dmitrii.korotovskii@aurelytix.com",
+        "apolloId": "69069bc018ab48001115bf8b"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Anusha Akkina",
+        "linkedinUrl": "http://www.linkedin.com/in/anusha-akkina-acma-cgma-56154547",
+        "phoneNumber": "+4915120086377",
+        "email": "akkina@aurelytix.com",
+        "apolloId": "69069bcdc10380001950e211"
+      }
+    ]
+  },
+  {
+    "name": "BambiGo",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Margaux Ramadier",
+        "linkedinUrl": "http://www.linkedin.com/in/margaux-ramadier-010a4888",
+        "phoneNumber": "+33617824650",
+        "email": null,
+        "apolloId": "69069bda1fc5550011974639"
+      }
+    ]
+  },
+  {
+    "name": "Beatwell Technologies",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Evdochim Lucian",
+        "linkedinUrl": "http://www.linkedin.com/in/evdochim-lucian-31b67ab9",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069beabfe6af0019e6901f"
+      }
+    ]
+  },
+  {
+    "name": "bennofilms",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Joe Benno",
+        "linkedinUrl": "http://www.linkedin.com/in/bennofilms",
+        "phoneNumber": "+447899012110",
+        "email": "joe@bennofilms.com",
+        "apolloId": "69069bf800d45000197cb984"
+      }
+    ]
+  },
+  {
+    "name": "Bloom Future",
+    "description": null,
+    "location": "Heilbronn",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Romano Muniz",
+        "linkedinUrl": "http://www.linkedin.com/in/romanomuniz",
+        "phoneNumber": "8135450002",
+        "email": "romano@bloomfuture.co",
+        "apolloId": "69069c054e4a9e000d6d0256"
+      }
+    ]
+  },
+  {
+    "name": "Boathous Charter S.L",
+    "description": null,
+    "location": "Sevilla",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Francisco Herran Cerezo",
+        "linkedinUrl": "http://www.linkedin.com/in/francisco-herr%c3%a1n-cerezo",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069c132411650019c32e2e"
+      }
+    ]
+  },
+  {
+    "name": "Book My Culture",
+    "description": null,
+    "location": "Cyprus",
+    "industry": "Cyprus",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Niki Effraimidou",
+        "linkedinUrl": "http://www.linkedin.com/in/niki-effraimidou-9a889b206",
+        "phoneNumber": null,
+        "email": "niki@bookmyculture.com",
+        "apolloId": "69069c1f0ae32f0021ed784e"
+      }
+    ]
+  },
+  {
+    "name": "Capital AI srl",
+    "description": null,
+    "location": "Milano",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Vincent Fleuret",
+        "linkedinUrl": "http://www.linkedin.com/in/vincentfleuret",
+        "phoneNumber": "+393427650450",
+        "email": "vincent@capital-ai.eu",
+        "apolloId": "69069c2e660f38000d8e9c73"
+      },
+      {
+        "role": "CTO",
+        "name": "Simon Jacques",
+        "linkedinUrl": "http://www.linkedin.com/in/simon-jacques0",
+        "phoneNumber": "+393480534799",
+        "email": "simon@capital-ai.eu",
+        "apolloId": "69069c3b3c6dc40021f17147"
+      }
+    ]
+  },
+  {
+    "name": "Capture",
+    "description": null,
+    "location": "Croydon",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Kevin Van Geem",
+        "linkedinUrl": "http://www.linkedin.com/in/kevin-van-geem-207a612",
+        "phoneNumber": "+32478573874",
+        "email": "kevin.vangeem@capture-resources.be",
+        "apolloId": "69069c487be6980011d70e50"
+      },
+      {
+        "role": "Founder",
+        "name": "Abbie Enock",
+        "linkedinUrl": "http://www.linkedin.com/in/abbie-enock",
+        "phoneNumber": "+447765254180",
+        "email": "abbie.enock@capture.co.uk",
+        "apolloId": "69069c55e2cf5b001148b86f"
+      },
+      {
+        "role": "CEO",
+        "name": "Stijn Ronsse",
+        "linkedinUrl": "http://www.linkedin.com/in/stijn-ronsse-3b0b55b6",
+        "phoneNumber": "+32473271586",
+        "email": "stijn.ronsse@capture-resources.be",
+        "apolloId": "69069c627cadb0001de2661f"
+      },
+      {
+        "role": "CEO",
+        "name": "Nick Caw",
+        "linkedinUrl": "http://www.linkedin.com/in/nickcaw",
+        "phoneNumber": "+447973115962",
+        "email": "nick.caw@capture.co.uk",
+        "apolloId": "69069c7103db3a0015a5cadb"
+      },
+      {
+        "role": "CEO",
+        "name": "Steve Marshall",
+        "linkedinUrl": "http://www.linkedin.com/in/steve-marshall-17437221",
+        "phoneNumber": "6308816626",
+        "email": "steve@capturerev.io",
+        "apolloId": "69069c7e036caa00191e6c57"
+      },
+      {
+        "role": "CTO",
+        "name": "Charlotte Malbasa",
+        "linkedinUrl": "http://www.linkedin.com/in/charlottemalbasa",
+        "phoneNumber": null,
+        "email": "charlotte.malbasa@capture.team",
+        "apolloId": "69069c8b14aefa0015227337"
+      },
+      {
+        "role": "CEO",
+        "name": "Amit Verma",
+        "linkedinUrl": "http://www.linkedin.com/in/amitvermasd",
+        "phoneNumber": "3109778817",
+        "email": "amit.verma@capture-llc.com",
+        "apolloId": "69069c99f14035001195922e"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Andreas Schroeder",
+        "linkedinUrl": "http://www.linkedin.com/in/andreas-schroeder",
+        "phoneNumber": "+34664646075",
+        "email": "andreas.schroeder@capt-ure.com",
+        "apolloId": "69069caba6fbd10021e490a3"
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Hughes",
+        "linkedinUrl": "http://www.linkedin.com/in/mark-hughes-5633b021",
+        "phoneNumber": "+447989140124",
+        "email": "mark.hughes@capture.co.uk",
+        "apolloId": "69069cb91d93be001d2b5cd2"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Fabian Foerster",
+        "linkedinUrl": "http://www.linkedin.com/in/fabian-f%c3%b6rster-272087133",
+        "phoneNumber": null,
+        "email": "fabian.foerster@capt-ure.com",
+        "apolloId": "69069cc92abcc50011d34437"
+      }
+    ]
+  },
+  {
+    "name": "Chik",
+    "description": null,
+    "location": "Sundsvall",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Charlie Yuille",
+        "linkedinUrl": "http://www.linkedin.com/in/charlie-yuille-1a2803176",
+        "phoneNumber": null,
+        "email": "charlie@chikcreative.com",
+        "apolloId": "69069cdfe16ad50021a8fe5b"
+      },
+      {
+        "role": "CTO",
+        "name": "Sofia Maquivar",
+        "linkedinUrl": "http://www.linkedin.com/in/sofia-maquivar-387821171",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069d0f03db3a001951d559"
+      },
+      {
+        "role": "CTO",
+        "name": "Catherine Westwood",
+        "linkedinUrl": "http://www.linkedin.com/in/catherine-westwood-0bb7253a",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69069d20b477140011dc87c4"
+      },
+      {
+        "role": "CTO",
+        "name": "Henrique Tiongo",
+        "linkedinUrl": "http://www.linkedin.com/in/henrique-paulo-tiongo-17201a311",
+        "phoneNumber": null,
+        "email": "henrique.tiongo@chikchikhoteis.com",
+        "apolloId": "69069d38681bae00152193d2"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Philippe Rilos",
+        "linkedinUrl": "http://www.linkedin.com/in/philippe-rilos-8b73577a",
+        "phoneNumber": "+33623394214",
+        "email": null,
+        "apolloId": "69069d4a0ae32f001110bb74"
+      }
+    ]
+  },
+  {
+    "name": "Chunk",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Riley McLaren",
+        "linkedinUrl": "http://www.linkedin.com/in/riley5-mclaren",
+        "phoneNumber": "+61402684283",
+        "email": "riley@chunkmotion.design",
+        "apolloId": "69069d5e9a726800155bddd9"
+      },
+      {
+        "role": "CTO",
+        "name": "Brian McHarg",
+        "linkedinUrl": "http://www.linkedin.com/in/brianmcharg",
+        "phoneNumber": "+441413530876",
+        "email": "brian.mcharg@chunkgroup.com",
+        "apolloId": "69069d7c8d1692000d94506f"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Lydia Evans",
+        "linkedinUrl": "http://www.linkedin.com/in/lydiaevanschunk",
+        "phoneNumber": "+61401966898",
+        "email": "lydia@chunkmotion.design",
+        "apolloId": "69069daeb47714001d6f71c6"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Donnie Kerrigan",
+        "linkedinUrl": "http://www.linkedin.com/in/donnie-kerrigan-b265a68",
+        "phoneNumber": "+447980213357",
+        "email": "donnie.kerrigan@chunk.co.uk",
+        "apolloId": "69069de0ff17700011995f74"
+      },
+      {
+        "role": "Founder",
+        "name": "Lauren Ross",
+        "linkedinUrl": "http://www.linkedin.com/in/lauren-alexandra-ross-838585192",
+        "phoneNumber": "+61407223185",
+        "email": null,
+        "apolloId": "69069e0e683de30015ee10d4"
+      },
+      {
+        "role": "CTO",
+        "name": "Martin Howard",
+        "linkedinUrl": "http://www.linkedin.com/in/martin-howard-2606199",
+        "phoneNumber": "+447903017228",
+        "email": null,
+        "apolloId": "69069e412abcc50019b12a98"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Katie Cocklin",
+        "linkedinUrl": "http://www.linkedin.com/in/katiekosloski",
+        "phoneNumber": "5178988838",
+        "email": "katie@chunknibbles.com",
+        "apolloId": "69069e71e583970021f26bd0"
+      },
+      {
+        "role": "CTO",
+        "name": "Richard Sanders",
+        "linkedinUrl": "http://www.linkedin.com/in/richard-sanders-16a9641b5",
+        "phoneNumber": "+447961318689",
+        "email": "richard@chunkclothing.com",
+        "apolloId": "69069ea69214ca0015a5c693"
+      }
+    ]
+  },
+  {
+    "name": "Claudia by Neuro",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Josh Budd",
+        "linkedinUrl": "http://www.linkedin.com/in/joshua-budd",
+        "phoneNumber": "+447889879836",
+        "email": "josh@neuro-notion.com",
+        "apolloId": "69069ee5683de30015ee16a2"
+      },
+      {
+        "role": "CTO",
+        "name": "Vlad B",
+        "linkedinUrl": "http://www.linkedin.com/in/vlad-bacila",
+        "phoneNumber": null,
+        "email": "vlad@neuro-notion.com",
+        "apolloId": "69069f1f4d02840019ed2cad"
+      }
+    ]
+  },
+  {
+    "name": "ClausePilot",
+    "description": null,
+    "location": "Tallinn",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Eniko Nothig-Hegedues",
+        "linkedinUrl": "http://www.linkedin.com/in/enikonothighegedus",
+        "phoneNumber": "+4315183641178",
+        "email": "eniko@clausepilot.com",
+        "apolloId": "69069f6101356e0015542e47"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Albert Fabian",
+        "linkedinUrl": "http://www.linkedin.com/in/albert-fabian-32348663",
+        "phoneNumber": "+33678822430",
+        "email": "albert@clausepilot.com",
+        "apolloId": "69069fac47365b000d7f8ce5"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Daniel Nothig",
+        "linkedinUrl": "http://www.linkedin.com/in/daniel-nothig",
+        "phoneNumber": "+36202416400",
+        "email": null,
+        "apolloId": "69069ff456d73300198d35c6"
+      },
+      {
+        "role": "CTO",
+        "name": "Juan Pablo Coelho",
+        "linkedinUrl": "http://www.linkedin.com/in/juancoelho",
+        "phoneNumber": "+33767681453",
+        "email": "juanpablo@clausepilot.com",
+        "apolloId": "6906a0338825390021d084fd"
+      }
+    ]
+  },
+  {
+    "name": "ClikBy",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Valery Padshyvalau",
+        "linkedinUrl": "http://www.linkedin.com/in/valery-makovich",
+        "phoneNumber": "+375255282422",
+        "email": null,
+        "apolloId": "6906a077a32f7100190c2bc4"
+      }
+    ]
+  },
+  {
+    "name": "CloudRay",
+    "description": null,
+    "location": "Estonia",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Sandeep Boyanapalli",
+        "linkedinUrl": "http://www.linkedin.com/in/sandeep-boyanapalli-b1385448",
+        "phoneNumber": "7325619121",
+        "email": "sandeep@cloudrayinc.com",
+        "apolloId": "6906a0bc560f58000dc15034"
+      },
+      {
+        "role": "Talent Acquisition",
+        "name": "Pooja G",
+        "linkedinUrl": "http://www.linkedin.com/in/pooja-g-3219601b2",
+        "phoneNumber": "+17326319020",
+        "email": "pooja@cloudrayinc.com",
+        "apolloId": "6906a0fb7be69800152b6a0e"
+      }
+    ]
+  },
+  {
+    "name": "comdaily",
+    "description": null,
+    "location": "North Rhine-Westphalia",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Ellen Martin",
+        "linkedinUrl": "http://www.linkedin.com/in/ellen-muriel-martin",
+        "phoneNumber": "+491792409329",
+        "email": "ellen@comdaily.ai",
+        "apolloId": "6906a1445e4bbe000d58bd5a"
+      },
+      {
+        "role": "Founder",
+        "name": "Ata Keskinel",
+        "linkedinUrl": "http://www.linkedin.com/in/ata-erim-keskinel-96b3621a9",
+        "phoneNumber": null,
+        "email": "ata@comdaily.ai",
+        "apolloId": "6906a17fc89cb5001d3648be"
+      }
+    ]
+  },
+  {
+    "name": "CompanyData.com",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Daan Wolff",
+        "linkedinUrl": "http://www.linkedin.com/in/daanwolffbolddata",
+        "phoneNumber": "+31626752618",
+        "email": "d.wolff@bold-data.com",
+        "apolloId": "6906a1bffb4e5a000d756eed"
+      },
+      {
+        "role": "CTO",
+        "name": "Tosh Koevoets",
+        "linkedinUrl": "http://www.linkedin.com/in/tosh-koevoets-86884624",
+        "phoneNumber": "+31621704823",
+        "email": "t.koevoets@bolddata.nl",
+        "apolloId": "6906a1f1a71cdf0011f884c7"
+      },
+      {
+        "role": "CTO",
+        "name": "Uttam Ramdaras",
+        "linkedinUrl": "http://www.linkedin.com/in/uttam-ramdaras-2293b5106",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a2291d93be0011257a4d"
+      }
+    ]
+  },
+  {
+    "name": "ComputerShop",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Heiko Lauer",
+        "linkedinUrl": "http://www.linkedin.com/in/heiko-lauer-28584b122",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a269281131002173c69a"
+      },
+      {
+        "role": "Founder",
+        "name": "Pieter Arendsen",
+        "linkedinUrl": "http://www.linkedin.com/in/pieter-arendsen-bb0a7b316",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a2a400d450001d53a74f"
+      }
+    ]
+  },
+  {
+    "name": "Contract Aura",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Angelle Horste",
+        "linkedinUrl": "http://www.linkedin.com/in/angelle-horste-she-her-hers-85a70918",
+        "phoneNumber": "7347403013",
+        "email": "angelle.horste@aura.com",
+        "apolloId": "6906a2e52a9bb2001da12334"
+      }
+    ]
+  },
+  {
+    "name": "Cool Web Tool",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Umit Ozturk",
+        "linkedinUrl": "http://www.linkedin.com/in/umit-ozturk",
+        "phoneNumber": "+905312550298",
+        "email": null,
+        "apolloId": "6906a31460ea24000db56fc1"
+      }
+    ]
+  },
+  {
+    "name": "Cubish",
+    "description": null,
+    "location": "Napoli",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dorian Lazzari",
+        "linkedinUrl": "http://www.linkedin.com/in/dorianlazzari",
+        "phoneNumber": "+393427412124",
+        "email": "dorian.lazzari@cubish.it",
+        "apolloId": "6906a3495daf2500193c437c"
+      },
+      {
+        "role": "Founder",
+        "name": "Antonio Franco",
+        "linkedinUrl": "http://www.linkedin.com/in/antoniofumofranco",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a397830fbb001939f226"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrea Miccoli",
+        "linkedinUrl": "http://www.linkedin.com/in/andreamiccoli83",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a3ca4e9468001944006a"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Riccardo Marchini",
+        "linkedinUrl": "http://www.linkedin.com/in/riccardo-marchini",
+        "phoneNumber": "+393358148789",
+        "email": null,
+        "apolloId": "6906a4104d028400112333a3"
+      }
+    ]
+  },
+  {
+    "name": "Dandelier AI",
+    "description": null,
+    "location": "Finland",
+    "industry": "Finland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Mikko Haellfors",
+        "linkedinUrl": "http://www.linkedin.com/in/mikkohallfors",
+        "phoneNumber": "+358503670864",
+        "email": "mikko@dandelier.com",
+        "apolloId": "6906a4487dfbdb000d290cad"
+      }
+    ]
+  },
+  {
+    "name": "DATA FOR ETHIC",
+    "description": null,
+    "location": "Fontenay-sous-Bois",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aymen Khelifi",
+        "linkedinUrl": "http://www.linkedin.com/in/aymen-khelifi-a82a19b4",
+        "phoneNumber": "+33679257795",
+        "email": "akhelifi@dataforethic.com",
+        "apolloId": "6906a480948869001d414284"
+      }
+    ]
+  },
+  {
+    "name": "Dcarbon NL",
+    "description": null,
+    "location": "Maastricht",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Mostafa Sobh",
+        "linkedinUrl": "http://www.linkedin.com/in/mostafa-sobh-9b74a323b",
+        "phoneNumber": null,
+        "email": "m.sobh@dcarbon.nl",
+        "apolloId": "6906a4b63e2f4900212c7aa8"
+      }
+    ]
+  },
+  {
+    "name": "DeepWorq AI",
+    "description": null,
+    "location": "Marbella",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Paul Knight",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-knight-1498b8211",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a4f4e5839700151a998f"
+      }
+    ]
+  },
+  {
+    "name": "Docscrib",
+    "description": null,
+    "location": "Docscrib",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Shresth Khandelwal",
+        "linkedinUrl": "http://www.linkedin.com/in/shresth-khandelwal-83b5a4178",
+        "phoneNumber": null,
+        "email": "shresth@docscrib.com",
+        "apolloId": "6906a525c4b595001de28b51"
+      }
+    ]
+  },
+  {
+    "name": "e-invoice.be",
+    "description": null,
+    "location": "Zemst",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Toon Vanagt",
+        "linkedinUrl": "http://www.linkedin.com/in/toonvanagt",
+        "phoneNumber": null,
+        "email": "toon@e-invoice.be",
+        "apolloId": "6906a563ee485b001101da2a"
+      },
+      {
+        "role": "CTO",
+        "name": "Willem Groef",
+        "linkedinUrl": "http://www.linkedin.com/in/willem-de-groef",
+        "phoneNumber": null,
+        "email": "willem@e-invoice.be",
+        "apolloId": "6906a5a22a9bb2001197bcfa"
+      }
+    ]
+  },
+  {
+    "name": "EcoComply",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Maurice K",
+        "linkedinUrl": "http://www.linkedin.com/in/maurice-k-3722b7172",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a5db60ea240011985040"
+      },
+      {
+        "role": "Cofounder",
+        "name": "John Iwueke",
+        "linkedinUrl": "http://www.linkedin.com/in/johniwueke",
+        "phoneNumber": "+49639533715",
+        "email": "john@ecocomply.ai",
+        "apolloId": "6906a61800d45000115f0ad6"
+      },
+      {
+        "role": "CTO",
+        "name": "Daniel Lupan",
+        "linkedinUrl": "http://www.linkedin.com/in/daniellupan",
+        "phoneNumber": "+40727472171",
+        "email": "daniel@ecocomply.ai",
+        "apolloId": "6906a655683de3000dec2f6b"
+      }
+    ]
+  },
+  {
+    "name": "ekona",
+    "description": null,
+    "location": "Basel",
+    "industry": "Switzerland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Niels Braendstrup",
+        "linkedinUrl": "http://www.linkedin.com/in/niels-aaby-br%c3%a6ndstrup-954a71156",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a68f2a9bb2001da13046"
+      },
+      {
+        "role": "CEO",
+        "name": "Chris Reid",
+        "linkedinUrl": "http://www.linkedin.com/in/chris-reid-36b26619",
+        "phoneNumber": "6047612798",
+        "email": "chris.reid@ekonapower.com",
+        "apolloId": "6906a6cc2abcc500153a32b7"
+      },
+      {
+        "role": "CTO",
+        "name": "Dave Pauluzzi",
+        "linkedinUrl": "http://www.linkedin.com/in/dave-pauluzzi-750750",
+        "phoneNumber": "6047240056",
+        "email": "david.pauluzzi@ekonapower.com",
+        "apolloId": "6906a7074e4a9e000d6d1da0"
+      },
+      {
+        "role": "CTO",
+        "name": "Rachel P",
+        "linkedinUrl": "http://www.linkedin.com/in/rachelepaterson",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906a73e18ab48001115c973"
+      },
+      {
+        "role": "CTO",
+        "name": "Sally Carefoot",
+        "linkedinUrl": "http://www.linkedin.com/in/sallycarefoot",
+        "phoneNumber": null,
+        "email": "sally.carefoot@ekonapower.com",
+        "apolloId": "6906a77f53dece0011d4868d"
+      }
+    ]
+  },
+  {
+    "name": "Emblem",
+    "description": null,
+    "location": "Luxembourg",
+    "industry": "Luxembourg",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Guillaume Durao",
+        "linkedinUrl": "http://www.linkedin.com/in/guillaumedurao",
+        "phoneNumber": "+33673123878",
+        "email": "guillaume@emblem.vc",
+        "apolloId": "6906a7bc1fc5550015249e29"
+      },
+      {
+        "role": "CTO",
+        "name": "Billy Nichols",
+        "linkedinUrl": "http://www.linkedin.com/in/williamonichols",
+        "phoneNumber": "6027693479",
+        "email": "billy@emblem.pe",
+        "apolloId": "6906a802ef39c4001193d502"
+      },
+      {
+        "role": "Founder",
+        "name": "Michael Tallman",
+        "linkedinUrl": "http://www.linkedin.com/in/michael-tallman-3481634",
+        "phoneNumber": "4123024564",
+        "email": "tallman@emblemcreative.co",
+        "apolloId": "6906a83e56d7330021d11501"
+      },
+      {
+        "role": "Founder",
+        "name": "Jeremy Servary",
+        "linkedinUrl": "http://www.linkedin.com/in/j%c3%a9r%c3%a9my-servary-9b55bb12b",
+        "phoneNumber": null,
+        "email": "partenariats@emblemgrenoble.com",
+        "apolloId": "6906a88660ea24000db57346"
+      },
+      {
+        "role": "CTO",
+        "name": "Charles Wray",
+        "linkedinUrl": "http://www.linkedin.com/in/charles-wray-660606105",
+        "phoneNumber": "8013527388",
+        "email": "charlie.wray@wearemblem.com",
+        "apolloId": "6906a8caa32f71001d7fe885"
+      },
+      {
+        "role": "CTO",
+        "name": "Jeffrey Braun",
+        "linkedinUrl": "http://www.linkedin.com/in/jeffrey-braun-7069837",
+        "phoneNumber": "5135521518",
+        "email": "jeffrey@emblembuilt.com",
+        "apolloId": "6906a9027f3e190021f7d757"
+      },
+      {
+        "role": "Founder",
+        "name": "Luke Aschenbrand",
+        "linkedinUrl": "http://www.linkedin.com/in/lukeaschenbrand",
+        "phoneNumber": "4803071614",
+        "email": "lukeaschenbrand@emblem.pe",
+        "apolloId": "6906a952bfe6af0015e793d3"
+      },
+      {
+        "role": "Founder",
+        "name": "Benedicte Soissan",
+        "linkedinUrl": "http://www.linkedin.com/in/benedictederaphelissoissan",
+        "phoneNumber": "+33612571934",
+        "email": "benedicte@emblem.vc",
+        "apolloId": "6906a98820733200219f5e5e"
+      },
+      {
+        "role": "Founder",
+        "name": "Andrew Jones",
+        "linkedinUrl": "http://www.linkedin.com/in/andrew-jones-013154219",
+        "phoneNumber": null,
+        "email": "andjones@emblem.pe",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Emelia.io",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Charles Lecalier",
+        "linkedinUrl": "http://www.linkedin.com/in/charles-lecalier",
+        "phoneNumber": "+33650194953",
+        "email": "charles@bridgers-agency.com",
+        "apolloId": "6906a9c18d16920019266064"
+      }
+    ]
+  },
+  {
+    "name": "Equera",
+    "description": null,
+    "location": "Germany",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Danielle Finch",
+        "linkedinUrl": "http://www.linkedin.com/in/daniellefinch",
+        "phoneNumber": "+4915237368273",
+        "email": "danielle@equera.ai",
+        "apolloId": "6906a9d83c6dc4000dde7a8d"
+      }
+    ]
+  },
+  {
+    "name": "Esenca Sizing",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Mihai Petre",
+        "linkedinUrl": "http://www.linkedin.com/in/mihai-petre",
+        "phoneNumber": "+40723625173",
+        "email": "mihai@esencasizing.com",
+        "apolloId": "6906aa0cbfe6af000d99ccde"
+      },
+      {
+        "role": "CEO",
+        "name": "Dragos Tanasa",
+        "linkedinUrl": "http://www.linkedin.com/in/dragos-tanasa",
+        "phoneNumber": "+40726776679",
+        "email": "dragos@esencasizing.com",
+        "apolloId": "6906aa2aec54b8000d1411da"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Eduard Cojocea",
+        "linkedinUrl": "http://www.linkedin.com/in/eduard-cojocea-a003b28b",
+        "phoneNumber": "+40756578444",
+        "email": "eduard@esencasizing.com",
+        "apolloId": "6906aa43851e78000d533c3f"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Cosmin Ciocirlan",
+        "linkedinUrl": "http://www.linkedin.com/in/cosmin-gabriel-ciocirlan-b60191195",
+        "phoneNumber": null,
+        "email": "cosmin@esencasizing.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Cristina Ghita",
+        "linkedinUrl": "http://www.linkedin.com/in/cristina-theodora-ghita-763b751b5",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906aa8eeeda0400153c2f3b"
+      }
+    ]
+  },
+  {
+    "name": "EVIMO",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Achraf Gharsalli",
+        "linkedinUrl": "http://www.linkedin.com/in/achraf-gharsalli-evimo",
+        "phoneNumber": null,
+        "email": "achraf.gharsalli@evimo.fr",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Seif Sassi",
+        "linkedinUrl": "http://www.linkedin.com/in/seif-sassi-8b137986",
+        "phoneNumber": "+33629371754",
+        "email": "seif.sassi@evimo.fr",
+        "apolloId": "6906aacb241165000d15a632"
+      },
+      {
+        "role": "Founder",
+        "name": "Masud Baradaran",
+        "linkedinUrl": "http://www.linkedin.com/in/masud-baradaran-baa5ab141",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906aae70018d70015ef7ffc"
+      },
+      {
+        "role": "CTO",
+        "name": "Bahar Ozcan",
+        "linkedinUrl": "http://www.linkedin.com/in/bahar%c3%b6zcan",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "FairUp",
+    "description": null,
+    "location": "Wuppertal",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Konstantin Schultewolter",
+        "linkedinUrl": "http://www.linkedin.com/in/schultewolter",
+        "phoneNumber": null,
+        "email": "konstantin@fairup.dev",
+        "apolloId": "6906ab32df29b3001d945994"
+      },
+      {
+        "role": "CTO",
+        "name": "Frederik Bendel",
+        "linkedinUrl": "http://www.linkedin.com/in/fred-bendel",
+        "phoneNumber": "+491782304594",
+        "email": "fred@fairup.dev",
+        "apolloId": "6906ab55e3aac6001117384f"
+      }
+    ]
+  },
+  {
+    "name": "Fame Creator",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Hossein Karimy",
+        "linkedinUrl": "http://www.linkedin.com/in/hosseinkarimy",
+        "phoneNumber": "+639223675032",
+        "email": null,
+        "apolloId": "6906ab72ec54b80019c7833b"
+      }
+    ]
+  },
+  {
+    "name": "Fameo",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Amit Gupta",
+        "linkedinUrl": "http://www.linkedin.com/in/amit-gupta-52378213",
+        "phoneNumber": "+918884409770",
+        "email": null,
+        "apolloId": "6906ab95fb4e5a0011a6a99c"
+      },
+      {
+        "role": "Founder",
+        "name": "Ankit Shrivastav",
+        "linkedinUrl": "http://www.linkedin.com/in/ankit-s-32bb20a0",
+        "phoneNumber": "+917053467366",
+        "email": null,
+        "apolloId": "6906abaeb28cc00015e87815"
+      },
+      {
+        "role": "CTO",
+        "name": "Lina Nasr",
+        "linkedinUrl": "http://www.linkedin.com/in/lina-nasr-3305ba17",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "FAVZ",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cynndy Cox",
+        "linkedinUrl": "http://www.linkedin.com/in/cynndycox",
+        "phoneNumber": "8687275755",
+        "email": null,
+        "apolloId": "6906ac0435d4e40019bd268b"
+      }
+    ]
+  },
+  {
+    "name": "Fifth Axis",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Christopher Michailov-Lee",
+        "linkedinUrl": "http://www.linkedin.com/in/christophermichailovlee",
+        "phoneNumber": "+492066593032",
+        "email": null,
+        "apolloId": "6906ac2ac89cb5001d3652ba"
+      }
+    ]
+  },
+  {
+    "name": "Fluum",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Scarlette Gregorio",
+        "linkedinUrl": "http://www.linkedin.com/in/scarlette-alexandra-de-gregorio",
+        "phoneNumber": "+447826714872",
+        "email": "scarlette@fluum.ai",
+        "apolloId": "6906ac447bd4f60011ad77d7"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Giorgia Capoccia",
+        "linkedinUrl": "http://www.linkedin.com/in/giorgia-capoccia",
+        "phoneNumber": "+447552691938",
+        "email": null,
+        "apolloId": "6906ac6cdd661c0019b5432d"
+      },
+      {
+        "role": "CTO",
+        "name": "Michelle Winfield",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-winfield-711501170",
+        "phoneNumber": "+447427655809",
+        "email": null,
+        "apolloId": "6906ac8deb80ef000dc7bb8d"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Roberta Pedersoli",
+        "linkedinUrl": "http://www.linkedin.com/in/robertamorellipedersoli",
+        "phoneNumber": "+447464429140",
+        "email": null,
+        "apolloId": "6906aca6eeda04002150ebf0"
+      },
+      {
+        "role": "CTO",
+        "name": "Loan Alouache",
+        "linkedinUrl": "http://www.linkedin.com/in/loanalouache",
+        "phoneNumber": "+33658089579",
+        "email": null,
+        "apolloId": "6906acb7ff1770001ddae90d"
+      },
+      {
+        "role": "Founder",
+        "name": "Aurora Macchi",
+        "linkedinUrl": "http://www.linkedin.com/in/aurora-macchi-4224201b4",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6906acc73e2f490019ea2bfa"
+      }
+    ]
+  },
+  {
+    "name": "Foldwrap",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alexey Antipov",
+        "linkedinUrl": "http://www.linkedin.com/in/alexantipov",
+        "phoneNumber": null,
+        "email": "alexey@foldwrap.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Frames",
+    "description": null,
+    "location": "Paris, France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Samantha Huynh",
+        "linkedinUrl": "http://www.linkedin.com/in/samanthahuynh",
+        "phoneNumber": "4163049420",
+        "email": null,
+        "apolloId": "6906acf663e7490015811ea9"
+      },
+      {
+        "role": "Founder",
+        "name": "Fabrizio Gobbi",
+        "linkedinUrl": "http://www.linkedin.com/in/fabriziogobbi",
+        "phoneNumber": null,
+        "email": "fabrizio@frames.studio",
+        "apolloId": "6906ad0f6bdaa70011aad284"
+      },
+      {
+        "role": "Founder",
+        "name": "Vincent Tantardini",
+        "linkedinUrl": "http://www.linkedin.com/in/vtantardini",
+        "phoneNumber": "+66638469862",
+        "email": null,
+        "apolloId": "6906ad1b683de30015ee285b"
+      }
+    ]
+  },
+  {
+    "name": "Freeroom App",
+    "description": null,
+    "location": "Spain",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Rafael Silva De Oliveira",
+        "linkedinUrl": "http://www.linkedin.com/in/rafael-silva-de-oliveira-05804962",
+        "phoneNumber": null,
+        "email": "rafael.silva@freeroom.es",
+        "apolloId": "6906ad3e03db3a001d324e6b"
+      }
+    ]
+  },
+  {
+    "name": "Fulfilled",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Alexander Duria",
+        "linkedinUrl": "http://www.linkedin.com/in/alexander-duria-b4a20376",
+        "phoneNumber": null,
+        "email": "alex@fulfilledwealth.co",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Claire Hurwitt",
+        "linkedinUrl": "http://www.linkedin.com/in/clairehurwitt",
+        "phoneNumber": null,
+        "email": "claire@fulfilledhf.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Matt Glossop",
+        "linkedinUrl": "http://www.linkedin.com/in/matt-glossop",
+        "phoneNumber": null,
+        "email": "matt@fulfilledwealth.co",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Luke Plane",
+        "linkedinUrl": "http://www.linkedin.com/in/luke-plane-fulfilled",
+        "phoneNumber": null,
+        "email": "luke@fulfilledtalent.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Larry Siegle",
+        "linkedinUrl": "http://www.linkedin.com/in/larry-siegle-49a48657",
+        "phoneNumber": null,
+        "email": "larry.siegle@fulfilleddynamics.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Mikko Martel",
+        "linkedinUrl": "http://www.linkedin.com/in/mikko-martel-74990b11b",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Brin'na Rollins-Williams",
+        "linkedinUrl": "http://www.linkedin.com/in/brinna-legacyfulfilled",
+        "phoneNumber": null,
+        "email": "brinna@legacyfulfilled.com",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "John Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/john-brown-0588884",
+        "phoneNumber": null,
+        "email": "john@befulfilled.net",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Dorothy Bolettieri",
+        "linkedinUrl": "http://www.linkedin.com/in/dorothy-bolettieri-aa165521",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "FundinFolks",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Saraban Tahura",
+        "linkedinUrl": "http://www.linkedin.com/in/sarabanturin",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Abul Rakib",
+        "linkedinUrl": "http://www.linkedin.com/in/safrakib",
+        "phoneNumber": "+8801913605807",
+        "email": "abul@fundinfolks.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Mahade Khan",
+        "linkedinUrl": "http://www.linkedin.com/in/mahadekhan",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Gatekeepr",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Farzan Chowdhury",
+        "linkedinUrl": "http://www.linkedin.com/in/farzan07",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Glapp",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Artem Kosarev",
+        "linkedinUrl": "http://www.linkedin.com/in/artksrv",
+        "phoneNumber": "+34637707108",
+        "email": "ak@glapp.io",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Osmar Borges",
+        "linkedinUrl": "http://www.linkedin.com/in/osmar-borges-borges-3574764b",
+        "phoneNumber": null,
+        "email": "osmar@glapp.com.br",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Greenbay",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Asaf Horvitz",
+        "linkedinUrl": "http://www.linkedin.com/in/asafhorvitz",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Oren Arieli",
+        "linkedinUrl": "http://www.linkedin.com/in/orenarieli",
+        "phoneNumber": "+972527251714",
+        "email": "oren.arieli@greenbay.solutions",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Edmore Mukakavari",
+        "linkedinUrl": "http://www.linkedin.com/in/edmore-mukakavari-2322475",
+        "phoneNumber": null,
+        "email": "edmore.mukakavari@greenbay.solutions",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Guidel",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Oguzhan Gok",
+        "linkedinUrl": "http://www.linkedin.com/in/oguzhan-gok",
+        "phoneNumber": "+33766534831",
+        "email": "oguzhan@guidel.co",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Halide Energy",
+    "description": null,
+    "location": "Espoo",
+    "industry": "Finland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Paul Wong",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-wong-cp",
+        "phoneNumber": null,
+        "email": "paul.wong@aalto.fi",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Wouter Badenhorst",
+        "linkedinUrl": "http://www.linkedin.com/in/wouter-dirk-badenhorst-97081a145",
+        "phoneNumber": null,
+        "email": "wouter.badenhorst@halide.energy",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Hosted.MD",
+    "description": null,
+    "location": "Sheffield",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Mike Barlow",
+        "linkedinUrl": "http://www.linkedin.com/in/mike-b-7831b1136",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Hostmate",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Laurea Solsona Saiz",
+        "linkedinUrl": "http://www.linkedin.com/in/laureasolsona",
+        "phoneNumber": null,
+        "email": "l.solsona@hostmate.es",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Roger Closas",
+        "linkedinUrl": "http://www.linkedin.com/in/roger-closas-7394482bb",
+        "phoneNumber": null,
+        "email": "r.closas@hostmate.es",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Maurizio Sicuro",
+        "linkedinUrl": "http://www.linkedin.com/in/maurizio-sicuro-175124144",
+        "phoneNumber": null,
+        "email": "maurizio.sicuro@hostmate.it",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Victor Closas Casadevall",
+        "linkedinUrl": "http://www.linkedin.com/in/victor-closas-casadevall",
+        "phoneNumber": "+34693742940",
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Fabio Salvetti",
+        "linkedinUrl": "http://www.linkedin.com/in/fabio-salvetti-541a3567",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "I See U Baby Care",
+    "description": null,
+    "location": "Utrecht",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Chanel Sam",
+        "linkedinUrl": "http://www.linkedin.com/in/chanel-sam-08372a15a",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "iknowly",
+    "description": null,
+    "location": "Stuttgart",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Taha Al-Taie",
+        "linkedinUrl": "http://www.linkedin.com/in/taha-altaie",
+        "phoneNumber": null,
+        "email": "taha.altaie@iknowly.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ahmed Abdalla",
+        "linkedinUrl": "http://www.linkedin.com/in/ahmed-abdalla-de",
+        "phoneNumber": "3322224766",
+        "email": "ahmed.abdalla@iknowly.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dhanmeet Nijhawan",
+        "linkedinUrl": "http://www.linkedin.com/in/dhanmeet-nijhawan",
+        "phoneNumber": "+491635170538",
+        "email": "dhanmeet.nijhawan@iknowly.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Instant Press Co.",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Joey Sendz",
+        "linkedinUrl": "http://www.linkedin.com/in/joey-sendz-1aab83211",
+        "phoneNumber": null,
+        "email": "joseph@instantpressco.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Interactive CV",
+    "description": null,
+    "location": "Madrid",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Elizabeth Prasad",
+        "linkedinUrl": "http://www.linkedin.com/in/elizabeth-fuller-prasad-8bb4b51b4",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "IoTag",
+    "description": null,
+    "location": "Brescia",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Marcelo Kaluf",
+        "linkedinUrl": "http://www.linkedin.com/in/kaluf",
+        "phoneNumber": "+5541999653451",
+        "email": "marcelo.kaluf@iotag.com.br",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "iTutorOnline",
+    "description": null,
+    "location": "Brussels",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Louis Vanhove",
+        "linkedinUrl": "http://www.linkedin.com/in/louv",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kliv",
+    "description": null,
+    "location": "Borås",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Agustin Ibanez Padilla",
+        "linkedinUrl": "http://www.linkedin.com/in/agustin-ibanezpadilla",
+        "phoneNumber": null,
+        "email": "agustin.ibanez@agenciakliv.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gonzalo Nazar",
+        "linkedinUrl": "http://www.linkedin.com/in/gonzalo-nazar",
+        "phoneNumber": null,
+        "email": "gonzalo.nazar@agenciakliv.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Niraj Perera",
+        "linkedinUrl": "http://www.linkedin.com/in/niraj-perera-a67573224",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Krajete",
+    "description": null,
+    "location": "Pasching",
+    "industry": "Austria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Sebastien Bernacchi",
+        "linkedinUrl": "http://www.linkedin.com/in/s%c3%a9bastien-b-6b453764",
+        "phoneNumber": null,
+        "email": "sebastien@krajete.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kreatli",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Heorhi Talochka",
+        "linkedinUrl": "http://www.linkedin.com/in/heorhi-talochka",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lara Translate",
+    "description": null,
+    "location": "Rome, Italy",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Maurizio Tiberi",
+        "linkedinUrl": "http://www.linkedin.com/in/mauriziotiberi",
+        "phoneNumber": null,
+        "email": "maurizio.tiberi@translated.net",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lawpic",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Farzana Beeharry",
+        "linkedinUrl": "http://www.linkedin.com/in/farzanabeeharry",
+        "phoneNumber": "+33650255287",
+        "email": "fbeeharry@lawpic.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Manan Thakker",
+        "linkedinUrl": "http://www.linkedin.com/in/manan-thakker-cyberlaw-infosec",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lead Booster Pro",
+    "description": null,
+    "location": "Bayreuth",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Maximilian Wolf",
+        "linkedinUrl": "http://www.linkedin.com/in/the-mwolf",
+        "phoneNumber": "+4915252069445",
+        "email": "mwolf@leadboosterpro.io",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LeadRep AI",
+    "description": null,
+    "location": "Frankfurt",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hafiz Mama",
+        "linkedinUrl": "http://www.linkedin.com/in/hafiz-mama",
+        "phoneNumber": "+4917662388466",
+        "email": "hafiz@leadrep.ai",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Herve Eblohoue",
+        "linkedinUrl": "http://www.linkedin.com/in/herve-eblohoue-b7aab53b",
+        "phoneNumber": null,
+        "email": "herve@leadrep.ai",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LearnGraph",
+    "description": null,
+    "location": "Bochum",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Laurin Hagemann",
+        "linkedinUrl": "http://www.linkedin.com/in/laurin-hagemann",
+        "phoneNumber": "+491631925215",
+        "email": "laurin@learngraph.org",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lisen",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Sina Azimi",
+        "linkedinUrl": "http://www.linkedin.com/in/sina-azimi-815673a1",
+        "phoneNumber": null,
+        "email": "sina@lisen-entrepreneur.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Himani Bhanot",
+        "linkedinUrl": "http://www.linkedin.com/in/himani-bhanot",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Lisen Bengtsson",
+        "linkedinUrl": "http://www.linkedin.com/in/lisen-bengtsson-0b989623",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Jaquelinne Munoz",
+        "linkedinUrl": "http://www.linkedin.com/in/jaquelinnemunozcalderon",
+        "phoneNumber": "+525510888083",
+        "email": "jm.calderon@lisengp.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Javier Allard De Landa",
+        "linkedinUrl": "http://www.linkedin.com/in/javierallard",
+        "phoneNumber": null,
+        "email": "javier.allard@lisengp.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gurukaelaiarasu Mani",
+        "linkedinUrl": "http://www.linkedin.com/in/gurukaelaiarasu",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LiveCycle",
+    "description": null,
+    "location": "Brussel",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Matan Mishan",
+        "linkedinUrl": "http://www.linkedin.com/in/matanmishan",
+        "phoneNumber": "4083291956",
+        "email": "matan@livecycle.io",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Arne Bassez",
+        "linkedinUrl": "http://www.linkedin.com/in/arnebassez",
+        "phoneNumber": null,
+        "email": "arne.bassez@digitmint.eu",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Rafael Pinto",
+        "linkedinUrl": "http://www.linkedin.com/in/raprp",
+        "phoneNumber": null,
+        "email": "rafael.pinto@digitmint.eu",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Yshay Yaacobi",
+        "linkedinUrl": "http://www.linkedin.com/in/yshay-yaacobi-17444623b",
+        "phoneNumber": "+972523678969",
+        "email": "yshay@livecycle.io",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lunesia",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Claudia Gomez Tovar",
+        "linkedinUrl": "http://www.linkedin.com/in/claudia-liliana-g%c3%b3mez-tovar-663799204",
+        "phoneNumber": "+573204499077",
+        "email": "claudia.gomez@lunesia.com.co",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LYRASENSE",
+    "description": null,
+    "location": "London and Munich",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nader Labib",
+        "linkedinUrl": "http://www.linkedin.com/in/naderlabib",
+        "phoneNumber": "+4915144906538",
+        "email": "nader@lyrasense.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Dimitris Kirtsios",
+        "linkedinUrl": "http://www.linkedin.com/in/dimkirt",
+        "phoneNumber": null,
+        "email": "dimitris@lyrasense.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Machador",
+    "description": null,
+    "location": "Wiesbaden",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Sabbir",
+        "linkedinUrl": "http://www.linkedin.com/in/mdsabbiron",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "MAD",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jean-Charles Martinez",
+        "linkedinUrl": "http://www.linkedin.com/in/jmartinez8",
+        "phoneNumber": "+33662610366",
+        "email": "jc.martinez@talent-partners.fr",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Melina Shannon-Dipietro",
+        "linkedinUrl": "http://www.linkedin.com/in/melina-shannon-dipietro-49634215",
+        "phoneNumber": null,
+        "email": "msd@madfeed.co",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Falzon",
+        "linkedinUrl": "http://www.linkedin.com/in/markfalzon",
+        "phoneNumber": "+61419479573",
+        "email": "mark@madventures.au",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Nancy Brieux",
+        "linkedinUrl": "http://www.linkedin.com/in/nancy-brieux",
+        "phoneNumber": "+33785606909",
+        "email": "nancy.brieux@talent-partners.fr",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Bobby Randhawa",
+        "linkedinUrl": "http://www.linkedin.com/in/bobbyrandhawa",
+        "phoneNumber": null,
+        "email": "bobby@iammad.co",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Vinicius Sakamoto",
+        "linkedinUrl": "http://www.linkedin.com/in/vinicius-sakamoto-21006623",
+        "phoneNumber": null,
+        "email": "vinicius.sakamoto@yeswearemad.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mac Christopherson",
+        "linkedinUrl": "http://www.linkedin.com/in/macleay",
+        "phoneNumber": "+61405628288",
+        "email": "mac@madventures.au",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Jean Revis",
+        "linkedinUrl": "http://www.linkedin.com/in/jean-r%c3%a9vis-514739",
+        "phoneNumber": null,
+        "email": "jean.revis@mad.fr",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gustavo Vieira",
+        "linkedinUrl": "http://www.linkedin.com/in/gustavohvieira",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mailerio",
+    "description": null,
+    "location": "Riga",
+    "industry": "Latvia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Agnese Jaunosane",
+        "linkedinUrl": "http://www.linkedin.com/in/agnese-ajelix",
+        "phoneNumber": "+37126951620",
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "MakerBox",
+    "description": null,
+    "location": "San Nicola",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Moonseong Lee",
+        "linkedinUrl": "http://www.linkedin.com/in/moonseong-lee-a15b41221",
+        "phoneNumber": null,
+        "email": "moon@makerbox.kr",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Konemany Kanlaya",
+        "linkedinUrl": "http://www.linkedin.com/in/konemany-kanlaya-26119b212",
+        "phoneNumber": null,
+        "email": "konemany@makerbox.la",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Marblism",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cyril Pluche",
+        "linkedinUrl": "http://www.linkedin.com/in/cyril-pluche",
+        "phoneNumber": "+33618534882",
+        "email": "cyril@marblism.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Ulric Musset",
+        "linkedinUrl": "http://www.linkedin.com/in/ulricmusset",
+        "phoneNumber": "+447397901469",
+        "email": "ulric@marblism.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "MediGuide",
+    "description": null,
+    "location": "Ljubljana",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Nusimovici-Avadis Danielle",
+        "linkedinUrl": "http://www.linkedin.com/in/nusimovici-avadis-danielle-41b0a47",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Adrian Herscovici",
+        "linkedinUrl": "http://www.linkedin.com/in/adrian-herscovici-78023b15",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Herscovici Adrian",
+        "linkedinUrl": "http://www.linkedin.com/in/herscovici-adrian-46309814",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Wojciech Dziezyc",
+        "linkedinUrl": "http://www.linkedin.com/in/wojciech-dzie%c5%bcyc-372b2863",
+        "phoneNumber": null,
+        "email": "wdziezyc@mediguide.com",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Vera Guerreiro",
+        "linkedinUrl": "http://www.linkedin.com/in/veramguerreiro",
+        "phoneNumber": "+34673186021",
+        "email": "vguerreiro@mediguide.com",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Enrique Blanco",
+        "linkedinUrl": "http://www.linkedin.com/in/enrique-blanco-mediguide",
+        "phoneNumber": "+5491155792109",
+        "email": "eblanco@mediguide.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Eray Karacaoglu",
+        "linkedinUrl": "http://www.linkedin.com/in/eray-baris-karacaoglu-46a69b63",
+        "phoneNumber": "+905424015967",
+        "email": "e.karacaoglu@mediguideistanbul.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Midcontract",
+    "description": null,
+    "location": "Portugal",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Oksana Omelchenko",
+        "linkedinUrl": "http://www.linkedin.com/in/oksana-omelchenko",
+        "phoneNumber": null,
+        "email": "oksana.o@midcontract.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Andrey Kirilov",
+        "linkedinUrl": "http://www.linkedin.com/in/andrey-kirilov-641293153",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Andrew Nikulin",
+        "linkedinUrl": "http://www.linkedin.com/in/anikulin",
+        "phoneNumber": "+375293026070",
+        "email": "andrew.n@midcontract.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mirapulse",
+    "description": null,
+    "location": "Etterbeek",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Idris Mughal",
+        "linkedinUrl": "http://www.linkedin.com/in/idrismughal",
+        "phoneNumber": null,
+        "email": "idris.mughal@mirapulse.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mirava",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Marijn Van Rijswijck",
+        "linkedinUrl": "http://www.linkedin.com/in/marijn-van-rijswijck",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Demian Voorhagen",
+        "linkedinUrl": "http://www.linkedin.com/in/demianvoorhagen",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vincent Leveque",
+        "linkedinUrl": "http://www.linkedin.com/in/vleveque",
+        "phoneNumber": null,
+        "email": "vincent.leveque@miravabio.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Vlad Miscianinov",
+        "linkedinUrl": "http://www.linkedin.com/in/vmiscianinov",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Jesus Pantoja Madrid",
+        "linkedinUrl": "http://www.linkedin.com/in/jesus-pantoja-madrid-2ba790b4",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "MitaMita",
+    "description": null,
+    "location": "Mérignac",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Florian Poussard",
+        "linkedinUrl": "http://www.linkedin.com/in/florian-p-8154955a",
+        "phoneNumber": null,
+        "email": "f.poussard@mitamita.co",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Nala AI",
+    "description": null,
+    "location": "Belum",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Gerry Polynice",
+        "linkedinUrl": "http://www.linkedin.com/in/gerrypolynice",
+        "phoneNumber": "4388883470",
+        "email": "gerry@nalahair.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Eleni Eyob",
+        "linkedinUrl": "http://www.linkedin.com/in/elenieyob",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "naviro",
+    "description": null,
+    "location": "Dublin",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Ethan Monkhouse",
+        "linkedinUrl": "http://www.linkedin.com/in/ethanmonkhouse",
+        "phoneNumber": "+353874668454",
+        "email": "ethan@naviro.io",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Steven Schilling",
+        "linkedinUrl": "http://www.linkedin.com/in/steven-schilling",
+        "phoneNumber": "+4972118129092",
+        "email": "steven.schilling@webguide.one",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Samuel Plewe",
+        "linkedinUrl": "http://www.linkedin.com/in/samuelplewe",
+        "phoneNumber": "+4915110844213",
+        "email": "samuel.plewe@webguide.one",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Lola Nolan",
+        "linkedinUrl": "http://www.linkedin.com/in/lola-nolan-",
+        "phoneNumber": "9296743373",
+        "email": "lola@naviro.ai",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "James Lumsden",
+        "linkedinUrl": "http://www.linkedin.com/in/jameslumsden",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Neon Blue",
+    "description": null,
+    "location": "San Francisco",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Jasper Chan",
+        "linkedinUrl": "http://www.linkedin.com/in/jaspr",
+        "phoneNumber": "6264633042",
+        "email": "jasper@neonblue.ai",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Steve El-Hage",
+        "linkedinUrl": "http://www.linkedin.com/in/elhage",
+        "phoneNumber": "6508255035",
+        "email": "steve@neonblue.ai",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Nick Raval",
+        "linkedinUrl": "http://www.linkedin.com/in/nick-raval-471304274",
+        "phoneNumber": null,
+        "email": "nick@neosofttech.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Preston Ramirez",
+        "linkedinUrl": "http://www.linkedin.com/in/preston-ramirez-0252ba73",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "New Era Hotels",
+    "description": null,
+    "location": "Athens",
+    "industry": "Greece",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Stamos Kalogrias",
+        "linkedinUrl": "http://www.linkedin.com/in/stamos-kalogrias",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Nexus Politics",
+    "description": null,
+    "location": "München",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Magnus Strobel",
+        "linkedinUrl": "http://www.linkedin.com/in/magnus-strobel-362a1461",
+        "phoneNumber": null,
+        "email": "magnus@nexuspolitics.org",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Christoph Waffler",
+        "linkedinUrl": "http://www.linkedin.com/in/christoph-waffler",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Niblingo",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Abner Ayuba",
+        "linkedinUrl": "http://www.linkedin.com/in/abner-atugan-ayuba-968449255",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Odixus",
+    "description": null,
+    "location": "Emmeloord",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aram Van Kruijssen",
+        "linkedinUrl": "http://www.linkedin.com/in/aramvankruijssen",
+        "phoneNumber": "+31610115937",
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ogma",
+    "description": null,
+    "location": "Mayo",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Pawan Sharma",
+        "linkedinUrl": "http://www.linkedin.com/in/pawan-sharma-a6101b47",
+        "phoneNumber": "+919711001228",
+        "email": "ps@ogma.in",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Pedro Rivera",
+        "linkedinUrl": "http://www.linkedin.com/in/pedro-rivera-a064918",
+        "phoneNumber": "+351219579164",
+        "email": "privera@ogma.pt",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "OpenAlternative",
+    "description": null,
+    "location": "Krakow",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Piotr Kulpinski",
+        "linkedinUrl": "http://www.linkedin.com/in/piotrkulpinski",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Opticomm.AI",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cristi Movila",
+        "linkedinUrl": "http://www.linkedin.com/in/movilacristi",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vlad Stoiculescu",
+        "linkedinUrl": "http://www.linkedin.com/in/vladstoiculescu",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ovesio",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Marius Felea",
+        "linkedinUrl": "http://www.linkedin.com/in/unmarius",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PALPRINT",
+    "description": null,
+    "location": "Paderborn",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Andreas Ribul-Olzer",
+        "linkedinUrl": "http://www.linkedin.com/in/andreas-ribul",
+        "phoneNumber": null,
+        "email": "ribul@palprint.de",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Papayya",
+    "description": null,
+    "location": "Porto",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Luisa Machado",
+        "linkedinUrl": "http://www.linkedin.com/in/luisa-machado",
+        "phoneNumber": null,
+        "email": "luisa.machado@papayya.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Edgar Barbosa",
+        "linkedinUrl": "http://www.linkedin.com/in/edgarbarbosa",
+        "phoneNumber": null,
+        "email": "edgar.barbosa@papayya.com",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Pedro Roque",
+        "linkedinUrl": "http://www.linkedin.com/in/pedroluisroque",
+        "phoneNumber": "+351961431296",
+        "email": "pedro.roque@papayya.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Partbase",
+    "description": null,
+    "location": "Barleben",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Franz Bewerunge",
+        "linkedinUrl": "http://www.linkedin.com/in/franz-bewerunge-61a185125",
+        "phoneNumber": "+491791278460",
+        "email": "franz.bewerunge@partbase.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ole Dening",
+        "linkedinUrl": "http://www.linkedin.com/in/ole-dening",
+        "phoneNumber": "+491726883052",
+        "email": "ole.dening@partbase.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Paximizer",
+    "description": null,
+    "location": "Barcelona",
+    "industry": "Spain",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Dmitry Novikov",
+        "linkedinUrl": "http://www.linkedin.com/in/dmitry-novikov-wst",
+        "phoneNumber": null,
+        "email": "d.novikov@websky.tech",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Andrey Kozin",
+        "linkedinUrl": "http://www.linkedin.com/in/andrey-kozin-711a66167",
+        "phoneNumber": null,
+        "email": "a.kozin@websky.tech",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Serge Roberts",
+        "linkedinUrl": "http://www.linkedin.com/in/selezen",
+        "phoneNumber": "+380503830613",
+        "email": "s.roberts@websky.tech",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Pentestly.io",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Aidan Preston",
+        "linkedinUrl": "http://www.linkedin.com/in/aidan-preston",
+        "phoneNumber": "+447976117634",
+        "email": "aidan@pentestly.io",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PIMMS",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alexandre Sarfati",
+        "linkedinUrl": "http://www.linkedin.com/in/alexandre-sarfati",
+        "phoneNumber": "+33771793384",
+        "email": "alexandre@pimms.io",
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Danie Muller",
+        "linkedinUrl": "http://www.linkedin.com/in/danie-muller-4aa76b82",
+        "phoneNumber": null,
+        "email": "danie@pimms.io",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Rich",
+        "linkedinUrl": "http://www.linkedin.com/in/markrich",
+        "phoneNumber": "9727744468",
+        "email": "mrich@whitehousepimms.com",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Stephan Bezuidenhout",
+        "linkedinUrl": "http://www.linkedin.com/in/stephan-bezuidenhout-pmp-certified-mba-39553364",
+        "phoneNumber": null,
+        "email": "stephan.bezuidenhout@pimms.co.za",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PlanEat",
+    "description": null,
+    "location": "Tallinn",
+    "industry": "Estonia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Michal Palenik",
+        "linkedinUrl": "http://www.linkedin.com/in/michal-palenik-planeat",
+        "phoneNumber": null,
+        "email": "michal.palenik@planeat.sk",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Susanne Woelfel",
+        "linkedinUrl": "http://www.linkedin.com/in/susanne-woelfel-5b737716",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Nicola Lamberti",
+        "linkedinUrl": "http://www.linkedin.com/in/nicola-lamberti-46b0856",
+        "phoneNumber": "+393489407100",
+        "email": "nicola.lamberti@planeat.eco",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Giovanni Benedetto",
+        "linkedinUrl": "http://www.linkedin.com/in/giovanni-di-benedetto-35b916165",
+        "phoneNumber": null,
+        "email": "giovanni.dibenedetto@alimentiamoci.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Polimio.com",
+    "description": null,
+    "location": "Wrocław",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Michal Jaworski",
+        "linkedinUrl": "http://www.linkedin.com/in/michal-emil-jaworski",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Adam Bicz",
+        "linkedinUrl": "http://www.linkedin.com/in/adam-bicz-018bb53",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PrimaSTEM",
+    "description": null,
+    "location": "Cannes",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Andrei Chanov",
+        "linkedinUrl": "http://www.linkedin.com/in/chanov",
+        "phoneNumber": null,
+        "email": "chanov@primastem.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mikael Harnois",
+        "linkedinUrl": "http://www.linkedin.com/in/mikaelharnois",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Propane",
+    "description": null,
+    "location": "Copenhagen",
+    "industry": "Denmark",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Joseph Ickes",
+        "linkedinUrl": "http://www.linkedin.com/in/josephickes",
+        "phoneNumber": null,
+        "email": "joseph.ickes@propane.agency",
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Dennis Green-Lieber",
+        "linkedinUrl": "http://www.linkedin.com/in/dennisgreenlieber",
+        "phoneNumber": "+4529367560",
+        "email": "dennis@usepropane.ai",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Alec Ditonto",
+        "linkedinUrl": "http://www.linkedin.com/in/alecditonto",
+        "phoneNumber": "4155787475",
+        "email": "alec.ditonto@propane.agency",
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Lilu Odedra",
+        "linkedinUrl": "http://www.linkedin.com/in/liluodedra",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Property Marketplace",
+    "description": null,
+    "location": "Valella",
+    "industry": "Malta",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Adam Gibson",
+        "linkedinUrl": "http://www.linkedin.com/in/adam-gibson-a48a81358",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Puraite",
+    "description": null,
+    "location": "Bielefeld",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Karlson Pfannschmidt",
+        "linkedinUrl": "http://www.linkedin.com/in/karlsonp",
+        "phoneNumber": null,
+        "email": "karlson@puraite.com",
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Schahin Baki",
+        "linkedinUrl": "http://www.linkedin.com/in/schahinb",
+        "phoneNumber": null,
+        "email": "schahin@puraite.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Recondition",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Ellie Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/ellie-louise-brown-0722391b9",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Vlad Teodorescu",
+        "linkedinUrl": "http://www.linkedin.com/in/vlad-teodorescu-57910834",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Recondition Engines",
+        "linkedinUrl": "http://www.linkedin.com/in/reconditionengines",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Reconstruct",
+    "description": null,
+    "location": "Corniglia",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Zachary Ryan",
+        "linkedinUrl": "http://www.linkedin.com/in/zachary-ryan-289b40b0",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Reconstruct Pro",
+        "linkedinUrl": "http://www.linkedin.com/in/reconstruct-pro-190555176",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michelle Lievaart",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-lievaart-257a47116",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Zak Macrunnels",
+        "linkedinUrl": "http://www.linkedin.com/in/zak-macrunnels-1bb9033",
+        "phoneNumber": "6504852803",
+        "email": "zak.macrunnels@reconstructinc.com",
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Renovo",
+    "description": null,
+    "location": "Milano",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "George Melashvili",
+        "linkedinUrl": "http://www.linkedin.com/in/george-melashvili-05b27935",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolo Arvati",
+        "linkedinUrl": "http://www.linkedin.com/in/nicoloarvati",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Miguel Sanchez Resendiz",
+        "linkedinUrl": "http://www.linkedin.com/in/miguel-s%c3%a1nchez-res%c3%a9ndiz-2b5544164",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Rent Anything",
+    "description": null,
+    "location": "Lisbon",
+    "industry": "Portugal",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jasdeep Sandhu",
+        "linkedinUrl": "http://www.linkedin.com/in/jasdeep-sandhu-892376286",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Jon Harris",
+        "linkedinUrl": "http://www.linkedin.com/in/jon-harris-600aa52",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Nicholas Luft",
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasluft"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Navpreet Sandhu",
+        "linkedinUrl": "http://www.linkedin.com/in/navpreet-sandhu-212862256"
+      }
+    ]
+  },
+  {
+    "name": "RIZON",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Peter Scash",
+        "linkedinUrl": "http://www.linkedin.com/in/peter-scash-198591179"
+      },
+      {
+        "role": "CTO",
+        "name": "Jose Almeida",
+        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-carlos-almeida-a9016263"
+      },
+      {
+        "role": "CTO",
+        "name": "Anthony Taglione",
+        "linkedinUrl": "http://www.linkedin.com/in/anthony-taglione-9a1b1217"
+      },
+      {
+        "role": "CTO",
+        "name": "Wilson Silva",
+        "linkedinUrl": "http://www.linkedin.com/in/wilson-silva-58a884a7"
+      }
+    ]
+  },
+  {
+    "name": "RxClarity",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Agoston Fung",
+        "linkedinUrl": "http://www.linkedin.com/in/agostonfung"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Zaharan Sofi",
+        "linkedinUrl": "http://www.linkedin.com/in/zaharan-sofi"
+      },
+      {
+        "role": "CTO",
+        "name": "Rodger Karl",
+        "linkedinUrl": "http://www.linkedin.com/in/rodgerkarl"
+      }
+    ]
+  },
+  {
+    "name": "semiQa",
+    "description": null,
+    "location": "Wrocław",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Pawel Sitarz",
+        "linkedinUrl": "http://www.linkedin.com/in/pawel-sitarz"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tomasz Matusiak",
+        "linkedinUrl": "http://www.linkedin.com/in/matusiak0tomasz"
+      }
+    ]
+  },
+  {
+    "name": "SERPGrid",
+    "description": null,
+    "location": "Stockholm",
+    "industry": "Sweden",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Wesam Mikhail",
+        "linkedinUrl": "http://www.linkedin.com/in/wesammikhail"
+      }
+    ]
+  },
+  {
+    "name": "ShareAI",
+    "description": null,
+    "location": "Bucharest",
+    "industry": "Romania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Denis Sandu",
+        "linkedinUrl": "http://www.linkedin.com/in/denis-sandu"
+      }
+    ]
+  },
+  {
+    "name": "Shellsea",
+    "description": null,
+    "location": "Warszawa",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Vipa Paura",
+        "linkedinUrl": "http://www.linkedin.com/in/vipa-paura-483951166"
+      },
+      {
+        "role": "CEO",
+        "name": "Aunt Cissy",
+        "linkedinUrl": "http://www.linkedin.com/in/aunt-cissy-994642169"
+      }
+    ]
+  },
+  {
+    "name": "Somvan",
+    "description": null,
+    "location": "France",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Gajendra Sharma",
+        "linkedinUrl": "http://www.linkedin.com/in/gajendra-sharma-02b98283"
+      }
+    ]
+  },
+  {
+    "name": "Sparkier",
+    "description": null,
+    "location": "Paris",
+    "industry": "France",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Baptiste Derongs",
+        "linkedinUrl": "http://www.linkedin.com/in/bderongs"
+      }
+    ]
+  },
+  {
+    "name": "SplitStay",
+    "description": null,
+    "location": "Belgium",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Ruben Vanhees",
+        "linkedinUrl": "http://www.linkedin.com/in/rubenvanhees"
+      },
+      {
+        "role": "CTO",
+        "name": "Elijah Limaj",
+        "linkedinUrl": "http://www.linkedin.com/in/elijah-s-limaj-6b735837a"
+      }
+    ]
+  },
+  {
+    "name": "Spreat",
+    "description": null,
+    "location": "Düsseldorf",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Paul Kirchbichler",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-kirchbichler"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Mattis Kloepper",
+        "linkedinUrl": "http://www.linkedin.com/in/mattis-kloepper-1448501bb"
+      }
+    ]
+  },
+  {
+    "name": "SquadAssist",
+    "description": null,
+    "location": "Leuven",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Wout Pauwels",
+        "linkedinUrl": "http://www.linkedin.com/in/wout-pauwels"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Maarten Wyns",
+        "linkedinUrl": "http://www.linkedin.com/in/maartenwyns"
+      }
+    ]
+  },
+  {
+    "name": "Starview",
+    "description": null,
+    "location": "Turin",
+    "industry": "Italy",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Radmehr Mohebi",
+        "linkedinUrl": "http://www.linkedin.com/in/radmehr-mohebi"
+      },
+      {
+        "role": "CTO",
+        "name": "Mosaleh Azarkashb",
+        "linkedinUrl": "http://www.linkedin.com/in/mosaleh2002"
+      },
+      {
+        "role": "VP of Engineering",
+        "name": "Starview Communications",
+        "linkedinUrl": "http://www.linkedin.com/in/starview-communications-80460031"
+      },
+      {
+        "role": "CTO",
+        "name": "Mohamad Mrie",
+        "linkedinUrl": "http://www.linkedin.com/in/mohamad-mrie-02538a269"
+      }
+    ]
+  },
+  {
+    "name": "StudyVisor",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Samu Lang",
+        "linkedinUrl": "http://www.linkedin.com/in/langsamu"
+      }
+    ]
+  },
+  {
+    "name": "Supercamp",
+    "description": null,
+    "location": "Vilnius",
+    "industry": "Lithuania",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Benas Bitvinskas",
+        "linkedinUrl": "http://www.linkedin.com/in/benbi"
+      },
+      {
+        "role": "CTO",
+        "name": "Anita Quintana",
+        "linkedinUrl": "http://www.linkedin.com/in/anita-quintana-76284522a"
+      },
+      {
+        "role": "CEO",
+        "name": "Costin Iordache",
+        "linkedinUrl": "http://www.linkedin.com/in/costin-iordache-arborist"
+      }
+    ]
+  },
+  {
+    "name": "Supertoons",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dario Bentancour",
+        "linkedinUrl": "http://www.linkedin.com/in/dario-bentancour-40107b23"
+      }
+    ]
+  },
+  {
+    "name": "SureThing",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Dennis Sbrusch",
+        "linkedinUrl": "http://www.linkedin.com/in/dennissbruschjr"
+      }
+    ]
+  },
+  {
+    "name": "Syncable.dev",
+    "description": null,
+    "location": "Copenhagen",
+    "industry": "Denmark",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Lishuai Jing",
+        "linkedinUrl": "http://www.linkedin.com/in/lishuaijing"
+      }
+    ]
+  },
+  {
+    "name": "Syntec DTx",
+    "description": null,
+    "location": "Solingen",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Julian Nadolski",
+        "linkedinUrl": "http://www.linkedin.com/in/julian-nadolski-186524251"
+      }
+    ]
+  },
+  {
+    "name": "Tensor Suisse AG",
+    "description": null,
+    "location": "Zug",
+    "industry": "Switzerland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Dominic El-Jerari",
+        "linkedinUrl": "http://www.linkedin.com/in/dominic-eljerari"
+      }
+    ]
+  },
+  {
+    "name": "The Agentics Co.",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nishith Srivastava",
+        "linkedinUrl": "http://www.linkedin.com/in/nishith"
+      }
+    ]
+  },
+  {
+    "name": "The Storage Scanner",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Rens Verbeek",
+        "linkedinUrl": "http://www.linkedin.com/in/rens-verbeek"
+      },
+      {
+        "role": "CTO",
+        "name": "Koen Wolf",
+        "linkedinUrl": "http://www.linkedin.com/in/koen-de-wolf-205793186"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Bruno Figueiredo",
+        "linkedinUrl": "http://www.linkedin.com/in/bruno-figueiredo-953906177"
+      }
+    ]
+  },
+  {
+    "name": "To-Do List",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacob Stiefel",
+        "linkedinUrl": "http://www.linkedin.com/in/jacob-stiefel-6446ba89"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Lindsay Selvitelle",
+        "linkedinUrl": "http://www.linkedin.com/in/lindsayselvitelle"
+      }
+    ]
+  },
+  {
+    "name": "Toddlr",
+    "description": null,
+    "location": "Sofia",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Aleksandra Dobreva",
+        "linkedinUrl": "http://www.linkedin.com/in/alexandra-gospodinova"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dobrian Dobrev",
+        "linkedinUrl": "http://www.linkedin.com/in/dobriandobrev"
+      }
+    ]
+  },
+  {
+    "name": "Toksta",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Sam Cassman",
+        "linkedinUrl": "http://www.linkedin.com/in/sam-cassman-a5837847"
+      }
+    ]
+  },
+  {
+    "name": "Tradefulness",
+    "description": null,
+    "location": "Warsaw",
+    "industry": "Poland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Alex Serzhanovich",
+        "linkedinUrl": "http://www.linkedin.com/in/alex-serzhanovich"
+      }
+    ]
+  },
+  {
+    "name": "TRAKKER",
+    "description": null,
+    "location": "Berlin",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Yuting Peng",
+        "linkedinUrl": "http://www.linkedin.com/in/yuting-peng-0329"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Alex Nikonov",
+        "linkedinUrl": "http://www.linkedin.com/in/alex-nikonov"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Hemang Nathwani",
+        "linkedinUrl": "http://www.linkedin.com/in/hnathwanipricetrakker"
+      },
+      {
+        "role": "Founder",
+        "name": "Edward Kellman",
+        "linkedinUrl": "http://www.linkedin.com/in/edward-k-5403b2163"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michelle Alexandra",
+        "linkedinUrl": "http://www.linkedin.com/in/michelle-alexandra-140867a7"
+      },
+      {
+        "role": "CEO",
+        "name": "Sagar Parikh",
+        "linkedinUrl": "http://www.linkedin.com/in/sagarparikh"
+      }
+    ]
+  },
+  {
+    "name": "Tuarity",
+    "description": null,
+    "location": "Dublin",
+    "industry": "Ireland",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Graham Maonaigh",
+        "linkedinUrl": "http://www.linkedin.com/in/grahamomaonaigh"
+      },
+      {
+        "role": "CTO",
+        "name": "Saloni D",
+        "linkedinUrl": "http://www.linkedin.com/in/saloni-d-823614139"
+      }
+    ]
+  },
+  {
+    "name": "VibeCode",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Kehan Zhang",
+        "linkedinUrl": "http://www.linkedin.com/in/kehan-c-zhang"
+      },
+      {
+        "role": "CTO",
+        "name": "Jake Gold",
+        "linkedinUrl": "http://www.linkedin.com/in/jakegold"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Riley Brown",
+        "linkedinUrl": "http://www.linkedin.com/in/riley-brown-7441b1101"
+      },
+      {
+        "role": "CTO",
+        "name": "Lola Adey",
+        "linkedinUrl": "http://www.linkedin.com/in/lola-adey"
+      }
+    ]
+  },
+  {
+    "name": "Webfuse",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Nicholas Piel",
+        "linkedinUrl": "http://www.linkedin.com/in/nicholasp"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sasha Ogurtov",
+        "linkedinUrl": "http://www.linkedin.com/in/sasha-ogurtov-844047a8"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Dzmitry Tolpekin",
+        "linkedinUrl": "http://www.linkedin.com/in/dzmitry-tolpekin"
+      }
+    ]
+  },
+  {
+    "name": "Webmetic",
+    "description": null,
+    "location": "Munich",
+    "industry": "Germany",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Yannik Suess",
+        "linkedinUrl": "http://www.linkedin.com/in/yanniksuess"
+      }
+    ]
+  },
+  {
+    "name": "Xavier AI",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Joao Filipe",
+        "linkedinUrl": "http://www.linkedin.com/in/joao-filipe-aa369986"
+      },
+      {
+        "role": "CTO",
+        "name": "Jose Mota",
+        "linkedinUrl": "http://www.linkedin.com/in/jos%c3%a9-mota-a36a1a161"
+      }
+    ]
+  },
+  {
+    "name": "XME",
+    "description": null,
+    "location": "Riga",
+    "industry": "Latvia",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Manivannan Rangarajan",
+        "linkedinUrl": "http://www.linkedin.com/in/manivannan-rangarajan-510b3275"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolle Lenuzza",
+        "linkedinUrl": "http://www.linkedin.com/in/nicolle-lenuzza-2a327792"
+      },
+      {
+        "role": "CEO",
+        "name": "Andrea Vasconcellos",
+        "linkedinUrl": "http://www.linkedin.com/in/andrea-vasconcellos-830175115"
+      }
+    ]
+  },
+  {
+    "name": "Xylon X",
+    "description": null,
+    "location": "Sofia",
+    "industry": "Bulgaria",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nikolay Kotsev",
+        "linkedinUrl": "http://www.linkedin.com/in/nikolay-kotsev"
+      }
+    ]
+  },
+  {
+    "name": "Yukari Labs",
+    "description": null,
+    "location": "Brussels",
+    "industry": "Belgium",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Younes Afkari",
+        "linkedinUrl": "http://www.linkedin.com/in/younes-afkari"
+      }
+    ]
+  },
+  {
+    "name": "ZapDigits",
+    "description": null,
+    "location": "Rotterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Malith Gamage",
+        "linkedinUrl": "http://www.linkedin.com/in/malithmcr"
+      }
+    ]
+  },
+  {
+    "name": "Zeus Tech Assessment",
+    "description": null,
+    "location": "Amsterdam",
+    "industry": "Netherlands",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Rohit Chhabra",
+        "linkedinUrl": "http://www.linkedin.com/in/rohit-chhabra-tech"
+      }
+    ]
+  },
+  {
+    "name": "Zola Analytics",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Karl Thumm",
+        "linkedinUrl": "http://www.linkedin.com/in/karlthumm"
+      },
+      {
+        "role": "CEO",
+        "name": "George Farnon",
+        "linkedinUrl": "http://www.linkedin.com/in/george-farnon-89863b103"
+      },
+      {
+        "role": "CTO",
+        "name": "Sherry Leung",
+        "linkedinUrl": "http://www.linkedin.com/in/leung-sherry"
+      }
+    ]
+  }
+]

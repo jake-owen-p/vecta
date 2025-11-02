@@ -1,0 +1,6660 @@
+[
+  {
+    "name": "Omnea",
+    "description": "Effortless procurement automation.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ben Freeman",
+        "linkedinUrl": "https://www.linkedin.com/in/ben-freeman-a8542166/",
+        "phoneNumber": "+447799373693",
+        "email": null,
+        "apolloId": "69054c3edc2f08000d3353ac"
+      },
+      {
+        "role": "CTO",
+        "name": "Ben Allen",
+        "linkedinUrl": "https://www.linkedin.com/in/benjaminjallen/",
+        "phoneNumber": "+447708937733",
+        "email": "ben.a@omnea.co",
+        "apolloId": "6905385f10d8610015b40667"
+      }
+    ]
+  },
+  {
+    "name": "Spore.Bio",
+    "description": "Building a new generation of microbiological technologies.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amine Raji",
+        "linkedinUrl": "https://www.linkedin.com/in/amine-raji/",
+        "phoneNumber": "+33781663798",
+        "email": "amine.raji@spore.bio",
+        "apolloId": "69055a752abcc50021eab95e"
+      },
+      {
+        "role": "CTO",
+        "name": "Maxime Mistretta",
+        "linkedinUrl": "https://www.linkedin.com/in/maxime-mistretta-phd-390062aa/",
+        "phoneNumber": "+33684685779",
+        "email": "maxime.mistretta@spore.bio",
+        "apolloId": "69055a842a9bb200196203c4"
+      },
+      {
+        "role": "COO",
+        "name": "Mohamed Tazi",
+        "linkedinUrl": "https://www.linkedin.com/in/mohamed-tazi-03972961/",
+        "phoneNumber": "+33663474696",
+        "email": "mohamed.tazi@spore.bio",
+        "apolloId": "69055a91fde143001d756caa"
+      }
+    ]
+  },
+  {
+    "name": "Gensyn",
+    "description": "Making compute for AI as accessible as oxygen for humans.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ben Fielding",
+        "linkedinUrl": "https://www.linkedin.com/in/ben-fielding/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Harry Grieve",
+        "linkedinUrl": "https://www.linkedin.com/in/harry-grieve-81427771/",
+        "phoneNumber": "+447458992033",
+        "email": "harry@gensyn.ai",
+        "apolloId": "690561955a920f0019e700f8"
+      }
+    ]
+  },
+  {
+    "name": "Opply",
+    "description": "Ingredient marketplace for small consumer goods brands.",
+    "location": "London",
+    "industry": "Food",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Helen Murphy",
+        "linkedinUrl": "https://www.linkedin.com/in/opplyhelen/",
+        "phoneNumber": "+447584277878",
+        "email": "helen@opply.com",
+        "apolloId": "690561a22987b10011388b81"
+      },
+      {
+        "role": "CTO",
+        "name": "Martin Postel",
+        "linkedinUrl": "https://www.linkedin.com/in/postel-martin/",
+        "phoneNumber": "+447554013312",
+        "email": "martin@opply.com",
+        "apolloId": "690561afc89cb50011bb0fc5"
+      }
+    ]
+  },
+  {
+    "name": "Green Li-ion",
+    "description": "World-first deep-clean technology to fully rejuvenate lithium-ion batteries.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Leon Farrant",
+        "linkedinUrl": "https://www.linkedin.com/in/leon-farrant/",
+        "phoneNumber": "+6585222280",
+        "email": "leonf@greenli-ion.com",
+        "apolloId": "690561bc282ce70011dcfbc7"
+      },
+      {
+        "role": "CTO",
+        "name": "Reza Katal",
+        "linkedinUrl": "https://www.linkedin.com/in/reza-katal-78425566/?originalSubdomain=sg",
+        "phoneNumber": "+436764631151",
+        "email": "rezak@greenli-ion.com",
+        "apolloId": "690561c88e2b9b00110b97eb"
+      }
+    ]
+  },
+  {
+    "name": "Genomines",
+    "description": "Efficient plant-based mining.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Fabien Koutchekian",
+        "linkedinUrl": "https://www.linkedin.com/in/fabien-koutchekian/",
+        "phoneNumber": "+82542232461",
+        "email": "fabien.koutchekian@genomines.com",
+        "apolloId": "690561d5c89cb50011bb107f"
+      },
+      {
+        "role": "CTO",
+        "name": "Dali Rashid",
+        "linkedinUrl": "https://www.linkedin.com/in/dali-rashid-phd-69059010a/",
+        "phoneNumber": "+33762908734",
+        "email": "dali.rashid@genomines.com",
+        "apolloId": "690561e1d51df20019af2eb5"
+      }
+    ]
+  },
+  {
+    "name": "Scarlet",
+    "description": "Hastening the transition to universally accessible healthcare.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "James Dewar",
+        "linkedinUrl": "https://www.linkedin.com/in/james-dewar-78758992/",
+        "phoneNumber": "+447460099101",
+        "email": "james@scarlet.cc",
+        "apolloId": "690561ee7dfbdb002195f177"
+      },
+      {
+        "role": "CTO",
+        "name": "Jamie Cox",
+        "linkedinUrl": "https://www.linkedin.com/in/jamie-cox-01458b3a",
+        "phoneNumber": "+447951981283",
+        "email": "jamie@scarlet.cc",
+        "apolloId": "690561fa37bdc0001990c3f1"
+      }
+    ]
+  },
+  {
+    "name": "Phagos",
+    "description": "Bacteriophage therapies for antibiotic-resistant infections.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandros Pantalis",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandros-pantalis-0a6102a5/",
+        "phoneNumber": "+33782513453",
+        "email": "alexandros@phagos.org",
+        "apolloId": "69056207a71cdf0011f6c4de"
+      },
+      {
+        "role": "CTO",
+        "name": "Adèle James",
+        "linkedinUrl": "https://www.linkedin.com/in/ad%C3%A8le-james-36aa55b5/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Finni Health",
+    "description": "Nationwide virtual ABA therapy for autism.",
+    "location": "Toronto",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bukhtar Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/bukhtarkhan/",
+        "phoneNumber": "2899238161",
+        "email": "bucky@finnihealth.com",
+        "apolloId": "6905623394886900151f6dc5"
+      },
+      {
+        "role": "CTO",
+        "name": "Yilun Chen",
+        "linkedinUrl": "http://linkedin.com/in/yilunc/",
+        "phoneNumber": "5106971240",
+        "email": "yilun@finnihealth.com",
+        "apolloId": "69056240a2fcc800114d55ab"
+      }
+    ]
+  },
+  {
+    "name": "Pactio Technologies",
+    "description": "AI-native finance workflows in Microsoft Office.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eric Heimark",
+        "linkedinUrl": "http://linkedin.com/in/eric-heimark",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Lorenzo Foglianti",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzo-foglianti/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Faircraft",
+    "description": "Developing a highly sustainable, lab-grown alternative to animal leather.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Haïkel Balti",
+        "linkedinUrl": "https://www.linkedin.com/in/haikelbalti/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Cesar Valencia Gallardo",
+        "linkedinUrl": "http://www.linkedin.com/in/cesar-valencia-gallardo-3b1548121",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Better Dairy",
+    "description": "Fermented milk proteins without animals.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jevan Nagarajah",
+        "linkedinUrl": "https://www.linkedin.com/in/jevan-nagarajah/",
+        "phoneNumber": "+447956898755",
+        "email": "jevan@betterdairy.co.uk",
+        "apolloId": "690562cd5e4bbe0019a15d9f"
+      }
+    ]
+  },
+  {
+    "name": "Tuza",
+    "description": "Instant card-machine quotes for businesses.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ed Hardy",
+        "linkedinUrl": "https://www.linkedin.com/in/tedhardy/",
+        "phoneNumber": "+447725315449",
+        "email": "ed@statementpayments.com",
+        "apolloId": "690562da3069420019d3df40"
+      },
+      {
+        "role": "CTO",
+        "name": "Olivia Stannah",
+        "linkedinUrl": "https://www.linkedin.com/in/olivia-stannah/",
+        "phoneNumber": "+447825577432",
+        "email": "olivia@tuza.co.uk",
+        "apolloId": "690562e6730cf7000d6a2d83"
+      }
+    ]
+  },
+  {
+    "name": "Icarus Robotics Corporation",
+    "description": "The robotic labor force for space.",
+    "location": "San Francisco",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ethan Barajas",
+        "linkedinUrl": "https://www.linkedin.com/in/ethan-barajas-532961192/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Jamie Palmer",
+        "linkedinUrl": "https://www.linkedin.com/in/palmer-jamie/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Scope",
+    "description": "AI inspection for supply chains.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Low",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathanrhyslow/",
+        "phoneNumber": "+447848690853",
+        "email": "jonny@getscope.ai",
+        "apolloId": "6905633237f090000df34639"
+      },
+      {
+        "role": "CTO",
+        "name": "Jakob Cassiman",
+        "linkedinUrl": "https://www.linkedin.com/in/jakobcassiman/",
+        "phoneNumber": "+32476047789",
+        "email": "jakob@getscope.ai",
+        "apolloId": "6905633f0b4e7e00115a9c74"
+      }
+    ]
+  },
+  {
+    "name": "Kular",
+    "description": "AI lead generation for small teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nelson Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/nelson-jones-238487194/",
+        "phoneNumber": "2078560372",
+        "email": "nelson@kular.ai",
+        "apolloId": "6905634c830fbb0019384519"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Saaras Mehan",
+        "linkedinUrl": "https://www.linkedin.com/in/saaras-mehan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Magdrive",
+    "description": "Electromagnetic thrusters for small satellites.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mark Stokes",
+        "linkedinUrl": "https://www.linkedin.com/in/markyasustokes/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Clayson",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-clayson-42486a77/",
+        "phoneNumber": "+447517026424",
+        "email": "tclayson@magdrivespace.com",
+        "apolloId": "69056398660f380021ca0446"
+      }
+    ]
+  },
+  {
+    "name": "WorldOver",
+    "description": "Regulatory automation for cosmetics.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Edward Alun-Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/edward-alun-jones-50a66812b/",
+        "phoneNumber": "6159051954",
+        "email": "ed.alun-jones@worldover.io",
+        "apolloId": "690563a5c4b5950021ff8f8c"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Gudde",
+        "linkedinUrl": "https://www.linkedin.com/in/chris-gudde/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Chipiron",
+    "description": "Portable low-field MRI for point-of-care.",
+    "location": "Paris",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Evan Kervella",
+        "linkedinUrl": "https://www.linkedin.com/in/evankervella/",
+        "phoneNumber": "+33752317080",
+        "email": "evan@chipiron.co",
+        "apolloId": "690563d13362810021e01722"
+      },
+      {
+        "role": "CSO",
+        "name": "Dimitri Labat",
+        "linkedinUrl": "https://www.linkedin.com/in/dimitri-labat/",
+        "phoneNumber": "+33661263241",
+        "email": "dimitri@chipiron.co",
+        "apolloId": "690563dd5a920f001146611a"
+      }
+    ]
+  },
+  {
+    "name": "Farmlend",
+    "description": "Building the infrastructure that powers global agriculture trade.",
+    "location": "London",
+    "industry": "Agriculture & Farming",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Abdel Turkmani",
+        "linkedinUrl": "https://www.linkedin.com/in/asturkmani",
+        "phoneNumber": "+447397121612",
+        "email": "abdelwahab@farmlend.co.uk",
+        "apolloId": "690563ea8e2b9b000df12daa"
+      }
+    ]
+  },
+  {
+    "name": "Lynceus",
+    "description": "AI for manufacturing process monitoring.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "David Meyer",
+        "linkedinUrl": "https://www.linkedin.com/in/david-meyer-8586b17b/",
+        "phoneNumber": "+33627202590",
+        "email": "david.meyer@lynceus.ai",
+        "apolloId": "690563f78d1692001d15d87f"
+      },
+      {
+        "role": "CTO",
+        "name": "Guglielmo Montone",
+        "linkedinUrl": "https://www.linkedin.com/in/guglielmo-montone-5369aa162",
+        "phoneNumber": "+33782796106",
+        "email": "guglielmo.montone@lynceus.ai",
+        "apolloId": "6905640371dcc50011585941"
+      }
+    ]
+  },
+  {
+    "name": "Strala",
+    "description": "AI claims processing for insurance teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Timon Gregg",
+        "linkedinUrl": "https://www.linkedin.com/in/timon-gregg-59973a190/",
+        "phoneNumber": "+447769055221",
+        "email": "timon.gregg@strala.ai",
+        "apolloId": "6905641014aefa001520ef9d"
+      },
+      {
+        "role": "CTO",
+        "name": "Armando Schmid",
+        "linkedinUrl": "https://www.linkedin.com/in/armandoschmid/",
+        "phoneNumber": "+41762618942",
+        "email": "armando.schmid@strala.ai",
+        "apolloId": "6905641ea651b40015065cc0"
+      }
+    ]
+  },
+  {
+    "name": "Toolkit",
+    "description": "ERP conversion from spreadsheets for small businesses.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phil Pfeffer",
+        "linkedinUrl": "https://www.linkedin.com/in/phil-pfeffer",
+        "phoneNumber": "6154294456",
+        "email": "phil@jointoolkit.com",
+        "apolloId": "6905642a7f3e190015f051a9"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michael Hirn",
+        "linkedinUrl": "https://www.linkedin.com/in/meetmichaelhirn",
+        "phoneNumber": "7732708071",
+        "email": "michael@jointoolkit.com",
+        "apolloId": "69056437d568d30015d9abef"
+      }
+    ]
+  },
+  {
+    "name": "Level Zero Health",
+    "description": "Continuous hormone monitoring for fertility and wellness.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ula Rustamova",
+        "linkedinUrl": "https://www.linkedin.com/in/ula-rustamova/",
+        "phoneNumber": "+447415421184",
+        "email": "ula@levelzerohealth.com",
+        "apolloId": "690564438d1692001d15d89f"
+      },
+      {
+        "role": "CTO",
+        "name": "Irene Jia",
+        "linkedinUrl": "https://www.linkedin.com/in/irene-jia-248161155/",
+        "phoneNumber": "+447943699157",
+        "email": "irene@levelzerohealth.com",
+        "apolloId": "690564508d1692000d927cd2"
+      }
+    ]
+  },
+  {
+    "name": "CodeAnt AI",
+    "description": "AI code review for faster, secure pull requests.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amartya Jha",
+        "linkedinUrl": "https://www.linkedin.com/in/amartya-jha/",
+        "phoneNumber": "9087004481",
+        "email": "amartya@codeant.ai",
+        "apolloId": "6905645c7bd4f600159ff1b3"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chinmay Bharti",
+        "linkedinUrl": "https://www.linkedin.com/in/chinmay-bharti",
+        "phoneNumber": "6282909059",
+        "email": "chinmay@codeant.ai",
+        "apolloId": "69056469eeda040019c135f1"
+      }
+    ]
+  },
+  {
+    "name": "Allozymes",
+    "description": "Evolving biology for a sustainable future.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Peyman Salehian",
+        "linkedinUrl": "https://www.linkedin.com/in/peyman-salehian-ph-d-86611b134/",
+        "phoneNumber": "+6594666420",
+        "email": "peyman@allozymes.com",
+        "apolloId": "690564758d1692000d927e22"
+      },
+      {
+        "role": "CTO",
+        "name": "Akbar Vahidi",
+        "linkedinUrl": "https://www.linkedin.com/in/akbar-vahidi",
+        "phoneNumber": "+6587204227",
+        "email": "akbar@allozymes.com",
+        "apolloId": "6905648153dece0015e02b9e"
+      }
+    ]
+  },
+  {
+    "name": "Core Biogenesis",
+    "description": "Plant biofactories for recombinant proteins.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandre Reeber",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandre-reeber/",
+        "phoneNumber": "+33680446958",
+        "email": "alexandre.reeber@corebiogenesis.com",
+        "apolloId": "6905648e3069420015ea0fa5"
+      },
+      {
+        "role": "CTO",
+        "name": "Chouaib Meziadi",
+        "linkedinUrl": "https://www.linkedin.com/in/chouaib-meziadi-884076150/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Micrographia Bio",
+    "description": "Spatial proteomics for scalable target discovery.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julia Li",
+        "linkedinUrl": "https://www.linkedin.com/in/juliafanli/",
+        "phoneNumber": "+447971220916",
+        "email": "juliafanli@micrographiabio.com",
+        "apolloId": "690564baeeda04000dae04ec"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Thompson",
+        "linkedinUrl": "https://www.linkedin.com/in/ccthompson82/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Miist Therapeutics",
+    "description": "Inhaled therapies for rapid symptom relief.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dalton Signor",
+        "linkedinUrl": "https://www.linkedin.com/in/dalton-signor/",
+        "phoneNumber": null,
+        "email": "dalton@mymiist.com",
+        "apolloId": "690564e660ea240015374c68"
+      }
+    ]
+  },
+  {
+    "name": "Lenkie",
+    "description": "AI-driven cash flow analytics and financing.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sanjeev Jeyakumar",
+        "linkedinUrl": "https://www.linkedin.com/in/sanjeev-jeyakumar-b3a08942/",
+        "phoneNumber": "+447708897506",
+        "email": "sanjeev@lenkie.com",
+        "apolloId": "690564f2d51df20015fb8527"
+      },
+      {
+        "role": "CTO",
+        "name": "Nnaemeka Obodoekwe",
+        "linkedinUrl": "https://www.linkedin.com/in/nnaemeka-obodoekwe-2a8b979a/",
+        "phoneNumber": "+447939498942",
+        "email": "nnaemeka@lenkie.com",
+        "apolloId": "690564ff8e3bbf0021211e0c"
+      }
+    ]
+  },
+  {
+    "name": "Ameba",
+    "description": "AI monitoring for complex supply chains.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cedrik Hoffmann",
+        "linkedinUrl": "https://www.linkedin.com/in/cedrikhoffmann/",
+        "phoneNumber": "+525589383710",
+        "email": "cedrik@ameba.ai",
+        "apolloId": "6905650cd568d30021c10115"
+      },
+      {
+        "role": "CTO",
+        "name": "Craig Massie",
+        "linkedinUrl": "https://www.linkedin.com/in/craig-massie",
+        "phoneNumber": "+447972645379",
+        "email": "craig@ameba.ai",
+        "apolloId": "6905651b9488690019697369"
+      }
+    ]
+  },
+  {
+    "name": "Mitra Bio",
+    "description": "Non-invasive diagnostics for skincare development.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Shakiba Kaveh",
+        "linkedinUrl": "https://www.linkedin.com/in/shakiba-kaveh-8b8bb466/",
+        "phoneNumber": "+447918656750",
+        "email": "shakiba@mitrabio.tech",
+        "apolloId": "69056526c10380001535dc7f"
+      },
+      {
+        "role": "CTO",
+        "name": "Cristiana Banila",
+        "linkedinUrl": "https://www.linkedin.com/in/cristiana-banila94/",
+        "phoneNumber": "+447852109690",
+        "email": "cristiana@mitrabio.tech",
+        "apolloId": "69056531c0078b000d9c83c6"
+      }
+    ]
+  },
+  {
+    "name": "PACT",
+    "description": "Marine collagen biomaterials for sustainable leather.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Yudi Ding",
+        "linkedinUrl": "https://www.linkedin.com/in/yudiding/",
+        "phoneNumber": "+447541650880",
+        "email": "yudi@pact.earth",
+        "apolloId": "6905653e4184e400216effaa"
+      }
+    ]
+  },
+  {
+    "name": "Fluent",
+    "description": "The agency reporting engine that finds insights, explains performance, and builds client-ready reports.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rob Van Den Bergh",
+        "linkedinUrl": "https://www.linkedin.com/in/robert-van-den-bergh/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Cameron Whitehead",
+        "linkedinUrl": "https://www.linkedin.com/in/cameron-whitehead-270827112/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Connect Earth",
+    "description": "Portfolio carbon analytics for financial firms.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alex Lempka",
+        "linkedinUrl": "http://linkedin.com/in/alexander-lempka-67494b109",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Nick Carmont",
+        "linkedinUrl": "https://www.linkedin.com/in/ncarmont/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Spotted Zebra",
+    "description": "Skills analytics for enterprise workforces.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ian Monk",
+        "linkedinUrl": "https://www.linkedin.com/in/ian-monk-uk/",
+        "phoneNumber": "+447947320472",
+        "email": "ian.monk@spottedzebra.co.uk",
+        "apolloId": "690565cb01e35800216f9838"
+      },
+      {
+        "role": "CCO",
+        "name": "Nick Shaw",
+        "linkedinUrl": "https://www.linkedin.com/in/nickshaw-sz/",
+        "phoneNumber": "+447814136123",
+        "email": "nick.shaw@spottedzebra.co.uk",
+        "apolloId": "690565d8d962d700198d9b5c"
+      }
+    ]
+  },
+  {
+    "name": "Catapult",
+    "description": "Walletless onboarding and profiles for Web3 communities.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rav Sandhu",
+        "linkedinUrl": "https://www.linkedin.com/in/ravsinghsandhu/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gregory Wilsenach",
+        "linkedinUrl": "https://www.linkedin.com/in/gregory-wilsenach-476780176/",
+        "phoneNumber": "+447535810377",
+        "email": "greg@catapultlabs.xyz",
+        "apolloId": "6905e36e30a9eb0015b04ea6"
+      }
+    ]
+  },
+  {
+    "name": "Kinetix",
+    "description": "AI-driven motion capture for 3D animation.",
+    "location": "Paris",
+    "industry": "Gaming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Yassine Tahi",
+        "linkedinUrl": "https://www.linkedin.com/in/yassine-tahi-44b90254",
+        "phoneNumber": "+33625685516",
+        "email": "yassine@kinetix.tech",
+        "apolloId": "6905e37aec61c7001513db78"
+      },
+      {
+        "role": "CTO",
+        "name": "Henri Mirande",
+        "linkedinUrl": "https://www.linkedin.com/in/henri-mirande-7025b996/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "altrove",
+    "description": "AI-guided materials synthesis for industrial manufacturers.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thibaud Martin",
+        "linkedinUrl": "https://www.linkedin.com/in/thibaudm",
+        "phoneNumber": "+33676222348",
+        "email": "thibaud.martin@altrove.ai",
+        "apolloId": "6905e3a7207332001168f951"
+      },
+      {
+        "role": "CTO",
+        "name": "Joonatan Laulainen",
+        "linkedinUrl": "https://www.linkedin.com/in/joonatan-laulainen/",
+        "phoneNumber": "+447512374789",
+        "email": "joonatan.laulainen@altrove.ai",
+        "apolloId": "6905e3b47dfbdb000d285661"
+      }
+    ]
+  },
+  {
+    "name": "thymia",
+    "description": "AI assessments for mental health diagnostics.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Emilia Molimpakis",
+        "linkedinUrl": "https://www.linkedin.com/in/emilia-molimpakis-phd-860325a4/",
+        "phoneNumber": "+447541950731",
+        "email": "emilia@thymia.ai",
+        "apolloId": "6905e3c1267a7f0019620d92"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefano Goria",
+        "linkedinUrl": "https://www.linkedin.com/in/stefano-goria-a11b6a3b/",
+        "phoneNumber": "+447580061638",
+        "email": "stefano@thymia.ai",
+        "apolloId": "6905e3cd0793b40011a4b909"
+      }
+    ]
+  },
+  {
+    "name": "ToffeeX",
+    "description": "Physics-based generative geometry for engineers.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Pietropaoli",
+        "linkedinUrl": "https://www.linkedin.com/in/marco-pietropaoli-a37788137/",
+        "phoneNumber": "+447473156720",
+        "email": "m.pietropaoli@toffeex.com",
+        "apolloId": "6905e3da3069420019d47d06"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Francesco Montomoli",
+        "linkedinUrl": "https://www.linkedin.com/in/francesco-montomoli-3741317/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "ClarityCare AI",
+    "description": "The AI engine powering real-time medical necessity decisions.",
+    "location": "New York",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hermine Tranie",
+        "linkedinUrl": "https://www.linkedin.com/in/herminetranie/",
+        "phoneNumber": "9173029025",
+        "email": "hermine@claritycare.ai",
+        "apolloId": "6905e406b404840019ab701d"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Andrei",
+        "linkedinUrl": "https://www.linkedin.com/in/andreialexandru98",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Theremia",
+    "description": "AI-driven molecule design for pharma.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Iris Maréchal",
+        "linkedinUrl": "http://www.linkedin.com/in/iris-marechal",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chloé Geoffroy",
+        "linkedinUrl": "https://www.linkedin.com/in/chlo%C3%A9-geoffroy-9179a1b9/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Radical",
+    "description": "Building the world's first general-purpose AI model for Oncology.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simone Jensen",
+        "linkedinUrl": "https://www.linkedin.com/in/simone-korsgaard-jensen-6a1334166/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Strive",
+    "description": "1:1 coding tutoring for K–12 math.",
+    "location": "Singapore",
+    "industry": "Consumer Products",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pulkit Agarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/agarwalpulkit/",
+        "phoneNumber": "6789077160",
+        "email": "pa@strivemathacademy.com",
+        "apolloId": "6905e493641c28001d2a593c"
+      },
+      {
+        "role": "CTO",
+        "name": "Tamir Shklaz",
+        "linkedinUrl": "https://www.linkedin.com/in/tamir-shklaz-32b446160/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Tracelight",
+    "description": "AI-powered financial modeling for spreadsheet users.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pete Fuller",
+        "linkedinUrl": "https://www.linkedin.com/in/peter-fuller-063253144/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Origin Medical",
+    "description": "AI-assisted clinician decision support solution for fetal ultrasound scans.",
+    "location": "Singapore",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jens Thang",
+        "linkedinUrl": "https://www.linkedin.com/in/jens-thang-b7517833/",
+        "phoneNumber": "6594888654",
+        "email": "jens@originmedical.ai",
+        "apolloId": "6905e4e000d450001d5274fe"
+      },
+      {
+        "role": "CTO",
+        "name": "Sripad Devalla",
+        "linkedinUrl": "https://www.linkedin.com/in/sripaddevalla/",
+        "phoneNumber": "+6581174864",
+        "email": "sripad@originhealth.ai",
+        "apolloId": "6905e4ed26ebcf0021b08d73"
+      }
+    ]
+  },
+  {
+    "name": "Guided Energy",
+    "description": "Intelligence for transportation and logistics",
+    "location": "Paris",
+    "industry": "Climate",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anant Kapoor",
+        "linkedinUrl": "https://www.linkedin.com/in/anantk147/",
+        "phoneNumber": "+33649229572",
+        "email": "anant@guided.energy",
+        "apolloId": "6905e4fa7d3186000d905f0d"
+      },
+      {
+        "role": "CTO",
+        "name": "Eric Daoud",
+        "linkedinUrl": "https://www.linkedin.com/in/ericdaoud/",
+        "phoneNumber": "+33620580163",
+        "email": "eric@guided.energy",
+        "apolloId": "6905e506036caa001d9c4f9b"
+      }
+    ]
+  },
+  {
+    "name": "Polymerize",
+    "description": "AI-driven polymer formulation for R&D teams.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kunal Sandeep",
+        "linkedinUrl": "https://www.linkedin.com/in/kunalsandeep/",
+        "phoneNumber": "+918150000994",
+        "email": "kunal@polymerize.io",
+        "apolloId": "6905e514036caa0021587281"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhijit Salvekar",
+        "linkedinUrl": "https://www.linkedin.com/in/abhijitvijaysalvekar/",
+        "phoneNumber": "+6593505782",
+        "email": "abhijit.salvekar@polymerize.io",
+        "apolloId": "6905e521e362680011af541f"
+      }
+    ]
+  },
+  {
+    "name": "kyron.bio",
+    "description": "Glycan engineering for therapeutic proteins.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Emilia McLaughlin",
+        "linkedinUrl": "https://www.linkedin.com/in/emilia-mclaughlin-0ab398198/",
+        "phoneNumber": "+33754011404",
+        "email": "emilia@kyron.bio",
+        "apolloId": "6905e52fe2cf5b001147ba34"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Vaibhav Longani",
+        "linkedinUrl": "https://www.linkedin.com/in/vaibhavlongani/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Arago",
+    "description": "Photonic computing platform to unlock AGI at scale.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Muller",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-muller-/",
+        "phoneNumber": "+33750917866",
+        "email": "nicolas@arago.inc",
+        "apolloId": "6905e55abfe6af000d98e820"
+      },
+      {
+        "role": "CTO",
+        "name": "Eliott Sarrey",
+        "linkedinUrl": "https://www.linkedin.com/in/eliott-sarrey/",
+        "phoneNumber": "+33768400357",
+        "email": "eliott@arago.inc",
+        "apolloId": "6905e5673e2f490019e9144a"
+      }
+    ]
+  },
+  {
+    "name": "sensmore",
+    "description": "Building human-like intelligence for the world’s largest machines.",
+    "location": "Berlin",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Maximilian Rolf",
+        "linkedinUrl": "http://linkedin.com/in/maximilian-rolf-b38939a3",
+        "phoneNumber": "+491765554823",
+        "email": "maximilian.rolf@sensmore.ai",
+        "apolloId": "6905e5740793b40011a4c2c8"
+      },
+      {
+        "role": "CTO",
+        "name": "Bjarne Johannsen",
+        "linkedinUrl": "https://www.linkedin.com/in/bjarne-johannsen",
+        "phoneNumber": "+4917624155381",
+        "email": "bjarne.johannsen@sensmore.ai",
+        "apolloId": "6905e5828f2f860015ccbc2c"
+      }
+    ]
+  },
+  {
+    "name": "AMT",
+    "description": "Influencer-partnership automation for marketing teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tom Hollands",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-hollands/",
+        "phoneNumber": "+447711807105",
+        "email": "tom@amt.ai",
+        "apolloId": "6905e58e56d733001d509b5a"
+      },
+      {
+        "role": "CTO",
+        "name": "Christian Johnston",
+        "linkedinUrl": "https://www.linkedin.com/in/christian-johnston-34b279133/",
+        "phoneNumber": "+447903620120",
+        "email": "christian@amt.ai",
+        "apolloId": "6905e59ba4ff0e0011cab1a8"
+      }
+    ]
+  },
+  {
+    "name": "Syntetica",
+    "description": "Nylon recycling for textile producers.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Bertone",
+        "linkedinUrl": "https://www.linkedin.com/in/marcobertone/",
+        "phoneNumber": "+447814900730",
+        "email": "marco@syntetica.co",
+        "apolloId": "6905e5a829b78b001d8833e8"
+      },
+      {
+        "role": "CTO",
+        "name": "Louis Monsigny",
+        "linkedinUrl": "https://www.linkedin.com/in/louis-monsigny-706b5585",
+        "phoneNumber": "+33672642401",
+        "email": "louis@syntetica.co",
+        "apolloId": "6905e5b530a9eb0021a88d0e"
+      }
+    ]
+  },
+  {
+    "name": "Unicorn Bio",
+    "description": "AI-powered robots to industrialize biology and enable scientific superintelligence.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "President",
+        "name": "Jack Reid",
+        "linkedinUrl": "https://www.linkedin.com/in/jack-reid-6a5505101/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Adam Glen",
+        "linkedinUrl": "https://www.linkedin.com/in/dradamglen/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "retab",
+    "description": "Document automation for developer teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Louis Benoist",
+        "linkedinUrl": "https://www.linkedin.com/in/louis-de-benoist",
+        "phoneNumber": "+33620955873",
+        "email": "louis@retab.com",
+        "apolloId": "6905e602a651b4000d3668c0"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Victor Plaisance",
+        "linkedinUrl": "https://www.linkedin.com/in/victor-plaisance-aa422643/",
+        "phoneNumber": "+33750200012",
+        "email": "victor@retab.com",
+        "apolloId": "6905e60fffeef700118366a3"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sacha Ichbiah",
+        "linkedinUrl": "https://www.linkedin.com/in/sacha-ichbiah/",
+        "phoneNumber": "+33602324618",
+        "email": "sacha@retab.com",
+        "apolloId": "6905e61ce6fd8500116b9d27"
+      }
+    ]
+  },
+  {
+    "name": "Audiogen",
+    "description": "AI copilot for audio production.",
+    "location": "London",
+    "industry": "Telecoms & Media",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elio Pascarelli",
+        "linkedinUrl": "https://uk.linkedin.com/in/eliopascarelli",
+        "phoneNumber": "+393483589770",
+        "email": "elio@audiogen.co",
+        "apolloId": "6905e629bfe6af00118df385"
+      },
+      {
+        "role": "CTO",
+        "name": "Jacopo Madaluni",
+        "linkedinUrl": "https://www.linkedin.com/in/jacopo-m-3538b4b3/",
+        "phoneNumber": "+447757215034",
+        "email": "jacopo@audiogen.co",
+        "apolloId": "6905e6357165d5000d1be5c6"
+      },
+      {
+        "role": "COO",
+        "name": "Emilio Pascarelli",
+        "linkedinUrl": "https://www.linkedin.com/in/emiliopascarelli/",
+        "phoneNumber": "+447951615391",
+        "email": "emilio@audiogen.co",
+        "apolloId": "6905e64288c24e0011bbf1b4"
+      }
+    ]
+  },
+  {
+    "name": "Upside Robotics",
+    "description": "Autonomous robots for crop nutrient management.",
+    "location": "New York",
+    "industry": "Agriculture & Farming",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jana Tian",
+        "linkedinUrl": "https://www.linkedin.com/in/janatian",
+        "phoneNumber": "4374250797",
+        "email": "jana@upsiderobotics.com",
+        "apolloId": "6905e64ff140350011946720"
+      },
+      {
+        "role": "CTO",
+        "name": "Sam Dugan",
+        "linkedinUrl": "https://www.linkedin.com/in/sam-dugan-873a3310a/",
+        "phoneNumber": "5198077986",
+        "email": "sam@upsiderobotics.com",
+        "apolloId": "6905e65d7cadb0000d6cb2d2"
+      }
+    ]
+  },
+  {
+    "name": "Tetsuwan Scientific",
+    "description": "AI-driven lab robots for life-science R&D.",
+    "location": "New York",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cristian Ponce",
+        "linkedinUrl": "https://www.linkedin.com/in/cristian-ponce-201b7b188/",
+        "phoneNumber": "9802750807",
+        "email": "ponce@tetsuwan.com",
+        "apolloId": "6905e6694e4a9e00154cdaa7"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Théo Schäfer",
+        "linkedinUrl": "https://www.linkedin.com/in/theo-schafer",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Hanomi",
+    "description": "AI assistants for 3D hardware design.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marco Mascolo",
+        "linkedinUrl": "https://uk.linkedin.com/in/marco-mascolo",
+        "phoneNumber": "+393272039314",
+        "email": "marco@hanomi.ai",
+        "apolloId": "6905e696c0078b001d68f660"
+      },
+      {
+        "role": "CTO",
+        "name": "Drishti Bhasin",
+        "linkedinUrl": "https://www.linkedin.com/in/drishti-bhasin-ab07531a9/",
+        "phoneNumber": "+917347012180",
+        "email": "drishti@hanomi.ai",
+        "apolloId": "6905e6a3af60840021966bca"
+      }
+    ]
+  },
+  {
+    "name": "Delfa",
+    "description": "AI agents for clinical trial management.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tom Farrand",
+        "linkedinUrl": "https://www.linkedin.com/in/farrandtom/",
+        "phoneNumber": "+447908088729",
+        "email": "tom@delfa.ai",
+        "apolloId": "6905e6b0e9530d0019ee81a5"
+      },
+      {
+        "role": "CTO",
+        "name": "Gustav Bredell",
+        "linkedinUrl": "https://www.linkedin.com/in/gustavbredell/",
+        "phoneNumber": "+41767322783",
+        "email": "gustav@delfa.ai",
+        "apolloId": "6905e6be4669970021cca7ce"
+      }
+    ]
+  },
+  {
+    "name": "Callosum",
+    "description": "A new kind of AI & compute company: accelerating the coevolution of intelligence & chips.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Danyal Akarca",
+        "linkedinUrl": "https://www.linkedin.com/in/danyalakarca/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Jascha Achterberg",
+        "linkedinUrl": "https://www.linkedin.com/in/jascha-achterberg/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Briefcase",
+    "description": "AI-native bookkeeping automation for accountants.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Reuben Steenkamp",
+        "linkedinUrl": "https://www.linkedin.com/in/reuben-steenkamp/",
+        "phoneNumber": "+447983240022",
+        "email": "reuben@briefcase.so",
+        "apolloId": "6905e70ad568d30015da68cc"
+      },
+      {
+        "role": "CTO",
+        "name": "Jan Stehlík",
+        "linkedinUrl": "https://www.linkedin.com/in/jan-stehlik-5855aa123",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Appstack",
+    "description": "AI-driven analytics for mobile apps.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucas Moscon",
+        "linkedinUrl": "https://www.linkedin.com/in/lucas-moscon/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Tom Darmon",
+        "linkedinUrl": "https://www.linkedin.com/in/tom-darmon/",
+        "phoneNumber": "+33622406556",
+        "email": "tom@app-stack.tech",
+        "apolloId": "6905e7570bfba8000eb10afb"
+      }
+    ]
+  },
+  {
+    "name": "Interface",
+    "description": "Autonomous safety expert for the industrial sector.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Thomas Lee Young",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-lee-young/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Aaryan Mehta",
+        "linkedinUrl": "https://www.linkedin.com/in/aaryanm02/",
+        "phoneNumber": "+447407362845",
+        "email": "aaryan@getinterface.ai",
+        "apolloId": "6905e78403077c000d13e526"
+      }
+    ]
+  },
+  {
+    "name": "APMI",
+    "description": "AI agents for short-term rental management.",
+    "location": "Paris",
+    "industry": "Travel & Hospitality",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vera Prohaska",
+        "linkedinUrl": "https://www.linkedin.com/in/vprohaska/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Diego Sanmartin",
+        "linkedinUrl": "https://www.linkedin.com/in/dsanmart/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Luo",
+    "description": "Cross-border payments for African importers.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hamza Benkirane",
+        "linkedinUrl": "https://www.linkedin.com/in/hamza-benkirane-2543a882/",
+        "phoneNumber": "+33663810797",
+        "email": "hamza.benkirane@luopay.co",
+        "apolloId": "6905e7d0036caa000de1db4a"
+      },
+      {
+        "role": "CPO",
+        "name": "Morgan Wirtz",
+        "linkedinUrl": "https://www.linkedin.com/in/morgan-wirtz/",
+        "phoneNumber": "+32485219544",
+        "email": "morgan.wirtz@luopay.co",
+        "apolloId": "6905e7dd3c6dc400110e6c4e"
+      }
+    ]
+  },
+  {
+    "name": "Asymmetric Security",
+    "description": "AI agents that fully automate cybersecurity incident response.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Alexis Carlier",
+        "linkedinUrl": "https://www.linkedin.com/in/alexis-carlier-995367170/",
+        "phoneNumber": "7208503124",
+        "email": "alexis@asymmetricsecurity.com",
+        "apolloId": "6905e7ea361d3800116b628e"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Zainab Ali Majid",
+        "linkedinUrl": "https://www.linkedin.com/in/zamajid/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Fabric",
+    "description": "Contextual search API for app developers.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eeshita Pande",
+        "linkedinUrl": "https://www.linkedin.com/in/eeshita-pande-441a87bb/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Massimo Albarello",
+        "linkedinUrl": "https://www.linkedin.com/in/massimoalbarello/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Peptobiotics",
+    "description": "Synthetic antimicrobial peptides for livestock health.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Bester",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathanbester/",
+        "phoneNumber": null,
+        "email": "jbester@peptobiotics.com",
+        "apolloId": "6905e8572073320015c1cf0e"
+      }
+    ]
+  },
+  {
+    "name": "ZeroEntropy",
+    "description": "AI retrieval for AI agents and RAG applications.",
+    "location": "San Francisco",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ghita Houir Alami",
+        "linkedinUrl": "https://www.linkedin.com/in/ghita-houir-alami/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Nicholas Pipitone",
+        "linkedinUrl": "https://www.linkedin.com/in/nicholas-pipitone/",
+        "phoneNumber": "5616289240",
+        "email": "pipitone@zeroentropy.dev",
+        "apolloId": "6905e8846dd1eb0011f3f428"
+      }
+    ]
+  },
+  {
+    "name": "PathFinder",
+    "description": "Personalized AI tutor for project learning.",
+    "location": "London",
+    "industry": "Consumer Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amaan Ahmad",
+        "linkedinUrl": "https://linkedin.com/in/amaankahmad",
+        "phoneNumber": "+447542096081",
+        "email": "amaan@heypathfinder.com",
+        "apolloId": "6905e8911d93be0019c3f641"
+      },
+      {
+        "role": "CTO",
+        "name": "Sidharth Jain",
+        "linkedinUrl": "https://linkedin.com/in/sidharth-jain02",
+        "phoneNumber": "6462326227",
+        "email": "sid@heypathfinder.com",
+        "apolloId": "6905e89e963b57000d0f0d5e"
+      }
+    ]
+  },
+  {
+    "name": "TORTUS",
+    "description": "AI co-pilot for clinical documentation.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dom Pimenta",
+        "linkedinUrl": "https://www.linkedin.com/in/dr-dominic-pimenta/",
+        "phoneNumber": null,
+        "email": "dom@tortus.ai",
+        "apolloId": "6905e8abb28cc0000d298c85"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Christopher Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/christopher-tan-a0383a12a/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Retail Pulse",
+    "description": "Shelf analytics for consumer goods teams.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Zaraif Hossain",
+        "linkedinUrl": "https://www.linkedin.com/in/zaraif13/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Anshul Gupta",
+        "linkedinUrl": "https://www.linkedin.com/in/anshulgupta0803",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Biographica",
+    "description": "Graph ML for plant gene discovery.",
+    "location": "London",
+    "industry": "Agriculture & Farming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Cecy Price",
+        "linkedinUrl": "http://www.linkedin.com/in/cecy-price-0aa21a10a",
+        "phoneNumber": "+447943298499",
+        "email": "cecy@graphica.bio",
+        "apolloId": "6905e918c3900b0019b832ac"
+      },
+      {
+        "role": "CTO",
+        "name": "Dominic Hall",
+        "linkedinUrl": "https://www.linkedin.com/in/dh486/",
+        "phoneNumber": "+447463732696",
+        "email": "dominic@graphica.bio",
+        "apolloId": "6905e92653dece0021705796"
+      }
+    ]
+  },
+  {
+    "name": "MetaVoice",
+    "description": "Voice AI that feels like talking to a friend.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sid Sharma",
+        "linkedinUrl": "https://www.linkedin.com/in/sidroopdaska/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Vatsal Aggarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/vatsal-aggarwal-993472104/",
+        "phoneNumber": "+447542342077",
+        "email": "vatsal@metavoice.io",
+        "apolloId": "6905e9531ad321000d5b50aa"
+      }
+    ]
+  },
+  {
+    "name": "LottieLab",
+    "description": "Collaborative Lottie animation editor.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Andrew Ologunebi",
+        "linkedinUrl": "https://www.linkedin.com/in/andrewologunebi/",
+        "phoneNumber": "+447552251734",
+        "email": "drew@lottielab.io",
+        "apolloId": "6905e96197ee7f0011f8f084"
+      },
+      {
+        "role": "CTO",
+        "name": "Alistair Thomson",
+        "linkedinUrl": "https://www.linkedin.com/in/alistair-thomson",
+        "phoneNumber": "+447801824023",
+        "email": "alistair@lottielab.io",
+        "apolloId": "6905e96d6bdaa70011a9f13c"
+      }
+    ]
+  },
+  {
+    "name": "Digger",
+    "description": "IaC automation for development teams.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Igor Zalutski",
+        "linkedinUrl": "https://www.linkedin.com/in/izalutski/",
+        "phoneNumber": "+447848870310",
+        "email": "igor@digger.dev",
+        "apolloId": "6905e97b0ae32f000d526bc6"
+      },
+      {
+        "role": "CTO",
+        "name": "Mohamed Habib",
+        "linkedinUrl": "https://www.linkedin.com/in/motatoes/",
+        "phoneNumber": "+447446163483",
+        "email": "mo@digger.dev",
+        "apolloId": "6905e988c3900b0015c78a74"
+      }
+    ]
+  },
+  {
+    "name": "DeepSpin",
+    "description": "Bringing MRI-scanners into the era of AI.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Clemens Tepel",
+        "linkedinUrl": "https://www.linkedin.com/in/cltepel/",
+        "phoneNumber": "+4915140470220",
+        "email": "clemens.tepel@deepspin.io",
+        "apolloId": "6905e995c10380002124be6f"
+      },
+      {
+        "role": "CTO",
+        "name": "Pedro Silva",
+        "linkedinUrl": "https://www.linkedin.com/in/pedrofreiresilva/",
+        "phoneNumber": "+4917657921515",
+        "email": "pedro.silva@deepspin.io",
+        "apolloId": "6905e9a2830fbb0011538f6b"
+      }
+    ]
+  },
+  {
+    "name": "Swaap",
+    "description": "Impermanent-loss resistant AMM for DeFi liquidity.",
+    "location": "Paris",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Cyrille Pastour",
+        "linkedinUrl": "https://www.linkedin.com/in/cyrille-pastour-baa54886/",
+        "phoneNumber": "+33624922075",
+        "email": "cp@swaap.finance",
+        "apolloId": "6905e9af4184e400198b4198"
+      },
+      {
+        "role": "Cofounder",
+        "name": "David Bouba",
+        "linkedinUrl": "https://www.linkedin.com/in/davidbouba/",
+        "phoneNumber": "+33699324914",
+        "email": "d@swaap.finance",
+        "apolloId": "6905e9bca651b4001d1068a2"
+      }
+    ]
+  },
+  {
+    "name": "ever dye",
+    "description": "Waterless dyeing for textile manufacturers.",
+    "location": "Paris",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ilan Palacci",
+        "linkedinUrl": "https://www.linkedin.com/in/ilan-palacci-463523bb/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Amira Erokh",
+        "linkedinUrl": "https://www.linkedin.com/in/amira-errokh/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Phycobloom",
+    "description": "Engineered algae for sustainable biofuels.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Waite",
+        "linkedinUrl": "https://www.linkedin.com/in/john-c-waite1/",
+        "phoneNumber": "+447826377563",
+        "email": "jc.waite@phycobloom.com",
+        "apolloId": "6905ea099214ca000dd76b4d"
+      },
+      {
+        "role": "CTO",
+        "name": "Ian Hu",
+        "linkedinUrl": "https://www.linkedin.com/in/ianhu1/",
+        "phoneNumber": "+447479733983",
+        "email": "ii.hu@phycobloom.com",
+        "apolloId": "6905ea166c8507001111e98b"
+      }
+    ]
+  },
+  {
+    "name": "Fleetcraft",
+    "description": "AI-driven engineering for aircraft operations.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Finn Cormac Quinlan",
+        "linkedinUrl": "https://www.linkedin.com/in/finn-quinlan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Ammar Naseer",
+        "linkedinUrl": "https://www.linkedin.com/in/aanaseer/",
+        "phoneNumber": "+447742739665",
+        "email": "anaseer@getfleetcraft.com",
+        "apolloId": "6905ea4313062f00198b2f02"
+      }
+    ]
+  },
+  {
+    "name": "Reflolabs",
+    "description": "AI-powered defect analysis for retail returns.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Shubhra Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/mishra-shubhra/",
+        "phoneNumber": "+918293415069",
+        "email": "shubhra@reflolabs.com",
+        "apolloId": "6905ea5014aefa001952f689"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhay Shukla",
+        "linkedinUrl": "https://www.linkedin.com/in/abhay-shukla1999/",
+        "phoneNumber": "3024807754",
+        "email": "abhay@reflolabs.com",
+        "apolloId": "6905ea5d940ddd000d915287"
+      }
+    ]
+  },
+  {
+    "name": "atomic",
+    "description": "AI-generated UX patterns for conversion optimization.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Hannes Verschueren",
+        "linkedinUrl": "https://www.linkedin.com/in/hannesverschueren/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Vladislav Samoilov",
+        "linkedinUrl": "https://www.linkedin.com/in/vladislav-samoilov-99bb351ba/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ulyssean",
+    "description": "Software and hardware to secure and verify large AI clusters.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacob Lagerros",
+        "linkedinUrl": "https://www.linkedin.com/in/jacob---/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Parakeet Security",
+    "description": "Security layer for Voice AI agents.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sima Reichenbach",
+        "linkedinUrl": "https://www.linkedin.com/in/sima-reichenbach-phd/",
+        "phoneNumber": "+447955040102",
+        "email": "sima@parakeetsecurity.ai",
+        "apolloId": "6905eaca641c28001d2a64cb"
+      },
+      {
+        "role": "cto",
+        "name": "Nick Braiman",
+        "linkedinUrl": "https://www.linkedin.com/in/nicholas-b-a97172164/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Assuric",
+    "description": "Regulatory compliance for digital health teams.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Paul Jewell",
+        "linkedinUrl": "http://www.linkedin.com/in/pauldavidjewell",
+        "phoneNumber": "+447936766977",
+        "email": "paul@assuric.com",
+        "apolloId": "6905eaf7fb2d920021d79259"
+      },
+      {
+        "role": "CTO",
+        "name": "Matt Jennings",
+        "linkedinUrl": "https://www.linkedin.com/in/matt-jennings-98a83718b",
+        "phoneNumber": "+447949498369",
+        "email": "matt@assuric.com",
+        "apolloId": "6905eb049ba5f1001d9839e9"
+      }
+    ]
+  },
+  {
+    "name": "Peripheral Labs",
+    "description": "Spatial AI for live sports and media production.",
+    "location": "San Francisco",
+    "industry": "Telecoms & Media",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kelvin Cui",
+        "linkedinUrl": "https://www.linkedin.com/in/kelvinwcui/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Mustafa Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/mustafarehanahmadkhan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "WilsonAI",
+    "description": "AI paralegal for corporate legal teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gus Neate",
+        "linkedinUrl": "https://www.linkedin.com/in/gus-neate?utm_source=share",
+        "phoneNumber": "+447929846514",
+        "email": "gus@getwilson.ai",
+        "apolloId": "6905eb516c850700154f2210"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Wang",
+        "linkedinUrl": "https://www.linkedin.com/in/alex-wang-53462a134",
+        "phoneNumber": "7738493312",
+        "email": "alex@getwilson.ai",
+        "apolloId": "6905eb5e6bd1e200214bc0b9"
+      }
+    ]
+  },
+  {
+    "name": "Inversion Semiconductor",
+    "description": "Manufacturing advanced chips using compact particle accelerators.",
+    "location": "London",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rohan Shishir Karthik",
+        "linkedinUrl": "https://www.linkedin.com/in/rohan-karthik-60a0b61b7/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Daniel Ricardo Vega Bermudez",
+        "linkedinUrl": "https://www.linkedin.com/in/daniel-r-vega/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Summations",
+    "description": "Research-paper summaries for higher-ed students.",
+    "location": "Toronto",
+    "industry": "Education",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jennifer Wang",
+        "linkedinUrl": "http://www.linkedin.com/in/ziyan-jennifer-wang",
+        "phoneNumber": "4167087315",
+        "email": "jennifer.wang@summations.com",
+        "apolloId": "6905ebab361d3800214872cc"
+      },
+      {
+        "role": "CTO",
+        "name": "Lazar Jovanovic",
+        "linkedinUrl": "https://www.linkedin.com/in/lazarjov/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Wexler",
+    "description": "AI assistant for legal professionals.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gregory Mostyn",
+        "linkedinUrl": "https://www.linkedin.com/in/gregory-mostyn-9b3a89b8/",
+        "phoneNumber": "+447845978720",
+        "email": "gregory@wexler.ai",
+        "apolloId": "6905ebd7f140350021babd1d"
+      },
+      {
+        "role": "CTO",
+        "name": "Kush Madlani",
+        "linkedinUrl": "http://www.linkedin.com/in/kush-madlani-08141580/",
+        "phoneNumber": "+447531504337",
+        "email": "kush@wexler.ai",
+        "apolloId": "6905ebe4fc7e5a001dd50f3c"
+      }
+    ]
+  },
+  {
+    "name": "Level Nine",
+    "description": "Enzyme catalysts for sustainable chemicals.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Seadna Quigley",
+        "linkedinUrl": "https://www.linkedin.com/in/seadnaquigley/",
+        "phoneNumber": "+31631043234",
+        "email": "seadna@levelninelabs.com",
+        "apolloId": "6905ebf2f33f1e0019f080e8"
+      },
+      {
+        "role": "CTO",
+        "name": "Emily Sheridan",
+        "linkedinUrl": "https://www.linkedin.com/in/emilysheridanprofile/",
+        "phoneNumber": "+49353833676706",
+        "email": "emily@levelninelabs.com",
+        "apolloId": "6905ebff07782d001d36f275"
+      }
+    ]
+  },
+  {
+    "name": "Axiom Therapeutics",
+    "description": "ML-driven covalent inhibitors for oncology teams.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ryan Geiser",
+        "linkedinUrl": "https://www.linkedin.com/in/ryangeiser",
+        "phoneNumber": "+447378174086",
+        "email": "ryan@axiom-therapeutics.com",
+        "apolloId": "6905ec0c0360c6000d13d86f"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Haggard",
+        "linkedinUrl": "https://www.linkedin.com/in/chris-haggard-295bab165/",
+        "phoneNumber": "+447446992427",
+        "email": "chris@axiom-therapeutics.com",
+        "apolloId": "6905ec19f0854c001de5e67f"
+      }
+    ]
+  },
+  {
+    "name": "Borderless",
+    "description": "Immigration compliance and sponsorship automation.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Matthew Bond",
+        "linkedinUrl": "https://www.linkedin.com/in/matthewpbond/",
+        "phoneNumber": "+447886889224",
+        "email": "matthew@getborderless.co.uk",
+        "apolloId": "6905ec26af608400219687d7"
+      },
+      {
+        "role": "CTO",
+        "name": "Jonathan Raphael",
+        "linkedinUrl": "https://www.linkedin.com/in/jono-raphael/",
+        "phoneNumber": "+447910389518",
+        "email": "jonathan@getborderless.co.uk",
+        "apolloId": "6905ec34641c28001d2a6e30"
+      }
+    ]
+  },
+  {
+    "name": "Drip.AI",
+    "description": "Water-from-air panels for farms and factories.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Oussama Harouch",
+        "linkedinUrl": "https://www.linkedin.com/in/oussamaharouch/",
+        "phoneNumber": "+6593500275",
+        "email": "oussama@drip-ai.com",
+        "apolloId": "6905ec4190b904002187a74b"
+      },
+      {
+        "role": "CTO",
+        "name": "Ramadan Borayek",
+        "linkedinUrl": "https://www.linkedin.com/in/ramadan-borayek-73560638/",
+        "phoneNumber": "+6596537030",
+        "email": "ramadan@drip-ai.com",
+        "apolloId": "6905ec4e361d3800214877f2"
+      }
+    ]
+  },
+  {
+    "name": "Tonk Labs",
+    "description": "Vibe coding for custom dashboards.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Harry Kingdon",
+        "linkedinUrl": "https://www.linkedin.com/in/harry-kingdon-12b00a126/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Gavin Owens",
+        "linkedinUrl": "https://www.linkedin.com/in/gavin-owens-21887346/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Vantager",
+    "description": "AI-powered diligence and reporting platform for LPs.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mason Lender",
+        "linkedinUrl": "https://www.linkedin.com/in/masonlender/",
+        "phoneNumber": "8056899201",
+        "email": "mason@vantager.com",
+        "apolloId": "6905ec9b7cadb000216da4e1"
+      },
+      {
+        "role": "CTO",
+        "name": "Nicolas Neven",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-neven-494577186/",
+        "phoneNumber": "3106992507",
+        "email": "nicolas@vantager.com",
+        "apolloId": "6905eca8e36268000dc74234"
+      }
+    ]
+  },
+  {
+    "name": "Reya Labs",
+    "description": "Fixed-vs-variable swap AMM for DeFi.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simon Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/simon-jones-9498239b/",
+        "phoneNumber": "+447919064985",
+        "email": "simon@reya.xyz",
+        "apolloId": "6905ecb64669970021ccb5b1"
+      },
+      {
+        "role": "CTO",
+        "name": "Artur Begyan",
+        "linkedinUrl": "https://www.linkedin.com/in/arturbegyan/",
+        "phoneNumber": "+447594887739",
+        "email": "artur@reya.xyz",
+        "apolloId": "6905ecc300d45000115e1034"
+      }
+    ]
+  },
+  {
+    "name": "TextCortex",
+    "description": "AI agents for enterprise workflow automation.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dominik Lambersy",
+        "linkedinUrl": "https://www.linkedin.com/in/lambersy/",
+        "phoneNumber": "+491722813968",
+        "email": "dominik@textcortex.com",
+        "apolloId": "6905ecd0baa1b400210fdbcf"
+      },
+      {
+        "role": "CTO",
+        "name": "Ceyhun Derinbogaz",
+        "linkedinUrl": "http://linkedin.com/in/ceyhunderinbogaz",
+        "phoneNumber": "+4915158041814",
+        "email": "ceyhun@textcortex.com",
+        "apolloId": "6905ecdd0bfba8001e73e35d"
+      }
+    ]
+  },
+  {
+    "name": "Greenitio",
+    "description": "Bio-based polymers for CPG brands.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amit Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/amit-kumar-khan-970a5368",
+        "phoneNumber": null,
+        "email": "amit@greenitio.com",
+        "apolloId": "6905ecea13062f0021a923f2"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Susmita Roy",
+        "linkedinUrl": "https://www.linkedin.com/in/susmita-roy-800004154/",
+        "phoneNumber": "+6583430089",
+        "email": "susmita@greenitio.com",
+        "apolloId": "6905ecf8d3b14c00150c43af"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Paul Ceralde",
+        "linkedinUrl": "https://www.linkedin.com/in/paulceralde/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Iterate AI",
+    "description": "Product analytics setup for nontechnical teams.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Shubhram Bhattacharya",
+        "linkedinUrl": "https://www.linkedin.com/in/itsshubho",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Saksham Aggarwal",
+        "linkedinUrl": "http://linkedin.com/in/sakshamagg27",
+        "phoneNumber": "+918872711250",
+        "email": "saksham@iterate-ai.com",
+        "apolloId": "6905ed45830fbb001d75a3c3"
+      }
+    ]
+  },
+  {
+    "name": "RecurseML",
+    "description": "Fixing bugs in AI-generated code.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jack Jackson",
+        "linkedinUrl": "https://www.linkedin.com/in/jackjacksoncs/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Armins Stepanjans",
+        "linkedinUrl": "https://www.linkedin.com/in/arminbagrat/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "HumanBit",
+    "description": "Figma-style prototyping for spatial apps.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishabh Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/rishabh-iitkgp/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Empirical Bio",
+    "description": "ML-guided biomolecule design for biotech firms.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jamie Weigold",
+        "linkedinUrl": "https://www.linkedin.com/in/jamie-weigold-4aa188106/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "NeuroSonic",
+    "description": "Instant stroke-risk assessment for clinicians.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mike Ryan",
+        "linkedinUrl": "https://www.linkedin.com/in/mike-ryan-tcd/",
+        "phoneNumber": "+48696008405",
+        "email": "mike.ryan@neuro-sonic.com",
+        "apolloId": "6905edd35e4bbe0019a213b7"
+      },
+      {
+        "role": "CTO",
+        "name": "Matthew Campbell",
+        "linkedinUrl": "https://www.linkedin.com/in/matthew-campbell-eng/",
+        "phoneNumber": "+353851810586",
+        "email": "matthew.campbell@neuro-sonic.com",
+        "apolloId": "6905ede15a920f001146f738"
+      }
+    ]
+  },
+  {
+    "name": "CamPlan",
+    "description": "AR design assistant for interiors and renovations.",
+    "location": "London",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Viktor Maric",
+        "linkedinUrl": "https://www.linkedin.com/in/viktor-maric-650006183",
+        "phoneNumber": "+36205348232",
+        "email": "viktor@camplan.ai",
+        "apolloId": "6905edee830fbb001d75b1d3"
+      }
+    ]
+  },
+  {
+    "name": "Kortix AI",
+    "description": "AI workforce management for enterprise teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marko Kraemer",
+        "linkedinUrl": "https://de.linkedin.com/in/markokraemer?trk=author_mini-profile_title",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Solight",
+    "description": "Automated QA agents for software teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Antoine Levy",
+        "linkedinUrl": "https://www.linkedin.com/in/antoine-levyy/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Valentin De Matos",
+        "linkedinUrl": "https://www.linkedin.com/in/valentin-de-matos/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "syn2core",
+    "description": "AI co-pilot for automotive assembly teams.",
+    "location": "Paris",
+    "industry": "Automotive & Mobility",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elise Chen",
+        "linkedinUrl": "https://www.linkedin.com/in/elise-c-6b7b4bb8/",
+        "phoneNumber": "+4915225888886",
+        "email": null,
+        "apolloId": "6905ee5b963b570015ae3413"
+      },
+      {
+        "role": "CTO",
+        "name": "Saman Vafadar",
+        "linkedinUrl": "https://www.linkedin.com/in/saman-vafadar/",
+        "phoneNumber": "+33658244719",
+        "email": "saman.vafadar@syn2core.com",
+        "apolloId": "6905ee68d11f8a0011179e5c"
+      }
+    ]
+  },
+  {
+    "name": "A51",
+    "description": "Programmable RNA for cell modulation.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marina Katava",
+        "linkedinUrl": "https://www.linkedin.com/in/marina-katava/",
+        "phoneNumber": "+33781868932",
+        "email": "marina.katava@a51tx.com",
+        "apolloId": "6905ee757cadb0000d6cbc35"
+      },
+      {
+        "role": "CTO",
+        "name": "Viktor Zahoransky",
+        "linkedinUrl": "https://www.linkedin.com/in/viktor-wendelin-zahoransky/",
+        "phoneNumber": null,
+        "email": "viktor.w.zahoransky@a51tx.com",
+        "apolloId": "6905ee8100eb650011e06016"
+      }
+    ]
+  },
+  {
+    "name": "Genie Fertility",
+    "description": "Non-invasive womb-tissue diagnostics for IVF patients.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anoushka Menon",
+        "linkedinUrl": "https://www.linkedin.com/in/anoushkamenon/",
+        "phoneNumber": "+447772112003",
+        "email": "anoushka@geniefertility.com",
+        "apolloId": "6905ee8f8207cc000dfdb210"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Andreas Hadjimitsis",
+        "linkedinUrl": "https://www.linkedin.com/in/andreas-hadjimitsis-1x/",
+        "phoneNumber": "+447780440936",
+        "email": "andreas@geniefertility.com",
+        "apolloId": "6905ee9ce6fd8500116ba388"
+      }
+    ]
+  },
+  {
+    "name": "InteractionLabs",
+    "description": "Pixar lamp irl.",
+    "location": "Paris",
+    "industry": "Consumer Products",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Karim Rkha Chaham",
+        "linkedinUrl": "https://www.linkedin.com/in/karim-rkha-chaham-0a29601ab/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Julien Ajdenbaum",
+        "linkedinUrl": "https://www.linkedin.com/in/julien-ajdenbaum-7abb23144/",
+        "phoneNumber": "+33768161901",
+        "email": "julien@interaction-labs.com",
+        "apolloId": "6905eec8990bf2001de353cf"
+      }
+    ]
+  },
+  {
+    "name": "Repello AI",
+    "description": "AI red teaming for GenAI security.",
+    "location": "Bangalore",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aryaman Behera",
+        "linkedinUrl": "https://linkedin.com/in/aryaman-behera",
+        "phoneNumber": "+918527216039",
+        "email": "aryaman@repello.ai",
+        "apolloId": "6905eed514351d0021c01dbd"
+      },
+      {
+        "role": "CTO",
+        "name": "Naman Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/naman-mishra-913009195/",
+        "phoneNumber": "+916377343178",
+        "email": "naman@repelloai.com",
+        "apolloId": "6905eee25f5d43002176b934"
+      }
+    ]
+  },
+  {
+    "name": "Ariana.dev",
+    "description": "Autonomous bug-fixing development assistant.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Isaline Goudeau",
+        "linkedinUrl": "https://www.linkedin.com/in/isaline-goudeau-5a1b4a163/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO & Current CEO",
+        "name": "Anicet Nougaret",
+        "linkedinUrl": "http://www.linkedin.com/in/anicet-nougaret-b7846b174",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Contineu",
+    "description": "Computer vision for construction progress tracking.",
+    "location": "Bangalore",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Harshil Naik",
+        "linkedinUrl": "https://www.linkedin.com/in/harshilnaikk/",
+        "phoneNumber": null,
+        "email": "harshil@contineu.ai",
+        "apolloId": "6905ef30c3900b0015c798b6"
+      },
+      {
+        "role": "CTO",
+        "name": "Kanao Ramesh",
+        "linkedinUrl": "https://www.linkedin.com/in/rkanao",
+        "phoneNumber": "+919080316018",
+        "email": "kanao@contineu.ai",
+        "apolloId": "6905ef3d7cadb000216dac3c"
+      }
+    ]
+  },
+  {
+    "name": "Thalya",
+    "description": "RNAi spray to enhance crop nitrogen efficiency.",
+    "location": "Paris",
+    "industry": "Agriculture & Farming",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Théo Hoenen",
+        "linkedinUrl": "https://www.linkedin.com/in/théo-hoenen/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Hayat Sehki",
+        "linkedinUrl": "https://www.linkedin.com/in/hayatsehki",
+        "phoneNumber": "+33623247286",
+        "email": "hayat@thalya.bio",
+        "apolloId": "6905ef692ff61c0015a1a285"
+      }
+    ]
+  },
+  {
+    "name": "HelmGuard AI",
+    "description": "Cybersecurity superintelligence platform for human and AI teams.",
+    "location": "London",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Daley",
+        "linkedinUrl": "https://www.linkedin.com/in/john-daley-a6a51936/",
+        "phoneNumber": "6507984590",
+        "email": "john@helmguard.ai",
+        "apolloId": "6905ef77a71f66001941b75c"
+      },
+      {
+        "role": "CTO",
+        "name": "Jack Miller",
+        "linkedinUrl": "https://www.linkedin.com/in/jack-w-miller/",
+        "phoneNumber": "+61412890447",
+        "email": "jack@helmguard.ai",
+        "apolloId": "6905ef838207cc000dfdb997"
+      }
+    ]
+  },
+  {
+    "name": "Synthera AI",
+    "description": "AI-generated market simulations for investor strategy testing.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mariana Barona",
+        "linkedinUrl": "https://www.linkedin.com/in/mariana-barona-09973b168/",
+        "phoneNumber": "+447930209898",
+        "email": "mariana.barona@synthera-ai.com",
+        "apolloId": "6905ef90c89cb50015cb7d11"
+      },
+      {
+        "role": "CTO",
+        "name": "Lukas Schreiner",
+        "linkedinUrl": "http://www.linkedin.com/in/lukas-schreiner",
+        "phoneNumber": "+41788984440",
+        "email": "lukas.schreiner@synthera-ai.com",
+        "apolloId": "6905ef9e5a920f0015699a6c"
+      }
+    ]
+  },
+  {
+    "name": "toby",
+    "description": "Real-time speech and text translation for global conversations.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucas Campa",
+        "linkedinUrl": "https://www.linkedin.com/in/lucas-campa/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Vincent Wilmet",
+        "linkedinUrl": "https://www.linkedin.com/in/vincent--wilmet/",
+        "phoneNumber": "7863425526",
+        "email": "vincent@trytoby.com",
+        "apolloId": "6905efcb01356e00215d24ad"
+      }
+    ]
+  },
+  {
+    "name": "Prefer",
+    "description": "Flavours and ingredients from fermentation.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jake Berber",
+        "linkedinUrl": "https://www.linkedin.com/in/jakeberber",
+        "phoneNumber": "5122997110",
+        "email": "jake@prefer.bio",
+        "apolloId": "6905efd8ff177000151ec928"
+      },
+      {
+        "role": "CTO",
+        "name": "Ding Jie Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/djtansg",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ressl AI",
+    "description": "AI Salesforce Engineer.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arushi Gandhi",
+        "linkedinUrl": "https://www.linkedin.com/in/arushi-gandhi/",
+        "phoneNumber": "+919323017320",
+        "email": "arushi@ressl.ai",
+        "apolloId": "6905f004d568d30011f73e7a"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhishek Eswaran",
+        "linkedinUrl": "https://www.linkedin.com/in/abhishek-e-b436231a4/",
+        "phoneNumber": "+917824027584",
+        "email": "abhishek@ressl.ai",
+        "apolloId": "6905f012c89cb50019c43355"
+      }
+    ]
+  },
+  {
+    "name": "Spot",
+    "description": "API for at-home clinical sample collection.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Andrew Jajack",
+        "linkedinUrl": "https://www.linkedin.com/in/ajajack/",
+        "phoneNumber": "3304188871",
+        "email": "andrew@spotdx.com",
+        "apolloId": "6905f020baa1b4000d0d28d4"
+      }
+    ]
+  },
+  {
+    "name": "Wisent",
+    "description": "World's best AI.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Łukasz Bartoszcze",
+        "linkedinUrl": "https://www.linkedin.com/in/lbartoszcze/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Sartor",
+    "description": "The Canva for fashion design and manufacturing.",
+    "location": "London",
+    "industry": "Logistics",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jemima Bunbury",
+        "linkedinUrl": "https://www.linkedin.com/in/jemima-b-316a2b108/",
+        "phoneNumber": "+447553610756",
+        "email": "jemima@joinsartor.com",
+        "apolloId": "6905f04e3e2f49000de1d20b"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Daan Ferdinandusse",
+        "linkedinUrl": "https://www.linkedin.com/in/daan-ferdinandusse/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Locksmith Bio",
+    "description": "Drugging the undruggable.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ajitesh Lunge",
+        "linkedinUrl": "https://www.linkedin.com/in/ajitesh-lunge/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Yashas Devasurmutt",
+        "linkedinUrl": "https://www.linkedin.com/in/yashas-devasurmutt/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Haystack",
+    "description": "Delivery analytics for engineering teams.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julian Colina",
+        "linkedinUrl": "https://www.linkedin.com/in/julian-colina-b430b776/",
+        "phoneNumber": "8582391194",
+        "email": "julian@usehaystack.io",
+        "apolloId": "6905f0b9a4ff0e0015f2d235"
+      },
+      {
+        "role": "CTO",
+        "name": "Kan Yilmaz",
+        "linkedinUrl": "https://www.linkedin.com/in/thellimist",
+        "phoneNumber": "+6587428784",
+        "email": "kan@usehaystack.io",
+        "apolloId": "6905f0c714aefa001dbeb57d"
+      }
+    ]
+  },
+  {
+    "name": "Lucent",
+    "description": "Cursor for creators.",
+    "location": "London",
+    "industry": "Marketing & Advertising",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alex Koumpas",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandroskoumpas/",
+        "phoneNumber": "+447767481340",
+        "email": "alex@lucentchat.com",
+        "apolloId": "6905f0d41ad3210019db2eb4"
+      },
+      {
+        "role": "CTO",
+        "name": "Dimitrios Panagiotopoulos",
+        "linkedinUrl": "https://www.linkedin.com/in/dimitrios-panagiotopoulos/?originalSubdomain=uk",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Arda Biomaterials",
+    "description": "Circular biomaterials from waste feedstocks.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Brett Cotten",
+        "linkedinUrl": "https://www.linkedin.com/in/brett-a-cotten",
+        "phoneNumber": "+447399059925",
+        "email": "brett@arda.bio",
+        "apolloId": "6905f101c7af7c0021778528"
+      },
+      {
+        "role": "CTO",
+        "name": "Edward TJ Mitchell",
+        "linkedinUrl": "https://www.linkedin.com/in/edward-j-mitchell/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "quso.ai",
+    "description": "AI for streamlined video content creation.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vedant Maheshwari Maheshwari",
+        "linkedinUrl": "https://www.linkedin.com/in/vedant-maheshwari/",
+        "phoneNumber": "+917727950956",
+        "email": "vedant@quso.ai",
+        "apolloId": "6905f12d53dece0011d3b99e"
+      },
+      {
+        "role": "CTO",
+        "name": "Kushagra Pandya",
+        "linkedinUrl": "https://www.linkedin.com/in/tsaingra",
+        "phoneNumber": "+919884206231",
+        "email": "kushagra@vidyo.ai",
+        "apolloId": "6905f13a267a7f0011c2f3e4"
+      }
+    ]
+  },
+  {
+    "name": "Rightbot",
+    "description": "Autonomous unloading robots for warehouses.",
+    "location": "Bangalore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anurag Dutta",
+        "linkedinUrl": "https://www.linkedin.com/in/anurag-dutta-3078016/",
+        "phoneNumber": "+919873338936",
+        "email": "anurag@rightbot.com",
+        "apolloId": "6905f148c3900b000debe309"
+      },
+      {
+        "role": "CTO",
+        "name": "Abhinav Warrier",
+        "linkedinUrl": "https://www.linkedin.com/in/amber-shafi/",
+        "phoneNumber": "+917021283509",
+        "email": "abhinav@rightbot.com",
+        "apolloId": "6905f15597ee7f00198e9059"
+      }
+    ]
+  },
+  {
+    "name": "Beatoven.ai",
+    "description": "Fairly trained AI-composed royalty-free music for creators.",
+    "location": "Bangalore",
+    "industry": "Telecoms & Media",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mansoor Rahimat Khan",
+        "linkedinUrl": "https://www.linkedin.com/in/mansoorkhansitar/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Siddharth Bhardwaj",
+        "linkedinUrl": "https://www.linkedin.com/in/sid0710/",
+        "phoneNumber": "+918197238177",
+        "email": "siddharth@beatoven.ai",
+        "apolloId": "6905f1827165d5001d579bb4"
+      }
+    ]
+  },
+  {
+    "name": "GreenLeaze",
+    "description": "Subscription leasing for e-commerce merchants.",
+    "location": "Paris",
+    "industry": "Financial Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stéphane Richard",
+        "linkedinUrl": "https://www.linkedin.com/in/st%C3%A9phane-richard-/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Hippolyte Bach",
+        "linkedinUrl": "https://www.linkedin.com/in/hippolyte-bach",
+        "phoneNumber": "+33673633207",
+        "email": "hippolyte@greenleaze.com",
+        "apolloId": "6905f1ae5db999000dba5e76"
+      }
+    ]
+  },
+  {
+    "name": "Pyto",
+    "description": "Voice AI for inbound sales conversion.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alexandre Taillandier",
+        "linkedinUrl": "https://www.linkedin.com/in/alexandre-taillandier/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "cto",
+        "name": "Antoine Bellion",
+        "linkedinUrl": "https://www.linkedin.com/in/abellion",
+        "phoneNumber": "+33750491274",
+        "email": "antoine@pyto.co",
+        "apolloId": "6905f1db660f38000d8de6ed"
+      }
+    ]
+  },
+  {
+    "name": "VoltaBack",
+    "description": "Charging session management for fleet EVs.",
+    "location": "Paris",
+    "industry": "Automotive & Mobility",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arnaud Tran",
+        "linkedinUrl": "https://www.linkedin.com/in/arnaud-tran/",
+        "phoneNumber": "+33667165120",
+        "email": "atran@volta-back.com",
+        "apolloId": "6905f1e8641c280015606bed"
+      },
+      {
+        "role": "CTO",
+        "name": "Adrien Guenard",
+        "linkedinUrl": "https://www.linkedin.com/in/adrien-guenard-854806195/",
+        "phoneNumber": "+33649144321",
+        "email": "aguenard@volta-back.com",
+        "apolloId": "6905f1f56126ac001df11ba3"
+      }
+    ]
+  },
+  {
+    "name": "Lucentia",
+    "description": "AI-powered cardiac diagnostics.",
+    "location": "Paris",
+    "industry": "Healthcare",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sahar Jalal",
+        "linkedinUrl": "https://www.linkedin.com/in/sahar-jalal/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Bubble Robotics",
+    "description": "Autonomous underwater robots for marine work.",
+    "location": "Paris",
+    "industry": "Energy & Utilities",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jean Crosetti",
+        "linkedinUrl": "https://www.linkedin.com/in/jean-crosetti/",
+        "phoneNumber": "+33651564009",
+        "email": "jean@bubble-robotics.com",
+        "apolloId": "6905f2229a7268000de8b18b"
+      },
+      {
+        "role": "CTO",
+        "name": "Patricia Apostol",
+        "linkedinUrl": "https://www.linkedin.com/in/patricia-apostol/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905f2302987b1000d0675bb"
+      }
+    ]
+  },
+  {
+    "name": "Belidor",
+    "description": "The construction intelligence layer.",
+    "location": "Paris",
+    "industry": "Construction & Real Estate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Marc Apicella",
+        "linkedinUrl": "https://www.linkedin.com/in/marcapicella/",
+        "phoneNumber": "5186412940",
+        "email": null,
+        "apolloId": "6905f23f60d8490011abb99c"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Baptiste Grandclerc",
+        "linkedinUrl": "https://www.linkedin.com/in/baptiste-grandclerc-65b7ab51/",
+        "phoneNumber": "+33673667942",
+        "email": null,
+        "apolloId": "6905f24c361d3800116b7164"
+      }
+    ]
+  },
+  {
+    "name": "SunGreenH2",
+    "description": "On-site green hydrogen electrolysers for industry.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tulika Raj",
+        "linkedinUrl": "https://www.linkedin.com/in/tulika-raj-3a14141",
+        "phoneNumber": null,
+        "email": "tulika@sungreenh2.com",
+        "apolloId": "6905f2592987b1001139245e"
+      },
+      {
+        "role": "CTO",
+        "name": "Saeid masudy panah",
+        "linkedinUrl": "https://sg.linkedin.com/in/saeid-masudy-panah",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Unsiloed AI",
+    "description": "AI agents for unstructured financial data.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aman Mishra",
+        "linkedinUrl": "https://www.linkedin.com/in/aman005/",
+        "phoneNumber": "+917431049767",
+        "email": "aman@unsiloed.ai",
+        "apolloId": "6905f287af60840015208229"
+      },
+      {
+        "role": "CTO",
+        "name": "Adnan Abbas",
+        "linkedinUrl": "https://www.linkedin.com/in/adnan-abbas-903b711a2/",
+        "phoneNumber": "+918910462853",
+        "email": "adnan.abbas@unsiloed-ai.com",
+        "apolloId": "6905f2943d0621001174d4f0"
+      }
+    ]
+  },
+  {
+    "name": "Autoset",
+    "description": "Targeted data generation for AI developers.",
+    "location": "Bangalore",
+    "industry": "Developer Tools",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Saicharan Ganapathy",
+        "linkedinUrl": "https://www.linkedin.com/in/saicharan-ganapathy-1b59b91b3/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Aditya Mohan",
+        "linkedinUrl": "https://www.linkedin.com/in/aditya-mohan-96300818b/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CPO",
+        "name": "Dev Desai",
+        "linkedinUrl": "https://www.linkedin.com/in/dev-moxaj-desai/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Aule Space",
+    "description": "Jetpacks for life-extension of satellites.",
+    "location": "Bangalore",
+    "industry": "Aerospace & Defence",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jay Panchal",
+        "linkedinUrl": "https://www.linkedin.com/in/-jaypanchal/",
+        "phoneNumber": "+917359353321",
+        "email": "jay@aule.space",
+        "apolloId": "6905f30213091c00215ade36"
+      },
+      {
+        "role": "CTO",
+        "name": "Nithyaa Giri",
+        "linkedinUrl": "https://www.linkedin.com/in/nithyaashree/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "COO",
+        "name": "Hrishit Tambi",
+        "linkedinUrl": "https://www.linkedin.com/in/hrishit-tambi/",
+        "phoneNumber": "+917733882212",
+        "email": "hrishit@aule.space",
+        "apolloId": "6905f32ffde143001941ca5a"
+      }
+    ]
+  },
+  {
+    "name": "Metris",
+    "description": "AI-native OS for renewables.",
+    "location": "London",
+    "industry": "Energy & Utilities",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Natasha Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/natasha-jones-url/",
+        "phoneNumber": "+447521700761",
+        "email": "natasha@metrisenergy.com",
+        "apolloId": "6905f33c00eb65001d269c79"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "William Whatley",
+        "linkedinUrl": "https://www.linkedin.com/in/wwwhatley/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Asteroid",
+    "description": "Runtime supervision for AI agents.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "David Mlcoch",
+        "linkedinUrl": "https://www.linkedin.com/in/davidmlcoch/",
+        "phoneNumber": "+420720656933",
+        "email": "david@asteroid.ai",
+        "apolloId": "6905f36960d8490021e7d5f5"
+      },
+      {
+        "role": "CTO",
+        "name": "Joe Hewett",
+        "linkedinUrl": "https://x.com/simulated_land",
+        "phoneNumber": "3232522511",
+        "email": "joe@asteroid.ai",
+        "apolloId": "6905f377c7af7c001d292463"
+      }
+    ]
+  },
+  {
+    "name": "Asterix Health",
+    "description": "The modern workforce solution for UK healthcare.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Julian Titz",
+        "linkedinUrl": "https://www.linkedin.com/in/juliantitz/",
+        "phoneNumber": "+442046148491",
+        "email": "julian.titz@asterix.health",
+        "apolloId": "6905f38577498100210aeb80"
+      },
+      {
+        "role": "COO",
+        "name": "Max Thilo",
+        "linkedinUrl": "https://www.linkedin.com/in/max-thilo-b3150427a/",
+        "phoneNumber": "+447484689387",
+        "email": "max@asterix.health",
+        "apolloId": "6905f39303db3a000dece919"
+      }
+    ]
+  },
+  {
+    "name": "Mutable Tactics",
+    "description": "Physical AI platform for collaborative robotics.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Colin MacLeod",
+        "linkedinUrl": "https://www.linkedin.com/in/colin-macleod-33a80714/",
+        "phoneNumber": "+447875650705",
+        "email": "colin@mutabletactics.ai",
+        "apolloId": "6905f3a014aefa0021c7467c"
+      },
+      {
+        "role": "CTO",
+        "name": "Enrique Munoz de Cote",
+        "linkedinUrl": "https://www.linkedin.com/in/enriquedecote/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "The Personal AI Company",
+    "description": "AI companion for personal productivity.",
+    "location": "London",
+    "industry": "Consumer Products",
+    "founded": "2025",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Sanskar Jethi",
+        "linkedinUrl": "https://www.linkedin.com/in/sanskar123/",
+        "phoneNumber": "+919868415819",
+        "email": "sanskar@thepersonalaicompany.com",
+        "apolloId": "6905f3cd3069420015eadf1a"
+      },
+      {
+        "role": "CTO",
+        "name": "Arsen Kylyshbek",
+        "linkedinUrl": "https://linkedin.com/in/arsenkk",
+        "phoneNumber": "4083968040",
+        "email": "ak@thepersonalaicompany.com",
+        "apolloId": "6905f3dbef39c400196eef48"
+      }
+    ]
+  },
+  {
+    "name": "VIBE",
+    "description": "AI for daily reflection with friends.",
+    "location": "London",
+    "industry": "Consumer Products",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stelio Ropokis",
+        "linkedinUrl": "https://www.linkedin.com/in/stelioropokis/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Thomas Metcalfe",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-metcalfe",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Arctas",
+    "description": "Government contracting automation for small businesses.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luke Nascimento",
+        "linkedinUrl": "https://www.linkedin.com/in/luke-nascimento/",
+        "phoneNumber": "4752324240",
+        "email": null,
+        "apolloId": "6905f42990b9040015c9052a"
+      }
+    ]
+  },
+  {
+    "name": "Compass Labs",
+    "description": "DeFi protocol simulation infrastructure.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Elisabeth Duijnstee",
+        "linkedinUrl": "http://www.linkedin.com/in/elisabeth-duijnstee-9104b7124",
+        "phoneNumber": "+447432206832",
+        "email": "elisabeth@compasslabs.ai",
+        "apolloId": "6905f436d54d9c00152e7b73"
+      },
+      {
+        "role": "CEO",
+        "name": "Rohan Tangri",
+        "linkedinUrl": "http://www.linkedin.com/in/rohan-tangri",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lodestar",
+    "description": "The first autonomous, AI fighter pilot for space.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Neil Buchanan",
+        "linkedinUrl": "https://www.linkedin.com/in/neil-buchanan/",
+        "phoneNumber": "+447787203533",
+        "email": "neil@lodestarspace.com",
+        "apolloId": "6905f4637cadb000153d32ee"
+      },
+      {
+        "role": "CTO",
+        "name": "Thomas Santini",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-santini/",
+        "phoneNumber": "+447881387357",
+        "email": "thomas@lodestarspace.com",
+        "apolloId": "6905f471e14c6f00219fdb32"
+      }
+    ]
+  },
+  {
+    "name": "Kaio Labs",
+    "description": "Accelerating the transition to sustainable fuels and chemicals through AI-powered discovery.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "William Purvis",
+        "linkedinUrl": "https://www.linkedin.com/in/williampurvis00/",
+        "phoneNumber": "+447771227548",
+        "email": "will@kaiolabs.com",
+        "apolloId": "6905f47e00eb6500151d3bed"
+      },
+      {
+        "role": "CTO",
+        "name": "Yash Sinha",
+        "linkedinUrl": "https://www.linkedin.com/in/yash-sinha-556b411b3/",
+        "phoneNumber": "+41772220072",
+        "email": "yash@kaiolabs.com",
+        "apolloId": "6905f48c7dfbdb002196803a"
+      }
+    ]
+  },
+  {
+    "name": "Crane Biosciences",
+    "description": "Red blood cell-derived nanoparticle platform for brain mRNA delivery.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luca Bolondi",
+        "linkedinUrl": "https://www.linkedin.com/in/luca-bolondi/",
+        "phoneNumber": "+971585791507",
+        "email": "luca.bolondi@cranebio.com",
+        "apolloId": "6905f4990360c600191a71e3"
+      },
+      {
+        "role": "CTO",
+        "name": "Sujaan Das",
+        "linkedinUrl": "https://www.linkedin.com/in/sujaandas",
+        "phoneNumber": "+447835495856",
+        "email": "sujaan.das@cranebio.com",
+        "apolloId": "6905f4a6ea1adf0015b60aba"
+      }
+    ]
+  },
+  {
+    "name": "Noah Labs",
+    "description": "Voice-based heart failure monitoring.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Oliver Piepenstock",
+        "linkedinUrl": "https://www.linkedin.com/in/oliver-piepenstock/",
+        "phoneNumber": "+491744773585",
+        "email": "oliver.piepenstock@noah-labs.com",
+        "apolloId": "6905f4b3e16ad500190cdb2b"
+      },
+      {
+        "role": "CTO",
+        "name": "Marcus Hott",
+        "linkedinUrl": "https://www.linkedin.com/in/marcus-hott-082227151/",
+        "phoneNumber": "+4917672295937",
+        "email": "marcus.hott@noah-labs.com",
+        "apolloId": "6905f4c14184e4000decce9b"
+      }
+    ]
+  },
+  {
+    "name": "Peakflo",
+    "description": "AI for finance operations automation.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Saurabh Chauhan",
+        "linkedinUrl": "https://www.linkedin.com/in/saurabh-chauhan/",
+        "phoneNumber": "+493052018",
+        "email": "saurabh@peakflo.co",
+        "apolloId": "6905f4ced0d24b0021ca7f18"
+      },
+      {
+        "role": "CTO",
+        "name": "Dmitry Vedenyapin",
+        "linkedinUrl": "https://www.linkedin.com/in/dmitryvedenyapin/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Fairmart",
+    "description": "Instant inventory digitization for retailers.",
+    "location": "Singapore",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jan Gasparic",
+        "linkedinUrl": "https://hk.linkedin.com/in/jangasparic",
+        "phoneNumber": "+8613823643673",
+        "email": "jan@fairmart.app",
+        "apolloId": "6905f4fb9ba5f10021b8711a"
+      },
+      {
+        "role": "CTO",
+        "name": "Daniil Moskovtsov",
+        "linkedinUrl": "https://www.linkedin.com/in/daniil-moskovtsov-40365032/",
+        "phoneNumber": "+6588637515",
+        "email": "daniil@fairmart.app",
+        "apolloId": "6905f509811a6200219fe234"
+      }
+    ]
+  },
+  {
+    "name": "Floworks",
+    "description": "Field-force automation via WhatsApp.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sarthak Shrivastava",
+        "linkedinUrl": "https://www.linkedin.com/in/sarthak-shrivastava/",
+        "phoneNumber": "+919620923122",
+        "email": "sarthak@floworks.ai",
+        "apolloId": "6905f5174e9468001d030ec3"
+      },
+      {
+        "role": "CTO",
+        "name": "Sudipta Biswas",
+        "linkedinUrl": "http://linkedin.com/in/sudipta-biswas",
+        "phoneNumber": "+918296506055",
+        "email": "sudipta@floworks.ai",
+        "apolloId": "6905f524e6fd8500116bb56f"
+      }
+    ]
+  },
+  {
+    "name": "Polari Labs",
+    "description": "Discreet and spontaneous anal prep device for sexual wellness.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anna Vybornova",
+        "linkedinUrl": "https://www.linkedin.com/in/annavyb/",
+        "phoneNumber": "+447871894823",
+        "email": "anna@polarigroup.co.uk",
+        "apolloId": "6905f531f140350021bac019"
+      },
+      {
+        "role": "CTO",
+        "name": "Henry Blest",
+        "linkedinUrl": "https://www.linkedin.com/in/dr-henry-blest-39883b147/",
+        "phoneNumber": "+447877697924",
+        "email": "henry@polarigroup.co.uk",
+        "apolloId": "6905f53fa4ff0e000dffdc09"
+      }
+    ]
+  },
+  {
+    "name": "Telescope Analytics",
+    "description": "ML for customer targeting in B2B sales.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Reza Javan",
+        "linkedinUrl": "https://www.linkedin.com/in/rezajavan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Camin McCluskey",
+        "linkedinUrl": "https://www.linkedin.com/in/camin-mccluskey/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "AVAYL",
+    "description": "Building the future of medical information with AI.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Miena Amiri",
+        "linkedinUrl": "https://de.linkedin.com/in/mienaamiri",
+        "phoneNumber": "+4917676700506",
+        "email": "miena.amiri@avayl.tech",
+        "apolloId": "6905f58c7dfbdb000d28622d"
+      },
+      {
+        "role": "CTO",
+        "name": "Alexander Götz",
+        "linkedinUrl": "https://www.linkedin.com/in/alexjgoetz/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Flynt",
+    "description": "Dynamic pricing for restaurant profitability.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thibault Desplats",
+        "linkedinUrl": "https://www.linkedin.com/in/tdesplats/",
+        "phoneNumber": "+33613042278",
+        "email": "thibault@goflynt.io",
+        "apolloId": "6905f5bae6fd85001d6030b4"
+      },
+      {
+        "role": "CTO",
+        "name": "Wuillaume Dalle",
+        "linkedinUrl": "https://www.linkedin.com/in//",
+        "phoneNumber": "+33606521966",
+        "email": "wuillaume@goflynt.io",
+        "apolloId": "6905f5c7c89cb5000de18fe1"
+      }
+    ]
+  },
+  {
+    "name": "Bigteam.ai",
+    "description": "Automated prompt engineering for GenAI teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pavir Patel",
+        "linkedinUrl": "https://www.linkedin.com/in/pavir/",
+        "phoneNumber": "+436766331012",
+        "email": "pavir@outerop.com",
+        "apolloId": "6905f5d5d54d9c00219f48c6"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Stephen Byrne",
+        "linkedinUrl": "https://www.linkedin.com/in/stephen-byrne-/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Vivid Machines",
+    "description": "Computer-vision insights for crop health.",
+    "location": "Toronto",
+    "industry": "Agriculture & Farming",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jenny Lemieux",
+        "linkedinUrl": "https://www.linkedin.com/in/jennylemieux/",
+        "phoneNumber": "+14163223210",
+        "email": "jenny@vivid-machines.com",
+        "apolloId": "6905f60288253900117763a8"
+      },
+      {
+        "role": "CTO",
+        "name": "Jonathan Binas",
+        "linkedinUrl": "https://www.linkedin.com/in/jbinas/",
+        "phoneNumber": "4176239635",
+        "email": "jonathan@vivid-machines.com",
+        "apolloId": "6905f60f1191d2001d13543f"
+      }
+    ]
+  },
+  {
+    "name": "FLOWBIO",
+    "description": "Real-time hydration insights for athletes.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stefan Fluit",
+        "linkedinUrl": "https://www.linkedin.com/in/sapvdf/",
+        "phoneNumber": "+447596315873",
+        "email": "stefan@flowbio.com",
+        "apolloId": "6905f61c4e94680015154f85"
+      },
+      {
+        "role": "CTO",
+        "name": "Giovanni Rovere",
+        "linkedinUrl": "https://www.linkedin.com/in/giovannirovere/",
+        "phoneNumber": "+393299840622",
+        "email": "giovanni@flowbio.com",
+        "apolloId": "6905f62aaf6084000d489714"
+      }
+    ]
+  },
+  {
+    "name": "EndoGene.Bio",
+    "description": "Epigenetic diagnostics for early endometriosis detection.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Maria Zaballos",
+        "linkedinUrl": "https://www.linkedin.com/in/maria-teresa-p%C3%A9rez-zaballos-85179b87/",
+        "phoneNumber": "+34609571440",
+        "email": "mtperezzaballos@endogene.bio",
+        "apolloId": "6905f638e3626800158e81bb"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Madeleine Moscatelli",
+        "linkedinUrl": "https://www.linkedin.com/in/madeleine-moscatelli/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kanjo",
+    "description": "AI triage for family mental-health care.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Sophia Wayne",
+        "linkedinUrl": "https://www.linkedin.com/in/sophia-pw/",
+        "phoneNumber": "+447306156212",
+        "email": null,
+        "apolloId": "6905f665b28cc0000d299820"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Stefan Bostock",
+        "linkedinUrl": "https://www.linkedin.com/in/stefanbostock/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Reach Industries",
+    "description": "Lab workflow automation for research teams.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Silas Adekunle",
+        "linkedinUrl": "https://www.linkedin.com/in/silasade/",
+        "phoneNumber": "+447799854841",
+        "email": "silas@reach.industries",
+        "apolloId": "6905f69263e7490019b17623"
+      },
+      {
+        "role": "CTO",
+        "name": "Chris Beck",
+        "linkedinUrl": "https://www.linkedin.com/in/chrisjbeckuk/",
+        "phoneNumber": "+447882849266",
+        "email": "chris@reach.industries",
+        "apolloId": "6905f6a0c4b5950015bc9923"
+      }
+    ]
+  },
+  {
+    "name": "Mirantus",
+    "description": "On-site tele-diagnostics for remote communities.",
+    "location": "Berlin",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Dominik Pederzani",
+        "linkedinUrl": "https://de.linkedin.com/in/dominik-pederzani-07baa26a",
+        "phoneNumber": "+491725343738",
+        "email": "dominik.pederzani@mirantus.com",
+        "apolloId": "6905f6ad036caa00191d836e"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Claus Gruber",
+        "linkedinUrl": "https://www.linkedin.com/in/claus-g-759122145/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kettel",
+    "description": "Guided home buying for first-time purchasers.",
+    "location": "London",
+    "industry": "Construction & Real Estate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Trevor Stunden",
+        "linkedinUrl": "https://www.linkedin.com/in/trevorstunden",
+        "phoneNumber": "+447470700379",
+        "email": "trevor@kettel.io",
+        "apolloId": "6905f6da673fba001d8fdac0"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Tupper",
+        "linkedinUrl": "https://www.linkedin.com/in/alex-tupper-606319a9/",
+        "phoneNumber": "+447738474873",
+        "email": "alex@kettel.io",
+        "apolloId": "6905f6e87f3e190021f6e80a"
+      }
+    ]
+  },
+  {
+    "name": "AgileRL",
+    "description": "Accessible reinforcement learning tools for developers.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Param Kumar",
+        "linkedinUrl": "https://www.linkedin.com/in/param-kumar",
+        "phoneNumber": "+442045744736",
+        "email": "param@agilerl.com",
+        "apolloId": "6905f6f677ee9800117a65a5"
+      },
+      {
+        "role": "CTO",
+        "name": "Nick Ustaran-Anderegg",
+        "linkedinUrl": "https://www.linkedin.com/in/nua/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PentaBind",
+    "description": "AI-designed aptamer therapeutics for biopharma.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rory Ryan",
+        "linkedinUrl": "https://www.linkedin.com/in/rorywryan/",
+        "phoneNumber": "+447746497187",
+        "email": "rory.ryan@pentabind.com",
+        "apolloId": "6905f7231ad321001df27f47"
+      },
+      {
+        "role": "CTO",
+        "name": "Phil Haynes",
+        "linkedinUrl": "https://www.linkedin.com/in/philhaynes1/",
+        "phoneNumber": "+447713879154",
+        "email": "phil.haynes@pentabind.com",
+        "apolloId": "6905f7318d1692001101d8c6"
+      }
+    ]
+  },
+  {
+    "name": "Shmood",
+    "description": "AI feedback loops for design reviews.",
+    "location": "New York",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Malvika Jain",
+        "linkedinUrl": "https://www.linkedin.com/in/malvikaj/",
+        "phoneNumber": "8585275333",
+        "email": "malvika@shmood.io",
+        "apolloId": "6905f73f8d1692001101d996"
+      }
+    ]
+  },
+  {
+    "name": "Samp",
+    "description": "Continuous reality capture for industrial operations.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Laurent Bourgouin",
+        "linkedinUrl": "https://www.linkedin.com/in/laurent-bourgouin-8b695953",
+        "phoneNumber": "+33672863670",
+        "email": "laurent@samp.ai",
+        "apolloId": "6905f74df33834001d8d12a6"
+      },
+      {
+        "role": "CTO",
+        "name": "Shivani Shah",
+        "linkedinUrl": "https://www.linkedin.com/in/shivanishah21",
+        "phoneNumber": "+33768434445",
+        "email": "shivani@samp.ai",
+        "apolloId": "6905f75ba2fcc800196b7c86"
+      }
+    ]
+  },
+  {
+    "name": "Alectify",
+    "description": "AI insights for construction contractors.",
+    "location": "Toronto",
+    "industry": "Energy & Utilities",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ajay Gupta",
+        "linkedinUrl": "https://ca.linkedin.com/in/ajay-gupta-53390915",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Naveen Vedula",
+        "linkedinUrl": "http://linkedin.com/in/naveen-vedula-9a897214",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "ShareID",
+    "description": "Instant identity verification for businesses.",
+    "location": "Paris",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sara Sebti",
+        "linkedinUrl": "https://www.linkedin.com/in/sara-sebti/",
+        "phoneNumber": "+33632987132",
+        "email": "sara.sebti@shareid.ai",
+        "apolloId": "6905f7a8f33834001d8d14c9"
+      },
+      {
+        "role": "CTO",
+        "name": "Sawsen Rezig",
+        "linkedinUrl": "https://www.linkedin.com/in/sawsen-rezig-43a49612/",
+        "phoneNumber": "+33695843778",
+        "email": "sawsen.rezig@shareid.ai",
+        "apolloId": "6905f7b513062f00198b3a38"
+      }
+    ]
+  },
+  {
+    "name": "BetterData",
+    "description": "Synthetic data for secure financial sharing.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Uzair Javaid",
+        "linkedinUrl": "https://www.linkedin.com/in/uzair-javaid/",
+        "phoneNumber": null,
+        "email": "uzair@betterdata.ai",
+        "apolloId": "6905f7c21d93be0019c410fc"
+      },
+      {
+        "role": "CTO",
+        "name": "Kevin Yee",
+        "linkedinUrl": "https://www.linkedin.com/in/yee-kevin/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Untap",
+    "description": "Wastewater pathogen monitoring for public health.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Claire Trant",
+        "linkedinUrl": "https://www.linkedin.com/in/claire-trant/",
+        "phoneNumber": "+61390010355",
+        "email": "claire@untaphealth.com",
+        "apolloId": "6905f7ddbc0da0001939e3a9"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Jay Bullen",
+        "linkedinUrl": "https://www.linkedin.com/in/jay-bullen-224521162/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Round",
+    "description": "AI-agents for finance teams.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Pac O'Shea",
+        "linkedinUrl": "https://www.linkedin.com/in/pac-o-shea/",
+        "phoneNumber": "+447919361449",
+        "email": "pac@roundtreasury.com",
+        "apolloId": "6905f80a660f380015cf0b73"
+      },
+      {
+        "role": "CTO",
+        "name": "Hayyaan Ahmad",
+        "linkedinUrl": "https://linkedin.com/in/hayyaan",
+        "phoneNumber": "+491754268588",
+        "email": "hayyaan@roundtreasury.com",
+        "apolloId": "6905f8188207cc000dfdc7aa"
+      }
+    ]
+  },
+  {
+    "name": "CarbonFarm",
+    "description": "AI monitoring for rice-farm carbon credits.",
+    "location": "Paris",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vassily Carantino",
+        "linkedinUrl": "https://www.linkedin.com/in/vassily-carantino/",
+        "phoneNumber": "7815300539",
+        "email": "vassily@carbonfarm.tech",
+        "apolloId": "6905f82513062f00119074af"
+      },
+      {
+        "role": "CTO",
+        "name": "James Hastwell",
+        "linkedinUrl": "https://www.linkedin.com/in/jameshastwell/",
+        "phoneNumber": "+33752665200",
+        "email": "james@carbonfarm.tech",
+        "apolloId": "6905f8336f609c00152a1728"
+      }
+    ]
+  },
+  {
+    "name": "Jimini AI",
+    "description": "AI automation for legal drafting.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Raphael Arroche",
+        "linkedinUrl": "https://www.linkedin.com/in/raphael-arroche-a86740a7/",
+        "phoneNumber": "+33613860679",
+        "email": "raphael@jimini.ai",
+        "apolloId": "6905f8417cadb00019e945a6"
+      },
+      {
+        "role": "CTO",
+        "name": "Stéphane Béreux",
+        "linkedinUrl": "https://www.linkedin.com/in/stephanebereux",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Freshflow",
+    "description": "AI demand forecasting for grocers.",
+    "location": "Berlin",
+    "industry": "Food",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Avik Mukhija",
+        "linkedinUrl": "https://www.linkedin.com/in/avik-m-92773163/",
+        "phoneNumber": "+41786542609",
+        "email": "avik@freshflow.ai",
+        "apolloId": "6905f86e0ecf1500218fc188"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Carmine Paolino",
+        "linkedinUrl": "https://www.linkedin.com/in/carminepaolino/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kolibri",
+    "description": "Acoustic bioproduction for gene therapies.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Amélie Quilichini",
+        "linkedinUrl": "https://www.linkedin.com/in/ameliequilichini",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gabriel Dumy",
+        "linkedinUrl": "https://www.linkedin.com/in/gabrieldumy/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905f8bb730cf70021d119d7"
+      }
+    ]
+  },
+  {
+    "name": "RC Labs",
+    "description": "Adaptive battery management for EV and grid storage.",
+    "location": "Hong Kong",
+    "industry": "Energy & Utilities",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Raghu Raman",
+        "linkedinUrl": "https://www.linkedin.com/in/s-raghuraman/",
+        "phoneNumber": "+919886436284",
+        "email": "raghu@rclabs.co",
+        "apolloId": "6905f8c963e749002159f43d"
+      },
+      {
+        "role": "CTO",
+        "name": "Yat Chi Fong",
+        "linkedinUrl": "https://www.linkedin.com/in/yat-chi-fong-9b257a51/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Cosmos Video",
+    "description": "Virtual offices for remote teams.",
+    "location": "London",
+    "industry": "Education",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Karan Baweja",
+        "linkedinUrl": "http://www.linkedin.com/in/karandb",
+        "phoneNumber": "+447873139724",
+        "email": "karanbaweja@cosmos.video",
+        "apolloId": "6905f8f5774981000d068d1b"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Rahul Goyal",
+        "linkedinUrl": "https://www.linkedin.com/in/rahulgoyal203/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Messium",
+    "description": "Hyperspectral monitoring for precision farming.",
+    "location": "London",
+    "industry": "Aerospace & Defence",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "George Gilks",
+        "linkedinUrl": "https://www.linkedin.com/in/george-marangos-gilks-307ab261/",
+        "phoneNumber": "+442030530112",
+        "email": "george@messium.co.uk",
+        "apolloId": "6905f922306942000dceb94f"
+      },
+      {
+        "role": "CTO",
+        "name": "Vishal Soomaney Vijaykumar",
+        "linkedinUrl": "https://www.linkedin.com/in/vsoomaney/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "rouvia",
+    "description": "Sustainable rail freight for shippers.",
+    "location": "Berlin",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Benjamin Noyan",
+        "linkedinUrl": "http://www.linkedin.com/in/benjamin-noyan",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Fuad Becirbasic",
+        "linkedinUrl": "https://www.linkedin.com/in/fuadbecirbasic/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Quack AI",
+    "description": "Deep-learning code reviews for development teams.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "François-Guillaume Fernandez",
+        "linkedinUrl": "https://www.linkedin.com/in/frgfm/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "A&B Smart Materials",
+    "description": "Biodegradable smart hydrogels for passive cooling.",
+    "location": "London",
+    "industry": "Climate",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Amaury Buggenoms",
+        "linkedinUrl": "https://www.linkedin.com/in/amauryvtdb/",
+        "phoneNumber": "+32498652935",
+        "email": "amaury@absmartmaterials.com",
+        "apolloId": "6905f9b2830fbb001938f6b2"
+      },
+      {
+        "role": "CTO",
+        "name": "Ben White",
+        "linkedinUrl": "http://www.linkedin.com/in/benjamin-white-406580238",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Rand",
+    "description": "NFT marketplace on the Algorand blockchain.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ross Murray-Jones",
+        "linkedinUrl": "https://www.linkedin.com/in/rossmurrayjones",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Agash Navaranjan",
+        "linkedinUrl": "https://www.linkedin.com/in/agash-navaranjan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Unakin",
+    "description": "AI text-to-game prototyping for studios.",
+    "location": "London",
+    "industry": "Gaming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ollie Markham",
+        "linkedinUrl": "https://www.linkedin.com/in/oliver-markham-596705a5/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Gian Luigi D'Alessandro",
+        "linkedinUrl": "https://www.linkedin.com/in/giandalessandro/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Quantly",
+    "description": "AI analytics for financial analysts.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vladislav Stanev",
+        "linkedinUrl": "https://www.linkedin.com/in/vladislav-stanev-80563882",
+        "phoneNumber": "+359885150197",
+        "email": "vlad@findpathway.com",
+        "apolloId": "6905fa5e51a469001507c5a2"
+      },
+      {
+        "role": "CTO",
+        "name": "Ivan Kavalerov",
+        "linkedinUrl": "https://www.linkedin.com/in/ikavalerov/",
+        "phoneNumber": "+447447704241",
+        "email": "ivan@quantly-ai.com",
+        "apolloId": "6905fa6da32f710021cb2d44"
+      }
+    ]
+  },
+  {
+    "name": "Unison",
+    "description": "Omics data services for biotech teams.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Daniel Sozonov",
+        "linkedinUrl": "https://www.linkedin.com/in/danielsozonov",
+        "phoneNumber": "+447413401598",
+        "email": "daniel@hyperunison.com",
+        "apolloId": "6905fa7b30a9eb00116a4ec6"
+      }
+    ]
+  },
+  {
+    "name": "Amatera",
+    "description": "Biotech breeding for perennial crops.",
+    "location": "Paris",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Omar Dekkiche",
+        "linkedinUrl": "https://www.linkedin.com/in/omar-dekkiche-563040b3/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Lucie Kriegshauser",
+        "linkedinUrl": "https://www.linkedin.com/in/lucie-kriegshauser-phd-560135102/",
+        "phoneNumber": "+33635496366",
+        "email": "lucie@amatera.bio",
+        "apolloId": "6905faa9830fbb00158fe31f"
+      }
+    ]
+  },
+  {
+    "name": "qlip",
+    "description": "AI video repurposing for social channels.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Svend Court-Payen",
+        "linkedinUrl": "https://www.linkedin.com/in/svend-court-payen-bb2926109/",
+        "phoneNumber": "+33677084364",
+        "email": "svend@qlip.ai",
+        "apolloId": "6905fab765688d000d8137d1"
+      },
+      {
+        "role": "CTO",
+        "name": "Pamela Carvallo",
+        "linkedinUrl": "https://www.linkedin.com/in/pamelacarvallo/",
+        "phoneNumber": "+56982305649",
+        "email": "pamela@qlip.ai",
+        "apolloId": "6905fac5163f70001552451b"
+      }
+    ]
+  },
+  {
+    "name": "Teora",
+    "description": "Microbial engineering for sustainable ingredients.",
+    "location": "Singapore",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishita Changede",
+        "linkedinUrl": "https://www.linkedin.com/in/rishitachangede/",
+        "phoneNumber": "+6583572479",
+        "email": "rishita@teora.life",
+        "apolloId": "6905fad35daf2500193b8465"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Seyed Mohammad Hasheminejad",
+        "linkedinUrl": "https://www.linkedin.com/in/mhasheminejad/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "pFIBRE",
+    "description": "Marine-biodegradable packaging films.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Prakruti Kodali",
+        "linkedinUrl": "",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Dinaz Tamboli",
+        "linkedinUrl": "",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Exogene",
+    "description": "AI for T-cell receptor discovery in oncology.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Federico Paoletti",
+        "linkedinUrl": "https://www.linkedin.com/in/federico-paoletti/",
+        "phoneNumber": "+447546628859",
+        "email": "f.paoletti@exogene.co.uk",
+        "apolloId": "6905fb4000d4500021614b4e"
+      },
+      {
+        "role": "CTO",
+        "name": "Andrea Mambrini",
+        "linkedinUrl": "https://www.linkedin.com/in/mambrini/",
+        "phoneNumber": "+447547233432",
+        "email": "a.mambrini@exogene.co.uk",
+        "apolloId": "6905fb4ec89cb50019c4516b"
+      }
+    ]
+  },
+  {
+    "name": "MedPay",
+    "description": "Transforming neighborhood pharmacies using technology.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ravi Chandra",
+        "linkedinUrl": "https://www.linkedin.com/in/ravi-chandra-entrepreneur/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Arun Bhatia",
+        "linkedinUrl": "https://www.linkedin.com/in/arunbhatia786/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "NeuroPixel.AI",
+    "description": "AI for apparel catalog creation.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Arvind Nair",
+        "linkedinUrl": "https://www.linkedin.com/in/arvind-venugopal-nair-85378079/",
+        "phoneNumber": "+919949277787",
+        "email": "arvind@neuropixel.ai",
+        "apolloId": "6905fb9c29b78b0011ffeb28"
+      },
+      {
+        "role": "CTO",
+        "name": "Amritendu Mukherjee",
+        "linkedinUrl": "http://www.linkedin.com/in/amritendu-mukherjee",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "unScript AI",
+    "description": "AI for personalized interactive video campaigns.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ritwika Chowdhury",
+        "linkedinUrl": "https://www.linkedin.com/in/ritwika-chowdhury-a70201112",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Akhil Menon",
+        "linkedinUrl": "https://www.linkedin.com/in/akhilmenonz1/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Quantum Boost",
+    "description": "AI for chemical formulation design.",
+    "location": "Singapore",
+    "industry": "Chemicals",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Filip Auksztol",
+        "linkedinUrl": "http://linkedin.com/in/auksztol/",
+        "phoneNumber": "+6585903179",
+        "email": "filip@quantumboost.com",
+        "apolloId": "6905fc0b5e4bbe001581f7d8"
+      },
+      {
+        "role": "CTO",
+        "name": "Kacper Kielak",
+        "linkedinUrl": "https://www.linkedin.com/feed/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Phasio",
+    "description": "AI-driven workflow collaboration for SME manufacturers.",
+    "location": "Singapore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Harry Lucas",
+        "linkedinUrl": "http://www.linkedin.com/in/harry-conor-lucas",
+        "phoneNumber": "+6581919298",
+        "email": "harry@phas.io",
+        "apolloId": "6905fc3a474fd40021900224"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Sudharshan Raman",
+        "linkedinUrl": "https://www.linkedin.com/in/sudharshan-raman-315923101/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Flare",
+    "description": "Scheduled delivery for online shoppers.",
+    "location": "London",
+    "industry": "Logistics",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Daniel Parekh-Hill",
+        "linkedinUrl": "https://www.linkedin.com/in/danielparekhhill/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905fc678e2b9b001533524c"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Hooper",
+        "linkedinUrl": "https://www.linkedin.com/in/alexgreenhillhooper/",
+        "phoneNumber": "+447557644480",
+        "email": "alex@getflare.co.uk",
+        "apolloId": "6905fc75a4ff0e000dffee11"
+      }
+    ]
+  },
+  {
+    "name": "LightHearted AI",
+    "description": "Noninvasive cardiac screening via wearables.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Lucrezia Cester",
+        "linkedinUrl": "https://www.linkedin.com/in/lucrezia-cester-phd-6740b7156/",
+        "phoneNumber": "+447810230373",
+        "email": "lu@lighthearted.ai",
+        "apolloId": "6905fc8301356e00215d31b2"
+      },
+      {
+        "role": "CTO",
+        "name": "Dilip Rajeswari",
+        "linkedinUrl": "https://www.linkedin.com/in/dilip-rajeswari-5a900818a/",
+        "phoneNumber": "2012073235",
+        "email": "dilip@lighthearted.ai",
+        "apolloId": "6905fc918f2f860011c03325"
+      }
+    ]
+  },
+  {
+    "name": "Super",
+    "description": "No-code token creation for web3 teams.",
+    "location": "London",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bisola Asolo",
+        "linkedinUrl": "https://www.linkedin.com/in/bisola-asolo-498a72b1/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Adrian Kozhevnikov",
+        "linkedinUrl": "https://www.linkedin.com/in/adrian-kozhevnikov/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Zebracat",
+    "description": "AI video creation from text for marketers.",
+    "location": "Berlin",
+    "industry": "Marketing & Advertising",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Michael Baumgartner",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-baumgartner/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905fcde6bd1e2000d71b211"
+      },
+      {
+        "role": "CTO",
+        "name": "Reza Zolfaghari",
+        "linkedinUrl": "https://www.linkedin.com/in/zolf/",
+        "phoneNumber": "+4917142889383",
+        "email": null,
+        "apolloId": "6905fcede9530d001d9f7b72"
+      }
+    ]
+  },
+  {
+    "name": "D-Nome",
+    "description": "Room-temperature genomic testing for labs.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Divya Sriram",
+        "linkedinUrl": "https://www.linkedin.com/in/divya-sriram-a60327171",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905fcfba4ff0e0015f2e020"
+      },
+      {
+        "role": "CTO",
+        "name": "Sujoy Deb",
+        "linkedinUrl": "https://www.linkedin.com/in/sujoy-deb-19736471",
+        "phoneNumber": "+919908364031",
+        "email": "sujoydeb@dnome.in",
+        "apolloId": "6905fd0918ab48000d8df762"
+      }
+    ]
+  },
+  {
+    "name": "Jackett",
+    "description": "AI-powered personalized assessments for educators.",
+    "location": "Singapore",
+    "industry": "Education",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Charlotte Trudgill",
+        "linkedinUrl": "https://www.linkedin.com/in/charlottejoytrudgill/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Rachiket Arya",
+        "linkedinUrl": "https://www.linkedin.com/in/rachiket-arya/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Hawksight",
+    "description": "Crowdsourced trading signals for investors.",
+    "location": "Singapore",
+    "industry": "Financial Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Bradian Muliadi",
+        "linkedinUrl": "https://www.linkedin.com/in/bradian/?originalSubdomain=id",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Lorenzo Ampil",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzoampil/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Magnestar",
+    "description": "Magnetic debris mitigation for satellite operators.",
+    "location": "Toronto",
+    "industry": "Aerospace & Defence",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacqueline Good",
+        "linkedinUrl": "https://www.linkedin.com/in/jacqueline-good-266ba9a4/",
+        "phoneNumber": "4164339044",
+        "email": null,
+        "apolloId": "6905fd983d0621001174e636"
+      }
+    ]
+  },
+  {
+    "name": "Cheffer",
+    "description": "Optimized purchasing for restaurant owners.",
+    "location": "Toronto",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Keshev Kulkarni",
+        "linkedinUrl": "https://www.linkedin.com/in/keshev/",
+        "phoneNumber": "4165569056",
+        "email": "keshev@cheffer.co",
+        "apolloId": "6905fda61ad3210019db49e5"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Milton Donefer",
+        "linkedinUrl": "https://www.linkedin.com/in/miltoncalderondonefer/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Vanellus",
+    "description": "Automated mesh and simulation for engineers.",
+    "location": "London",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Laurence Cullen",
+        "linkedinUrl": "https://www.linkedin.com/in/laurence-cullen-169000105/",
+        "phoneNumber": null,
+        "email": "laurence@vanellus.tech",
+        "apolloId": "6905fdd3bfe6af001f8581e5"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Michael Negus",
+        "linkedinUrl": "https://www.linkedin.com/in/michael-negus/",
+        "phoneNumber": "+447984119892",
+        "email": "michael@vanellus.tech",
+        "apolloId": "6905fde1163f700011504794"
+      }
+    ]
+  },
+  {
+    "name": "CheMastery",
+    "description": "Lab automation for chemical workflows.",
+    "location": "London",
+    "industry": "Chemicals",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anna Andreou",
+        "linkedinUrl": "https://www.linkedin.com/in/anna-andreou/",
+        "phoneNumber": "+442045316930",
+        "email": "anna.andreou@chemastery.com",
+        "apolloId": "6905fdf1d0d24b001160abbf"
+      },
+      {
+        "role": "CTO",
+        "name": "Stefan Glatzel",
+        "linkedinUrl": "https://www.linkedin.com/in/stefanglatzel/",
+        "phoneNumber": "+447462771179",
+        "email": "stefan.glatzel@chemastery.com",
+        "apolloId": "6905fdff00d450000dc51381"
+      }
+    ]
+  },
+  {
+    "name": "bryo",
+    "description": "AI for SME quoting and ordering.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Giovanni Ughi",
+        "linkedinUrl": "https://www.linkedin.com/in/giovanni-ughi/",
+        "phoneNumber": "+393471840874",
+        "email": "giovanni@bryo.io",
+        "apolloId": "6905fe0c7165d500190fdff1"
+      },
+      {
+        "role": "CTO",
+        "name": "Nikhil Mudholkar",
+        "linkedinUrl": "https://www.linkedin.com/in/nikhil-mudholkar/",
+        "phoneNumber": null,
+        "email": "nikhil@bryo.io",
+        "apolloId": "6905fe1a7d31860015bf0d65"
+      }
+    ]
+  },
+  {
+    "name": "Orbital Matter",
+    "description": "3D printing for space infrastructure.",
+    "location": "Berlin",
+    "industry": "Aerospace & Defence",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jakub Stojek",
+        "linkedinUrl": "https://www.linkedin.com/in/jakubstojek/",
+        "phoneNumber": "+48668770170",
+        "email": "jakub.stojek@orbital-matter.com",
+        "apolloId": "6905fe2829b78b0019a905d9"
+      },
+      {
+        "role": "CTO",
+        "name": "Robert Ihnatisin",
+        "linkedinUrl": "https://www.linkedin.com/in/robert-ihnatisin-390196109/",
+        "phoneNumber": "+491742519032",
+        "email": "robert.ihnatisin@orbital-matter.com",
+        "apolloId": "6905fe35b40484001d3c18cd"
+      }
+    ]
+  },
+  {
+    "name": "Thermosphr",
+    "description": "Real-time thermal modeling for buildings.",
+    "location": "Berlin",
+    "industry": "Climate",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Le Borgne",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-leborgne/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Mark Aaron Chan",
+        "linkedinUrl": "https://www.linkedin.com/in/markaaronchan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Esencia Foods",
+    "description": "Mycelium-based proteins for sustainable foods.",
+    "location": "Berlin",
+    "industry": "Agriculture & Farming",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hendrik Kaye",
+        "linkedinUrl": "http://linkedin.com/in/hekaye",
+        "phoneNumber": "+491629672599",
+        "email": "hendrik@esenciafoods.co",
+        "apolloId": "6905fe82a6fbd1000d40ef65"
+      },
+      {
+        "role": "CTO",
+        "name": "Bruno Scocozza",
+        "linkedinUrl": "https://www.linkedin.com/in/bscocozza/",
+        "phoneNumber": "+34664515464",
+        "email": "bruno@esenciafoods.co",
+        "apolloId": "6905fe91ea1adf0021bf2463"
+      }
+    ]
+  },
+  {
+    "name": "Koncile",
+    "description": "Automated document data extraction for businesses.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jules Ratier",
+        "linkedinUrl": "https://www.linkedin.com/in/jules-r-575ba785/",
+        "phoneNumber": "+33651585269",
+        "email": "jules@koncile.ai",
+        "apolloId": "6905fe9ff33f1e000d46eb71"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tristan Thommen",
+        "linkedinUrl": "https://www.linkedin.com/in/tristan-t/",
+        "phoneNumber": "+33686429368",
+        "email": "tristan@koncile.ai",
+        "apolloId": "6905fead8207cc0015cbce5d"
+      }
+    ]
+  },
+  {
+    "name": "immunitoAI",
+    "description": "AI-driven antibody design for therapeutic development.",
+    "location": "Bangalore",
+    "industry": "Biotechnology",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Aridni Shah",
+        "linkedinUrl": "https://www.linkedin.com/in/aridni-shah-a360781a0/",
+        "phoneNumber": "+919686017948",
+        "email": "aridni.shah@immunitoai.com",
+        "apolloId": "6905febbbd0148001d9f9b3f"
+      },
+      {
+        "role": "CTO",
+        "name": "Trisha Chatterjee",
+        "linkedinUrl": "https://www.linkedin.com/in/trishachatterjee",
+        "phoneNumber": "+919582624249",
+        "email": "trisha.chatterjee@immunitoai.com",
+        "apolloId": "6905feca1fc5550011968de9"
+      }
+    ]
+  },
+  {
+    "name": "ESGnie",
+    "description": "ESG data management and analytics for investors.",
+    "location": "Singapore",
+    "industry": "Climate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jiale Tan",
+        "linkedinUrl": "https://www.linkedin.com/in/jialetan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Majid Hasan",
+        "linkedinUrl": "https://www.linkedin.com/in/majidhasan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Airboxr",
+    "description": "No-code data enrichment in spreadsheets.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Shubham Kaushal",
+        "linkedinUrl": "https://www.linkedin.com/in/shubh-kaushal/",
+        "phoneNumber": "+6598647594",
+        "email": "try@airboxr.com",
+        "apolloId": "6905ff189214ca0011ad6dcd"
+      }
+    ]
+  },
+  {
+    "name": "Birkeland",
+    "description": "Lightning-based prediction markets for events.",
+    "location": "Singapore",
+    "industry": "web3",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "James Pierog",
+        "linkedinUrl": "https://www.linkedin.com/in/james-pierog-932a72207/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Ruban Thasapparaj",
+        "linkedinUrl": "https://www.linkedin.com/in/rubansundararaj/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LiveCrew",
+    "description": "In-store shopper insights for retail teams.",
+    "location": "Paris",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Dory",
+        "linkedinUrl": "https://www.linkedin.com/in/jonathan-dory/",
+        "phoneNumber": null,
+        "email": "jon@live-crew.com",
+        "apolloId": "6905ff65241995000db239fc"
+      }
+    ]
+  },
+  {
+    "name": "Alki",
+    "description": "AI-driven warehouse resource optimization.",
+    "location": "Paris",
+    "industry": "Logistics",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Léopold Delhaize",
+        "linkedinUrl": "https://www.linkedin.com/in/l%C3%A9opold-delhaize-8589a236/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Tanguy Levent",
+        "linkedinUrl": "https://www.linkedin.com/in/tanguylevent/",
+        "phoneNumber": "+33688033569",
+        "email": "tanguy@alki.io",
+        "apolloId": "6905ff92474fd4000db8bf32"
+      }
+    ]
+  },
+  {
+    "name": "Zolnoi",
+    "description": "AI-first maintenance for manufacturers.",
+    "location": "Bangalore",
+    "industry": "Energy & Utilities",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sivam Pillai",
+        "linkedinUrl": "https://linkedin.com/in/sivampillai",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905ff9fd2f3120017f3b56d"
+      }
+    ]
+  },
+  {
+    "name": "Expertia AI",
+    "description": "AI matching for SME hiring.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Kanishk Shukla",
+        "linkedinUrl": "https://www.linkedin.com/in/shuklakanishk/",
+        "phoneNumber": "+919900066024",
+        "email": "kanishk.shukla@expertia.co.in",
+        "apolloId": "6905ffad886d530015faf574"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshay Gugnani",
+        "linkedinUrl": "https://www.linkedin.com/in/akshaygugnani/",
+        "phoneNumber": "+919962644521",
+        "email": "akshay@expertia.co.in",
+        "apolloId": "6905ffba811a6200219ff735"
+      }
+    ]
+  },
+  {
+    "name": "Frontline",
+    "description": "AI forecasting for capital projects.",
+    "location": "Singapore",
+    "industry": "Construction & Real Estate",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Luis Martinez",
+        "linkedinUrl": "https://www.linkedin.com/in/luis--martinez/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "6905ffc85e4bbe00118c29b0"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ding Ruiqi",
+        "linkedinUrl": "https://github.com/tesla-cat/tesla-cat.github.io/blob/master/site/files/documents/CV_Ruiqi_Ding.pdf",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Sequestr",
+    "description": "Carbon rights marketplace for project developers and buyers.",
+    "location": "Toronto",
+    "industry": "Climate",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Rishabh Varshney",
+        "linkedinUrl": "https://www.linkedin.com/in/rishabhvarshney/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Tony Qu",
+        "linkedinUrl": "https://www.linkedin.com/in/tonyqu1/",
+        "phoneNumber": "4163001820",
+        "email": "tony@sequestr.io",
+        "apolloId": "690600176a4bf1000d92b0a5"
+      }
+    ]
+  },
+  {
+    "name": "PreWarp",
+    "description": "Demand forecasting for fashion brands.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thomas Barber",
+        "linkedinUrl": "https://www.linkedin.com/in/thomasebarber/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Tom Walker",
+        "linkedinUrl": "https://www.linkedin.com/in/tom-walker-320318129/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Velsa",
+    "description": "Data-driven legal management for startups and SMEs.",
+    "location": "Berlin",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Leon Wisskirchen",
+        "linkedinUrl": "https://www.linkedin.com/in/leon-wisskirchen/",
+        "phoneNumber": "+491703278080",
+        "email": "leon.wisskirchen@velsa.de",
+        "apolloId": "69060064ec61c70011d95a20"
+      },
+      {
+        "role": "CTO",
+        "name": "Konstantin Häfner",
+        "linkedinUrl": "https://www.linkedin.com/in/konstantinhaefner582421142/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Rex.fit",
+    "description": "Automated nutrition tracking for fitness enthusiasts.",
+    "location": "Paris",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Rangel Milushev",
+        "linkedinUrl": "https://www.linkedin.com/in/rangel-milushev/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ahmad Roumie",
+        "linkedinUrl": "https://www.linkedin.com/in/ahmad-roumie-1a59a417a/",
+        "phoneNumber": "8572147719",
+        "email": "ahmad@rex.fit",
+        "apolloId": "690600b2d2326f002162c243"
+      }
+    ]
+  },
+  {
+    "name": "Subconscious Compute",
+    "description": "Edge-AI models for offline devices.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Anter Virk",
+        "linkedinUrl": "https://www.linkedin.com/in/anterpreneur",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Dilawar Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/dilawars/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Coupl",
+    "description": "Joint banking for millennial couples.",
+    "location": "Bangalore",
+    "industry": "Consumer Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Srinivas Sarkar",
+        "linkedinUrl": "https://www.linkedin.com/in/srinivas-sarkar/",
+        "phoneNumber": "+919743144888",
+        "email": "srini@coupl.money",
+        "apolloId": "690601006a7403000d7dcb8a"
+      },
+      {
+        "role": "CTO",
+        "name": "Kushagra Manglik",
+        "linkedinUrl": "https://www.linkedin.com/in/kushagra-manglik-906399120/",
+        "phoneNumber": "+918795212576",
+        "email": "kushagra@coupl.money",
+        "apolloId": "6906010de6fd85001d6040b3"
+      }
+    ]
+  },
+  {
+    "name": "Fattastic Technologies",
+    "description": "Tailored lipids for alternative proteins.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Satnam Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/satnam-singh-994b135a/",
+        "phoneNumber": "+6583308412",
+        "email": "satnam@fattastic.tech",
+        "apolloId": "6906011c97ee7f001d61faeb"
+      }
+    ]
+  },
+  {
+    "name": "Ezzayo",
+    "description": "No-code tokenomics stress tests.",
+    "location": "Singapore",
+    "industry": "web3",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Samarth Shyam",
+        "linkedinUrl": "http://linkedin.com/in/samarthshyam",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Agrim Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/agrims/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "ElevateHQ",
+    "description": "Automated commission calculations for sales teams.",
+    "location": "Singapore",
+    "industry": "Enterprise Services",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Apoorv Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/apoorvsingh91/",
+        "phoneNumber": "+919212666481",
+        "email": "apoorv@elevate.so",
+        "apolloId": "6906016960d84900151181e4"
+      },
+      {
+        "role": "CTO",
+        "name": "Kartik Arora",
+        "linkedinUrl": "https://linkedin.com/in/kartikarora",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Healium Intelliscan Corporation",
+    "description": "AI for early chronic kidney-disease detection.",
+    "location": "Bangalore",
+    "industry": "Healthcare",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Biju Jacob",
+        "linkedinUrl": "https://www.linkedin.com/in/biju-jacob-803243a",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Neeraj Kumar",
+        "linkedinUrl": "https://www.linkedin.com/in/neeraj-tiwari-phd-5960a5115/",
+        "phoneNumber": "+918147979686",
+        "email": "neeraj@healiumintelliscan.com",
+        "apolloId": "690601b658e87400219e12f4"
+      }
+    ]
+  },
+  {
+    "name": "Telepathic Technologies",
+    "description": "Non-invasive brain-computer links for defense.",
+    "location": "New York",
+    "industry": "Aerospace & Defence",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Noah Shamus",
+        "linkedinUrl": "https://uk.linkedin.com/in/noah-shamus",
+        "phoneNumber": "9178416849",
+        "email": "noah@telepathtechnologies.com",
+        "apolloId": "690601c5eb80ef000dc6ce64"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ellery Buntel",
+        "linkedinUrl": "https://www.linkedin.com/in/ellery-buntel",
+        "phoneNumber": "7815183881",
+        "email": "eb@telepathtechnologies.com",
+        "apolloId": "690601d3baa1b4000d0d3b66"
+      }
+    ]
+  },
+  {
+    "name": "Newtone",
+    "description": "AI for scalable branded content creation.",
+    "location": "Paris",
+    "industry": "Marketing & Advertising",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Henri Bouteiller",
+        "linkedinUrl": "https://www.linkedin.com/in/henri-de-bouteiller-155b1b31/",
+        "phoneNumber": "+33648091849",
+        "email": "henri@newtone.ai",
+        "apolloId": "690601e2e16ad5000d405747"
+      },
+      {
+        "role": "Founding CEO",
+        "name": "Julia Denoly",
+        "linkedinUrl": "https://www.linkedin.com/in/julia-denoly/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Amayu Health",
+    "description": "Psychedelic-assisted therapy for mental health.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Eva Goblirsch",
+        "linkedinUrl": "https://www.linkedin.com/in/eva-maria-goblirsch-320b838b/",
+        "phoneNumber": "+4915752445456",
+        "email": "eva@amayu.de",
+        "apolloId": "690602104d02840019ec7c34"
+      },
+      {
+        "role": "CTO",
+        "name": "Fabian Steuer",
+        "linkedinUrl": "https://www.linkedin.com/in/fabiansteuer/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ailiverse",
+    "description": "No-code deep-learning training across GPUs.",
+    "location": "Singapore",
+    "industry": "Developer Tools",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Burhan Tayyab",
+        "linkedinUrl": "https://www.linkedin.com/in/burhanutayyab/?originalSubdomain=sg",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Pixcap",
+    "description": "Web-based 3D editing for design teams.",
+    "location": "Hong Kong",
+    "industry": "Marketing & Advertising",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Vincent Looi",
+        "linkedinUrl": "https://www.linkedin.com/in/cj-looi/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Rally.Fan",
+    "description": "Your AI helpers for business growth.",
+    "location": "Toronto",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ryan Watkins",
+        "linkedinUrl": "https://www.linkedin.com/in/ryan-/",
+        "phoneNumber": "4169027575",
+        "email": "ryan@rally.fan",
+        "apolloId": "6906027e830fbb002153c4e1"
+      },
+      {
+        "role": "CTO",
+        "name": "Charles Ashby",
+        "linkedinUrl": "https://www.linkedin.com/in/charles-ashby-2b1968148/",
+        "phoneNumber": null,
+        "email": "charles@rally.fan",
+        "apolloId": "6906028cfabf11001d9417b3"
+      }
+    ]
+  },
+  {
+    "name": "Agota Health",
+    "description": "Agency staffing automation for hospitals.",
+    "location": "Toronto",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phil Protomanni",
+        "linkedinUrl": "https://www.linkedin.com/in/phil-protomanni-0ba694a6/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CPO",
+        "name": "Dan Pappo",
+        "linkedinUrl": "https://linkedin.com/in/danpappo",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Powerhouse AI",
+    "description": "AI inventory counting for warehouses.",
+    "location": "Singapore",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Ivo Verhaegh",
+        "linkedinUrl": "https://www.linkedin.com/in/ivoverhaegh/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Kushal Pillay",
+        "linkedinUrl": "https://www.linkedin.com/in/kushalpillay/",
+        "phoneNumber": "+6581692899",
+        "email": "kushal@pwh.ai",
+        "apolloId": "690602fc6a7403001522f375"
+      }
+    ]
+  },
+  {
+    "name": "Fortephy",
+    "description": "AI-enabled smart contract auditor.",
+    "location": "Toronto",
+    "industry": "Developer Tools",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Moe Kamla",
+        "linkedinUrl": "https://www.linkedin.com/in/msmkamla/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Syed Salman Haider",
+        "linkedinUrl": "https://www.linkedin.com/in/syedsalmanhaider/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mycro Harvest",
+    "description": "AI-powered mushroom farming for sustainable food and materials.",
+    "location": "Toronto",
+    "industry": "Agriculture & Farming",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Christopher Klich",
+        "linkedinUrl": "https://www.linkedin.com/in/christopher-klich/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "690603497d31860011ba335e"
+      },
+      {
+        "role": "CTO",
+        "name": "Justin Cheng",
+        "linkedinUrl": "https://www.linkedin.com/in/justin-cheng-864911122/",
+        "phoneNumber": "9057030431",
+        "email": "justin@mycroharvest.com",
+        "apolloId": "6906035753dece0021706b07"
+      }
+    ]
+  },
+  {
+    "name": "Orbit",
+    "description": "The interface to emotion.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Akshat Sharma",
+        "linkedinUrl": "https://www.linkedin.com/in/akshat-sharma280601/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "69060366811a62000d2067e5"
+      },
+      {
+        "role": "CTO",
+        "name": "Dipanshu Gandhi",
+        "linkedinUrl": "https://www.linkedin.com/in/dipanshugandhi/",
+        "phoneNumber": "+447914838765",
+        "email": "dg@tryorbit.co",
+        "apolloId": "69060374ee485b00156b487e"
+      }
+    ]
+  },
+  {
+    "name": "Latte",
+    "description": "AI video editing for social creators.",
+    "location": "London",
+    "industry": "Marketing & Advertising",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Michael Martin",
+        "linkedinUrl": "https://www.linkedin.com/in/-michael-martin/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Timothy Wu",
+        "linkedinUrl": "https://www.linkedin.com/in/timvvvht/",
+        "phoneNumber": "+447388485173",
+        "email": "tim@latte.social",
+        "apolloId": "690603a1fde14300110a7697"
+      }
+    ]
+  },
+  {
+    "name": "Korda",
+    "description": "Music distribution for independent artists.",
+    "location": "London",
+    "industry": "Telecoms & Media",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Mali McCalla",
+        "linkedinUrl": "https://uk.linkedin.com/in/malimccalla",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Alina Verbenchuk",
+        "linkedinUrl": "https://www.linkedin.com/in/alinaverbenchuk/",
+        "phoneNumber": "+447387240901",
+        "email": "alina@korda.co",
+        "apolloId": "690603cfb28cc0001d7b0389"
+      }
+    ]
+  },
+  {
+    "name": "Vula",
+    "description": "AI lending services for African SMEs.",
+    "location": "London",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nic Rawhani",
+        "linkedinUrl": "https://www.linkedin.com/in/nicraw/",
+        "phoneNumber": "+447444826074",
+        "email": "nic@vula.vc",
+        "apolloId": "690603dec10380002124d6bb"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Goff",
+        "linkedinUrl": "https://www.linkedin.com/in/alexander-goff/",
+        "phoneNumber": "+447887363076",
+        "email": "alex@vula.vc",
+        "apolloId": "690603ec6c85070021d7abff"
+      }
+    ]
+  },
+  {
+    "name": "Atom",
+    "description": "Automated grant applications for researchers.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tomer Sautoy",
+        "linkedinUrl": "https://www.linkedin.com/in/tomer-du-sautoy-360006115/",
+        "phoneNumber": "+447872492672",
+        "email": "tomer@atomgrants.com",
+        "apolloId": "690603faf338340021f9c0bc"
+      },
+      {
+        "role": "CTO",
+        "name": "Hamilton Evans",
+        "linkedinUrl": "https://www.linkedin.com/in/hamevans/",
+        "phoneNumber": "6262982786",
+        "email": "ham@atomgrants.com",
+        "apolloId": "6906040965688d0011941fe5"
+      }
+    ]
+  },
+  {
+    "name": "ChronosDx",
+    "description": "Implantable ultra-sensitive biosensing on a chip.",
+    "location": "London",
+    "industry": "Healthcare",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Ella Mi",
+        "linkedinUrl": "https://www.linkedin.com/in/ellami/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "James Tyrrell",
+        "linkedinUrl": "https://www.linkedin.com/in/jamesetyrrell/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Fit Collective",
+    "description": "Generative AI fit optimization for fashion teams.",
+    "location": "London",
+    "industry": "Retail & Commerce",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Phoebe Gormley",
+        "linkedinUrl": "https://www.linkedin.com/in/phoebegormley/",
+        "phoneNumber": "+447577461740",
+        "email": "phoebe@fitcollective.io",
+        "apolloId": "69060457a6fbd10021e3ea13"
+      }
+    ]
+  },
+  {
+    "name": "FinStack",
+    "description": "No-Code Loan Origination System for lending companies.",
+    "location": "Bangalore",
+    "industry": "Financial Services",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Gaurav Agarwal",
+        "linkedinUrl": "https://www.linkedin.com/in/gaurav-agarwal1/",
+        "phoneNumber": "+919158666337",
+        "email": "gaurav@getfinstack.in",
+        "apolloId": "690604653c6dc400196694f1"
+      }
+    ]
+  },
+  {
+    "name": "The Bland Company",
+    "description": "Protein ingredients for egg alternatives.",
+    "location": "London",
+    "industry": "Food",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "ceo",
+        "name": "Yash Khandelwal",
+        "linkedinUrl": "https://www.linkedin.com/in/ykhandelwal6/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CPO",
+        "name": "Micol Hafez",
+        "linkedinUrl": "https://www.linkedin.com/in/micol-hafez",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Pitri",
+    "description": "Fungal biotechnology for non-toxic colorants.",
+    "location": "London",
+    "industry": "Biotechnology",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jesse Adler",
+        "linkedinUrl": "https://www.linkedin.com/in/jesse-adler/?originalSubdomain=uk",
+        "phoneNumber": "2482249035",
+        "email": "jesse@pitri.bio",
+        "apolloId": "690604a329b78b000ddfd4ce"
+      }
+    ]
+  },
+  {
+    "name": "ElementZero Biolabs",
+    "description": "100× more sensitive point-of-care genetic tests.",
+    "location": "Berlin",
+    "industry": "Biotechnology",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "John Moura",
+        "linkedinUrl": "https://www.linkedin.com/in/mourajohn/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Karol Rogowski",
+        "linkedinUrl": "https://www.linkedin.com/in/karol-rogowski/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "LegalAI",
+    "description": "AI for consumer litigation guidance.",
+    "location": "Berlin",
+    "industry": "Legal & Compliance",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tessia Tober",
+        "linkedinUrl": "http://www.linkedin.com/in/dr-tessia-tober-40096414a",
+        "phoneNumber": "+4917670257557",
+        "email": "tessia@legalai.io",
+        "apolloId": "690604f2474fd4000db8c4e4"
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Arpit Bajpai",
+        "linkedinUrl": "https://www.linkedin.com/in/bajpai-arpit/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "payper",
+    "description": "B2B checkout and payment tracking for businesses.",
+    "location": "Paris",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Thomas Claassen",
+        "linkedinUrl": "https://www.linkedin.com/in/thomas-claassen-a81396b2/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Kevin Bonte",
+        "linkedinUrl": "https://www.linkedin.com/in/kevin-bonte/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Flippit",
+    "description": "AI for customer interview analysis.",
+    "location": "Paris",
+    "industry": "Telecoms & Media",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Lorenzo D'Auria",
+        "linkedinUrl": "https://www.linkedin.com/in/lorenzo-dauria/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Lucien Maman",
+        "linkedinUrl": "https://www.linkedin.com/in/lucien-maman",
+        "phoneNumber": "+33601196201",
+        "email": "lucien@flippit.ai",
+        "apolloId": "690605818f2f860019f27594"
+      }
+    ]
+  },
+  {
+    "name": "X80 Security",
+    "description": "Automated threat simulation for cybersecurity teams.",
+    "location": "Paris",
+    "industry": "Privacy & Cybersecurity",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Simon Janin",
+        "linkedinUrl": "https://www.linkedin.com/in/simon-janin/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Friendly Brands",
+    "description": "D2C brand co-promotion for customer acquisition.",
+    "location": "Bangalore",
+    "industry": "Retail & Commerce",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sreenadh Narayanan",
+        "linkedinUrl": "https://www.linkedin.com/in/sreenadhn/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Prashant Maurice",
+        "linkedinUrl": "https://www.linkedin.com/in/prashantmaurice/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Hushl",
+    "description": "Human-centric AI that amplifies human creativity and productivity.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Adithya Narayanan",
+        "linkedinUrl": "https://www.linkedin.com/in/adithya-narayanan-37403377/",
+        "phoneNumber": "+917625011498",
+        "email": "adithya@hushl.ai",
+        "apolloId": "690605ef2419950019182d59"
+      },
+      {
+        "role": "CTO",
+        "name": "Aakarsh Yadav",
+        "linkedinUrl": "https://linkedin.com/in/aakarshyadav",
+        "phoneNumber": "+919932346540",
+        "email": "aakarsh@hushl.ai",
+        "apolloId": "690605fdc103800019500609"
+      }
+    ]
+  },
+  {
+    "name": "Sidecar",
+    "description": "Virtual AI teammate for the global freight forwarding industry.",
+    "location": "Bangalore",
+    "industry": "Enterprise Services",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sudhanshu Heda",
+        "linkedinUrl": "https://linkedin.com/in/sudhanshu-heda",
+        "phoneNumber": "9079818831",
+        "email": "sudhanshu@usesidecar.com",
+        "apolloId": "6906060b0ecf1500218fd102"
+      },
+      {
+        "role": "CTO",
+        "name": "Akshat Khare",
+        "linkedinUrl": "https://www.linkedin.com/in/akshat-khare-codebat/",
+        "phoneNumber": "+918770615900",
+        "email": "akshat@usesidecar.com",
+        "apolloId": "69060619036caa001173ff21"
+      }
+    ]
+  },
+  {
+    "name": "Vadoo AI",
+    "description": "Peer-to-peer video streaming for platform operators.",
+    "location": "Bangalore",
+    "industry": "Marketing & Advertising",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ankur Singh",
+        "linkedinUrl": "https://www.linkedin.com/in/ankursingh4/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Anil Matcha",
+        "linkedinUrl": "https://www.linkedin.com/in/joseilaffitte/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Capitall",
+    "description": "Peer-to-business lending for retail investors.",
+    "location": "Bangalore",
+    "industry": "Financial Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sanskar Jayaswal",
+        "linkedinUrl": "http://www.linkedin.com/in/sanskarjayaswal",
+        "phoneNumber": "+919739811416",
+        "email": null,
+        "apolloId": "69060667811a62001d557ecb"
+      },
+      {
+        "role": "CTO",
+        "name": "Pranav NairH",
+        "linkedinUrl": "https://www.linkedin.com/in/pranav-nair/",
+        "phoneNumber": "+919642071222",
+        "email": "pranav@capitall.club",
+        "apolloId": "69060677882539000d09da88"
+      }
+    ]
+  },
+  {
+    "name": "Allium Bio",
+    "description": "Food-grade biotech ingredients for plant-based brands.",
+    "location": "Singapore",
+    "industry": "Biotechnology",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jonathan Ho",
+        "linkedinUrl": "https://www.linkedin.com/in/jonjamesho/",
+        "phoneNumber": "+6593722389",
+        "email": "jon@alliumbio.com",
+        "apolloId": "69060685b3cf150019834fdf"
+      },
+      {
+        "role": "CTO",
+        "name": "Albertus Sarwono",
+        "linkedinUrl": "https://www.linkedin.com/in/albertussarwono/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Bioponics",
+    "description": "CRISPR-based bio-fertilizers for farmers.",
+    "location": "Hong Kong",
+    "industry": "Agriculture & Farming",
+    "founded": "2020",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Hubert Tse",
+        "linkedinUrl": "https://www.linkedin.com/in/hubert-tse",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Akhilesh Chaurasia",
+        "linkedinUrl": "https://www.linkedin.com/in/akhilesh-k-chaurasia-0a6a4a19/",
+        "phoneNumber": "+919648107239",
+        "email": "akhilesh.chaurasia@bioponics.io",
+        "apolloId": "690606d34e4a9e0011e4a108"
+      }
+    ]
+  },
+  {
+    "name": "ForeQast",
+    "description": "Predictive automation for supply chain planners.",
+    "location": "Toronto",
+    "industry": "Logistics",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Aida Ahmadzadegan",
+        "linkedinUrl": "https://www.linkedin.com/in/aidaahmadzadegan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chris Masternak",
+        "linkedinUrl": "http://linkedin.com/in/cmaster",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Syncware",
+    "description": "Warehouse analytics for WMS operators.",
+    "location": "Singapore",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2021",
+    "people": [
+      {
+        "role": "Founding CEO",
+        "name": "Dirk-Jan van Veen",
+        "linkedinUrl": "https://www.linkedin.com/in/dirk-jan-van-veen-0b625569/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founding CTO",
+        "name": "Walter Pintor",
+        "linkedinUrl": "https://www.linkedin.com/in/walter-pintor",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Astronome",
+    "description": "Automated IT management for SMBs.",
+    "location": "London",
+    "industry": "Enterprise Services",
+    "founded": "2022",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Chloe Burles",
+        "linkedinUrl": "https://www.linkedin.com/in/chloe-burles/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Iris Lab",
+    "description": "Laser charging for autonomous drones.",
+    "location": "Paris",
+    "industry": "Industrial & Manufacturing",
+    "founded": "2024",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nicolas Bourliatoux",
+        "linkedinUrl": "https://www.linkedin.com/in/nicolas-bourliatoux",
+        "phoneNumber": "+33781188643",
+        "email": "nicolas.bourliatoux@irislab.io",
+        "apolloId": "69060783ac6107000dedbd59"
+      },
+      {
+        "role": "CTO",
+        "name": "Lakshman Srinivasan",
+        "linkedinUrl": "https://www.linkedin.com/in/lakshmansrinivasan/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "COO",
+        "name": "Bastien Fabre",
+        "linkedinUrl": "https://www.linkedin.com/in/bastien-fabre-a6ba0813a/",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  }
+]
