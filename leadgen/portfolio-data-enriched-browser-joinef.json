@@ -7152,7 +7152,12 @@
         "email": "charles@rally.fan",
         "apolloId": "6906028cfabf11001d9417b3"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "AI-powered platform enabling creators to launch digital storefronts, sell products, and grow audiences in minutes.",
+    "isAi": true,
+    "website": "https://rally.fan"
   },
   {
     "name": "Agota Health",
@@ -7177,7 +7182,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": "$100K",
+    "fundingStage": "Seed",
+    "shortDescription": "Agota Health provides a staffing agency management platform for healthcare facilities to schedule and communicate with on-demand staff.",
+    "isAi": null,
+    "website": "https://www.agotahealth.com"
   },
   {
     "name": "Powerhouse AI",
@@ -7202,7 +7212,12 @@
         "email": "kushal@pwh.ai",
         "apolloId": "690602fc6a7403001522f375"
       }
-    ]
+    ],
+    "totalFunding": "$500K",
+    "fundingStage": "Convertible Note",
+    "shortDescription": "Powerhouse AI automates warehouse inventory and document processes using AI-powered vision technology to boost accuracy and productivity.",
+    "isAi": true,
+    "website": "https://powerhouseai.com/"
   },
   {
     "name": "Fortephy",
@@ -7227,7 +7242,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Fortephy builds a new generation of microbiological technologies for advanced applications.",
+    "isAi": false,
+    "website": null
   },
   {
     "name": "Mycro Harvest",
@@ -7252,7 +7272,12 @@
         "email": "justin@mycroharvest.com",
         "apolloId": "6906035753dece0021706b07"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Mycro Harvest develops AI-powered, container-based mushroom farms for scalable, low-labor, high-yield production of sustainable food and materials.",
+    "isAi": true,
+    "website": "https://www.mycroharvest.com"
   },
   {
     "name": "Orbit",
@@ -7277,7 +7302,12 @@
         "email": "dg@tryorbit.co",
         "apolloId": "69060374ee485b00156b487e"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Latte",
@@ -7302,7 +7332,12 @@
         "email": "tim@latte.social",
         "apolloId": "690603a1fde14300110a7697"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Korda",
@@ -7327,7 +7362,12 @@
         "email": "alina@korda.co",
         "apolloId": "690603cfb28cc0001d7b0389"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Music distribution platform for independent artists, helping creators compare options in a non-transparent industry.",
+    "isAi": false,
+    "website": "https://korda.co"
   },
   {
     "name": "Vula",
@@ -7352,7 +7392,12 @@
         "email": "alex@vula.vc",
         "apolloId": "690603ec6c85070021d7abff"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Vula uses AI to automate and streamline SME financing in Africa, connecting businesses with funders through a digital platform.",
+    "isAi": true,
+    "website": "https://www.vula.vc"
   },
   {
     "name": "Atom",
@@ -7377,7 +7422,12 @@
         "email": "ham@atomgrants.com",
         "apolloId": "6906040965688d0011941fe5"
       }
-    ]
+    ],
+    "totalFunding": "$25M",
+    "fundingStage": "Series A",
+    "shortDescription": "AI-powered online learning platform for primary school students, teachers, and parents, adapting to individual learning levels.",
+    "isAi": true,
+    "website": null
   },
   {
     "name": "ChronosDx",
@@ -7402,7 +7452,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "ChronosDx develops a high-sensitivity, multi-omic biosensing platform for precision disease diagnosis and drug development.",
+    "isAi": false,
+    "website": null
   },
   {
     "name": "Fit Collective",
@@ -7419,7 +7474,12 @@
         "email": "phoebe@fitcollective.io",
         "apolloId": "69060457a6fbd10021e3ea13"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": "Incubator/Accelerator",
+    "shortDescription": "Generative AI fit optimization for fashion teams to reduce returns and waste by improving garment fit.",
+    "isAi": true,
+    "website": "https://www.fitcollective.io"
   },
   {
     "name": "FinStack",
@@ -7436,7 +7496,12 @@
         "email": "gaurav@getfinstack.in",
         "apolloId": "690604653c6dc400196694f1"
       }
-    ]
+    ],
+    "totalFunding": "$355K",
+    "fundingStage": "Seed",
+    "shortDescription": "FinStack provides a no-code lending platform enabling companies to launch and manage digital loan products without engineering resources.",
+    "isAi": false,
+    "website": "https://finstack.in"
   },
   {
     "name": "The Bland Company",
@@ -7461,7 +7526,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Pitri",
