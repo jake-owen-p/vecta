@@ -7548,7 +7548,12 @@
         "email": "jesse@pitri.bio",
         "apolloId": "690604a329b78b000ddfd4ce"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Pitri develops non-toxic, functional pigments using precision fermentation of fungi to replace artificial colors in products.",
+    "isAi": false,
+    "website": null
   },
   {
     "name": "ElementZero Biolabs",
@@ -7573,7 +7578,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Develops magnetic nanoparticle-based kits for sequence-specific capture of DNA/RNA for diagnostics and research.",
+    "isAi": false,
+    "website": "https://elementzero.bio"
   },
   {
     "name": "LegalAI",
@@ -7598,7 +7608,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": "€80.7M",
+    "fundingStage": "Series B",
+    "shortDescription": "Develops Europe's first sovereign legal AI platform tailored for German and European legal systems.",
+    "isAi": true,
+    "website": "https://www.noxtua.com"
   },
   {
     "name": "payper",
@@ -7623,7 +7638,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Flippit",
@@ -7648,7 +7668,12 @@
         "email": "lucien@flippit.ai",
         "apolloId": "690605818f2f860019f27594"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Flippit is a GenAI startup helping brands and IP-holders connect with digital-native audiences through interactive, animated AI characters.",
+    "isAi": true,
+    "website": "https://www.flippit.ai/"
   },
   {
     "name": "X80 Security",
@@ -7665,7 +7690,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "X80 Security evaluates cybersecurity risks from an attacker’s perspective to prioritize and maximize defense efficiency for businesses[1][3].",
+    "isAi": false,
+    "website": "https://www.x80security.com"
   },
   {
     "name": "Friendly Brands",
@@ -7690,7 +7720,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Hushl",
@@ -7715,7 +7750,12 @@
         "email": "aakarsh@hushl.ai",
         "apolloId": "690605fdc103800019500609"
       }
-    ]
+    ],
+    "totalFunding": "$55.0k",
+    "fundingStage": "Pre-Seed",
+    "shortDescription": "AI-based platform helping professionals monetize their skills and become creators in the digital economy.",
+    "isAi": true,
+    "website": "https://www.hushl.ai"
   },
   {
     "name": "Sidecar",
@@ -7740,7 +7780,12 @@
         "email": "akshat@usesidecar.com",
         "apolloId": "69060619036caa001173ff21"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Vadoo AI",
@@ -7765,7 +7810,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": "$80K",
+    "fundingStage": "Seed",
+    "shortDescription": "AI-powered video platform for creators and businesses to generate, edit, and host professional videos from text.",
+    "isAi": true,
+    "website": "https://www.vadoo.tv"
   },
   {
     "name": "Capitall",
@@ -7790,7 +7840,12 @@
         "email": "pranav@capitall.club",
         "apolloId": "69060677882539000d09da88"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Capitall connects investors with high-growth enterprises for passive income via a digital investment platform.",
+    "isAi": true,
+    "website": "https://capitall.club"
   },
   {
     "name": "Allium Bio",
@@ -7815,7 +7870,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": "$110K",
+    "fundingStage": "Seed",
+    "shortDescription": "Develops sustainable, plant-based food ingredients by co-culturing microalgae and mycelium to replace soy and additives in food products.",
+    "isAi": false,
+    "website": "https://www.alliumbio.com"
   },
   {
     "name": "Bioponics",
@@ -7840,7 +7900,12 @@
         "email": "akhilesh.chaurasia@bioponics.io",
         "apolloId": "690606d34e4a9e0011e4a108"
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Bioponics engineers microbes via CRISPR to produce next-generation bio-fertilizers.",
+    "isAi": false,
+    "website": null
   },
   {
     "name": "ForeQast",
@@ -7865,7 +7930,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": null,
+    "isAi": null,
+    "website": null
   },
   {
     "name": "Syncware",
@@ -7890,7 +7960,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": null,
+    "shortDescription": "Syncware automates commerce operations by connecting marketplaces, shopping carts, and order sources to logistics and ERP systems with full EDI support.",
+    "isAi": false,
+    "website": null
   },
   {
     "name": "Astronome",
@@ -7907,7 +7982,12 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": null,
+    "fundingStage": "Pre-seed",
+    "shortDescription": "Astronome AI is a B2B AI startup building an undisclosed product, currently in early development from the Launched@Balderton program.",
+    "isAi": true,
+    "website": null
   },
   {
     "name": "Iris Lab",
@@ -7940,6 +8020,11 @@
         "email": null,
         "apolloId": null
       }
-    ]
+    ],
+    "totalFunding": "€260,000 (€100k SATT Paris Saclay grant, €100k honor loan in process, €60k investor ticket)",
+    "fundingStage": "Seed",
+    "shortDescription": "Develops wireless power transmission solutions for continuous supply of autonomous systems using laser-electricity conversion.",
+    "isAi": false,
+    "website": null
   }
 ]
