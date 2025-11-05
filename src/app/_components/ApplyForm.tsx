@@ -56,6 +56,7 @@ const EMPLOYMENT_TYPE_TO_ENUM: Record<EmploymentType, ApplicationEmploymentType>
 
 const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024;
 const JOB_TYPE_STORAGE_KEY = "vecta.apply.jobType";
+const ALLOWED_JOB_TYPES = ["staff", "principle", "founding"];
 const JOB_TYPE_HEADING_MAP: Record<string, string> = {
   principle: "Principle Engineer",
   founding: "Founding Engineer",
@@ -69,7 +70,11 @@ const normalizeJobType = (value: string | null | undefined) => {
   return trimmed.length > 0 ? trimmed : null;
 };
 
-export const ApplyForm = () => {
+type ApplyFormProps = {
+  jobType?: string | null;
+};
+
+export const ApplyForm = ({ jobType: jobTypeProp }: ApplyFormProps = {}) => {
   const [workTypes, setWorkTypes] = useState<WorkType[]>([]);
   const [employmentTypes, setEmploymentTypes] = useState<EmploymentType[]>([]);
   const [errors, setErrors] = useState<ErrorState>({});
@@ -80,8 +85,7 @@ export const ApplyForm = () => {
   const [uploadError, setUploadError] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
-  const [jobType, setJobType] = useState<string | null>(null);
-  const [jobTypeParam, setJobTypeParam] = useState<string | null>(null);
+  const [jobType, setJobType] = useState<string | null>(jobTypeProp ?? null);
 
   const nameId = useId();
   const emailId = useId();
@@ -102,61 +106,10 @@ export const ApplyForm = () => {
 
   type SubmissionInput = Parameters<typeof applicationMutation.mutateAsync>[0];
 
+  // Update jobType when prop changes
   useEffect(() => {
-    if (typeof window === "undefined") return;
-
-    const searchParams = new URLSearchParams(window.location.search);
-    const paramValue = normalizeJobType(searchParams.get("JOB_TYPE"));
-    let storedValue: string | null = null;
-
-    try {
-      storedValue = window.localStorage.getItem(JOB_TYPE_STORAGE_KEY);
-    } catch (error) {
-      void error;
-      storedValue = null;
-    }
-
-    if (paramValue) {
-      setJobType(paramValue);
-      setJobTypeParam(paramValue);
-      try {
-        window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, paramValue);
-      } catch (error) {
-        void error;
-      }
-      return;
-    }
-
-    setJobTypeParam(null);
-    const normalizedStored = normalizeJobType(storedValue);
-    if (normalizedStored) {
-      setJobType(normalizedStored);
-      return;
-    }
-
-    setJobType(null);
-    try {
-      window.localStorage.removeItem(JOB_TYPE_STORAGE_KEY);
-    } catch (error) {
-      void error;
-    }
-  }, []);
-
-  useEffect(() => {
-    if (typeof window === "undefined") return;
-
-    try {
-      if (jobType) {
-        window.localStorage.setItem(JOB_TYPE_STORAGE_KEY, jobType);
-        setJobTypeParam((prev) => prev ?? jobType);
-      } else {
-        window.localStorage.removeItem(JOB_TYPE_STORAGE_KEY);
-        setJobTypeParam(null);
-      }
-    } catch (error) {
-      void error;
-    }
-  }, [jobType]);
+    setJobType(jobTypeProp ?? null);
+  }, [jobTypeProp]);
 
   const selectedLabels = useMemo(
     () =>
@@ -457,9 +410,14 @@ export const ApplyForm = () => {
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-white/50">Apply</p>
             <h1 className="text-4xl font-bold leading-tight text-white sm:text-5xl">
               {(() => {
-                if (!jobTypeParam) return "Join the Vecta Network";
-                const mapped = JOB_TYPE_HEADING_MAP[jobTypeParam.toLowerCase()];
-                return mapped ?? "Join the Vecta Network";
+                if (!jobType) return "Join the Vecta Network";
+                const lowerJobType = jobType.toLowerCase();
+                // Only change title if it's in the allowed list
+                if (ALLOWED_JOB_TYPES.includes(lowerJobType)) {
+                  const mapped = JOB_TYPE_HEADING_MAP[lowerJobType];
+                  return mapped ?? "Join the Vecta Network";
+                }
+                return "Join the Vecta Network";
               })()}
             </h1>
             <p className="text-base text-white/60">

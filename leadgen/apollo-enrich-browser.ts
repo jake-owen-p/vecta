@@ -817,7 +817,7 @@ async function enrichPersonWithBrowser(
 
 async function enrichPortfolioDataWithBrowser() {
   console.log("Reading portfolio data...");
-  const portfolioPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2023.json");
+  const portfolioPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2025.json");
   const portfolioData = JSON.parse(
     readFileSync(portfolioPath, "utf-8")
   ) as Company[];
@@ -830,7 +830,7 @@ async function enrichPortfolioDataWithBrowser() {
   );
   console.log(`Total people to enrich: ${totalPeople}`);
 
-  const outputPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2023-enriched.json");
+  const outputPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2025-enriched.json");
 
   let enrichedPortfolioData: Company[] = [];
 
