@@ -52,8 +52,11 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${geist.variable}`}>
-      <Analytics />
+      <head>
+        <meta httpEquiv="Permissions-Policy" content="camera=(), microphone=*" />
+      </head>
       <body>
+        <Analytics />
         <TRPCReactProvider>{children}</TRPCReactProvider>
       </body>
     </html>
