@@ -529,17 +529,6 @@ export const Hero = () => {
                 <ArrowRight className="h-4 w-8 text-[#ff3700e4] transition-transform group-hover:translate-x-1" />
               </Link>
             </Button>
-            <Button
-              asChild
-              variant="ghost"
-              size="xl"
-              className="w-full rounded-full border border-white/20 bg-transparent text-white hover:bg-white/5"
-            >
-              <Link href="#selection-process" className="flex cursor-pointer items-center justify-center gap-2">
-                See the vetting
-                <ArrowRight className="h-4 w-4" />
-              </Link>
-            </Button>
           </div>
           <p className="text-sm text-white/60">
             Operator-builders want to solve real world problems because they love what they do — we exist to pair that passion with the missions that need it most.
