@@ -65,7 +65,7 @@ export const ForDevelopers = () => {
                   We pair humans to missions where they come alive — not to bullet points.
                 </p>
                 <p className="text-white/80">
-                  We take time to understand the product, the business, the mission and match talent who can have real impact — not "good on paper," but right for the reality.
+                  We take time to understand the product, the business, the mission and match talent who can have real impact — not &quot;good on paper,&quot; but right for the reality.
                 </p>
               </div>
 
