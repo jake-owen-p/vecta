@@ -4,23 +4,23 @@ import { Card } from "./ui/card";
 const services = [
   {
     icon: Bot,
-    title: "Agentic Workflow Implementation",
-    description: "Orchestrate multi-step reasoning and tools. Build autonomous agents that think, plan, and execute complex tasks.",
+    title: "Agentic workflow leads",
+    description: "Operator-builders who design and maintain multi-step reasoning systems inside your product, not as an outsourced project.",
   },
   {
     icon: Workflow,
-    title: "Integration with Real Systems",
-    description: "Connect APIs, webhooks, databases, and apps. Seamless integration with your existing tech stack.",
+    title: "Systems integration talent",
+    description: "People who can sit with your team and wire APIs, webhooks, and internal tools because they’ve done it in production before.",
   },
   {
     icon: Database,
-    title: "Retrieval-Augmented Generation (RAG)",
-    description: "Embeddings, Pinecone, Postgres hybrid search. Build AI that knows your data inside and out.",
+    title: "RAG + data specialists",
+    description: "Talent fluent in embeddings, Pinecone, Postgres hybrid search, and retrieval guardrails — ready to own your data layer.",
   },
   {
     icon: Zap,
-    title: "Automation & Infrastructure",
-    description: "Inngest, Vercel, serverless, background jobs. Production-ready AI infrastructure that scales.",
+    title: "Automation & infra operators",
+    description: "Inngest, Vercel, serverless, background jobs, observability — the operators who keep your AI infra shipping.",
   },
 ];
 
@@ -31,10 +31,10 @@ export const Services = () => {
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-5 animate-fade-in-up">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl font-bold text-white">
-            From AI idea to working agent
+            Talent specializations we vet
           </h2>
           <p className="text-xl text-white/70">
-            Our developers specialize in production-grade AI implementation
+            We’re not a software house — these are the operator-builders our recruitment service embeds inside your org.
           </p>
         </div>
         

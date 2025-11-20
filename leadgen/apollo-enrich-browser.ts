@@ -482,6 +482,49 @@ interface Company {
 const normalizeCompanyName = (value: string) => value.trim().toLowerCase();
 const normalizePersonKey = (person: Person) => person.name.trim().toLowerCase();
 
+const LOCATION_KEYWORDS = ["london", "england", "uk", "united kingdom"];
+const MAX_PEOPLE_PER_COMPANY = 4;
+const CONTACT_LOCATION_SELECTORS = [
+  '[data-interaction-boundary="Contact Header - Location Inline Edit"]',
+  '[data-testid*="location"]',
+  '[data-test*="location"]',
+  '[class*="location"]',
+];
+
+const matchesLocationKeywords = (value: string | null | undefined): boolean => {
+  const normalized = value?.toLowerCase().trim() ?? "";
+  if (!normalized) {
+    return false;
+  }
+  return LOCATION_KEYWORDS.some((keyword) => normalized.includes(keyword));
+};
+
+const shouldProcessCompany = (company: Company): boolean => {
+  return matchesLocationKeywords(company.location) || matchesLocationKeywords(company.industry);
+};
+
+const hasAcceptablePersonCount = (company: Company): boolean =>
+  (company.people?.length ?? 0) <= MAX_PEOPLE_PER_COMPANY;
+
+async function getContactLocation(page: RealBrowserPage): Promise<string | null> {
+  return page.evaluate((selectors) => {
+    for (const selector of selectors) {
+      const candidates = Array.from(document.querySelectorAll<HTMLElement>(selector));
+      for (const element of candidates) {
+        const textContent = element.innerText ?? element.textContent ?? "";
+        if (!textContent) {
+          continue;
+        }
+        const normalized = textContent.replace(/\s+/g, " ").replace(/^·\s*/, "").trim();
+        if (normalized) {
+          return normalized;
+        }
+      }
+    }
+    return null;
+  }, CONTACT_LOCATION_SELECTORS);
+}
+
 function upsertEnrichedCompany(target: Company[], company: Company): Company {
   const normalizedName = normalizeCompanyName(company.name);
   let existing = target.find((item) => normalizeCompanyName(item.name) === normalizedName);
@@ -714,6 +757,32 @@ async function enrichPersonWithBrowser(
     const successLabel = linkText.length > 0 ? linkText : "selected contact";
     console.log(`    ✓ Successfully clicked on ${successLabel}`);
 
+    const contactLocation = await getContactLocation(page);
+
+    if (!contactLocation) {
+      console.log("    ⚠️ Unable to determine contact location. Skipping contact.");
+      return {
+        phoneNumber: null,
+        email: null,
+        apolloId: null,
+        matchedRole: true,
+      };
+    }
+
+    if (!matchesLocationKeywords(contactLocation)) {
+      console.log(
+        `    ✂ Skipping contact because location "${contactLocation}" is outside the UK.`
+      );
+      return {
+        phoneNumber: null,
+        email: null,
+        apolloId: null,
+        matchedRole: true,
+      };
+    }
+
+    console.log(`    Contact location: ${contactLocation}`);
+
     // Try to extract contact info from the detail page if available
     // Note: Apollo might require login or have protected data, so we'll just log what we can see
     let phoneLookup = await getVisiblePhoneNumber(page);
@@ -817,20 +886,30 @@ async function enrichPersonWithBrowser(
 
 async function enrichPortfolioDataWithBrowser() {
   console.log("Reading portfolio data...");
-  const portfolioPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2025.json");
-  const portfolioData = JSON.parse(
-    readFileSync(portfolioPath, "utf-8")
-  ) as Company[];
+  const portfolioPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2023-enriched-dupe.json");
+  const portfolioData = JSON.parse(readFileSync(portfolioPath, "utf-8")) as Company[];
 
   console.log(`Found ${portfolioData.length} companies`);
 
-  const totalPeople = portfolioData.reduce(
+  const companiesToProcess = portfolioData.filter(
+    (company) => shouldProcessCompany(company) && hasAcceptablePersonCount(company)
+  );
+  console.log(
+    `Filtered to ${companiesToProcess.length} companies in London, England, or UK with ≤ ${MAX_PEOPLE_PER_COMPANY} people`
+  );
+
+  if (companiesToProcess.length === 0) {
+    console.log("No companies matched the target locations. Exiting.");
+    return;
+  }
+
+  const totalPeople = companiesToProcess.reduce(
     (sum, company) => sum + company.people.length,
     0
   );
   console.log(`Total people to enrich: ${totalPeople}`);
 
-  const outputPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2025-enriched.json");
+  const outputPath = join(process.cwd(), "leadgen", "eu-startups-portfolio-data-2023-enriched-numbers.json");
 
   let enrichedPortfolioData: Company[] = [];
 
@@ -838,12 +917,16 @@ async function enrichPortfolioDataWithBrowser() {
     try {
       const existingRaw = readFileSync(outputPath, "utf-8");
       const parsed = JSON.parse(existingRaw) as Company[];
-      enrichedPortfolioData = parsed.map((company) => ({
-        ...company,
-        people: Array.isArray(company.people)
-          ? company.people.map((person) => ({ ...person }))
-          : [],
-      }));
+      enrichedPortfolioData = parsed
+        .filter(
+          (company) => shouldProcessCompany(company) && hasAcceptablePersonCount(company)
+        )
+        .map((company) => ({
+          ...company,
+          people: Array.isArray(company.people)
+            ? company.people.map((person) => ({ ...person }))
+            : [],
+        }));
       console.log(
         `Loaded existing enriched data with ${enrichedPortfolioData.length} companies. Continuing with upserts...`
       );
@@ -856,7 +939,7 @@ async function enrichPortfolioDataWithBrowser() {
   }
 
   if (!enrichedPortfolioData.length) {
-    enrichedPortfolioData = portfolioData.map((company) => ({
+    enrichedPortfolioData = companiesToProcess.map((company) => ({
       ...company,
       people: company.people.map((person) => ({ ...person })),
     }));
@@ -894,7 +977,7 @@ async function enrichPortfolioDataWithBrowser() {
     let notFoundCount = 0;
     let removedCount = 0;
 
-    for (const company of portfolioData) {
+    for (const company of companiesToProcess) {
       const enrichedCompany = upsertEnrichedCompany(enrichedPortfolioData, company);
       console.log(`\nProcessing company: ${company.name}`);
 

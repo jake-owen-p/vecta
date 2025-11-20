@@ -82,7 +82,7 @@ const STACK_DATA = [
         src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=llmops" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=llmops" },
   },
   {
     id: "typescript-fullstack",
@@ -124,7 +124,7 @@ const STACK_DATA = [
         src: "https://avatars.githubusercontent.com/u/78935958?s=280&v=4",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=typescript-fullstack" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=typescript-fullstack" },
   },
   {
     id: "python-fullstack",
@@ -166,7 +166,7 @@ const STACK_DATA = [
         src: "https://www.svgrepo.com/show/331370/docker.svg",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=python-fullstack" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=python-fullstack" },
   },
   {
     id: "agents",
@@ -208,7 +208,7 @@ const STACK_DATA = [
         src: "https://langfuse.com/favicon.ico",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=agents" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=agents" },
   },
   {
     id: "frontend-ai",
@@ -250,7 +250,7 @@ const STACK_DATA = [
         src: "https://www.cloudflare.com/favicon.ico",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=frontend-ai" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=frontend-ai" },
   },
   {
     id: "ios-ai",
@@ -292,7 +292,7 @@ const STACK_DATA = [
         src: "https://logo.svgcdn.com/l/xcode.svg",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=ios-ai" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=ios-ai" },
   },
   {
     id: "android-ai",
@@ -334,7 +334,7 @@ const STACK_DATA = [
         src: "https://logo.svgcdn.com/l/firebase.svg",
       },
     ],
-    cta: { label: "Apply now", href: "/apply?stack=android-ai" },
+    cta: { label: "Hire for this stack", href: "/businesses?stack=android-ai" },
   },
 ] satisfies Array<Omit<Stack, "logos"> & { logos: Array<Omit<StackLogo, "className">> }>;
 
@@ -485,38 +485,73 @@ export const Hero = () => {
       <SiteToolbar />
 
       <div className="relative z-10 mx-auto flex w-full max-w-[1280px] flex-col gap-16 px-6 pb-24 pt-32 md:pb-32 lg:flex-row lg:items-end lg:pt-46 justify-between">
-        <div className="flex-1 space-y-10 lg:max-w-[640px]">
-          <span className="inline-flex h-1 w-16 rounded-full bg-gradient-to-r from-white/40 to-white/10" />
+        <div className="flex-1 space-y-8 lg:max-w-[640px]">
+          <div className="inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-xs font-semibold uppercase tracking-[0.35em] text-white/70">
+            Technical recruitment service
+          </div>
           <h1 className="text-4xl font-bold leading-[1.05] text-white sm:text-5xl md:text-6xl">
-            Remote roles for the top 5% of <span className="font-black text-[#FF3600]">AI builders</span>
+          AI Talent Sourced by People Who Build AI
           </h1>
+          <p className="text-lg text-white/70 md:text-xl">
+            We built these systems ourselves, so our recruitment service is run by technical co-founders—not account reps. Every intro is mission-first: we pair elite builders with your company after interviewing them to guarantee they can advance your mission.
+          </p>
+          <ul className="space-y-3 text-base text-white/70">
+            <li className="flex items-start gap-3">
+              <span className="mt-2 h-1.5 w-4 rounded-full bg-[#FF3600]" />
+              <span>Deep technical interviews led by co-founders who have shipped the same agentic systems.</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="mt-2 h-1.5 w-4 rounded-full bg-[#FF3600]" />
+              <span>We take time to understand your product, stack, and mission before introducing talent.</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="mt-2 h-1.5 w-4 rounded-full bg-[#FF3600]" />
+              <span>AI builders join you full-time or contract-to-hire to execute your roadmap with mission-level context.</span>
+            </li>
+          </ul>
         </div>
 
         <div className="flex flex-1 flex-col gap-6 self-stretch lg:max-w-[420px]">
-          <p className="text-lg text-white/50 md:text-lg">
-            You’ve mastered AI frameworks — now use them for products people rely on daily. Remote freedom, great pay, and high-impact projects.
+          <p className="text-lg text-white/60">
+            We place technical operators in companies they love so they bring momentum, ownership, and context from day one.
           </p>
-          <Button
-            asChild
-            variant="accent"
-            size="xl"
-            className="group w-fit rounded-full border-[#ff3700e4] border-2 bg-white px-8 text-sm font-semibold uppercase tracking-tight text-white shadow-[0_0_25px_rgba(255,92,26,0.45)] transition hover:translate-y-[-2px] hover:bg-[#ffe6dfb8]"
-            data-cta="hero-apply"
-            onClick={handleHeroCta}
-          >
-            <Link href="/apply" className="flex cursor-pointer items-center gap-3">
-              <span className="text-[#ff3700e4]">Apply Now</span>
-              <ArrowRight className="h-4 w-8 text-[#ff3700e4] transition-transform group-hover:translate-x-1" />
-            </Link>
-          </Button>
+          <div className="flex flex-col gap-4 sm:flex-row">
+            <Button
+              asChild
+              variant="accent"
+              size="xl"
+              className="group w-full rounded-full border-[#ff3700e4] border-2 bg-white px-8 text-sm font-semibold uppercase tracking-tight text-white shadow-[0_0_25px_rgba(255,92,26,0.45)] transition hover:translate-y-[-2px] hover:bg-[#ffe6dfb8]"
+              data-cta="hero-apply"
+              onClick={handleHeroCta}
+            >
+              <Link href="/businesses" className="flex cursor-pointer items-center justify-center gap-3">
+                <span className="text-[#ff3700e4]">Talk to a technical co-founder</span>
+                <ArrowRight className="h-4 w-8 text-[#ff3700e4] transition-transform group-hover:translate-x-1" />
+              </Link>
+            </Button>
+            <Button
+              asChild
+              variant="ghost"
+              size="xl"
+              className="w-full rounded-full border border-white/20 bg-transparent text-white hover:bg-white/5"
+            >
+              <Link href="#selection-process" className="flex cursor-pointer items-center justify-center gap-2">
+                See the vetting
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </Button>
+          </div>
+          <p className="text-sm text-white/60">
+            Operator-builders want to solve real world problems because they love what they do — we exist to pair that passion with the missions that need it most.
+          </p>
         </div>
       </div>
 
       <div className="relative z-10 w-full pb-12">
         <div className="px-6 pb-6 md:px-10">
           <div className="space-y-2">
-            <h2 className="text-sm font-semibold uppercase tracking-[0.3em] text-white/60">AI Stacks</h2>
-            <p className="text-sm text-white/40">Join the engineers redefining what’s possible with AI every single day.</p>
+            <h2 className="text-sm font-semibold uppercase tracking-[0.3em] text-white/60">Stacks we productionize</h2>
+            <p className="text-sm text-white/40">Proof that we understand your architecture before we match you with talent.</p>
           </div>
         </div>
         <div className="group relative" role="region" aria-label="Stack carousel">

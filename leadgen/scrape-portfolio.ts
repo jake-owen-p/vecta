@@ -1,269 +1,186 @@
-import puppeteer from "puppeteer-extra";
-import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import { writeFileSync } from "fs";
 import { join } from "path";
+import { connect } from "puppeteer-real-browser";
 
-// Add stealth plugin
-puppeteer.use(StealthPlugin());
-
-// Helper function to wait using Promise-based setTimeout
 const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
-// Type definitions
-interface Person {
-  role: string;
-  name: string;
-  linkedinUrl: string | null;
-}
+type RealBrowserPage = NonNullable<Awaited<ReturnType<typeof connect>>["page"]>;
 
-interface Company {
-  name: string;
-  description: string | null;
-  location: string | null;
-  industry: string | null;
-  founded: string | null;
-  people: Person[];
-}
+const LINKEDIN_SALES_NAVIGATOR_BASE_URL = "https://www.linkedin.com/sales/search/people";
+const LINKEDIN_SALES_NAVIGATOR_QUERY_PARAMS =
+  "query=(spellCorrectionEnabled%3Atrue%2CrecentSearchParam%3A(id%3A5229394068%2CdoLogHistory%3Atrue)%2Cfilters%3AList((type%3AREGION%2Cvalues%3AList((id%3A105072130%2Ctext%3APoland%2CselectionType%3AINCLUDED)%2C(id%3A103420483%2Ctext%3ANorth%2520Macedonia%2CselectionType%3AINCLUDED)%2C(id%3A102264497%2Ctext%3AUkraine%2CselectionType%3AINCLUDED)%2C(id%3A106670623%2Ctext%3ARomania%2CselectionType%3AINCLUDED)%2C(id%3A104508036%2Ctext%3ACzechia%2CselectionType%3AINCLUDED)))%2C(type%3AYEARS_OF_EXPERIENCE%2Cvalues%3AList((id%3A3%2Ctext%3A3%2520to%25205%2520years%2CselectionType%3AINCLUDED)%2C(id%3A4%2Ctext%3A6%2520to%252010%2520years%2CselectionType%3AINCLUDED)))%2C(type%3ACURRENT_TITLE%2Cvalues%3AList((id%3A5314%2Ctext%3ASenior%2520Solutions%2520Engineer%2CselectionType%3AINCLUDED)%2C(id%3A1313%2Ctext%3ASolutions%2520Engineer%2CselectionType%3AINCLUDED)%2C(id%3A13793%2Ctext%3ASenior%2520Implementation%2520Engineer%2CselectionType%3AINCLUDED)%2C(id%3A3142%2Ctext%3AImplementation%2520Engineer%2CselectionType%3AINCLUDED))))%2Ckeywords%3Asolutions%2520engineer)&sessionId=yylqBHQ%2BQx2A4tXL%2BOr48Q%3D%3D";
+const OUTPUT_CSV_PATH = join(process.cwd(), "leadgen", "linkedin-leads.csv");
 
-async function scrapePortfolio() {
-  const browser = await puppeteer.launch({
-    headless: false, // Set to true if you want headless mode
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
-  });
+const buildSearchUrl = (page: number) =>
+  `${LINKEDIN_SALES_NAVIGATOR_BASE_URL}?page=${page}&${LINKEDIN_SALES_NAVIGATOR_QUERY_PARAMS}`;
 
-  try {
-    const page = await browser.newPage();
-    
-    // Set viewport
-    await page.setViewport({ width: 1920, height: 1080 });
-    
-    console.log("Navigating to portfolio page...");
-    await page.goto(
-      "https://www.joinef.com/portfolio/?filter-founded=2020,2021,2022,2023,2024,2025&filter-stage=pre-seed,seed,series-a,series-b",
-      {
-        waitUntil: "networkidle2",
-        timeout: 60000,
-      }
-    );
+async function simulateHumanScrollToBottom(page: RealBrowserPage) {
+  console.log("Scrolling the search results container in steps…");
 
-    console.log("Page loaded. Starting to load more companies...");
-    
-    let loadMoreExists = true;
-    let clickCount = 0;
-    const maxClicks = 50; // Safety limit to prevent infinite loops
-
-    while (loadMoreExists && clickCount < maxClicks) {
-      // Scroll to bottom to ensure load more button is visible
-      await page.evaluate(() => {
-        window.scrollTo(0, document.body.scrollHeight);
-      });
-
-      // Wait a bit for any lazy loading
-      await wait(1500);
-
-      // Check if load more button exists using the exact selector from the HTML
-      const loadMoreButton = await page.$(
-        'a.paging__loadmore.btn--loadmore[href*="pagenum"]'
-      );
-
-      if (!loadMoreButton) {
-        console.log("No more 'Load more' button found. Done!");
-        loadMoreExists = false;
-        break;
+  while (true) {
+    const preScroll = await page.evaluate(() => {
+      const container = document.getElementById("search-results-container");
+      if (!container) {
+        return { status: "missing" } as const;
       }
 
-      // Check if button is visible and has display: block
-      const buttonInfo = await loadMoreButton.evaluate((el) => {
-        const style = window.getComputedStyle(el);
-        return {
-          display: style.display,
-          visibility: style.visibility,
-          opacity: style.opacity,
-          href: el.getAttribute("href"),
-        };
-      });
+      const maxScrollPosition = Math.max(container.scrollHeight - container.clientHeight, 0);
+      const currentPosition = container.scrollTop;
 
-      if (
-        buttonInfo.display === "none" ||
-        buttonInfo.visibility === "hidden" ||
-        buttonInfo.opacity === "0"
-      ) {
-        console.log("Load more button is not visible. Done!");
-        loadMoreExists = false;
-        break;
+      if (currentPosition >= maxScrollPosition - 5) {
+        return { status: "done" } as const;
       }
 
-      clickCount++;
-      console.log(
-        `Clicking 'Load more' button (attempt ${clickCount}, href: ${buttonInfo.href})...`
-      );
+      const step = Math.max(container.clientHeight * 0.8, 300);
+      container.scrollBy(0, step);
 
-      // Get the current number of companies before clicking
-      const companiesBefore = await page.$$eval(
-        "article, [class*='company'], .company-card",
-        (elements) => elements.length
-      );
-
-      // Scroll to button before clicking
-      await loadMoreButton.scrollIntoView();
-
-      // Click the load more button
-      // The page might navigate or load content via AJAX
-      const navigationPromise = page
-        .waitForNavigation({ waitUntil: "networkidle2", timeout: 30000 })
-        .catch(() => {
-          // Navigation might not happen if it's AJAX loading
-          return null;
-        });
-
-      await Promise.all([
-        navigationPromise,
-        loadMoreButton.click(),
-      ]);
-
-      // Wait for content to load (whether via navigation or AJAX)
-      await wait(3000);
-
-      // Check if new content was loaded
-      const companiesAfter = await page.$$eval(
-        "article, [class*='company'], .company-card",
-        (elements) => elements.length
-      );
-
-      console.log(
-        `Loaded page ${clickCount + 1} (companies: ${companiesBefore} → ${companiesAfter})`
-      );
-
-      // If no new companies were loaded, the button might be gone
-      if (companiesAfter === companiesBefore) {
-        console.log("No new companies loaded. Checking if button still exists...");
-        await wait(1000);
-        const stillExists = await page.$(
-          'a.paging__loadmore.btn--loadmore[href*="pagenum"]'
-        );
-        if (!stillExists) {
-          console.log("Button no longer exists. Done!");
-          loadMoreExists = false;
-          break;
-        }
-      }
-    }
-
-    if (clickCount >= maxClicks) {
-      console.log(`Reached maximum click limit (${maxClicks}). Stopping.`);
-    }
-
-    // Final scroll to bottom
-    await page.evaluate(() => {
-      window.scrollTo(0, document.body.scrollHeight);
+      return {
+        status: "scrolled",
+        previousPosition: currentPosition,
+      } as const;
     });
+
+    if (preScroll.status === "missing") {
+      console.warn('Unable to locate element with id="search-results-container".');
+      break;
+    }
+
+    if (preScroll.status === "done") {
+      console.log("Already at the bottom of the results container.");
+      break;
+    }
 
     await wait(2000);
 
-    console.log("Scraping complete!");
-    console.log(`Total pages loaded: ${clickCount + 1}`);
+    const postScroll = await page.evaluate(() => {
+      const container = document.getElementById("search-results-container");
+      if (!container) {
+        return { status: "missing" } as const;
+      }
 
-    // Extract all company data
-    console.log("Extracting company data...");
-    const companies: Company[] = await page.evaluate(() => {
-      const companyTiles = document.querySelectorAll(".tile--company");
-      const companies: Company[] = [];
+      const currentPosition = container.scrollTop;
+      const maxScrollPosition = Math.max(container.scrollHeight - container.clientHeight, 0);
 
-      companyTiles.forEach((tile) => {
-        // Company name
-        const nameElement = tile.querySelector(".tile__name span, .tile__name");
-        const name = nameElement?.textContent?.trim() ?? "";
+      if (currentPosition >= maxScrollPosition - 5) {
+        return { status: "done" } as const;
+      }
 
-        // Description
-        const descriptionElement = tile.querySelector(".tile__description");
-        const description = descriptionElement?.textContent?.trim() ?? null;
-
-        // Location
-        const locationElement = tile.querySelector(".locationtag");
-        const location = locationElement?.textContent?.trim() ?? null;
-
-        // Industry
-        const industryElement = tile.querySelector(".categorytag");
-        const industry = industryElement?.textContent?.trim() ?? null;
-
-        // Founded year
-        let founded: string | null = null;
-        const metaRows = tile.querySelectorAll(".meta__row");
-        metaRows.forEach((row) => {
-          const nameElements = row.querySelectorAll(".meta__row__name");
-          if (nameElements.length >= 2) {
-            const label = nameElements[0]?.textContent?.trim();
-            const value = nameElements[1]?.textContent?.trim();
-            if (label === "Founded" && value) {
-              founded = value;
-            }
-          }
-        });
-
-        // People (founders, CEOs, CTOs, etc.)
-        const people: Person[] = [];
-        const peopleRows = tile.querySelectorAll(".meta__row");
-        
-        peopleRows.forEach((row) => {
-          const roleElement = row.querySelector(".meta__row__role");
-          const founderElement = row.querySelector(".meta__row__founder");
-          
-          // Only process rows that have both role and founder elements (not "Founded" rows)
-          if (roleElement && founderElement) {
-            const role = roleElement.textContent?.trim() ?? "";
-            const nameLink = founderElement.querySelector("a.text-link");
-            const name = nameLink?.textContent?.trim() ?? founderElement.textContent?.trim() ?? "";
-            const linkedinUrl = nameLink?.getAttribute("href") ?? null;
-
-            if (name && role) {
-              people.push({
-                role,
-                name,
-                linkedinUrl,
-              });
-            }
-          }
-        });
-
-        if (name) {
-          companies.push({
-            name,
-            description,
-            location,
-            industry,
-            founded,
-            people,
-          });
-        }
-      });
-
-      return companies;
+      return {
+        status: "progress",
+        currentPosition,
+      } as const;
     });
 
-    console.log(`Found ${companies.length} companies`);
+    if (postScroll.status === "missing") {
+      console.warn('Unable to locate element with id="search-results-container" after scrolling.');
+      break;
+    }
 
-    // Save to JSON file
-    const outputPath = join(process.cwd(), "leadgen", "portfolio-data.json");
-    writeFileSync(outputPath, JSON.stringify(companies, null, 2), "utf-8");
-    console.log(`Data saved to ${outputPath}`);
+    if (postScroll.status === "done") {
+      console.log("Reached the bottom of the results container.");
+      break;
+    }
 
-    // Print summary
-    console.log("\n=== Summary ===");
-    console.log(`Total companies: ${companies.length}`);
-    const totalPeople = companies.reduce((sum, company) => sum + company.people.length, 0);
-    console.log(`Total people: ${totalPeople}`);
+    if (postScroll.status === "progress" && postScroll.currentPosition <= preScroll.previousPosition) {
+      console.log("No further progress detected while scrolling the results container. Stopping.");
+      break;
+    }
+  }
+}
 
-    // Keep browser open for inspection (remove if you want it to close automatically)
-    // await browser.close();
-    console.log("Browser will remain open for inspection. Press Ctrl+C to close.");
+async function collectLinkedInLeadUrlsForPage(
+  page: RealBrowserPage,
+  pageNumber: number,
+  waitMs: number,
+): Promise<string[]> {
+  const searchUrl = buildSearchUrl(pageNumber);
+  console.log(`Opening LinkedIn Sales Navigator search results (page ${pageNumber})…`);
+  await page.goto(searchUrl, {
+    waitUntil: "networkidle2",
+    timeout: 60000,
+  });
 
+  console.log(`Waiting ${Math.round(waitMs / 1000)} seconds for content to stabilise…`);
+  await wait(waitMs);
+
+  await simulateHumanScrollToBottom(page);
+
+  const leadUrls = await page.$$eval(
+    'a[data-control-name="view_lead_panel_via_search_lead_name"]',
+    (anchors) => {
+      const urls = new Set<string>();
+      anchors.forEach((anchor) => {
+        if (anchor instanceof HTMLAnchorElement && anchor.href) {
+          urls.add(anchor.href);
+        }
+      });
+      return Array.from(urls);
+    },
+  );
+
+  if (leadUrls.length === 0) {
+    console.warn(`No Sales Navigator lead URLs were detected on page ${pageNumber}.`);
+  } else {
+    console.log(`Captured ${leadUrls.length} Sales Navigator lead URLs on page ${pageNumber}:`);
+    leadUrls.forEach((href) => console.log(`  • ${href}`));
+  }
+
+  return leadUrls;
+}
+
+async function main() {
+  const { browser, page } = await connect({
+    headless: false,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    connectOption: {
+      defaultViewport: null,
+    },
+  });
+
+  if (!page) {
+    throw new Error("Failed to obtain a page from puppeteer-real-browser.");
+  }
+
+  try {
+    await page.setViewport({ width: 1440, height: 900 });
+
+    const collectedUrls = new Set<string>();
+
+    for (let pageNumber = 1; pageNumber <= 18; pageNumber++) {
+      try {
+        const waitMs = pageNumber === 1 ? 60_000 : 15_000;
+        const leadUrls = await collectLinkedInLeadUrlsForPage(page, pageNumber, waitMs);
+        leadUrls.forEach((url) => collectedUrls.add(url));
+      } catch (error) {
+        console.error(`Failed to process page ${pageNumber}:`, error);
+      }
+    }
+
+    const uniqueLeadUrls = Array.from(collectedUrls);
+    uniqueLeadUrls.sort();
+
+    const csvContent = ["url", ...uniqueLeadUrls.map((url) => `"${url.replace(/"/g, '""')}"`)].join(
+      "\n",
+    );
+
+    writeFileSync(OUTPUT_CSV_PATH, `${csvContent}\n`, "utf8");
+
+    console.log("\n=== Lead URL Summary ===");
+    console.log(`Total unique leads captured: ${uniqueLeadUrls.length}`);
+    if (!uniqueLeadUrls.length) {
+      console.log(
+        "No leads were found. Ensure you are logged in and that the Sales Navigator results are visible.",
+      );
+    } else {
+      console.log(`Lead URLs saved to: ${OUTPUT_CSV_PATH}`);
+    }
+
+    console.log("\nBrowser will remain open for inspection. Press Ctrl+C to exit when finished.");
   } catch (error) {
-    console.error("Error during scraping:", error);
+    console.error("Fatal error during LinkedIn lead collection:", error);
     await browser.close();
     process.exit(1);
   }
 }
 
-// Run the scraper
-scrapePortfolio().catch(console.error);
-
+void main();

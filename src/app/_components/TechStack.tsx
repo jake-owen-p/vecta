@@ -22,7 +22,7 @@ export const TechStack = () => {
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-5 animate-fade-in-up">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl font-bold text-white">Technical stack & capabilities</h2>
-          <p className="text-xl text-white/70">Our engineers ship reliable agentic systems across the modern AI ecosystem.</p>
+          <p className="text-xl text-white/70">Our operator-builders ship reliable agentic systems across the modern AI ecosystem.</p>
         </div>
         
         <div className="max-w-5xl mx-auto">

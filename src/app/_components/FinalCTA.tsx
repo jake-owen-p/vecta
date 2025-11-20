@@ -15,11 +15,11 @@ export const FinalCTA = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
           <span className="mx-auto block h-1 w-24 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white">
-          Let&apos;s build your agentic AI system
+            Technical co-founder–led recruiting for great companies
           </h2>
 
           <p className="text-xl md:text-2xl text-white/70 max-w-2xl mx-auto">
-            Bring your AI ideas to life — with developers who deliver.
+            Operator-builders that level up your business, stay locked on your mission, and carry the technical judgement only fellow founders can screen for.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
@@ -29,7 +29,7 @@ export const FinalCTA = () => {
               onClick={() => router.push("/businesses")}
               className="group cursor-pointer border border-[#FF3600]/40 bg-[#FF3600] px-8 text-black shadow-[0_15px_40px_rgba(255,54,0,0.3)] hover:bg-[#ff4d1a]"
             >
-              Hire Developers
+              Talk to a technical co-founder
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
             <Button
@@ -38,12 +38,12 @@ export const FinalCTA = () => {
               onClick={() => router.push("/apply")}
               className="cursor-pointer border border-[#EEAC97]/40 bg-[#EEAC97]/10 text-white hover:bg-[#EEAC97]/20"
             >
-              Join as Talent
+              Join as talent
             </Button>
           </div>
           
           <p className="text-sm text-white/60 pt-4">
-            Start your project or apply to join our network today
+            We built agentic systems ourselves, so we know what you need — and we prove it through technical recruitment, not by acting as a dev shop.
           </p>
         </div>
       </div>

@@ -4,33 +4,33 @@ import { Card } from "./ui/card";
 const useCases = [
   {
     icon: MessageSquare,
-    title: "AI Customer Support",
-    description: "Agents that integrate with CRMs, tickets, and knowledge bases for instant, accurate responses.",
+    title: "AI customer support",
+    description: "Hire builders who have wired LLM agents into CRMs, ticketing tools, and trust layers inside real support orgs.",
   },
   {
     icon: FileSearch,
-    title: "Research Assistants",
-    description: "Read PDFs, APIs, and databases to synthesize insights and generate reports automatically.",
+    title: "Research assistants",
+    description: "Operator-builders who know how to parse PDFs, APIs, and proprietary datasets to ship reliable synthesis workflows.",
   },
   {
     icon: Workflow,
-    title: "Automated Workflows",
-    description: "Document processing, onboarding automation, and intelligent routing systems.",
+    title: "Automated workflows",
+    description: "People who have automated onboarding, underwriting, and operations pipelines — and can replicate it with your team.",
   },
   {
     icon: ShoppingCart,
-    title: "E-commerce Intelligence",
-    description: "Multi-agent systems for product recommendations, inventory optimization, and customer insights.",
+    title: "E-commerce intelligence",
+    description: "Talent experienced with multi-agent merchandising, inventory automation, and shopper personalization.",
   },
   {
     icon: BarChart3,
-    title: "Analytics & Decision Making",
-    description: "Fine-tuned feedback loops that learn from user behavior and improve over time.",
+    title: "Analytics & decisioning",
+    description: "Operator-builders who craft feedback loops, scoring models, and monitoring so your stakeholders can trust every action.",
   },
   {
     icon: Calendar,
-    title: "Smart Scheduling",
-    description: "Context-aware scheduling agents that understand preferences and optimize calendars.",
+    title: "Smart scheduling",
+    description: "People who bring context-aware calendar, routing, and coordination systems into production environments.",
   },
 ];
 
@@ -41,10 +41,10 @@ export const UseCases = () => {
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-5 animate-fade-in-up">
           <span className="mx-auto block h-1 w-20 rounded-full bg-[#FF3600]" />
           <h2 className="text-4xl md:text-5xl font-bold text-white">
-            We power the next generation of intelligent apps
+            Teams hire us when they need...
           </h2>
           <p className="text-xl text-white/70">
-            Real AI solutions for real business problems
+            Real examples of the missions our technical recruitment service has staffed — embedded in your roadmap, not outsourced elsewhere.
           </p>
         </div>
         

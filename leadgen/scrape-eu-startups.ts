@@ -1,11 +1,13 @@
-import puppeteer from "puppeteer-extra";
-import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import { writeFileSync } from "fs";
 import { join } from "path";
-
-puppeteer.use(StealthPlugin());
+import { connect } from "puppeteer-real-browser";
 
 const wait = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+type RealBrowserPage = NonNullable<Awaited<ReturnType<typeof connect>>["page"]>;
+
+const LINKEDIN_SALES_NAVIGATOR_SEARCH_URL =
+  "https://www.linkedin.com/sales/search/people?recentSearchId=5229394068&sessionId=yylqBHQ%2BQx2A4tXL%2BOr48Q%3D%3D";
 
 interface ListingDetail {
   name: string | null;
@@ -146,13 +148,72 @@ const buildSearchUrl = (page: number) => {
   return `${BASE_DIRECTORY_URL}/page/${page}/?${params.toString()}`;
 };
 
-async function scrapeEuStartupsListings() {
-  const browser = await puppeteer.launch({
-    headless: false,
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+async function collectLinkedInLeadUrls(page: RealBrowserPage): Promise<string[]> {
+  console.log("Navigating to LinkedIn Sales Navigator search results…");
+  await page.goto(LINKEDIN_SALES_NAVIGATOR_SEARCH_URL, {
+    waitUntil: "networkidle2",
+    timeout: 60000,
   });
 
-  const page = await browser.newPage();
+  console.log("Waiting 2 minutes on the results page to allow content to stabilise…");
+  await wait(120_000);
+
+  console.log("Scrolling through results like a human…");
+  for (let step = 0; step < 6; step++) {
+    await page.evaluate(() => {
+      window.scrollBy({
+        top: window.innerHeight * 0.6,
+        behavior: "smooth",
+      });
+    });
+    await wait(1200 + step * 150);
+  }
+
+  console.log("Jumping to the bottom of the page…");
+  await page.evaluate(() => {
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      behavior: "smooth",
+    });
+  });
+  await wait(3000);
+
+  const leadUrls = await page.$$eval(
+    'a[data-control-name="view_lead_panel_via_search_lead_name"]',
+    (anchors) => {
+      const results = new Set<string>();
+      anchors.forEach((anchor) => {
+        if (anchor instanceof HTMLAnchorElement && anchor.href) {
+          results.add(anchor.href);
+        }
+      });
+      return Array.from(results);
+    },
+  );
+
+  if (leadUrls.length === 0) {
+    console.log("No Sales Navigator lead URLs were found on the page.");
+  } else {
+    console.log(`Collected ${leadUrls.length} Sales Navigator lead URLs:`);
+    leadUrls.forEach((href) => console.log(`  • ${href}`));
+  }
+
+  return leadUrls;
+}
+
+async function scrapeEuStartupsListings() {
+  const { browser, page } = await connect({
+    headless: false,
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    connectOption: {
+      defaultViewport: null,
+    },
+  });
+
+  if (!page) {
+    throw new Error("Failed to acquire a page instance from puppeteer-real-browser");
+  }
+
   await page.setViewport({ width: 1920, height: 1080 });
 
   const detailPage = await browser.newPage();
@@ -183,6 +244,20 @@ async function scrapeEuStartupsListings() {
 
   try {
     console.log("Starting pagination through EU-Startups directory (year 2025)...");
+
+    console.log("Navigating to LinkedIn Sales Navigator login…");
+    await page.goto(
+      "https://www.linkedin.com/login?session_redirect=%2Fsales&_f=navigator&fromSignIn=true/1000",
+      {
+        waitUntil: "networkidle2",
+        timeout: 60000,
+      }
+    );
+
+    console.log("Waiting 40 seconds for manual authentication…");
+    await wait(40000);
+
+    await collectLinkedInLeadUrls(page);
 
     for (let pageNumber = 1; ; pageNumber++) {
       const searchUrl = buildSearchUrl(pageNumber);

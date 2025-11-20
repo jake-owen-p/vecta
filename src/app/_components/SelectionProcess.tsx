@@ -91,12 +91,18 @@ const DotGrid = ({
 
 export const SelectionProcess = () => {
   return (
-    <section className="py-24 text-white">
+    <section id="selection-process" className="py-24 text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl">
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-14">
-            We only work with the best
-          </h2>
+          <div className="space-y-4 mb-14">
+            <span className="inline-flex h-1 w-20 rounded-full bg-[#FF3600]" />
+            <h2 className="text-4xl md:text-5xl font-bold text-white">
+              Operator-builders vetted by technical co-founders
+            </h2>
+            <p className="text-lg text-white/70">
+              No tick-the-box interviews — every step mirrors how we build production systems so you only meet talent who can ship with you.
+            </p>
+          </div>
 
           <div className="space-y-16 md:-ml-8">
             {steps.map((step) => (

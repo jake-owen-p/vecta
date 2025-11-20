@@ -1,0 +1,2433 @@
+[
+  {
+    "name": "Eagle Ray Robotics",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Stephen Jordan",
+        "linkedinUrl": "http://www.linkedin.com/in/stephen-j-founder-entrepreneur-visionary",
+        "phoneNumber": "+353838832740",
+        "email": "stephen@eaglerayrobotics.com",
+        "apolloId": "69076b91e9e7f1000d0590e2"
+      }
+    ]
+  },
+  {
+    "name": "Ecocareers",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Lewis Clark",
+        "linkedinUrl": "http://www.linkedin.com/in/lewis-clark-bab410193",
+        "phoneNumber": "+447415714511",
+        "email": "lewis@ecocareers.org",
+        "apolloId": "69076bb7e2d24300112a5c8c"
+      }
+    ]
+  },
+  {
+    "name": "EcoHedge",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Robert Smallcombe",
+        "linkedinUrl": "http://www.linkedin.com/in/robertsmallcombe",
+        "phoneNumber": "+447931704618",
+        "email": null,
+        "apolloId": "69076bc3b00019000d41a1ee"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Max Mayhew",
+        "linkedinUrl": "http://www.linkedin.com/in/max-mayhew-5a61555b",
+        "phoneNumber": "+447548099318",
+        "email": "max@ecohedge.co.uk",
+        "apolloId": "69076bd001e5580019e8c45c"
+      }
+    ]
+  },
+  {
+    "name": "Efestos",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Prof Tsavdaridis",
+        "linkedinUrl": "http://www.linkedin.com/in/kdtsavdaridis",
+        "phoneNumber": "+447756179658",
+        "email": "kostas.tsavdaridis@efestoshub.com",
+        "apolloId": "69076c281775430015bcf715"
+      }
+    ]
+  },
+  {
+    "name": "EGlobalSphere",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Ismail Makhlouf",
+        "linkedinUrl": "http://www.linkedin.com/in/ismail-m-00b050209",
+        "phoneNumber": "+447385565562",
+        "email": "ismail.ali@eglobalsphere.com",
+        "apolloId": "69076c3468b239001da0d631"
+      }
+    ]
+  },
+  {
+    "name": "Eleos",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "empaithy",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Harshdeep Anand",
+        "linkedinUrl": "http://www.linkedin.com/in/harshdeepanand",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Ergodic",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Zubair Magrey",
+        "linkedinUrl": "http://www.linkedin.com/in/zubair-magrey",
+        "phoneNumber": "+639223675032",
+        "email": "zubair@ergodic.ai",
+        "apolloId": "69076d2e78b2d9000d345afc"
+      },
+      {
+        "role": "CTO",
+        "name": "Andre Franca",
+        "linkedinUrl": "http://www.linkedin.com/in/francaandre",
+        "phoneNumber": "+447379788161",
+        "email": "andre@ergodic.ai",
+        "apolloId": "69076d3b150c4000219e90dc"
+      },
+      {
+        "role": "Founder",
+        "name": "Jordan Schochet",
+        "linkedinUrl": "http://www.linkedin.com/in/jordan-schochet",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Fallen Planet Studios",
+    "description": null,
+    "location": "Southport",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Alex Moretti",
+        "linkedinUrl": "http://www.linkedin.com/in/alex-moretti-0a490517a",
+        "phoneNumber": "+447598812590",
+        "email": "alex.m@fallenplanetstudios.com",
+        "apolloId": "69076f35ac6a540011dad56c"
+      }
+    ]
+  },
+  {
+    "name": "FARx Group Limited",
+    "description": null,
+    "location": "Great Malvern",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Clive Summerfield",
+        "linkedinUrl": "http://www.linkedin.com/in/clive-summerfield-092b3a1",
+        "phoneNumber": "+61418161952",
+        "email": "clive.summerfield@farx.co.uk",
+        "apolloId": "69076f4c746f950011883f28"
+      }
+    ]
+  },
+  {
+    "name": "Fidesium",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Abraham Polishchuk",
+        "linkedinUrl": "http://www.linkedin.com/in/abraham-polishchuk-022a2628",
+        "phoneNumber": "+447913881825",
+        "email": "abe@fidesium.xyz",
+        "apolloId": "69076f65c4230b00115ab259"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Greg Bock",
+        "linkedinUrl": "http://www.linkedin.com/in/greg-bock-4591814",
+        "phoneNumber": "6503517911",
+        "email": "bock@fidesium.xyz",
+        "apolloId": "69076f7262e6ed002155fcdf"
+      }
+    ]
+  },
+  {
+    "name": "FieldDay",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Jacky Hood",
+        "linkedinUrl": "http://www.linkedin.com/in/jackyhoodcalifornia",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Firmxxperts",
+    "description": null,
+    "location": "Wakefield",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Nancy Osazee",
+        "linkedinUrl": "http://www.linkedin.com/in/nancy-osazee-",
+        "phoneNumber": "+447513716506",
+        "email": null,
+        "apolloId": "69076fc3f3ebc7001502f0b4"
+      }
+    ]
+  },
+  {
+    "name": "Fleevo",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Aidarbek Suleimenov",
+        "linkedinUrl": "http://www.linkedin.com/in/aidarbek",
+        "phoneNumber": null,
+        "email": "aidarbek@fleevo.io",
+        "apolloId": "69076fcf064814000de5adad"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Victor Gonzalez",
+        "linkedinUrl": "http://www.linkedin.com/in/victornga",
+        "phoneNumber": "+447404229765",
+        "email": "victor@fleevo.io",
+        "apolloId": "69076fdc1c35a90019f9e03d"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Yongjie Chen",
+        "linkedinUrl": "http://www.linkedin.com/in/yongjiechen",
+        "phoneNumber": "+447783831919",
+        "email": "yongjie@fleevo.io",
+        "apolloId": "69076fe9368d5c001db5225f"
+      }
+    ]
+  },
+  {
+    "name": "Fluento",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Ido Cohen",
+        "linkedinUrl": "http://www.linkedin.com/in/hireido",
+        "phoneNumber": "+447940736684",
+        "email": "ido+reddit10@fluento.ai",
+        "apolloId": "69077021672b1000212f013d"
+      },
+      {
+        "role": "Founder",
+        "name": "Shaymaa Abdulhameed",
+        "linkedinUrl": "http://www.linkedin.com/in/shaymaa-abdulhameed-6bba0626",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "FOMO.ai",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Dax Hamman",
+        "linkedinUrl": "http://www.linkedin.com/in/daxhamman",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Joshua Niederriter",
+        "linkedinUrl": "http://www.linkedin.com/in/niederriter",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Nitasha Malik",
+        "linkedinUrl": "http://www.linkedin.com/in/nitashamalik",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Frontdoor",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jason Roy",
+        "linkedinUrl": "http://www.linkedin.com/in/jasongroy",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "GambitBio",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Shilin Chen",
+        "linkedinUrl": "http://www.linkedin.com/in/shilin-chen-7827b9132",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Good Sheet",
+    "description": null,
+    "location": "Poland",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Matthew Holland",
+        "linkedinUrl": "http://www.linkedin.com/in/matthew-holland-1a4050b4",
+        "phoneNumber": "+84896619087",
+        "email": "matthew@thegoodsheet.co.uk",
+        "apolloId": "691a1de90769ff00216a413e"
+      }
+    ]
+  },
+  {
+    "name": "GoPlugable",
+    "description": null,
+    "location": "Dundalk",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Andrine Mendez",
+        "linkedinUrl": "http://www.linkedin.com/in/andrine",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Grafty",
+    "description": null,
+    "location": "Stevenage",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Katie Keith",
+        "linkedinUrl": "http://www.linkedin.com/in/katiekeithdigitalmarketing",
+        "phoneNumber": null,
+        "email": "katie@grafty.uk",
+        "apolloId": "691a1dff01b2f300211e2523"
+      }
+    ]
+  },
+  {
+    "name": "Growa.ai",
+    "description": null,
+    "location": "Benfleet",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Giuliano Neroni",
+        "linkedinUrl": "http://www.linkedin.com/in/giuliano-neroni-901217151",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Jacopo Neroni",
+        "linkedinUrl": "http://www.linkedin.com/in/jacopo-neroni-29061a61",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Havona",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Greg Pradervand",
+        "linkedinUrl": "http://www.linkedin.com/in/gregpradervand",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Bismark Twumasi",
+        "linkedinUrl": "http://www.linkedin.com/in/bismark-twumasi-41002a86",
+        "phoneNumber": "+447907042338",
+        "email": "bismark@havonaestates.com",
+        "apolloId": "691a1e2fc5a80f0021dc571c"
+      }
+    ]
+  },
+  {
+    "name": "Haz",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Glenn Keller",
+        "linkedinUrl": "http://www.linkedin.com/in/glenn-keller-b93344b5",
+        "phoneNumber": "+380931015425",
+        "email": "glenn@haz.co",
+        "apolloId": "691a1e41fcda550011bc14d6"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Ronan Harvey-Kelly",
+        "linkedinUrl": "http://www.linkedin.com/in/ronanhk",
+        "phoneNumber": "+447722876452",
+        "email": "ronan@haz.co",
+        "apolloId": "691a1e4dd6c838001927299e"
+      }
+    ]
+  },
+  {
+    "name": "Holiwise",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Albin Lippe",
+        "linkedinUrl": "http://www.linkedin.com/in/albinerikssonlippe",
+        "phoneNumber": "+447759676374",
+        "email": "albin.erikssonlippe@holiwise.com",
+        "apolloId": "691a1e7a154f4e000d03e13a"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Kristian Lexeklint",
+        "linkedinUrl": "http://www.linkedin.com/in/kristian-lexeklint-084787a6",
+        "phoneNumber": "+447759667981",
+        "email": "kristian.lexeklint@holiwise.com",
+        "apolloId": "691a1e870bba47000d1b93e4"
+      },
+      {
+        "role": "CTO",
+        "name": "Apurva Amin",
+        "linkedinUrl": "http://www.linkedin.com/in/aamin123",
+        "phoneNumber": "+447947496290",
+        "email": "apurva.amin@holiwise.com",
+        "apolloId": "691a1e93770dec001530ab4c"
+      }
+    ]
+  },
+  {
+    "name": "HR Toolbox",
+    "description": null,
+    "location": "United Kingdom",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Manuel Rau",
+        "linkedinUrl": "http://www.linkedin.com/in/manuel-rau",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Idealdevs",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Orgito Baraj",
+        "linkedinUrl": "http://www.linkedin.com/in/orgitobaraj",
+        "phoneNumber": "+355683040044",
+        "email": "orgitobaraj@idealdevs.io",
+        "apolloId": "691a1eb7b30c0d0011a386b3"
+      }
+    ]
+  },
+  {
+    "name": "introstars",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Mike Adams",
+        "linkedinUrl": "http://www.linkedin.com/in/supermike",
+        "phoneNumber": "+447979993025",
+        "email": "mike@introstars.com",
+        "apolloId": "691a1ec55023bc001d8247fd"
+      },
+      {
+        "role": "Founder",
+        "name": "Juliette Adams",
+        "linkedinUrl": "http://www.linkedin.com/in/juliette-adams-910655351",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Invitem",
+    "description": null,
+    "location": "Windsor",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Adrian Wheeler",
+        "linkedinUrl": "http://www.linkedin.com/in/adrian-wheeler",
+        "phoneNumber": "+447990593961",
+        "email": "aw@invitem.io",
+        "apolloId": "691a1ede2a3dae0019ae554b"
+      }
+    ]
+  },
+  {
+    "name": "iZinga Assist",
+    "description": null,
+    "location": "Buckinghamshire",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Henk Swanepoel",
+        "linkedinUrl": "http://www.linkedin.com/in/henkswanepoel",
+        "phoneNumber": null,
+        "email": "henk@izassist.org",
+        "apolloId": "691a1eef892b010019d3393c"
+      }
+    ]
+  },
+  {
+    "name": "JustCall",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Lavish Roopwani",
+        "linkedinUrl": "http://www.linkedin.com/in/lavish-roopwani-9450881b3",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kaizenio",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Cristian Hurt",
+        "linkedinUrl": "http://www.linkedin.com/in/cristian-hurt-a2a61796",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "KOMPANI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Kosmic AI",
+    "description": null,
+    "location": "Middletown",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Joshua Wald",
+        "linkedinUrl": "http://www.linkedin.com/in/joshua-wald",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Kroto",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Kuona Engineering",
+    "description": null,
+    "location": "Coventry",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Head of Engineering",
+        "name": "Miguel Lobo",
+        "linkedinUrl": "http://www.linkedin.com/in/miguel-lobo-18a01b63",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Learnt.ai",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "David Law",
+        "linkedinUrl": "http://www.linkedin.com/in/david-law",
+        "phoneNumber": "+447590566001",
+        "email": "david.law@learnt.ai",
+        "apolloId": "691a1f374a6e89001580bfc8"
+      }
+    ]
+  },
+  {
+    "name": "Lemon",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Marcelo Cavazzoli",
+        "linkedinUrl": "http://www.linkedin.com/in/marcelocavazzoli",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Kevin Codfert",
+        "linkedinUrl": "http://www.linkedin.com/in/kevin-codfert-36489a6b",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Less Grey",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Letera",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Amu Chandra",
+        "linkedinUrl": "http://www.linkedin.com/in/amu-chandra",
+        "phoneNumber": "+447476924992",
+        "email": "amu@letera.ai",
+        "apolloId": "691a1f6eee0c620019dfbd96"
+      }
+    ]
+  },
+  {
+    "name": "Limetrack",
+    "description": null,
+    "location": "Guildford",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Andy King",
+        "linkedinUrl": "http://www.linkedin.com/in/andy-king-red-management",
+        "phoneNumber": "+447976671348",
+        "email": "andy.king@limetrack.earth",
+        "apolloId": "691a1f7fa6f9b2002133d8fd"
+      }
+    ]
+  },
+  {
+    "name": "Limotak",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Timur Mamushkin",
+        "linkedinUrl": "http://www.linkedin.com/in/timur-mamushkin",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "691a1facc5a80f0011f7a546"
+      },
+      {
+        "role": "CEO",
+        "name": "Yaroslav Pestov",
+        "linkedinUrl": "http://www.linkedin.com/in/yaroslavpestov",
+        "phoneNumber": "+447455967654",
+        "email": "pestov@limotak.com",
+        "apolloId": "691a1fb95023bc00195e53c2"
+      }
+    ]
+  },
+  {
+    "name": "LiveForce",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Uzair Imran",
+        "linkedinUrl": "http://www.linkedin.com/in/uzair-imran-96b52a224",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Mark Walls",
+        "linkedinUrl": "http://www.linkedin.com/in/markwalls23",
+        "phoneNumber": "+447951205432",
+        "email": "mark@liveforce.co",
+        "apolloId": "691a1fcf3b7a4e000d8e751d"
+      }
+    ]
+  },
+  {
+    "name": "Liveseas",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "George Vnatsios",
+        "linkedinUrl": "http://www.linkedin.com/in/vnatsios",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Lobster Money",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Roman Fritschi",
+        "linkedinUrl": "http://www.linkedin.com/in/romanfritschi",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Made With Intent",
+    "description": null,
+    "location": "Manchester",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "David Mannheim",
+        "linkedinUrl": "http://www.linkedin.com/in/davidleemannheim",
+        "phoneNumber": "+448445819050",
+        "email": "david@madewithintent.ai",
+        "apolloId": "691a2010d2bdd50015c02700"
+      }
+    ]
+  },
+  {
+    "name": "Malted AI",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Iain Mackie",
+        "linkedinUrl": "http://www.linkedin.com/in/iain-mackie-b955298b",
+        "phoneNumber": "6048755908",
+        "email": "iain@malted.ai",
+        "apolloId": "691a201c99c0c20015a778d8"
+      },
+      {
+        "role": "CTO",
+        "name": "Carlos Gemmell",
+        "linkedinUrl": "http://www.linkedin.com/in/carlos-gemmell",
+        "phoneNumber": "+447769389115",
+        "email": "carlos@malt-ai.com",
+        "apolloId": "691a2029acd75000158b1729"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Federico Rossetto",
+        "linkedinUrl": "http://www.linkedin.com/in/federico-rossetto-819b36140",
+        "phoneNumber": "+390456094591",
+        "email": "fed@malt-ai.com",
+        "apolloId": "691a20356b72a1001deaeeae"
+      }
+    ]
+  },
+  {
+    "name": "MannyAI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Shruti Grover",
+        "linkedinUrl": "http://www.linkedin.com/in/sgrover1986",
+        "phoneNumber": "+447767118256",
+        "email": "shruti@manny-ai.com",
+        "apolloId": "691a20430335820021a61cc8"
+      },
+      {
+        "role": "CTO",
+        "name": "Simon Johnson",
+        "linkedinUrl": "http://www.linkedin.com/in/simon-johnson-a53b28a4",
+        "phoneNumber": "+447854328096",
+        "email": "simon@manny-ai.com",
+        "apolloId": "691a204fc1cbc3000de8b9dc"
+      }
+    ]
+  },
+  {
+    "name": "Marllm",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Jolanta Jas",
+        "linkedinUrl": "http://www.linkedin.com/in/jolanta-jas-94850824",
+        "phoneNumber": null,
+        "email": "jolanta@marllm.io",
+        "apolloId": "691a205c9b9147001d8eea3e"
+      }
+    ]
+  },
+  {
+    "name": "MassFluence",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Mira Sawaf",
+        "linkedinUrl": "http://www.linkedin.com/in/mirasawaf",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mater-AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Gatleen Bhambra",
+        "linkedinUrl": "http://www.linkedin.com/in/gatleenbhambra",
+        "phoneNumber": "+442034239500",
+        "email": "gatleen.bhambra@mater-ai.com",
+        "apolloId": "691a209175e3f9001986537c"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Chelsea Williams",
+        "linkedinUrl": "http://www.linkedin.com/in/chelsea-a-williams-93b329373",
+        "phoneNumber": null,
+        "email": "chelsea.williams@mater-ai.com",
+        "apolloId": "691a209d721d3c0015687d20"
+      }
+    ]
+  },
+  {
+    "name": "Mayfair Digital Agency",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Alaattin Cagil",
+        "linkedinUrl": "http://www.linkedin.com/in/alaattincagil",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Orkun Durmaz",
+        "linkedinUrl": "http://www.linkedin.com/in/orkun-durmaz-436b4a59",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Metris Energy",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Head of Engineering",
+        "name": "James Ferretti",
+        "linkedinUrl": "http://www.linkedin.com/in/james-ferretti",
+        "phoneNumber": "+447830196262",
+        "email": "james@metrisenergy.com",
+        "apolloId": "691a20df3b7a4e000d8e79dd"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Natasha Jones",
+        "linkedinUrl": "http://www.linkedin.com/in/natasha-jones-url",
+        "phoneNumber": "+447521700761",
+        "email": "natasha@metrisenergy.com",
+        "apolloId": "6905f33c00eb65001d269c79"
+      }
+    ]
+  },
+  {
+    "name": "minglr",
+    "description": null,
+    "location": "London",
+    "industry": "Romania",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Calin Spiridon",
+        "linkedinUrl": "http://www.linkedin.com/in/calin-spiridon",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Oana Voinea",
+        "linkedinUrl": "http://www.linkedin.com/in/oanavoinea2199",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Mirex Technologies",
+    "description": null,
+    "location": "Leeds",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Aria Sadeghian",
+        "linkedinUrl": "http://www.linkedin.com/in/aria97",
+        "phoneNumber": "+989122601728",
+        "email": "aria@mirex.io",
+        "apolloId": "691a2105a6e11d0019713edd"
+      }
+    ]
+  },
+  {
+    "name": "Money Squirrel",
+    "description": null,
+    "location": "Wokingham",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Andreea Daly",
+        "linkedinUrl": "http://www.linkedin.com/in/andreeadaly",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Moonbility",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Andre Wang",
+        "linkedinUrl": "http://www.linkedin.com/in/uxandre",
+        "phoneNumber": null,
+        "email": "andre@moonbility.com",
+        "apolloId": "691a211a4214470011741b06"
+      }
+    ]
+  },
+  {
+    "name": "Mr. Bean Coffee",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Thomas Ruddy",
+        "linkedinUrl": "http://www.linkedin.com/in/tomruddy",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "MyCrib",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Tabrizi",
+        "linkedinUrl": "http://www.linkedin.com/in/atabrizi",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Nectar AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Keccak Wong",
+        "linkedinUrl": "http://www.linkedin.com/in/keccak-wong-a88367272",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Zi Feng",
+        "linkedinUrl": "http://www.linkedin.com/in/zi-feng-9703ab316",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Novogaia",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "David Kubanek",
+        "linkedinUrl": "http://www.linkedin.com/in/david-kubanek",
+        "phoneNumber": "+420721238543",
+        "email": "david@novogaia.bio",
+        "apolloId": "691a2169fa6cca000d13d466"
+      }
+    ]
+  },
+  {
+    "name": "ocane",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Achim Hoffmann",
+        "linkedinUrl": "http://www.linkedin.com/in/achimhoffmann",
+        "phoneNumber": "+447768022805",
+        "email": "achim@ocane.energy",
+        "apolloId": "691a2175721d3c00217d2447"
+      }
+    ]
+  },
+  {
+    "name": "Octavis",
+    "description": null,
+    "location": "Ayr",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Maksym Gnatenko",
+        "linkedinUrl": "http://www.linkedin.com/in/maksym-gnatenko-7887a7114",
+        "phoneNumber": "+380666830078",
+        "email": "gnatenko@octavis.group",
+        "apolloId": "691a2186927a51001d310351"
+      }
+    ]
+  },
+  {
+    "name": "Optima Nanomed",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Rosalia Rodrigues",
+        "linkedinUrl": "http://www.linkedin.com/in/dr-ros%c3%a1lia-lopes-rodrigues-0b329084",
+        "phoneNumber": "+447794587845",
+        "email": "rosalia@optimananomed.com",
+        "apolloId": "691a2198a6f9b200152c759d"
+      }
+    ]
+  },
+  {
+    "name": "Orgupdate",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Eddie Ephraim",
+        "linkedinUrl": "http://www.linkedin.com/in/eddie-ephraim-a4309a1b3",
+        "phoneNumber": "+447960598776",
+        "email": "eddie@orgupdate.com",
+        "apolloId": "691a21a69064050011cfc0e1"
+      }
+    ]
+  },
+  {
+    "name": "Overe.io",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Marc Baiges Camprubi",
+        "linkedinUrl": "http://www.linkedin.com/in/marcbc",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Markus Hartwig",
+        "linkedinUrl": "http://www.linkedin.com/in/markus-hartwig-447794",
+        "phoneNumber": "+442033492307",
+        "email": "markus@overe.io",
+        "apolloId": "691a21c46c2c1f0019186380"
+      }
+    ]
+  },
+  {
+    "name": "Paid Media Jobs",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "PAINTIT.AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Dmytro Stepanenko",
+        "linkedinUrl": "http://www.linkedin.com/in/dmitry-stepanenko-art",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Roman Pustyntsev",
+        "linkedinUrl": "http://www.linkedin.com/in/roman-pustyntsev-39633b2",
+        "phoneNumber": "+380672300157",
+        "email": "cso@paintit.ai",
+        "apolloId": "691a21f8f06b660019d40a80"
+      },
+      {
+        "role": "CEO",
+        "name": "Yulii Cherevko",
+        "linkedinUrl": "http://www.linkedin.com/in/yulii-cherevko",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Parkineasy",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Daniele Pagano",
+        "linkedinUrl": "http://www.linkedin.com/in/daniele-pagano-parkineasy",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "PocketAI",
+    "description": null,
+    "location": "Glasgow",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Sean Loh",
+        "linkedinUrl": "http://www.linkedin.com/in/sean-loh-3b7a0250",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "William Murray",
+        "linkedinUrl": "http://www.linkedin.com/in/william-murray-the-iii",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Portunus Solutions",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Henrik Bang-Andreasen",
+        "linkedinUrl": "http://www.linkedin.com/in/henrik-bang-andreasen-35768b3",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Prentice",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Kieran Hammond",
+        "linkedinUrl": "http://www.linkedin.com/in/kieran-hammond-3233ab127",
+        "phoneNumber": "+447542492667",
+        "email": "kieran@prentice.co",
+        "apolloId": "691a22318d759a001fc4c110"
+      },
+      {
+        "role": "CEO",
+        "name": "Casey Prentice",
+        "linkedinUrl": "http://www.linkedin.com/in/casey-prentice-a2b64011",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Press AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Pradeep Singh",
+        "linkedinUrl": "http://www.linkedin.com/in/pradeepdotco",
+        "phoneNumber": "+447825526023",
+        "email": "pradeep@press.ai",
+        "apolloId": "691a224bdaa6d0001928029d"
+      }
+    ]
+  },
+  {
+    "name": "Print to brand",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Quadra Group",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Talent Acquisition",
+        "name": "Annie Legault",
+        "linkedinUrl": "http://www.linkedin.com/in/annielegault",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Quidkey",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Rob Zeko",
+        "linkedinUrl": "http://www.linkedin.com/in/robertazeko",
+        "phoneNumber": "9178547025",
+        "email": "rob@quidkey.com",
+        "apolloId": "691a2285eaf394002119692a"
+      }
+    ]
+  },
+  {
+    "name": "Radom",
+    "description": null,
+    "location": "Covent Garden, London, United Kingdom",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Christopher Wilson",
+        "linkedinUrl": "http://www.linkedin.com/in/christopher-w-2a8540114",
+        "phoneNumber": "+447727810397",
+        "email": "chris@radom.com",
+        "apolloId": "691a22946b72a1000dcecd40"
+      }
+    ]
+  },
+  {
+    "name": "Remote Army",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Enfante Munoz",
+        "linkedinUrl": "http://www.linkedin.com/in/enfantekernmunoz",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "ResearchFlow",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Simon Sheng",
+        "linkedinUrl": "http://www.linkedin.com/in/simon-sixiong-sheng",
+        "phoneNumber": "+447505472452",
+        "email": "s.sheng@rflow.ai",
+        "apolloId": "691a22f43d3e0000191e4d39"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Muhan Xu",
+        "linkedinUrl": "http://www.linkedin.com/in/muhan-xu-10b6a2173",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": "691a23015023bc001514fc2d"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Charlene Deng",
+        "linkedinUrl": "http://www.linkedin.com/in/charlene-deng-3567ba359",
+        "phoneNumber": "9186370147",
+        "email": "charlene.d@ponder.ing",
+        "apolloId": "691a230e503ac5001d82e0e7"
+      }
+    ]
+  },
+  {
+    "name": "Resolve247.ai",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Sam Cox",
+        "linkedinUrl": "http://www.linkedin.com/in/sam-cox-b3a61919",
+        "phoneNumber": "3176690830",
+        "email": "sam@getresolve247.com",
+        "apolloId": "691a231b99c0c200211b9256"
+      }
+    ]
+  },
+  {
+    "name": "Rhazes AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Zaid Al-Fagih",
+        "linkedinUrl": "http://www.linkedin.com/in/zaidal-fagih",
+        "phoneNumber": "+447377471726",
+        "email": "zaid@rhazes.ai",
+        "apolloId": "691a23271d6e0e0019915daf"
+      }
+    ]
+  },
+  {
+    "name": "Rockee",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Rodeo Global",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "James Mayes",
+        "linkedinUrl": "http://www.linkedin.com/in/jmayes",
+        "phoneNumber": "+447770667578",
+        "email": "james@the.rodeo.company",
+        "apolloId": "691a235ef20b3f00111eedc9"
+      },
+      {
+        "role": "CTO",
+        "name": "Andy Dennis",
+        "linkedinUrl": "http://www.linkedin.com/in/andydennis",
+        "phoneNumber": "+447972583472",
+        "email": "andy@the.rodeo.company",
+        "apolloId": "691a236bf27e95001160d696"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Josh Russell",
+        "linkedinUrl": "http://www.linkedin.com/in/joshr",
+        "phoneNumber": "+447974919282",
+        "email": "josh.russell@the.rodeo.company",
+        "apolloId": "691a2377e110d7002140b63c"
+      }
+    ]
+  },
+  {
+    "name": "Round Treasury",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Tom Jackson",
+        "linkedinUrl": "http://www.linkedin.com/in/tomjackson898",
+        "phoneNumber": "+447480250162",
+        "email": "tom@roundtreasury.com",
+        "apolloId": "691a23836e821200191f1639"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Pac O'Shea",
+        "linkedinUrl": "http://www.linkedin.com/in/pac-o-shea",
+        "phoneNumber": "+447919361449",
+        "email": "pac@roundtreasury.com",
+        "apolloId": "6905f80a660f380015cf0b73"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Hayyaan Ahmad",
+        "linkedinUrl": "http://www.linkedin.com/in/hayyaan",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Sansa",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "SearchLand",
+    "description": null,
+    "location": "https://www.searchland.co.uk",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Hugh Gibbs",
+        "linkedinUrl": "http://www.linkedin.com/in/canninggibbs",
+        "phoneNumber": "+447703762099",
+        "email": "hugh@searchland.co.uk",
+        "apolloId": "691a23b0770dec002192ebf7"
+      },
+      {
+        "role": "CTO",
+        "name": "Archie Kennedy-Dyson",
+        "linkedinUrl": "http://www.linkedin.com/in/archiekd",
+        "phoneNumber": null,
+        "email": "archie@searchland.co.uk",
+        "apolloId": "691a23c73b95f0000dbc76b1"
+      }
+    ]
+  },
+  {
+    "name": "Sex Brand",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Jack Gove",
+        "linkedinUrl": "http://www.linkedin.com/in/jackgove",
+        "phoneNumber": "+447595974835",
+        "email": "jack@sexbrand.co",
+        "apolloId": "691a23d32d4a400015802a80"
+      }
+    ]
+  },
+  {
+    "name": "SkyBee",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Qin Ta",
+        "linkedinUrl": "http://www.linkedin.com/in/tanqinta",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Smart Tools AI",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Matheen Haneef",
+        "linkedinUrl": "http://www.linkedin.com/in/mohamed-haneef-6886208b",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "SmoothStay",
+    "description": null,
+    "location": "Wilmington",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Sora",
+    "description": null,
+    "location": "LONDON",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Laurent Cerveau",
+        "linkedinUrl": "http://www.linkedin.com/in/lcerveau",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Romain Allouch",
+        "linkedinUrl": "http://www.linkedin.com/in/romain-allouch-b57a5683",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CEO",
+        "name": "Belinda Kotris",
+        "linkedinUrl": "http://www.linkedin.com/in/belinda-kotris-15518750",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Spendbase",
+    "description": null,
+    "location": "England",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Dmytro Bieliaiev",
+        "linkedinUrl": "http://www.linkedin.com/in/dmytro-bieliaiev",
+        "phoneNumber": "+380957598720",
+        "email": "dmytro.bieliaiev@spendbase.co",
+        "apolloId": "691a2437ef76e9000d7f4216"
+      }
+    ]
+  },
+  {
+    "name": "Stack Solutions Co",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Riyas Badar",
+        "linkedinUrl": "http://www.linkedin.com/in/riyas-badar-22635b18a",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Paul Koenig",
+        "linkedinUrl": "http://www.linkedin.com/in/paul-w-koenig-126510",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Story Spark",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Nima Amin",
+        "linkedinUrl": "http://www.linkedin.com/in/nima-amin-4a24b527",
+        "phoneNumber": "+447726903699",
+        "email": "nima@storyspark.ai",
+        "apolloId": "691a2474721d3c0015688580"
+      },
+      {
+        "role": "Cofounder",
+        "name": "Alex Louie",
+        "linkedinUrl": "http://www.linkedin.com/in/alexlouie",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "SubscriptionFlow",
+    "description": null,
+    "location": "Brentwood",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Kashif Saleem",
+        "linkedinUrl": "http://www.linkedin.com/in/kashifsaleem786",
+        "phoneNumber": null,
+        "email": "kashif.saleem@techloyce.com",
+        "apolloId": "691a248ff20b3f00191d15ce"
+      }
+    ]
+  },
+  {
+    "name": "SuperLocal",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Connor Smith",
+        "linkedinUrl": "http://www.linkedin.com/in/connor-smith-1b676a1b",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Oleg Kulikovskiy",
+        "linkedinUrl": "http://www.linkedin.com/in/oleg-kulikovskiy",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Surfboard",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Chuhan Wang",
+        "linkedinUrl": "http://www.linkedin.com/in/chuhan-wang",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Scott Shapiro",
+        "linkedinUrl": "http://www.linkedin.com/in/scott-shapiro-135a1822",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Anuradha Shankar",
+        "linkedinUrl": "http://www.linkedin.com/in/anuradha-shankar",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Symbe",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Martin Blinder",
+        "linkedinUrl": "http://www.linkedin.com/in/martinblinder",
+        "phoneNumber": "+447885605435",
+        "email": "martin@symbe.co",
+        "apolloId": "691a24e76be126001defb1e9"
+      }
+    ]
+  },
+  {
+    "name": "TANIT",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Jerome Goerke",
+        "linkedinUrl": "http://www.linkedin.com/in/jeromegoerke",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Denis Alvarez Contreras",
+        "linkedinUrl": "http://www.linkedin.com/in/denis-alvarez-contreras-a66426233",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Founder",
+        "name": "Hatem Abdennadher",
+        "linkedinUrl": "http://www.linkedin.com/in/hatem-abdennadher",
+        "phoneNumber": "+447876136872",
+        "email": "hatem@tanitweb.com",
+        "apolloId": "691a250451634400154bbc21"
+      }
+    ]
+  },
+  {
+    "name": "Taught by Humans",
+    "description": null,
+    "location": "Bristol",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Laura Gemmell",
+        "linkedinUrl": "http://www.linkedin.com/in/lauragemmell",
+        "phoneNumber": "+447845274898",
+        "email": "laura@taughtbyhumans.com",
+        "apolloId": "691a251103358200194c9886"
+      }
+    ]
+  },
+  {
+    "name": "TaxNav",
+    "description": null,
+    "location": "Cambridge",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Techxenium",
+    "description": null,
+    "location": "Mildenhall",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Muhammad Imran",
+        "linkedinUrl": "http://www.linkedin.com/in/ui-ux-design",
+        "phoneNumber": "+92518950439",
+        "email": "imran@techxenium.com",
+        "apolloId": "691a253e276482000dac779a"
+      }
+    ]
+  },
+  {
+    "name": "THE CLIQ",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "The Connect",
+    "description": null,
+    "location": "Birmingham",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ascension Living",
+        "linkedinUrl": "http://www.linkedin.com/in/ascension-living-a61a30290",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "The Inverness Design Studio",
+    "description": null,
+    "location": "Inverness",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Doug Mackay",
+        "linkedinUrl": "http://www.linkedin.com/in/douglasmackay",
+        "phoneNumber": "7043657870",
+        "email": "doug@invernessdesignstudio.com",
+        "apolloId": "691a257e75e3f90021ee0b8f"
+      }
+    ]
+  },
+  {
+    "name": "Third Channel",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Chris Armstrong",
+        "linkedinUrl": "http://www.linkedin.com/in/chrisjarmstrong1",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "throxy",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Arnau Ayerbe",
+        "linkedinUrl": "http://www.linkedin.com/in/arnau-ayerbe",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Bergen Merey",
+        "linkedinUrl": "http://www.linkedin.com/in/bmerey",
+        "phoneNumber": "+447437401133",
+        "email": "bergen@throxy.com",
+        "apolloId": "691a259dacd75000158b2605"
+      }
+    ]
+  },
+  {
+    "name": "Treeva",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Yu Gu",
+        "linkedinUrl": "http://www.linkedin.com/in/yu-gu-b76314236",
+        "phoneNumber": "2158558424",
+        "email": "yu.gu@treeva.co.uk",
+        "apolloId": "691a25c9acd7500019568b94"
+      }
+    ]
+  },
+  {
+    "name": "Trusty Digital",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Andrei Perjan",
+        "linkedinUrl": "http://www.linkedin.com/in/andreiperjan",
+        "phoneNumber": "+37360776677",
+        "email": "perjan@trusty.digital",
+        "apolloId": "691a25d65744ac0019cbb6a0"
+      }
+    ]
+  },
+  {
+    "name": "Two Wombats",
+    "description": null,
+    "location": "Greater London, London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Cormac Folan",
+        "linkedinUrl": "http://www.linkedin.com/in/cfolan",
+        "phoneNumber": "+448453891898",
+        "email": "cormac@twowombats.com",
+        "apolloId": "691a25e2f27e950021a68587"
+      }
+    ]
+  },
+  {
+    "name": "U-SPACE",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Gael Saunier",
+        "linkedinUrl": "http://www.linkedin.com/in/gaelsaunier",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Cofounder",
+        "name": "Antoine Ressouche",
+        "linkedinUrl": "http://www.linkedin.com/in/antoine-ressouche-211b4176",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "Talent Acquisition",
+        "name": "Anne-Charlotte Floureux",
+        "linkedinUrl": "http://www.linkedin.com/in/anne-charlotte-floureux",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Uassle",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Murat Kayak",
+        "linkedinUrl": "http://www.linkedin.com/in/muratkayak",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Unakin",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Oliver Markham",
+        "linkedinUrl": "http://www.linkedin.com/in/oliver-markham-596705a5",
+        "phoneNumber": "+447793676412",
+        "email": "ollie@unakin.ai",
+        "apolloId": "691a2617ef76e9001de93da6"
+      }
+    ]
+  },
+  {
+    "name": "UniteVerse",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "Venturz",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": []
+  },
+  {
+    "name": "VirtualE",
+    "description": null,
+    "location": "London",
+    "industry": "Italy",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Emily Bresolin",
+        "linkedinUrl": "http://www.linkedin.com/in/emily-bresolin-virtuale",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "voice-swap",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Ausrine Skarnulyte",
+        "linkedinUrl": "http://www.linkedin.com/in/ausrine-skarnulyte-a4a6261b1",
+        "phoneNumber": "+447888454104",
+        "email": "ausrine.skarnulyte@voice-swap.ai",
+        "apolloId": "691a26567dee8d000d405d17"
+      }
+    ]
+  },
+  {
+    "name": "Vortex IQ",
+    "description": null,
+    "location": "Brentford",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Sambit Patra",
+        "linkedinUrl": "http://www.linkedin.com/in/sambit-patra-4764a4184",
+        "phoneNumber": "+916360578518",
+        "email": "sambit.p@saasvortex.com",
+        "apolloId": "691a26638d759a00114ef3aa"
+      },
+      {
+        "role": "CTO",
+        "name": "Jaiganesh Vanasubramanian",
+        "linkedinUrl": "http://www.linkedin.com/in/jaiganesh-vanasubramanian",
+        "phoneNumber": "+447555030437",
+        "email": "jaiganesh@saasvortex.com",
+        "apolloId": "691a266f5744ac000dc11543"
+      }
+    ]
+  },
+  {
+    "name": "Vula",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CEO",
+        "name": "Nic Rawhani",
+        "linkedinUrl": "http://www.linkedin.com/in/nicraw",
+        "phoneNumber": "+447444826074",
+        "email": "nic@vula.vc",
+        "apolloId": "690603dec10380002124d6bb"
+      },
+      {
+        "role": "CTO",
+        "name": "Alex Goff",
+        "linkedinUrl": "http://www.linkedin.com/in/alexander-goff",
+        "phoneNumber": "+447887363076",
+        "email": "alex@vula.vc",
+        "apolloId": "690603ec6c85070021d7abff"
+      }
+    ]
+  },
+  {
+    "name": "Vulert",
+    "description": null,
+    "location": "Edinburgh",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Malik Raza",
+        "linkedinUrl": "http://www.linkedin.com/in/malik-ahsan-raza-524589219",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      },
+      {
+        "role": "CTO",
+        "name": "Ahsan Raza",
+        "linkedinUrl": "http://www.linkedin.com/in/malikahsanraza5",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Wealt",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Zeynel Ozbay",
+        "linkedinUrl": "http://www.linkedin.com/in/abidinozbay",
+        "phoneNumber": "+905558447372",
+        "email": "abidin.ozbay@finovated.com",
+        "apolloId": "691a26c4f42cb7001107120b"
+      }
+    ]
+  },
+  {
+    "name": "Wuva",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Cofounder",
+        "name": "Matthew Ridd",
+        "linkedinUrl": "http://www.linkedin.com/in/matthewridd",
+        "phoneNumber": "+447823322326",
+        "email": "matthew@wuva.com",
+        "apolloId": "691a26d15023bc000d886ee5"
+      },
+      {
+        "role": "CTO",
+        "name": "Francis Conlon",
+        "linkedinUrl": "http://www.linkedin.com/in/francis-conlon-4954b218b",
+        "phoneNumber": "+447951775999",
+        "email": "francis@wuva.com",
+        "apolloId": "691a26de0aa54e0021aabe08"
+      },
+      {
+        "role": "Cofounder",
+        "name": "James Hole",
+        "linkedinUrl": "http://www.linkedin.com/in/jamesholeuk",
+        "phoneNumber": "+447506078763",
+        "email": "james@wuva.com",
+        "apolloId": "691a26eb6c2c1f000dbdd177"
+      }
+    ]
+  },
+  {
+    "name": "XGENIA",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "Founder",
+        "name": "Mark Martin",
+        "linkedinUrl": "http://www.linkedin.com/in/markfm",
+        "phoneNumber": null,
+        "email": null,
+        "apolloId": null
+      }
+    ]
+  },
+  {
+    "name": "Young Minds APP",
+    "description": null,
+    "location": "London",
+    "industry": "UK",
+    "founded": "2023",
+    "people": [
+      {
+        "role": "CTO",
+        "name": "Zuka Murvanidze",
+        "linkedinUrl": "http://www.linkedin.com/in/zukamurvanidze",
+        "phoneNumber": "+221765298530",
+        "email": "zuka@youngmindsapp.co.uk",
+        "apolloId": "691a27254b6a2c000ddf1574"
+      }
+    ]
+  }
+]
